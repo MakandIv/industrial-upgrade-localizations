@@ -202,7 +202,6 @@ item.storagemodule1.name=Module: Storage III
 item.module4.name=Module: Output I
 item.outputmodule.name=Module: Output II
 item.outputmodule1.name=Module: Output III
-module51.name=Module: Type-Air
 item.analyzermodule.name=Module: Analyzer
 item.quarrymodule.name=Module: Quarry
 
@@ -260,12 +259,13 @@ item.Purifier.name=Purifier
 iu.overclockerUpgrade1=Improved Overclocker Upgrade
 iu.overclockerUpgrade2=Advanced Overclocker Upgrade
 
-module52.name=Module: Type-Earth
-module53.name=Module: Type-Nether
-module54.name=Module: Type-End
-module55.name=Module: Type-Night
-module56.name=Module: Type-Sun
-module57.name=Module: Type-Rain
+module51.name=Module: Air Panel
+module52.name=Module: Earth Panel
+module53.name=Module: Nether Panel
+module54.name=Module: Ender Panel
+module55.name=Module: Night Panel
+module56.name=Module: Solar Panel
+module57.name=Module: Rain Panel
 
 module61.name=Module: Advanced Solar Panel
 module62.name=Module: §3Hybrid Solar Panel
@@ -1408,10 +1408,10 @@ iu.blockAssamplerScrap1.name=Improved Scrap Assembler
 iu.blockAssamplerScrap2.name=Advanced Scrap Assembler
 iu.blockAssamplerScrap3.name=Perfect Scrap Assembler
 
-iu.blockFermer.name=Farmer
-iu.blockFermer1.name=Improved Farmer
-iu.blockFermer2.name=Advanced Farmer
-iu.blockFermer3.name=Perfect Farmer
+iu.blockFermer.name=Autonomous Farm
+iu.blockFermer1.name=Improved Autonomous Farm
+iu.blockFermer2.name=Advanced Autonomous Farm
+iu.blockFermer3.name=Perfect Autonomous Farm
 
 iu.blockAdvgenerator.name=Improved Generator
 iu.blockImpgenerator.name=Advanced Generator
