@@ -10,6 +10,6 @@ Industrial Update Localization Updates is the Industrial Upgrade localization up
 
 
 ### Links
-[IU on GitHub](https://github.com/ZelGimi/industrialupgrade ZelGimi/industrialupgrade)
-[IU on CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade Industrial Upgrade)
-[IU on Minecraft Wiki (RU)](https://minecraft.fandom.com/ru/wiki/Industrial_Upgrade Industrial Upgrade)
+[IU on GitHub](https://github.com/ZelGimi/industrialupgrade "ZelGimi/industrialupgrade")<br>
+[IU on CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade "Industrial Upgrade")<br>
+[IU on Minecraft Wiki (RU)](https://minecraft.fandom.com/ru/wiki/Industrial_Upgrade "Industrial Upgrade")
