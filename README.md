@@ -3,7 +3,13 @@ Industrial Update Localization Updates is the Industrial Upgrade localization up
 
 ### Localization support/Minecraft Version support
 
-|   | 1.7.10 | 1.12.2 
-| :-------------: |:------------------:| :-----:
-| Русский (Russian) | Full (for 2.5.16) | Coming Soon
-| English | Full (for 2.5.16) | Coming Soon
+|                   | 1.7.10            | 1.12.2 
+| :---------------: |:-----------------:| :---------------------:
+| Русский (Russian) | Full (for 2.5.16) | Experimental (s12iu03a)
+| English           | Full (for 2.5.16) | Coming Soon
+
+
+### Links
+[IU on GitHub](https://github.com/ZelGimi/industrialupgrade ZelGimi/industrialupgrade)
+[IU on CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade Industrial Upgrade)
+[IU on Minecraft Wiki (RU)](https://minecraft.fandom.com/ru/wiki/Industrial_Upgrade Industrial Upgrade)
