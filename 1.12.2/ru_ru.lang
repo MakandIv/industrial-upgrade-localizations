@@ -17,7 +17,7 @@ item.ssp:ChaosLeggs.name=§7Поножи Хаоса
 item.ssp:ChaosBoots.name=§7Ботинки Хаоса
 
 # Хаотические хранилища энергии
-item.ChaosEnergyCore.name=§7Хаотическое энергоядро
+iu.ChaosEnergyCore.name=§7Хаотическое энергоядро
 item.supersolarpanel:ChaosFluxCapacitor0.name=§7Хаотический флаксовый конденсатор
 
 # Инструменты и оружия Хаоса
@@ -72,26 +72,25 @@ blockAdministatorSolarPanel.name=§8Административная солне�
 industrialupgrade.admpanel.admpanel=§8Административная солнечная панель
 
 # Панели Draconic Evolution
-blockDraconSolarPanel.name=§dДракониевая солнечная панель
-blockAwakenedSolarPanel.name=§6Пробуждённая солнечная панель
-blockChaosSolarPanel.name=§7Хаотическая солнечная панель
+industrialupgrade.draconicpanel.draconium_solar_panel=§dДракониевая солнечная панель
+industrialupgrade.draconicpanel.awakened_solar_panel=§6Пробуждённая солнечная панель
+industrialupgrade.draconicpanel.chaotic_solar_panel=§7Хаотическая солнечная панель
 
 # Панели Botania
-blockManasteelSolarPanel.name=§bМанастальная солнечная панель
-blockTerrasteelSolarPanel.name=§aТеррастальная солнечная панель
-blockElementumSolarPanel.name=§dЭлементиевая солнечная панель
+industrialupgrade.botaniapanel.manasteel_solar_panel=§bМанастальная солнечная панель
+industrialupgrade.botaniapanel.terrasteel_solar_panel=§aТеррастальная солнечная панель
+industrialupgrade.botaniapanel.elementum_solar_panel=§dЭлементиевая солнечная панель
 
 # Панели Avaritia
-blockNeutronSolarPanelAvaritia.name=§9Нейтрониевая солнечная панель
-blockinfinitySolarPanel.name=Солнечная панель бесконечности
-blockInfinitySolarPanel.name=Солнечная панель бесконечности
+industrialupgrade.avaritiapanel.neutron_solar_panel_av=§9Нейтрониевая солнечная панель
+industrialupgrade.avaritiapanel.infinity_solar_panel=Солнечная панель бесконечности
 
 # Панели Thaumcraft
-blockThaumSolarPanel.name=Солнечная таум-панель
-blockVoidSolarPanel.name=Пустотная солнечная панель
+industrialupgrade.thaumcraftpanel.thaum_solar_panel=Таумиевая солнечная панель
+industrialupgrade.thaumcraftpanel.void_solar_panel=Пустотная солнечная панель
 
 # Панели Thaumic Tinkerer
-blockIhorSolarPanel.name=Ихориевая солнечная панель
+industrialupgrade.tinkererpanel.ichor_solar_panel=Ихориевая солнечная панель
 
 # Шлемы с солнечной панелью
 item.advanced_solar_helmet.name=§8Улучшенный солнечный шлем
@@ -148,13 +147,13 @@ iu.itemcore.gracore=Гравитонное ядро
 iu.itemcore.kvrcore=Кварковое ядро
 
 # Ядра Botania
-item.manasteel_core.name=§bМанастальное ядро
-item.terrasteel_core.name=§aТеррастальное ядро
-item.elementium_core.name=§dЭлементиевое ядро
+iu.manasteel_core.name=§bМанастальное ядро
+iu.terrasteel_core.name=§aТеррастальное ядро
+iu.elementium_core.name=§dЭлементиевое ядро
 
 # Ядра Avaritia
-item.neutroncore.name=§9Нейтрониевое ядро
-item.infinitycore.name=§fЯдро бесконечности
+iu.neutroncore.name=§9Нейтрониевое ядро
+iu.infinitycore.name=§fЯдро бесконечности
 
 iu.neutronium.name=§9Нейтронный осколок
 iu.neutroniumingot.name=§9Нейтронный слиток
@@ -185,7 +184,7 @@ iu.circuit.quantumcircuit=Квантовая электросхема
 iu.circuit.spectralcircuit=§dСпектральная электросхема
 
 iu.blockCable=Кабель
-item.chaosingot.name=§7Слиток Хаоса
+iu.chaosingot.name=§7Слиток Хаоса
 iu.coal_chunk.name=Угольная глыба
 iu.compresscarbon.name=Сжатый углепластик
 iu.compresscarbonultra.name=Сжатый композит
@@ -210,9 +209,9 @@ iu.protonshard=§5Протонный осколок
 iu.reactorcoolantmax=Охлаждающий стержень 240к
 iu.reactorcoolanttwelve=Охлаждающий стержень 120к
 
-item.rune_energy.name=Руна энергии
-item.rune_night.name=Руна ночи
-item.rune_sun.name=Руна Солнца
+iu.rune_energy.name=Руна энергии
+iu.rune_night.name=Руна ночи
+iu.rune_sun.name=Руна Солнца
 
 item.teraDDrill.name=Террастальной бур
 item.ultDDrill.name=Совершенный бур
@@ -677,9 +676,9 @@ iu.actorprotoneit=Восьмикратный протонный стержень
 iu.reactorDepletedterastrellDual=Истощённый сдвоенный террастальной стержень
 iu.reactorDepletedterastrellQuad=Истощённый счетверённый террастальной стержень
 iu.reactorDepletedterastrellSimple=Истощённый террастальной стержень
-iu.reactorterastrellDual=Сдвоенный террастальной стержень
-iu.reactorterastrellQuad=Счетверённый террастальной стержень
-iu.reactorterastrellSimple=Террастальной стержень
+iu.actorterastrellDual=Сдвоенный террастальной стержень
+iu.actorterastrellQuad=Счетверённый террастальной стержень
+iu.actorterastrellSimple=Террастальной стержень
 
 iu.reactordepletedtoriydual=Истощённый сдвоенный ториевый стержень
 iu.reactordepletedtoriyquad=Истощённый счетверённый ториевый стержень
@@ -823,9 +822,9 @@ iu.alloysplate.duralumin=Дюралюминиевая пластина
 iu.alloysplate.ferromanganese=Ферромарганцевая пластина
 
 #Пластины Botania
-iu.botaniaplate.manasteel=§bМанастальная пластина
-iu.botaniaplate.terrasteel=Террастальная пластина
-iu.botaniaplate.elementium=§dЭлементиевая пластина
+iu.manasteel_plate.name=§bМанастальная пластина
+iu.terrasteel_plate.name=Террастальная пластина
+iu.elementium_plate.name=§dЭлементиевая пластина
 
 #Пластины металлов
 iu.plate.mikhail_plate=Михаловая пластина

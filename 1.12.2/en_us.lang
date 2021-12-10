@@ -17,7 +17,7 @@ item.ssp:ChaosLeggs.name=§7Chaos Leggings
 item.ssp:ChaosBoots.name=§7Chaos Boots
 
 # Chaotic Energy Storage
-item.ChaosEnergyCore.name=§7Chaotic Energy Core
+iu.ChaosEnergyCore.name=§7Chaotic Energy Core
 item.supersolarpanel:ChaosFluxCapacitor0.name=§7Chaos Flux Capacitor
 
 # Chaos Tools & Weapons
@@ -72,26 +72,25 @@ blockAdministatorSolarPanel.name=§8Administrative Solar Panel
 industrialupgrade.admpanel.admpanel=§8Administrative Solar Panel
 
 # Draconic Evolution Panels
-blockDraconSolarPanel.name=§dDraconic Solar Panel
-blockAwakenedSolarPanel.name=§6Awakened Solar Panel
-blockChaosSolarPanel.name=§7Chaotic Solar Panel
+industrialupgrade.draconicpanel.draconium_solar_panel=§dDraconic Solar Panel
+industrialupgrade.draconicpanel.awakened_solar_panel=§6Awakened Solar Panel
+industrialupgrade.draconicpanel.chaotic_solar_panel=§7Chaotic Solar Panel
 
 # Botania Panels
-blockManasteelSolarPanel.name=§bManasteel Solar Panel
-blockTerrasteelSolarPanel.name=§aTerrasteel Solar Panel
-blockElementumSolarPanel.name=§dElementum Solar Panel
+industrialupgrade.botaniapanel.manasteel_solar_panel=§bManasteel Solar Panel
+industrialupgrade.botaniapanel.terrasteel_solar_panel=§aTerrasteel Solar Panel
+industrialupgrade.botaniapanel.elementum_solar_panel=§dElementum Solar Panel
 
 # Avaritia Panels
-blockNeutronSolarPanelAvaritia.name=§9Neutronium Solar Panel
-blockinfinitySolarPanel.name=Infinity Solar Panel
-blockInfinitySolarPanel.name=Infinity Solar Panel
+industrialupgrade.avaritiapanel.neutron_solar_panel_av=§9Neutronium Solar Panel
+industrialupgrade.avaritiapanel.infinity_solar_panel=Infinity Solar Panel
 
 # Thaumcraft Panels
-blockThaumSolarPanel.name=Thaumium Solar Panel
-blockVoidSolarPanel.name=Void Solar Panel
+industrialupgrade.thaumcraftpanel.thaum_solar_panel=Thaumium Solar Panel
+industrialupgrade.thaumcraftpanel.void_solar_panel=Void Solar Panel
 
 # Thaumic Tinkerer Panels
-blockIhorSolarPanel.name=Ichorium Solar Panel
+industrialupgrade.tinkererpanel.ichor_solar_panel=Ichorium Solar Panel
 
 # Helmets with Solar Panel
 item.advanced_solar_helmet.name=§8Advanced Solar Helmet
@@ -148,13 +147,13 @@ iu.itemcore.gracore=Graviton Core
 iu.itemcore.kvrcore=Quark Core
 
 # Botania Cores
-item.manasteel_core.name=§bManasteel Core
-item.terrasteel_core.name=§aTerrasteel Core
-item.elementium_core.name=§dElementium Core
+iu.manasteel_core.name=§bManasteel Core
+iu.terrasteel_core.name=§aTerrasteel Core
+iu.elementium_core.name=§dElementium Core
 
 # Avaritia Cores
-item.neutroncore.name=§9Neutronium Core
-item.infinitycore.name=§fInfinity Core
+iu.neutroncore.name=§9Neutronium Core
+iu.infinitycore.name=§fInfinity Core
 
 iu.neutronium.name=§9Neutron Shard
 iu.neutroniumingot.name=§9Neutron Ingot
@@ -185,7 +184,7 @@ iu.circuit.quantumcircuit=Quantum Circuit
 iu.circuit.spectralcircuit=§dSpectral Circuit
 
 iu.blockCable=Cable
-item.chaosingot.name=§7Chaos Ingot
+iu.chaosingot.name=§7Chaos Ingot
 iu.coal_chunk.name=Coal Chunk
 iu.compresscarbon.name=Compressed Carbon
 iu.compresscarbonultra.name=Compressed Composite
@@ -210,9 +209,9 @@ iu.protonshard=§5Proton Shard
 iu.reactorcoolantmax=240k Coolant Cell
 iu.reactorcoolanttwelve=120k Coolant Cell
 
-item.rune_energy.name=Rune of Energy
-item.rune_night.name=Rune of Night
-item.rune_sun.name=Rune of the Sun
+iu.rune_energy.name=Rune of Energy
+iu.rune_night.name=Rune of Night
+iu.rune_sun.name=Rune of the Sun
 
 item.teraDDrill.name=Terrasteel Drill
 item.ultDDrill.name=Perfect Drill
@@ -677,9 +676,9 @@ iu.actorprotoneit=Eight Proton Rod
 iu.reactorDepletedterastrellDual=Depleted Dual Terrasteel Rod
 iu.reactorDepletedterastrellQuad=Depleted Quad Terrasteel Rod
 iu.reactorDepletedterastrellSimple=Depleted Terrasteel Rod
-iu.reactorterastrellDual=Dual Terrasteel Rod
-iu.reactorterastrellQuad=Quad Terrasteel Rod
-iu.reactorterastrellSimple=Terrasteel Rod
+iu.actorterastrellDual=Dual Terrasteel Rod
+iu.actorterastrellQuad=Quad Terrasteel Rod
+iu.actorterastrellSimple=Terrasteel Rod
 
 iu.reactordepletedtoriydual=Depleted Dual Thorium Rod
 iu.reactordepletedtoriyquad=Depleted Quad Thorium Rod
@@ -823,9 +822,9 @@ iu.alloysplate.duralumin=Duralumin Plate
 iu.alloysplate.ferromanganese=Ferromanganese Plate
 
 #Botania Plates
-iu.botaniaplate.manasteel=§bManasteel Plate
-iu.botaniaplate.terrasteel=Terrasteel Plate
-iu.botaniaplate.elementium=§dElementium Plate
+iu.manasteel_plate.name=§bManasteel Plate
+iu.terrasteel_plate.name=Terrasteel Plate
+iu.elementium_plate.name=§dElementium Plate
 
 #Metal Plates
 iu.plate.mikhail_plate=Michalov Plate
