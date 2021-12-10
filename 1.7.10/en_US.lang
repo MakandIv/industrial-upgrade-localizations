@@ -222,8 +222,8 @@ photoniyglass14.name=Quark Glass
 
 iu.proton=§5Proton
 iu.protonshard=§5Proton Shard
-iu.reactorCoolantmax=240к Coolant Cell
-iu.reactorCoolanttwelve=120к Coolant Cell
+iu.reactorCoolantmax=240k Coolant Cell
+iu.reactorCoolanttwelve=120k Coolant Cell
 
 iu.reactorDepletedprotonDual=Depleted Dual Proton Rod
 iu.reactorDepletedprotonQuad=Depleted Quad Proton Rod
@@ -1245,7 +1245,7 @@ netheruranrack.name=Nether Uranium Ore
 TransformerUMV.name=UMV-Transformer 
 TransformerUHV.name=UHV-Transformer
 TransformerUEV.name=UEV-Transformer 
-TransformerUMH.name=UMH-Transformer
+TransformerUMH.name=UMHV-Transformer
 TransformerUMEV.name=UMEV-Transformer
 TransformerUHEV.name=UHEV-Transformer
 TransformerHEEV.name=HEEV-Transformer
@@ -1428,9 +1428,9 @@ iu.blockAdvKG.name=Improved Kinetic Generator
 iu.blockImpKG.name=Advanced Kinetic Generator
 iu.blockPerKG.name=Perfect Kinetic Generator
 
-iu.Alloymachine.name=Alloy Manufacturer
-iu.blockAdvAlloy.name=Improved Alloy Manufacturer
-iu.AdvAlloymachine.name=Improved Alloy Manufacturer
+iu.Alloymachine.name=Alloy Smelter
+iu.blockAdvAlloy.name=Improved Alloy Smelter
+iu.AdvAlloymachine.name=Improved Alloy Smelter
 
 iu.blockAdvGeo.name=Improved Geothermal Generator
 iu.blockImpGeo.name=Advanced Geothermal Generator

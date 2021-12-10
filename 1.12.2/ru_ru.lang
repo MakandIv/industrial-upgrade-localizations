@@ -37,7 +37,6 @@ industrialupgrade.adv_refiner.adv_refiner=Улучшенный нефтепер�
 iu.itemiucrafring.itemmtcore=Ядро молекулярного преобразователя
 industrialupgrade.molecular.molecular=Молекулярный преобразователь
 industrialupgrade.double_transformer.double_transformer=Продвинутый молекулярный преобразователь
-blockDoubleMolecularTransformer.name=Продвинутый молекулярный преобразователь
 
 # Интерфейс молекулярного преобразователя
 gui.MolecularTransformer.input=Вход
@@ -112,10 +111,10 @@ supersolarpanels.itemArmorQuantumLegs=§dСпектральные квантов
 supersolarpanels.itemArmorQuantumBoots=§dСпектральные квантовые ботинки
 
 # Армированная броня
-itemArmorNanoHelmet=Армированный нано-шлем
-itemArmorNanoChestplate=Армированная нано-кираса
-itemArmorNanoLegs=Армированные нано-поножи
-itemArmorNanoBoots=Армированные нано-ботинки
+supersolarpanels.itemArmorNanoHelmet=Армированный нано-шлем
+supersolarpanels.itemArmorNanoChestplate=Армированная нано-кираса
+supersolarpanels.itemArmorNanoLegs=Армированные нано-поножи
+supersolarpanels.itemArmorNanoBoots=Армированные нано-ботинки
 
 # Костюм от термоядерного излучения
 item.hazmathelmet.name=Защитный шлем от термоядерного излучения
@@ -125,7 +124,7 @@ item.hazmatboosts.name=Защитные ботинки от термоядерн
 
 item.itembatlamacrystal.name=Улучшенный энергетический кристалл
 iu.quantumitems4.name=§7Улучшенная сжатая иридиевая пластина
-iu.quantumitems2.name=Сжатая иридиевая пластина
+iu.quantumitems2.name=§7Сжатая иридиевая пластина
 
 iu.helium.name=Гелий
 
@@ -157,12 +156,11 @@ item.elementium_core.name=§dЭлементиевое ядро
 item.neutroncore.name=§9Нейтрониевое ядро
 item.infinitycore.name=§fЯдро бесконечности
 
-iu.itemCellUuMatter=§9Капсула сжиженного нейтрона
 iu.neutronium.name=§9Нейтронный осколок
 iu.neutroniumingot.name=§9Нейтронный слиток
 
-industrialupgrade.basemachine.neutron_generator=Генератор нейтронных частиц
-iu.blockMatter.name=§9Генератор нейтронных частиц
+industrialupgrade.basemachine.neutron_generator=§9Генератор нейтронных частиц
+#iu.blockMatter.name=§9Генератор нейтронных частиц
 iu.Matter.gui.name=§bГенератор нейтронных частиц
 
 iu.nanobox.name=§8Нано-ящик для инструментов
@@ -191,7 +189,6 @@ item.chaosingot.name=§7Слиток Хаоса
 iu.coal_chunk.name=Угольная глыба
 iu.compresscarbon.name=Сжатый углепластик
 iu.compresscarbonultra.name=Сжатый композит
-iu.itemCellEmpty=Хранилище сжиженного нейтрона
 
 iu.photoniumglass.photoniyglass1=§8Улучшенное стекло
 iu.photoniumglass.photoniyglass2=§3Гибридное стекло
@@ -280,6 +277,7 @@ iu.quarrymodules.kar2=Модуль: Область 5х5
 iu.quarrymodules.kar3=Модуль: Область 7х7
 iu.quarrymodules.blackmodule=Модуль: Чёрный список
 iu.quarrymodules.whitemodule=Модуль: Белый список
+
 iu.expmodule.name=Модуль: Хранилище опыта
 iu.module_stack.name=Модуль: Стопка
 iu.module_quickly.name=Модуль: Мгновение
@@ -440,14 +438,14 @@ iu.solidmatter.nether_matter=Адская твёрдая материя
 iu.solidmatter.earth_matter=Земляная твёрдая материя
 iu.solidmatter.end_matter=Краевая твёрдая материя
 iu.solidmatter.aer_matter=Воздушная твёрдая материя
-matter.name=Solid Matter
-sun_matter.name=Solar Solid Matter
-aqua_matter.name=Water Solid Matter
-night_matter.name=Night Solid Matter
-nether_matter.name=Nether Solid Matter
-earth_matter.name=Earth Solid Matter
-end_matter.name=Ender Solid Matter
-aer_matter.name=Air Solid Matter
+matter.name=Твёрдая материя
+sun_matter.name=Солнечная твёрдая материя
+aqua_matter.name=Водяная твёрдая материя
+night_matter.name=Ночная твёрдая материя
+nether_matter.name=Адская твёрдая материя
+earth_matter.name=Земляная твёрдая материя
+end_matter.name=Краевая твёрдая материя
+aer_matter.name=Воздушная твёрдая материя
 
 personality=§cЗапрещает чужим игрокам открывать интерфейс панели.
 personality1=§cИгрок, не являющийся владельцем панели, не может демонтировать панель.
@@ -494,17 +492,17 @@ iu.changemodebattery=Для переключения режима нажмите
 iu.purifiermode=Нажмите SHIFT + ПКМ по панели, чтобы очистить панель
 iu.saberon=Нажмите ПКМ, чтобы активировать саблю
 
-industrialupgrade.tank_iu.tank_iu=Цистерна
-industrialupgrade.tank_iu.adv_tank=Улучшенная цистерна
-industrialupgrade.tank_iu.imp_tank=Продвинутая цистерна
-industrialupgrade.tank_iu.per_tank=Совершенная цистерна
+industrialupgrade.tank_iu.tank_iu=Жидкостный бак
+industrialupgrade.tank_iu.adv_tank=Улучшенный жидкостный бак
+industrialupgrade.tank_iu.imp_tank=Продвинутый жидкостный бак
+industrialupgrade.tank_iu.per_tank=Совершенный жидкостный бак
 
 iu.blockBatBox.name=Энергохранилище
 iu.blockCESU.name=МЭХ
 iu.blockMFE1.name=МФЭ
 iu.blockMFSU1.name=МФЭХ
-iu.blockMFE.name=Улучшенное МФЭХ
-iu.blockMFSU.name=Продвинутое МФЭХ
+iu.blockMFE.name=§eУлучшенное МФЭХ
+iu.blockMFSU.name=§bПродвинутое МФЭХ
 iu.blockPerMFSU.name=Совершенное МФЭХ
 iu.blockBarMFSU.name=Барионное МФЭХ
 iu.blockAdrMFSU.name=Адронное МФЭХ
@@ -514,8 +512,8 @@ industrialupgrade.wiring_storage.batbox_iu=Энергохранилище
 industrialupgrade.wiring_storage.cesu_iu=МЭСН
 industrialupgrade.wiring_storage.mfe_iu=МФЭ
 industrialupgrade.wiring_storage.mfsu_iu=МФЭХ
-industrialupgrade.wiring_storage.adv_mfsu=Улучшенное МФЭХ
-industrialupgrade.wiring_storage.ult_mfsu=Продвинутое МФЭХ
+industrialupgrade.wiring_storage.adv_mfsu=§eУлучшенное МФЭХ
+industrialupgrade.wiring_storage.ult_mfsu=§bПродвинутое МФЭХ
 industrialupgrade.wiring_storage.per_mfsu=Совершенное МФЭХ
 industrialupgrade.wiring_storage.bar_mfsu=Барионное МФЭХ
 industrialupgrade.wiring_storage.had_mfsu=Адронное МФЭХ
@@ -824,7 +822,7 @@ iu.alloysplate.vitalium=Виталиевая пластина
 iu.alloysplate.duralumin=Дюралюминиевая пластина
 iu.alloysplate.ferromanganese=Ферромарганцевая пластина
 
-#Пластины Botania (заготовка)
+#Пластины Botania
 iu.botaniaplate.manasteel=§bМанастальная пластина
 iu.botaniaplate.terrasteel=Террастальная пластина
 iu.botaniaplate.elementium=§dЭлементиевая пластина
@@ -916,7 +914,7 @@ iu.casing.manganese=Марганцевая оболочка
 iu.casing.iridium=Иридиевая оболочка
 iu.casing.germanium=Германиевая оболочка
 
-#Палки сплавов (заготовка)
+#Палки сплавов
 iu.alloysstik.aluminum_bronze=Палка алюминиевой бронзы
 iu.alloysstik.alumel=Алюмелевая палка
 iu.alloysstik.red_brass=Палка красной латуни
@@ -1411,12 +1409,12 @@ industrialupgrade.moremachine.double_macerator=Улучшенный дробит
 industrialupgrade.moremachine.triple_macerator=Продвинутый дробитель
 industrialupgrade.moremachine.quad_macerator=Совершенный дробитель
 
-industrialupgrade.basemachine.adv_matter=Улучшенный генератор материи
 iu.blockMatter1.name=Улучшенный генератор материи
-industrialupgrade.basemachine.imp_matter=Продвинутый генератор материи
 iu.blockMatter2.name=Продвинутый генератор материи
-industrialupgrade.basemachine.per_matter=Совершенный генератор материи
 iu.blockMatter3.name=Совершенный генератор материи
+industrialupgrade.basemachine.adv_matter=Улучшенный генератор материи
+industrialupgrade.basemachine.imp_matter=Продвинутый генератор материи
+industrialupgrade.basemachine.per_matter=Совершенный генератор материи
 industrialupgrade.basemachine2.combiner_matter=§9Комбинированный генератор материи
 
 #iu.MetalFormer1.name=Улучшенная металлоформовочная машина
@@ -1481,9 +1479,9 @@ iu.blockAssamplerScrap1.name=Улучшенный сборщик утильсы�
 iu.blockAssamplerScrap2.name=Продвинутый сборщик утильсырья
 iu.blockAssamplerScrap3.name=Совершенный сборщик утильсырья
 industrialupgrade.moremachine3.assamplerscrap=Сборщик утильсырья
-industrialupgrade.moremachine3.double_assamplerscrap=Улучшенная сборщик утильсырья
-industrialupgrade.moremachine3.triple_assamplerscrap=Продвинутая сборщик утильсырья
-industrialupgrade.moremachine3.quad_assamplerscrap=Совершенная сборщик утильсырья
+industrialupgrade.moremachine3.double_assamplerscrap=Улучшенный сборщик утильсырья
+industrialupgrade.moremachine3.triple_assamplerscrap=Продвинутый сборщик утильсырья
+industrialupgrade.moremachine3.quad_assamplerscrap=Совершенный сборщик утильсырья
 
 iu.blockFermer.name=Автономная ферма
 iu.blockFermer1.name=Улучшенная автономная ферма
@@ -1540,7 +1538,7 @@ iu.AspGen.name=Генератор аспектов
 
 industrialupgrade.basemachine.generator_microchip=Производитель микросхем
 blockConverterSolidMatter.name=Преобразователь твёрдой материи
-iudustrialupgrade.converter_matter.converter_matter=Преобразователь твёрдой материи
+industrialupgrade.converter_matter.converter_matter=Преобразователь твёрдой материи
 industrialupgrade.basemachine.modulator=Модульный обработчик
 industrialupgrade.basemachine1.enrichment=Обогатитель
 industrialupgrade.basemachine1.synthesis=Реактор ядерного синтеза
@@ -1559,7 +1557,6 @@ industrialupgrade.basemachine2.expierence_block=Хранилище опыта
 industrialupgrade.basemachine2.plastic_creator=Химический завод
 industrialupgrade.basemachine2.plastic_plate_creator=Пластавтомат
 industrialupgrade.basemachine2.electrolyzer_iu=Электролизёр
-iu.blockLathe.name=Автоматический токарный стол
 industrialupgrade.basemachine3.radiation_purifier=Радиационный очиститель
 industrialupgrade.basemachine3.privatizer=Приватизатор
 industrialupgrade.basemachine3.tuner=Настройщик беспроводной связи
@@ -1697,8 +1694,6 @@ Enderskin=Скин: §5Ужаса
 
 iu.plast.name=Пластик
 iu.plastic_plate.name=Пластиковая пластина
-
-item.itemLathingProgramm.name=Запрограммированная схема токарной формы
 
 #Компоненты реактора
 iu.reactorcondensatordiamond=Алмазный конденсатор
@@ -2013,14 +2008,9 @@ achievement.plastic_plater_creator.desc=Создайте пластавтома�
 achievement.plastic_plater=Пластина из пластика
 achievement.plastic_plater.desc=Получите пластиковую пластину
 
-BlockTank.name=Жидкостный бак
-BlockAdvTank.name=Улучшенный жидкостный бак
-BlockImpTank.name=Продвинутый жидкостный бак
-BlockPerTank.name=Совершенный жидкостный бак
 description_armor=Улучшения брони: 
 description_item=Улучшения предмета: 
 iu.temperature=Температура механизма: 
-
 vampires=Вампиризм: 
 resistance=Сопротивление урона: 
 wither=Урон эффектом визера

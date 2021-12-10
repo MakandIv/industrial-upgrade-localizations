@@ -6,7 +6,7 @@ Industrial Update Localization Updates is the Industrial Upgrade localization up
 |                   | 1.7.10            | 1.12.2 
 | :---------------: |:-----------------:| :---------------------:
 | Русский (Russian) | Full (for 2.5.16) | Experimental (s12iu03a)
-| English           | Full (for 2.5.16) | Coming Soon
+| English           | Full (for 2.5.16) | Experimental (s12iu03a)
 
 
 ### Links
