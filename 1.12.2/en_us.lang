@@ -601,6 +601,16 @@ fluid.luidhyd=Hydrogen
 fluid.luidoxy=Oxygen
 fluid.luidpolyeth=Polyethylene
 
+#The following lines are aligned with other localizations.
+#
+#
+#
+#
+#
+#
+#
+#
+
 #Cells
 iu.itemcell.empty=Cell
 iu.itemcell.neutron=Neutron Cell

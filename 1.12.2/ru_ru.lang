@@ -601,6 +601,16 @@ fluid.luidhyd=Водород
 fluid.luidoxy=Кислород
 fluid.luidpolyeth=Полиэтилен
 
+item.forge.bucketFilled.iufluidneutron=Ведро нейтрона
+item.forge.bucketFilled.iufluidhelium=Ведро гелия
+item.forge.bucketFilled.iufluidbenz=Ведро бензина
+item.forge.bucketFilled.iufluiddizel=Ведро дизельного топлива
+item.forge.bucketFilled.iufluidneft=Ведро нефти
+item.forge.bucketFilled.iufluidpolyprop=Ведро полипропилена
+item.forge.bucketFilled.iufluidhyd=Ведро водорода
+item.forge.bucketFilled.iufluidoxy=Ведро кислорода
+item.forge.bucketFilled.iufluidpolyeth=Ведро полиэтилена
+
 #Капсулы
 iu.itemcell.empty=Капсула
 iu.itemcell.neutron=Капсула нейтрона
