@@ -298,8 +298,8 @@ iu.modules.phase2=Module: Morning, afternoon and evening III
 iu.modules.moonlinse=Module: Second Sun I
 iu.modules.moonlinse1=Module: Second Sun II
 iu.modules.moonlinse2=Module: Second Sun III
-item.analyzermodule.name=Module: Analyzer
-item.quarrymodule.name=Module: Quarry
+iu.analyzermodule.name=Module: Analyzer
+iu.quarrymodule.name=Module: Quarry
 
 iu.moduletype=Module Type: Common
 
@@ -367,7 +367,7 @@ ic2.item.tooltip.Store=Store:
 wirelles=§eAllows you to transfer power wirelessly
 transformator=Increases the panel level
 transformator1=Decreases the panel level
-blockSintezator.name=Panel Combiner
+industrialupgrade.sintezator.sintezator=Panel Combiner
 iu.sintezator=The panels are folded inside. Slot limit: 2
 supsolpans.SpecSP.Output=Output:
 supsolpans.SpecSP.Storage=Capacity:
@@ -381,7 +381,7 @@ gui.SuperSolarPanel.storage=EU
 gui.SuperSolarPanel.maxOutput=Output
 gui.SuperSolarPanel.generating=Generation
 gui.SuperSolarPanel.energyPerTick=EU/t
-iu.modules2=§conly one upgrade per slot
+iu.modules2=§cOnly one upgrade per slot
 gui.iu.tier=Tier
 iu.genday=§2Generation during the day increased by 
 iu.gennight=§3Generation during the night increased by 
@@ -472,10 +472,10 @@ iu.moduletype5=Panel Type: §8Night
 iu.moduletype6=Panel Type: §eDay
 iu.moduletype7=Panel Type: §9Rain
 
-iu.rfmodule=§cGenerate RF energy
-iu.rfstorage=RF:
+iu.rfmodule=§cGenerates RF energy
+iu.rfstorage=RF: 
 iu.modulewirelles=§bWireless: §2works
-iu.modulewirelles1=Coordinates:
+iu.modulewirelles1=Coordinates: 
 iu.modulewirelles2=§bWireless: §cnot working
 
 iu.fly=§3Flight activated:
@@ -536,7 +536,7 @@ iu.blockChargepadGraMFSU.name=Charge Pad (Graviton MFSU)
 iu.blockChargepadKvrMFSU.name=Charge Pad (Quark MFSU)
 industrialupgrade.wiring_chargepad.batbox_iu_chargepad=Charge Pad (BatBox)
 industrialupgrade.wiring_chargepad.cesu_iu_chargepad=Charge Pad (CESU)
-industrialupgrade.wiring_chargepad.mfe_iu_chargepad=Заряжающая Pad (MFE)
+industrialupgrade.wiring_chargepad.mfe_iu_chargepad=Charge Pad (MFE)
 industrialupgrade.wiring_chargepad.mfsu_iu_chargepad=Charge Pad (MFSU)
 industrialupgrade.wiring_chargepad.adv_mfsu_chargepad=Charge Pad (Improved MFSU)
 industrialupgrade.wiring_chargepad.ult_mfsu_chargepad=Charge Pad (Advanced MFSU)
@@ -1426,14 +1426,12 @@ industrialupgrade.basemachine.imp_matter=Advanced Matter Generator
 industrialupgrade.basemachine.per_matter=Perfect Matter Generator
 industrialupgrade.basemachine2.combiner_matter=§9Combined Matter Generator
 
-iu.MetalFormer1.name=Improved Metal Former
+iu.MetalFormer.name=Improved Metal Former
 iu.MetalFormer2.name=Advanced Metal Former
-iu.blockMetalFormer.name=Improved Metal Former
-iu.blockMetalFormer2.name=Advanced Metal Former
-iu.blockMetalFormer3.name=Perfect Metal Former
+iu.MetalFormer3.name=Perfect Metal Former
 industrialupgrade.moremachine.double_metalformer=Improved Metal Former
 industrialupgrade.moremachine.triple_metalformer=Advanced Metal Former
-industrialupgrade.moremachine.quad_metalformer=iu.blockMetalFormer3.name=Perfect Metal Former
+industrialupgrade.moremachine.quad_metalformer=Perfect Metal Former
 
 industrialupgrade.basemachine.quantum_quarry=Quantum Quarry
 industrialupgrade.basemachine.adv_quantum_quarry=Improved Quantum Quarry
@@ -1640,9 +1638,9 @@ iu.time=Time left:
 iu.hour=h. 
 iu.minutes=m. 
 iu.seconds=s.
-iu.time1= until the first stage of pollution 
-iu.time2= until the second stage of pollution 
-iu.time3= until the third stage of pollution 
+iu.time1= until the 1st stage of pollution 
+iu.time2= until the 2nd stage of pollution 
+iu.time3= until the 3rd stage of pollution 
 pollutionpnale=The panel is dirty
 pollutioninformation=Hover over
 iu.panelinformation=Solar Panel Information
@@ -1833,9 +1831,9 @@ item.singularity_iridium.name=Iridium Singularity
 item.singularity_germanium.name=Germanium Singularity
 
 #Bags
-iu_bags.name=Bag
-imp_iu_bags.name=Improved Bag
-adv_iu_bags.name=Advanced Bag
+item.iu_bags.name=Bag
+item.imp_iu_bags.name=Improved Bag
+item.adv_iu_bags.name=Advanced Bag
 
 iu.vertical=To active vertical mode, press 
 iu.streak=To change the color of the line behind the player, press 

@@ -1426,11 +1426,9 @@ industrialupgrade.basemachine.imp_matter=Продвинутый генерато
 industrialupgrade.basemachine.per_matter=Совершенный генератор материи
 industrialupgrade.basemachine2.combiner_matter=§9Комбинированный генератор материи
 
-#iu.MetalFormer1.name=Улучшенная металлоформовочная машина
-#iu.MetalFormer2.name=Продвинутая металлоформовочная машина
-iu.blockMetalFormer.name=Улучшенная металлоформовочная машина
-iu.blockMetalFormer2.name=Продвинутая металлоформовочная машина
-iu.blockMetalFormer3.name=Совершенная металлоформовочная машина
+iu.MetalFormer.name=Улучшенная металлоформовочная машина
+iu.MetalFormer2.name=Продвинутая металлоформовочная машина
+iu.MetalFormer3.name=Совершенная металлоформовочная машина
 industrialupgrade.moremachine.double_metalformer=Улучшенная металлоформовочная машина
 industrialupgrade.moremachine.triple_metalformer=Продвинутая металлоформовочная машина
 industrialupgrade.moremachine.quad_metalformer=Совершенная металлоформовочная машина
