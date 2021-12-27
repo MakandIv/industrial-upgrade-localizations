@@ -159,7 +159,6 @@ iu.neutronium.name=§9Нейтронный осколок
 iu.neutroniumingot.name=§9Нейтронный слиток
 
 industrialupgrade.basemachine.neutron_generator=§9Генератор нейтронных частиц
-#iu.blockMatter.name=§9Генератор нейтронных частиц
 iu.Matter.gui.name=§bГенератор нейтронных частиц
 
 iu.nanobox.name=§8Нано-ящик для инструментов
