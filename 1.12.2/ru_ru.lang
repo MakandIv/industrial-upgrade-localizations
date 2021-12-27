@@ -1285,13 +1285,13 @@ netherredstonerack.name=Адская красная руда
 nethertinrack.name=Адская оловянная руда
 netheruranrack.name=Адская урановая руда
 
-industrialupgrade.transformer_iu.umv=Трансформатор UMV
-industrialupgrade.transformer_iu.uhv=Трансформатор UHV
-industrialupgrade.transformer_iu.uev=Трансформатор UEV
-industrialupgrade.transformer_iu.umhv=Трансформатор UMHV
-industrialupgrade.transformer_iu.umev=Трансформатор UMEV
-industrialupgrade.transformer_iu.uhev=Трансформатор UHEV
-industrialupgrade.transformer_iu.heev=Трансформатор HEEV
+industrialupgrade.transformer_iu.umv=Трансформатор ПН
+industrialupgrade.transformer_iu.uhv=Трансформатор НкВН
+industrialupgrade.transformer_iu.uev=Трансформатор СкВН
+industrialupgrade.transformer_iu.umhv=Трансформатор ВкВН
+industrialupgrade.transformer_iu.umev=Трансформатор СВкВН
+industrialupgrade.transformer_iu.uhev=Трансформатор ПкВН
+industrialupgrade.transformer_iu.heev=Трансформатор МВН
 
 iu.lens.aerlinse=Воздушная линза
 iu.lens.earthlinse=Земляная линза

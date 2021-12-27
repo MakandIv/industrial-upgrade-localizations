@@ -1242,13 +1242,13 @@ netherredstonerack.name=Адская красная руда
 nethertinrack.name=Адская оловянная руда
 netheruranrack.name=Адская урановая руда
 
-TransformerUMV.name=Трансформатор UMV
-TransformerUHV.name=Трансформатор UHV
-TransformerUEV.name=Трансформатор UEV
-TransformerUMH.name=Трансформатор UMHV
-TransformerUMEV.name=Трансформатор UMEV
-TransformerUHEV.name=Трансформатор UHEV
-TransformerHEEV.name=Трансформатор HEEV
+TransformerUMV.name=Трансформатор ПН
+TransformerUHV.name=Трансформатор НкВН
+TransformerUEV.name=Трансформатор СкВН
+TransformerUMH.name=Трансформатор ВкВН
+TransformerUMEV.name=Трансформатор СВкВН
+TransformerUHEV.name=Трансформатор ПкВН
+TransformerHEEV.name=Трансформатор МВН
 
 aerlinse.name=Воздушная линза
 earthlinse.name=Земляная линза

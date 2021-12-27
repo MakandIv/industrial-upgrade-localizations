@@ -1285,13 +1285,13 @@ netherredstonerack.name=Nether Redstone Ore
 nethertinrack.name=Nether Tin Ore
 netheruranrack.name=Nether Uranium Ore
 
-industrialupgrade.transformer_iu.umv=UMV-Transformer 
-industrialupgrade.transformer_iu.uhv=UHV-Transformer
-industrialupgrade.transformer_iu.uev=UEV-Transformer 
-industrialupgrade.transformer_iu.umhv=UMHV-Transformer
-industrialupgrade.transformer_iu.umev=UMEV-Transformer
-industrialupgrade.transformer_iu.uhev=UHEV-Transformer
-industrialupgrade.transformer_iu.heev=HEEV-Transformer
+industrialupgrade.transformer_iu.umv=UV-Transformer 
+industrialupgrade.transformer_iu.uhv=LkV-Transformer
+industrialupgrade.transformer_iu.uev=MkV-Transformer 
+industrialupgrade.transformer_iu.umhv=HkV-Transformer
+industrialupgrade.transformer_iu.umev=EkV-Transformer
+industrialupgrade.transformer_iu.uhev=UkV-Transformer
+industrialupgrade.transformer_iu.heev=MegaV-Transformer
 
 iu.lens.aerlinse=Air Lens
 iu.lens.earthlinse=Earth Lens
