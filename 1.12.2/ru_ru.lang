@@ -496,7 +496,7 @@ industrialupgrade.tank_iu.imp_tank=Продвинутый жидкостный �
 industrialupgrade.tank_iu.per_tank=Совершенный жидкостный бак
 
 iu.blockBatBox.name=Энергохранилище
-iu.blockCESU.name=МЭХ
+iu.blockCESU.name=МЭСН
 iu.blockMFE1.name=МФЭ
 iu.blockMFSU1.name=МФЭХ
 iu.blockMFE.name=§eУлучшенное МФЭХ
@@ -1331,7 +1331,7 @@ item.itemadvbatchargecrystal.name=Заряжающий улучшенный эн
 item.itembatchargecrystal.name=Заряжающий совершенный энергетический кристалл
 
 #Наборы улучшений для энергохранилищ
-iu.upgradekitstorage.upgradekit=Набор улучшений из МЭХ в МФЭ
+iu.upgradekitstorage.upgradekit=Набор улучшений из МЭСН в МФЭ
 iu.upgradekitstorage.upgradekit1=Набор улучшений из МФЭ в МФЭХ
 iu.upgradekitstorage.upgradekit2=Набор улучшений из МФЭХ в улучшенное МФЭХ
 iu.upgradekitstorage.upgradekit3=Набор улучшений из улучшенного МФЭХ в продвинутое МФЭХ
