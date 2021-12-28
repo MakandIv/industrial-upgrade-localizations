@@ -600,15 +600,16 @@ fluid.luidhyd=Hydrogen
 fluid.luidoxy=Oxygen
 fluid.luidpolyeth=Polyethylene
 
-#The following lines are aligned with other localizations.
-#
-#
-#
-#
-#
-#
-#
-#
+#Bucket. The following lines are aligned with other localizations.
+#item.forge.bucketFilled.iufluidneutron
+#item.forge.bucketFilled.iufluidhelium
+#item.forge.bucketFilled.iufluidbenz
+#item.forge.bucketFilled.iufluiddizel
+#item.forge.bucketFilled.iufluidneft
+#item.forge.bucketFilled.iufluidpolyprop
+#item.forge.bucketFilled.iufluidhyd
+#item.forge.bucketFilled.iufluidoxy
+#item.forge.bucketFilled.iufluidpolyeth
 
 #Cells
 iu.itemcell.empty=Cell
@@ -1287,7 +1288,7 @@ netheruranrack.name=Nether Uranium Ore
 
 industrialupgrade.transformer_iu.umv=UV-Transformer 
 industrialupgrade.transformer_iu.uhv=LkV-Transformer
-industrialupgrade.transformer_iu.uev=MkV-Transformer 
+industrialupgrade.transformer_iu.uev=MkV-Transformer
 industrialupgrade.transformer_iu.umhv=HkV-Transformer
 industrialupgrade.transformer_iu.umev=EkV-Transformer
 industrialupgrade.transformer_iu.uhev=UkV-Transformer

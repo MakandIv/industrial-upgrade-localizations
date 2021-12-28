@@ -600,6 +600,7 @@ fluid.luidhyd=Водород
 fluid.luidoxy=Кислород
 fluid.luidpolyeth=Полиэтилен
 
+#Вёдра
 item.forge.bucketFilled.iufluidneutron=Ведро нейтрона
 item.forge.bucketFilled.iufluidhelium=Ведро гелия
 item.forge.bucketFilled.iufluidbenz=Ведро бензина
