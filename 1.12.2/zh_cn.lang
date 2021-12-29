@@ -54,9 +54,13 @@ inforamtionmolecular=点击更改面板颜色
 inforamtionmolecular1=点击更改变压器的工作模式
 
 # Standart Panels
+industrialupgrade.machines.advanced_solar_paneliu=§8高级太阳能
 industrialupgrade.machines.advanced_solar_panel=§8高级太阳能
+industrialupgrade.machines.hybrid_solar_paneliu=§3混合太阳能
 industrialupgrade.machines.hybrid_solar_panel=§3混合太阳能
+industrialupgrade.machines.ultimate_solar_paneliu=§9完美混合太阳能
 industrialupgrade.machines.ultimate_solar_panel=§9完美混合太阳能
+industrialupgrade.machines.quantum_solar_paneliu=§2量子太阳能
 industrialupgrade.machines.quantum_solar_panel=§2量子太阳能
 industrialupgrade.machines.spectral_solar_panel=§e光谱太阳能
 industrialupgrade.machines.proton_solar_panel=§5质子太阳能
@@ -2045,3 +2049,4 @@ iu.moonlinse=将夜间的发电量提高到白天的发电量水平
 iu.blockerror.name=错误，功率不足
 iu.blacklist_key=要切换黑名单，请按
 message.blacklist=黑名单列表: 
+iu.needheaters=Place a heater near the mechanism 

@@ -54,9 +54,13 @@ inforamtionmolecular=Click to change GUI color
 inforamtionmolecular1=Click to change the operating mode of the transformer
 
 # Standart Panels
+industrialupgrade.machines.advanced_solar_paneliu=§8Advanced Solar Panel
 industrialupgrade.machines.advanced_solar_panel=§8Advanced Solar Panel
+industrialupgrade.machines.hybrid_solar_paneliu=§3Hybrid Solar Panel
 industrialupgrade.machines.hybrid_solar_panel=§3Hybrid Solar Panel
+industrialupgrade.machines.ultimate_solar_paneliu=§9Perfect Hybrid Solar Panel
 industrialupgrade.machines.ultimate_solar_panel=§9Perfect Hybrid Solar Panel
+industrialupgrade.machines.quantum_solar_paneliu=§2Quantum Solar Panel
 industrialupgrade.machines.quantum_solar_panel=§2Quantum Solar Panel
 industrialupgrade.machines.spectral_solar_panel=§eSpectral Solar Panel
 industrialupgrade.machines.proton_solar_panel=§5Protonic Solar Panel
@@ -2045,3 +2049,4 @@ iu.moonlinse=Increases generation during the night to the level of generation du
 iu.blockerror.name=Error, insufficient power
 iu.blacklist_key=To switch the blacklist, press 
 message.blacklist=Black list: 
+iu.needheaters=Place a heater near the mechanism 

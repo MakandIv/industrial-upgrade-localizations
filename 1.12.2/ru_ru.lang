@@ -54,9 +54,13 @@ inforamtionmolecular=Нажмите, чтобы изменить цвет инт
 inforamtionmolecular1=Нажмите, чтобы изменить режим работы преобразователя
 
 # Стандарные панели
+industrialupgrade.machines.advanced_solar_paneliu=§8Улучшенная солнечная панель
 industrialupgrade.machines.advanced_solar_panel=§8Улучшенная солнечная панель
+industrialupgrade.machines.hybrid_solar_paneliu=§3Гибридная солнечная панель
 industrialupgrade.machines.hybrid_solar_panel=§3Гибридная солнечная панель
+industrialupgrade.machines.ultimate_solar_paneliu=§9Совершенная гибридная солнечная панель
 industrialupgrade.machines.ultimate_solar_panel=§9Совершенная гибридная солнечная панель
+industrialupgrade.machines.quantum_solar_paneliu=§2Квантовая солнечная панель
 industrialupgrade.machines.quantum_solar_panel=§2Квантовая солнечная панель
 industrialupgrade.machines.spectral_solar_panel=§eСпектральная солнечная панель
 industrialupgrade.machines.proton_solar_panel=§5Протонная солнечная панель
@@ -2045,3 +2049,4 @@ iu.moonlinse=Повышает генерацию ночью до уровня г
 iu.blockerror.name=Ошибка, недостаточно мощности
 iu.blacklist_key=Для переключения чёрного списка, нажмите 
 message.blacklist=Чёрный список: 
+iu.needheaters=Поставьте нагреватели около механизма
