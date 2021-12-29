@@ -153,7 +153,7 @@ iu.elementium_core.name=§d源质钢核心
 
 # Avaritia Cores
 iu.neutroncore.name=§9中子核心
-iu.infinitycore.name=§无尽核心
+iu.infinitycore.name=§9无尽核心
 
 iu.neutronium.name=§9中子碎片
 iu.neutroniumingot.name=§9中子锭
@@ -182,7 +182,7 @@ iu.circuit.nanocircuit=纳米电路板
 iu.circuit.quantumcircuit=量子电路板
 iu.circuit.spectralcircuit=§d光谱电路板
 
-iu.blockCable=Cable
+iu.blockCable=电缆
 iu.chaosingot.name=§7混沌锭
 iu.coal_chunk.name=煤块
 iu.compresscarbon.name=压缩碳板
@@ -252,7 +252,7 @@ iu.modulestype.module94=模块: 夸克太阳能板
 iu.additionmodule.personality=模块: 私有
 iu.additionmodule.tier_in=模块: 面板等级开启
 iu.additionmodule.tier_de=模块: 面板等级关闭
-iu.additionmodule.charger=模块: Item Charge
+iu.additionmodule.charger=模块: 物品充电
 iu.additionmodule.rf=模块: RF-能量
 iu.additionmodule.mov_charge_eu=模块: 即时无线装甲充电
 iu.additionmodule.mov_charge_eu_item=模块: 即时无线工具充电
@@ -409,7 +409,7 @@ iu.toriy=钍
 iu.radiationresources.rad_toriy=光辉钍
 iu.thorium_ore.name=钍矿石
 
-iu.compressiridium=§7Compressed Iridium Rotor
+iu.compressiridium=§7压缩铱转子
 iu.iridium=§f铱转子
 iu.spectral=§e光谱转子
 iu.neutron=§9中子转子
@@ -420,7 +420,7 @@ iu.barionrotor=§5重子转子
 iu.adronrotor=§3强子转子
 
 ic3uumatter=中子
-death.attack.current=你死于电疗
+death.attack.current=你死于杨永信电疗
 iu.Name=名称
 iu.World=主世界
 iu.Xcoord=X
@@ -1693,11 +1693,11 @@ iu.message.text.off=off
 iu.message.text.disabled=关闭的
 
 defaultskin=皮肤: 普通
-camouflageskin=皮肤: §2伪装
+camouflageskin=皮肤: §2迷彩伪装
 demonskin=皮肤: §4恶魔
 Darkskin=皮肤: §8暗黑
-Coldskin=皮肤: §b寒冷
-Enderskin=皮肤: §5末地
+Coldskin=皮肤: §b寒霜
+Enderskin=皮肤: §5末影
 
 iu.plast.name=塑料
 iu.plastic_plate.name=塑料板
