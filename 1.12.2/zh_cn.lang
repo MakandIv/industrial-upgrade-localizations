@@ -2049,4 +2049,5 @@ iu.moonlinse=将夜间的发电量提高到白天的发电量水平
 iu.blockerror.name=错误，功率不足
 iu.blacklist_key=要切换黑名单，请按
 message.blacklist=黑名单列表: 
-iu.needheaters=Place a heater near the mechanism 
+iu.needheaters=Place a heater near the mechanism
+waring_kit=Be sure to remove all items from the mechanism/storage/panel before upgrading

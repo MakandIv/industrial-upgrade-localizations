@@ -2049,4 +2049,5 @@ iu.moonlinse=Increases generation during the night to the level of generation du
 iu.blockerror.name=Error, insufficient power
 iu.blacklist_key=To switch the blacklist, press 
 message.blacklist=Black list: 
-iu.needheaters=Place a heater near the machine 
+iu.needheaters=Place a heater near the machine
+waring_kit=Be sure to remove all items from the mechanism/storage/panel before upgrading
