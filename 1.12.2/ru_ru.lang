@@ -31,12 +31,16 @@ item.supersolarpanel:ChaosSword.name=§7Меч Хаоса
 
 # Нефтеперерабатывающий завод
 industrialupgrade.refiner.refiner=Нефтеперерабатывающий завод
+iu.refiner_item.refiner_item=Нефтеперерабатывающий завод
 industrialupgrade.adv_refiner.adv_refiner=Улучшенный нефтеперерабатывающий завод
+iu.adv_refiner_item.adv_refiner_item=Улучшенный нефтеперерабатывающий завод
 
 # Молекулярные преобразователи и комплектующие
 iu.itemiucrafring.itemmtcore=Ядро молекулярного преобразователя
 industrialupgrade.molecular.molecular=Молекулярный преобразователь
+iu.molecular_item.molecular_item=Молекулярный преобразователь
 industrialupgrade.double_transformer.double_transformer=Продвинутый молекулярный преобразователь
+iu.double_molecular.double_molecular=Продвинутый молекулярный преобразователь
 
 # Интерфейс молекулярного преобразователя
 gui.MolecularTransformer.input=Вход
@@ -73,7 +77,7 @@ industrialupgrade.machines.hadron_solar_panel=§dАдронная солнечн
 industrialupgrade.machines.graviton_solar_panel=§dГравитонная солнечная панель
 industrialupgrade.machines.quark_solar_panel=§dКварковая солнечная панель
 blockAdministatorSolarPanel.name=§8Административная солнечная панель
-industrialupgrade.admpanel.admpanel=§8Административная солнечная панель
+iu.adminpanel_item.adminpanel_item=§8Административная солнечная панель
 
 # Панели Draconic Evolution
 industrialupgrade.draconicpanel.draconium_solar_panel=§dДракониевая солнечная панель
@@ -303,6 +307,7 @@ iu.modules.moonlinse1=Модуль: Второе Солнце II
 iu.modules.moonlinse2=Модуль: Второе Солнце III
 iu.analyzermodule.name=Модуль: Анализатор
 iu.quarrymodule.name=Модуль: Карьер
+iu.module_storage.name=Модуль: Сортировка
 
 iu.moduletype=Тип модуля: Обычная 
 
@@ -370,7 +375,7 @@ ic2.item.tooltip.Store=Хранит:
 wirelles=§eПозволяет передавать энергию без проводов
 transformator=Повышает уровень панели
 transformator1=Понижает уровень панели
-industrialupgrade.sintezator.sintezator=Объединитель панелей
+iu.sintezator_item.sintezator_item=Объединитель панелей
 iu.sintezator=Панели складываются внутри. Лимит на слот:
 supsolpans.SpecSP.Output=Выход:
 supsolpans.SpecSP.Storage=Ёмкость:
@@ -495,9 +500,13 @@ iu.purifiermode=Нажмите SHIFT + ПКМ по панели, чтобы оч
 iu.saberon=Нажмите ПКМ, чтобы активировать саблю
 
 industrialupgrade.tank_iu.tank_iu=Жидкостный бак
+iu.fluid_tank_item.fluid_tank_normal=Жидкостный бак
 industrialupgrade.tank_iu.adv_tank=Улучшенный жидкостный бак
+iu.fluid_tank_item.fluid_tank_normal_adv=Улучшенный жидкостный бак
 industrialupgrade.tank_iu.imp_tank=Продвинутый жидкостный бак
+iu.fluid_tank_item.fluid_tank_normal_imp=Продвинутый жидкостный бак
 industrialupgrade.tank_iu.per_tank=Совершенный жидкостный бак
+iu.fluid_tank_item.fluid_tank_normal_per=Совершенный жидкостный бак
 
 iu.blockBatBox.name=Энергохранилище
 iu.blockCESU.name=МЭСН
@@ -1386,6 +1395,7 @@ iu.upgradekitpanel.upgradepanelkit24=Набор улучшений панели 
 iu.upgradekitmachine.upgradepanelkitmachine=Набор улучшений машины из обычной в улучшенную
 iu.upgradekitmachine.upgradepanelkitmachine1=Набор улучшений машины из улучшенной в продвинутую
 iu.upgradekitmachine.upgradepanelkitmachine2=Набор улучшений машины из продвинутой в совершенную
+iu.upgradekitmachine.upgradepanelkitmachine3=Набор улучшений машины в максимальную
 
 iu.blockRecycler.name=Улучшенный утилизатор
 iu.blockRecycler1.name=Продвинутый утилизатор
@@ -1549,7 +1559,7 @@ iu.AspGen.name=Генератор аспектов
 
 industrialupgrade.basemachine.generator_microchip=Производитель микросхем
 blockConverterSolidMatter.name=Преобразователь твёрдой материи
-industrialupgrade.converter_matter.converter_matter=Преобразователь твёрдой материи
+iu.converter_solid.converter_solid=Преобразователь твёрдой материи
 industrialupgrade.basemachine.modulator=Модульный обработчик
 industrialupgrade.basemachine1.enrichment=Обогатитель
 industrialupgrade.basemachine1.synthesis=Реактор ядерного синтеза
@@ -1561,9 +1571,11 @@ iu.blockFisher.name=Рыболовная машина
 industrialupgrade.basemachine2.fisher=Рыболовная машина
 industrialupgrade.basemachine2.painter=Красильная машина
 industrialupgrade.upgrade_block.upgrade_block=Модификационная станция
-industrialupgrade.quarry_vein.quarry_vein=Буровая установка для поиска жил
+iu.upgrade_block_item.upgrade_block=Модификационная станция
+iu.quarry_vein_item.quarry_vein_item=Буровая установка для поиска жил
 industrialupgrade.petrol_quarry.petrol_quarry=Станок-качалка
-industrialupgrade.combiner_solid_matter.combiner_solid_matter=Объединитель генераторов твёрдой материи
+iu.petrol_quarry_item.petrol_quarry_item=Станок-качалка
+iu.combiner_solidmatter.combiner_solidmatter=Объединитель генераторов твёрдой материи
 industrialupgrade.basemachine2.expierence_block=Хранилище опыта
 industrialupgrade.basemachine2.plastic_creator=Химический завод
 industrialupgrade.basemachine2.plastic_plate_creator=Пластавтомат
@@ -1585,14 +1597,16 @@ industrialupgrade.solid.nether_solidmatter=Генератор адской тв�
 industrialupgrade.solid.night_solidmatter=Генератор ночной твёрдой материи
 industrialupgrade.solid.sun_solidmatter=Генератор солнечной твёрдой материи
 
-industrialupgrade.se_gen.se_gen=Генератор солнечной энергии
+iu.solar_energy.solar_energy=Генератор солнечной энергии
 blockSolarGeneratorEnergy.name=Генератор солнечной энергии
-industrialupgrade.adv_se_gen.adv_se_gen=Улучшенный генератор солнечной энергии
+iu.adv_solar_energy.adv_solar_energy=Улучшенный генератор солнечной энергии
 blockAdvSolarGenerator.name=Улучшенный генератор солнечной энергии
-industrialupgrade.imp_se_gen.imp_se_gen=Продвинутый генератор солнечной энергии
+iu.imp_solar_energy.imp_solar_energy=Продвинутый генератор солнечной энергии
 blockImpSolarGenerator.name=Продвинутый генератор солнечной энергии
 industrialupgrade.gen_sunnarium.gen_sunnarium=Производитель саннариума
+iu.sunnarium_maker_item.sunnarium_maker_item=Производитель саннариума
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=Производитель саннариумных пластин
+iu.sunnarium_maker_plate_item.sunnarium_maker_plate_item=Производитель саннариумных пластин
 
 iu.doublescrapbox.name=Двойная коробка утильсырья
 
@@ -2054,3 +2068,5 @@ iu.blacklist_key=Для переключения чёрного списка, н
 message.blacklist=Чёрный список: 
 iu.needheaters=Поставьте нагреватели около механизма
 waring_kit=Перед улучшением обязательно уберите все вещи с механизма/хранилища/панели
+
+item.book_iu.name=§oIndustrial Upgrade: Полное издание
