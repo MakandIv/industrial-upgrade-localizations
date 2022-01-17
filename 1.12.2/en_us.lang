@@ -1575,6 +1575,7 @@ iu.upgrade_block_item.upgrade_block=Modification Station
 iu.quarry_vein_item.quarry_vein_item=Core Search Drilling Rig
 industrialupgrade.petrol_quarry.petrol_quarry=Pumpjack
 iu.petrol_quarry_item.petrol_quarry_item=Pumpjack
+industrialupgrade.combiner_solid_matter.combiner_solid_matter=Solid Matter Generator Combiner
 iu.combiner_solidmatter.combiner_solidmatter=Solid Matter Generator Combiner
 industrialupgrade.basemachine2.expierence_block=Experience Storage
 industrialupgrade.basemachine2.plastic_creator=Chemical Plant

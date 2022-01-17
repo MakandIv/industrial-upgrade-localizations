@@ -1575,6 +1575,7 @@ iu.upgrade_block_item.upgrade_block=Модификационная станци�
 iu.quarry_vein_item.quarry_vein_item=Буровая установка для поиска жил
 industrialupgrade.petrol_quarry.petrol_quarry=Станок-качалка
 iu.petrol_quarry_item.petrol_quarry_item=Станок-качалка
+industrialupgrade.combiner_solid_matter.combiner_solid_matter=Объединитель генераторов твёрдой материи
 iu.combiner_solidmatter.combiner_solidmatter=Объединитель генераторов твёрдой материи
 industrialupgrade.basemachine2.expierence_block=Хранилище опыта
 industrialupgrade.basemachine2.plastic_creator=Химический завод

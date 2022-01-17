@@ -1575,6 +1575,7 @@ iu.upgrade_block_item.upgrade_block=修改站
 iu.quarry_vein_item.quarry_vein_item=核心钻探装置
 industrialupgrade.petrol_quarry.petrol_quarry=石油钻井
 iu.petrol_quarry_item.petrol_quarry_item=石油钻井
+industrialupgrade.combiner_solid_matter.combiner_solid_matter=固体物质发生组合器
 iu.combiner_solidmatter.combiner_solidmatter=固体物质发生组合器
 industrialupgrade.basemachine2.expierence_block=经验储存器
 industrialupgrade.basemachine2.plastic_creator=化工厂
