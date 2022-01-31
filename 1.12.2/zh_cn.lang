@@ -508,6 +508,12 @@ iu.fluid_tank_item.fluid_tank_normal_imp=高级的液体罐
 industrialupgrade.tank_iu.per_tank=完美的液体罐
 iu.fluid_tank_item.fluid_tank_normal_per=完美的液体罐
 
+iu.itempipes=Heat Pipe
+iu.itempipes1=Improved Heat Pipe
+iu.itempipes2=Advanced Heat Pipe
+iu.itempipes3=Perfect Heat Pipe
+iu.itempipes4=Quantum Heat Pipe
+
 iu.blockBatBox.name=储电箱
 iu.blockCESU.name=CESU
 iu.blockMFE1.name=MFE
@@ -661,6 +667,7 @@ item.topaz_chestplate.name=黄玉胸甲
 item.topaz_leggings.name=黄玉护腿
 item.topaz_boots.name=黄玉靴子
 
+#Minerals
 iu.magnetite.name=磁铁矿
 iu.calaverite.name=碲金矿
 iu.galena.name=方铅矿
@@ -673,6 +680,10 @@ iu.rhodonite.name=蔷薇辉矿
 iu.alfildit.name=铝辉矿
 iu.euxenite.name=黑稀金矿
 iu.smithsonite.name=菱锌矿
+iu.ilmenite.name=Ilmenite
+iu.todorokite.name=Todorokite
+iu.ferroaugite.name=Ferroaugite
+iu.sheelite.name=Scheelite
 
 iu.americium_ore.name=镅矿石
 iu.neptunium_ore.name=镎矿石
@@ -2071,3 +2082,21 @@ iu.needheaters=在机器附近放置一个加热器
 waring_kit=请确保给如下机器升级时：机器/储电箱/太阳能中取出所有物品！
 
 item.book_iu.name=§oIndustrial Upgrade: Complete Edition
+
+iu.quarryveininformation=Chunk Information:
+iu.gettingvein=Chance of obtaining an oil vein: 
+iu.gettingvein1=Chance of obtaining a mineral vein: 
+iu.find=Found
+iu.biome=Biome: 
+iu.simply=Simple
+iu.advanced=Improved
+iu.improved=Advanced
+iu.perfect=Perfect
+iu.level=Tier:
+iu.advanced_name=Improved
+iu.improved_name=Advanced
+iu.perfect_name=Perfect
+iu.canupdate=You can improve this car with: 
+iu.scanning_accept=Scan
+efficient=Efficiency increased by: 
+lucky=Luck increased by: 

@@ -508,6 +508,12 @@ iu.fluid_tank_item.fluid_tank_normal_imp=Advanced Liquid Tank
 industrialupgrade.tank_iu.per_tank=Perfect Liquid Tank
 iu.fluid_tank_item.fluid_tank_normal_per=Perfect Liquid Tank
 
+iu.itempipes=Heat Pipe
+iu.itempipes1=Improved Heat Pipe
+iu.itempipes2=Advanced Heat Pipe
+iu.itempipes3=Perfect Heat Pipe
+iu.itempipes4=Quantum Heat Pipe
+
 iu.blockBatBox.name=BatBox
 iu.blockCESU.name=CESU
 iu.blockMFE1.name=MFE
@@ -661,6 +667,7 @@ item.topaz_chestplate.name=Topaz Chestplate
 item.topaz_leggings.name=Topaz Leggings
 item.topaz_boots.name=Topaz Boots
 
+#Minerals
 iu.magnetite.name=Magnetite
 iu.calaverite.name=Calaverite
 iu.galena.name=Galena
@@ -673,6 +680,10 @@ iu.rhodonite.name=Rhodonite
 iu.alfildit.name=Ahlfeldite
 iu.euxenite.name=Euxenite
 iu.smithsonite.name=Smithsonite
+iu.ilmenite.name=Ilmenite
+iu.todorokite.name=Todorokite
+iu.ferroaugite.name=Ferroaugite
+iu.sheelite.name=Scheelite
 
 iu.americium_ore.name=Americium Ore
 iu.neptunium_ore.name=Neptunium Ore
@@ -1631,6 +1642,9 @@ iu.upgrades.transformerupgrade2=Transformer Upgrade x4
 iu.blacklist=Blacklist
 iu.whitelist=Whitelist
 
+iu.circuit.advanced_part1=Advanced Capacitor
+iu.circuit.advanced_part2=Advanced SOIC Chip
+iu.circuit.advanced_part3=Advanced QFP Chip
 iu.circuit.nanocircuit_part1=Nano Capacitor
 iu.circuit.nanocircuit_part2=Nano SOIC Chip
 iu.circuit.nanocircuit_part3=Nano QFP Chip
@@ -2068,6 +2082,24 @@ iu.blockerror.name=Error, insufficient power
 iu.blacklist_key=To switch the blacklist, press 
 message.blacklist=Black list: 
 iu.needheaters=Place a heater near the machine
-waring_kit=Be sure to remove all items from the mechanism/storage/panel before upgrading
+waring_kit=Be sure to remove all items from the machine/storage/panel before upgrading
 
 item.book_iu.name=§oIndustrial Upgrade: Complete Edition
+
+iu.quarryveininformation=Chunk Information:
+iu.gettingvein=Chance of obtaining an oil vein: 
+iu.gettingvein1=Chance of obtaining a mineral vein: 
+iu.find=Found
+iu.biome=Biome: 
+iu.simply=Simple
+iu.advanced=Improved
+iu.improved=Advanced
+iu.perfect=Perfect
+iu.level=Tier:
+iu.advanced_name=Improved
+iu.improved_name=Advanced
+iu.perfect_name=Perfect
+iu.canupdate=You can improve this car with: 
+iu.scanning_accept=Scan
+efficient=Efficiency increased by: 
+lucky=Luck increased by: 

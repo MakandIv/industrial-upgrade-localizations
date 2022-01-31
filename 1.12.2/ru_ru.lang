@@ -508,6 +508,12 @@ iu.fluid_tank_item.fluid_tank_normal_imp=Продвинутый жидкостн
 industrialupgrade.tank_iu.per_tank=Совершенный жидкостный бак
 iu.fluid_tank_item.fluid_tank_normal_per=Совершенный жидкостный бак
 
+iu.itempipes=Тепловая труба
+iu.itempipes1=Улучшенная тепловая труба
+iu.itempipes2=Продвинутая тепловая труба
+iu.itempipes3=Совершенная тепловая труба
+iu.itempipes4=Квантовая тепловая труба
+
 iu.blockBatBox.name=Энергохранилище
 iu.blockCESU.name=МЭСН
 iu.blockMFE1.name=МФЭ
@@ -661,6 +667,7 @@ item.topaz_chestplate.name=Топазовая кираса
 item.topaz_leggings.name=Топазовые поножи
 item.topaz_boots.name=Топазовые ботинки
 
+#Минералы
 iu.magnetite.name=Магнетит
 iu.calaverite.name=Калаверит
 iu.galena.name=Галенит
@@ -673,6 +680,10 @@ iu.rhodonite.name=Родонит
 iu.alfildit.name=Альфильдит
 iu.euxenite.name=Эвксенит
 iu.smithsonite.name=Смитсонит
+iu.ilmenite.name=Ильменит
+iu.todorokite.name=Тодорокит
+iu.ferroaugite.name=Ферроавгит
+iu.sheelite.name=Шеелит
 
 iu.americium_ore.name=Америциевая руда
 iu.neptunium_ore.name=Нептуниевая руда
@@ -1631,6 +1642,9 @@ iu.upgrades.transformerupgrade2=Улучшение «Трансформатор 
 iu.blacklist=Чёрный список
 iu.whitelist=Белый список
 
+iu.circuit.advanced_part1=Улучшенный конденсатор
+iu.circuit.advanced_part2=Улучшенный чип SOIC
+iu.circuit.advanced_part3=Улучшенный чип QFP
 iu.circuit.nanocircuit_part1=Нано-конденсатор
 iu.circuit.nanocircuit_part2=Нано-чип SOIC
 iu.circuit.nanocircuit_part3=Нано-чип QFP
@@ -2071,3 +2085,21 @@ iu.needheaters=Поставьте нагреватели около механи
 waring_kit=Перед улучшением обязательно уберите все вещи с механизма/хранилища/панели
 
 item.book_iu.name=§oIndustrial Upgrade: Полное издание
+
+iu.quarryveininformation=Информация о чанке:
+iu.gettingvein=Шанс получения нефтянной жилы: 
+iu.gettingvein1=Шанс получения минеральной жилы: 
+iu.find=Обнаружено
+iu.biome=Биом: 
+iu.simply=Обычный
+iu.advanced=Улучшенный
+iu.improved=Продвинутый
+iu.perfect=Совершенный
+iu.level=Уровень:
+iu.advanced_name=Улучшенная
+iu.improved_name=Продвинутая
+iu.perfect_name=Совершенная
+iu.canupdate=Вы можете улучшить данный механизм с помощью: 
+iu.scanning_accept=Сканировать
+efficient=Эффективность увеличена на:
+lucky=Удача увеличена на: 
