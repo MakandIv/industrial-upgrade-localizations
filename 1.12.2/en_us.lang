@@ -337,6 +337,8 @@ iu.upgrademodules.upgrademodule22=Modification Module: Invisibility
 iu.upgrademodules.upgrademodule23=Modification Module: Looting
 iu.upgrademodules.upgrademodule24=Modification Module: Ignition
 iu.upgrademodules.upgrademodule25=Modification Module: Accumulation of charge
+iu.upgrademodules.upgrademodule26=Modification Module: Luck
+iu.upgrademodules.upgrademodule27=Modification Module: Efficiency
 
 iu.entitymodules.module_player=Hunter Module: Player
 iu.entitymodules.module_mob=Hunter Module: Mob
