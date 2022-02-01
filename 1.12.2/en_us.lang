@@ -339,6 +339,7 @@ iu.upgrademodules.upgrademodule24=Modification Module: Ignition
 iu.upgrademodules.upgrademodule25=Modification Module: Accumulation of charge
 iu.upgrademodules.upgrademodule26=Modification Module: Luck
 iu.upgrademodules.upgrademodule27=Modification Module: Efficiency
+iu.upgrademodules.upgrademodule28=Modification Module: Melting
 
 iu.entitymodules.module_player=Hunter Module: Player
 iu.entitymodules.module_mob=Hunter Module: Mob
@@ -585,7 +586,7 @@ gui.SuperSolarPanel.energyPerTick1=RF/t
 iu.maxStoragestored=Max. stores:
 iu.yes=Yes
 iu.no=No
-ic2.uumatter=§5Liquid matter
+ic2.uumatter=§5UU-matter
 gui.movementcharge=Instant Armor Charge EU
 gui.movementchargeitem=Instant Item Charging EU
 gui.movementchargerf=Instant Armor Charge RF
