@@ -594,7 +594,6 @@ supsolpans.iu.GenerationNight.tooltip=夜晚产能:
 button.rf=改变模式
 iu.rfmodule1=§9产生EU 能量
 gui.SuperSolarPanel.energyPerTick1=RF/t
-iu.maxStoragestored=最大. 储存:
 iu.yes=Yes
 iu.no=No
 ic2.uumatter=§5液体物质

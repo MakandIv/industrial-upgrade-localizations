@@ -594,7 +594,6 @@ supsolpans.iu.GenerationNight.tooltip=Generation Night:
 button.rf=Change mode
 iu.rfmodule1=§9Generates EU energy
 gui.SuperSolarPanel.energyPerTick1=RF/t
-iu.maxStoragestored=Max. stores:
 iu.yes=Yes
 iu.no=No
 ic2.uumatter=§5UU-matter

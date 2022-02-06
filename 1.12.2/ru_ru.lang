@@ -594,7 +594,6 @@ supsolpans.iu.GenerationNight.tooltip=Генерация ночью:
 button.rf=Сменить режим
 iu.rfmodule1=§9Вырабатывает EU-энергию
 gui.SuperSolarPanel.energyPerTick1=RF/t
-iu.maxStoragestored=Макс. хранит:
 iu.yes=Да
 iu.no=Нет
 ic2.uumatter=§5Сжиженная материя 
