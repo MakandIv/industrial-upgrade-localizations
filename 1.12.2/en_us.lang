@@ -1901,8 +1901,8 @@ item.singularity_germanium.name=Germanium Singularity
 
 #Bags
 item.iu_bags.name=Bag
-item.imp_iu_bags.name=Improved Bag
-item.adv_iu_bags.name=Advanced Bag
+item.adv_iu_bags.name=Improved Bag
+item.imp_iu_bags.name=Advanced Bag
 
 iu.vertical=To active vertical mode, press 
 iu.streak=To change the color of the line behind the player, press 

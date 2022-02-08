@@ -1901,8 +1901,8 @@ item.singularity_germanium.name=锗奇点
 
 #Bags
 item.iu_bags.name=电力储存袋
-item.imp_iu_bags.name=改良的电力储存袋
-item.adv_iu_bags.name=高级的电力储存袋
+item.adv_iu_bags.name=改良的电力储存袋
+item.imp_iu_bags.name=高级的电力储存袋
 
 iu.vertical=激活垂直模式，请按
 iu.streak=修改玩家后面的线的颜色，请按
