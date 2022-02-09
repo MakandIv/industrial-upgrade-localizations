@@ -710,20 +710,20 @@ iu.reactorberkeliumQuad=Quad Berkelium Rod
 iu.reactorberkeliumSimple=Berkelium Rod
 
 #Alloy Blocks
-aluminum_bronze_block.name=Block of Aluminum Bronze
+aluminum_bronze_block.name=Block of Aluminium Bronze
 alumel_block.name=Block of Alumel
 red_brass_block.name=Block of Red Brass
 muntsa_block.name=Block of Muntz Metal
 nichrome_block.name=Block of Nichrome
 alcled_block.name=Block of Alclad
-vanadoalumite_block.name=Block of Vanadium Aluminum
+vanadoalumite_block.name=Block of Vanadium Aluminium
 vitalium_block.name=Block of Vitalium
 duralumin_block.name=Block of Duralumin
 ferromanganese_block.name=Block of Ferromanganese
 
 #Metal Blocks
 mikhail_block.name=Block of Michalov
-aluminium_block.name=Block of Aluminum
+aluminium_block.name=Block of Aluminium
 vanady_block.name=Block of Vanadium
 wolfram_block.name=Block of Tungsten
 invar_block.name=Block of Invar
@@ -743,20 +743,20 @@ iridium_block.name=Block of Iridium
 germanium_block.name=Block of Germanium
 
 #Alloy Ingots
-aluminum_bronze_ingot.name=Aluminum Bronze Ingot
+aluminum_bronze_ingot.name=Aluminium Bronze Ingot
 alumel_ingot.name=Alumel Ingot
 red_brass_ingot.name=Red Brass Ingot
 muntsa_ingot.name=Muntz Metal Ingot
 nichrome_ingot.name=Nichrome Ingot
 alcled_ingot.name=Alclad Ingot
-vanadoalumite_ingot.name=Vanadium Aluminum Ingot
+vanadoalumite_ingot.name=Vanadium Aluminium Ingot
 vitalium_ingot.name=Vitalium Ingot
 duralumin_ingot.name=Duralumin Ingot
 ferromanganese_ingot.name=Ferromanganese Ingot
 
 #Metal Ingots
 mikhail_ingot.name=Michalov Ingot
-aluminium_ingot.name=Aluminum Ingot
+aluminium_ingot.name=Aluminium Ingot
 vanady_ingot.name=Vanadium Ingot
 wolfram_ingot.name=Tungsten Ingot
 invar_ingot.name=Invar Ingot
@@ -776,13 +776,13 @@ iridium_ingot.name=Iridium Ingot
 germanium_ingot.name=Germanium Ingot
 
 #Alloy Plates
-aluminum_bronze_plate.name=Aluminum Bronze Plate 
+aluminum_bronze_plate.name=Aluminium Bronze Plate 
 alumel_plate.name=Alumel Plate
 red_brass_plate.name=Red Brass Plate
 muntsa_plate.name=Muntz Metal Plate
 nichrome_plate.name=Nichrome Plate
 alcled_plate.name=Alclad Plate
-vanadoalumite_plate.name=Vanadium Aluminum Plate
+vanadoalumite_plate.name=Vanadium Aluminium Plate
 vitalium_plate.name=Vitalium Plate
 duralumin_plate.name=Duralumin Plate
 ferromanganese_plate.name=Ferromanganese Plate
@@ -794,7 +794,7 @@ item.elementium_plate.name=§dElementium Plate
 
 #Metal Plates
 mikhail_plate.name=Michalov Plate
-aluminium_plate.name=Aluminum Plate
+aluminium_plate.name=Aluminium Plate
 vanady_plate.name=Vanadium Plate
 wolfram_plate.name=Tungstem Plate
 invar_plate.name=Invar Plate
@@ -814,20 +814,20 @@ iridium_plate.name=Iridium Plate
 germanium_plate.name=Germanium Plate
 
 #Dense Alloy Plates
-aluminum_bronze_doubleplate.name=Dense Aluminum Bronze Plate 
+aluminum_bronze_doubleplate.name=Dense Aluminium Bronze Plate 
 alumel_doubleplate.name=Dense Alumel Plate
 red_brass_doubleplate.name=Dense Red Brass Plate
 muntsa_doubleplate.name=Dense Muntz Metal Plate
 nichrome_doubleplate.name=Dense Nichrome Plate
 alcled_doubleplate.name=Dense Alclad Plate
-vanadoalumite_doubleplate.name=Dense Vanadium Aluminum Plate
+vanadoalumite_doubleplate.name=Dense Vanadium Aluminium Plate
 vitalium_doubleplate.name=Dense Vitalium Plate
 duralumin_doubleplate.name=Dense Duralumin Plate
 ferromanganese_doubleplate.name=Dense Ferromanganese Plate
 
 #Dense Metal Plates
 mikhail_doubleplate.name=Dense Michalov Plate
-aluminium_doubleplate.name=Dense Aluminum Plate
+aluminium_doubleplate.name=Dense Aluminium Plate
 vanady_doubleplate.name=Dense Vanadium Plate
 wolfram_doubleplate.name=Dense Tungstem Plate
 invar_doubleplate.name=Dense Invar Plate
@@ -847,20 +847,20 @@ iridium_doubleplate.name=Dense Iridium Plate
 germanium_doubleplate.name=Dense Germanium Plate
 
 #Alloy Item Casings
-aluminum_bronze_casing.name=Aluminum Bronze Item Casing
+aluminum_bronze_casing.name=Aluminium Bronze Item Casing
 alumel_casing.name=Alumel Item Casing
 red_brass_casing.name=Red Brass Item Casing
 muntsa_casing.name=Muntz Metal Item Casing
 nichrome_casing.name=Nichrome Item Casing
 alcled_casing.name=Alclad Item Casing
-vanadoalumite_casing.name=Vanadium Aluminum Item Casing
+vanadoalumite_casing.name=Vanadium Aluminium Item Casing
 vitalium_casing.name=Vitalium Item Casing
 duralumin_casing.name=Duralumin Item Casing
 ferromanganese_casing.name=Ferromanganese Item Casing
 
 #Metal Item Casings
 mikhail_casing.name=Michalov Item Casing
-aluminium_casing.name=Aluminum Item Casing
+aluminium_casing.name=Aluminium Item Casing
 vanady_casing.name=Vanadium Item Casing
 wolfram_casing.name=Tungsten Item Casing
 invar_casing.name=Invar Item Casing
@@ -880,20 +880,20 @@ iridium_casing.name=Iridium Item Casing
 germanium_casing.name=Germanium Item Casing
 
 #Alloy Sticks
-aluminum_bronze_stick.name=Aluminum Bronze Stick
+aluminum_bronze_stick.name=Aluminium Bronze Stick
 alumel_stick.name=Alumel Stick
 red_brass_stick.name=Red Brass Stick
 muntsa_stick.name=Muntz Metal Stick
 nichrome_stick.name=Nichrome Stick
 alcled_stick.name=Alclad Stick
-vanadoalumite_stick.name=Vanadium Aluminum Stick
+vanadoalumite_stick.name=Vanadium Aluminium Stick
 vitalium_stick.name=Vitalium Stick
 duralumin_stick.name=Duralumin Stick
 ferromanganese_stick.name=Ferromanganese Stick
 
 #Metal Sticks
 mikhail_stick.name=Michalov Stick
-aluminium_stick.name=Aluminum Stick
+aluminium_stick.name=Aluminium Stick
 vanady_stick.name=Vanadium Stick
 wolfram_stick.name=Tungsten Stick
 invar_stick.name=Invar Stick
@@ -913,20 +913,20 @@ iridium_stick.name=Iridium Stick
 germanium_stick.name=Germanium Stick
 
 #Alloy Nuggets
-aluminum_bronze_nugget.name=Aluminum Bronze Nugget
+aluminum_bronze_nugget.name=Aluminium Bronze Nugget
 alumel_nugget.name=Alumel Nugget
 red_brass_nugget.name=Red Brass Nugget
 muntsa_nugget.name=Muntz Metal Nugget
 nichrome_nugget.name=Nichrome Nugget
 alcled_nugget.name=Alclad Nugget
-vanadoalumite_nugget.name=Vanadium Aluminum Nugget
+vanadoalumite_nugget.name=Vanadium Aluminium Nugget
 vitalium_nugget.name=Vitalium Nugget
 duralumin_nugget.name=Duralumin Nugget
 ferromanganese_nugget.name=Ferromanganese Nugget
 
 #Metal Nuggets
 mikhail_nugget.name=Michalov Nugget
-aluminium_nugget.name=Aluminum Nugget
+aluminium_nugget.name=Aluminium Nugget
 vanady_nugget.name=Vanadium Nugget
 wolfram_nugget.name=Tungsten Nugget
 invar_nugget.name=Invar Nugget
@@ -946,20 +946,20 @@ iridium_nugget.name=Iridium Nugget
 germanium_nugget.name=Germanium Nugget
 
 #Alloy Dusts
-aluminum_bronze_dust.name=Aluminum Bronze Dust
+aluminum_bronze_dust.name=Aluminium Bronze Dust
 alumel_dust.name=Alumel Dust
 red_brass_dust.name=Red Brass Dust
 muntsa_dust.name=Muntz Metal Dust
 nichrome_dust.name=Nichrome Dust
 alcled_dust.name=Alclad Dust
-vanadoalumite_dust.name=Vanadium Aluminum Dust
+vanadoalumite_dust.name=Vanadium Aluminium Dust
 vitalium_dust.name=Vitalium Dust
 duralumin_dust.name=Duralumin Dust
 ferromanganese_dust.name=Ferromanganese Dust
 
 #Metal Dusts
 mikhail_dust.name=Michalov Dust
-aluminium_dust.name=Aluminum Dust
+aluminium_dust.name=Aluminium Dust
 vanady_dust.name=Vanadium Dust
 wolfram_dust.name=Tungsten Dust
 invar_dust.name=Invar Dust
@@ -980,7 +980,7 @@ germanium_dust.name=Germanium Dust
 
 #Small Piles of Metal Dust
 mikhail_smalldust.name=Small Pile of Michalov Dust
-aluminium_smalldust.name=Small Pile of Aluminum Dust
+aluminium_smalldust.name=Small Pile of Aluminium Dust
 vanady_smalldust.name=Small Pile of Vanadium Dust
 wolfram_smalldust.name=Small Pile of Tungsten Dust
 invar_smalldust.name=Small Pile of Invar Dust
@@ -1001,7 +1001,7 @@ germanium_smalldust.name=Small Pile of Germanium Dust
 
 #Tiny Piles of Metal Dust
 mikhail_verysmalldust.name=Tiny Pile of Michalov Dust
-aluminium_verysmalldust.name=Tiny Pile of Aluminum Dust
+aluminium_verysmalldust.name=Tiny Pile of Aluminium Dust
 vanady_verysmalldust.name=Tiny Pile of Vanadium Dust
 wolfram_verysmalldust.name=Tiny Pile of Tungsten Dust
 invar_verysmalldust.name=Tiny Pile of Invar Dust
@@ -1022,7 +1022,7 @@ germanium_verysmalldust.name=Tiny Pile of Germanium Dust
 
 #Metal Ores
 mikhail_ore.name=Michalov Ore
-aluminium_ore.name=Aluminum Ore
+aluminium_ore.name=Aluminium Ore
 vanady_ore.name=Vanadium Ore
 wolfram_ore.name=Tungsten Ore
 invar_ore.name=Invar Ore
@@ -1043,7 +1043,7 @@ germanium_ore.name=Germanium Ore
 
 #Crushed Metal Ores
 mikhail_crushed.name=Crushed Michalov Ore
-aluminium_crushed.name=Crushed Aluminum Ore
+aluminium_crushed.name=Crushed Aluminium Ore
 vanady_crushed.name=Crushed Vanadium Ore
 wolfram_crushed.name=Crushed Tungsten Ore
 invar_crushed.name=Crushed Invar Ore
@@ -1064,7 +1064,7 @@ germanium_crushed.name=Crushed Germanium Ore
 
 #Purified Crushed Metal Ores
 mikhail_purifiedcrushed.name=Purified Crushed Michalov Ore
-aluminium_purifiedcrushed.name=Purified Crushed Aluminum Ore
+aluminium_purifiedcrushed.name=Purified Crushed Aluminium Ore
 vanady_purifiedcrushed.name=Purified Crushed Vanadium Ore
 wolfram_purifiedcrushed.name=Purified Crushed Tungsten Ore
 invar_purifiedcrushed.name=Purified Crushed Invar Ore
@@ -1086,7 +1086,7 @@ germanium_purifiedcrushed.name=Purified Crushed Germanium Ore
 ##Ex Nihilo Integration
 #Broken Metal Ores
 mikhail_gravelcrushed.name=Broken Michalov Ore
-aluminium_gravelcrushed.name=Broken Aluminum Ore
+aluminium_gravelcrushed.name=Broken Aluminium Ore
 vanady_gravelcrushed.name=Broken Vanadium Ore
 wolfram_gravelcrushed.name=Broken Tungsten Ore
 cobalt_gravelcrushed.name=Broken Cobalt Ore
@@ -1102,7 +1102,7 @@ manganese_gravelcrushed.name=Broken Manganese Ore
 
 #Metal Ores Gravel
 mikhail_gravelore.name=Michalov Ore Gravel
-aluminium_gravelore.name=Aluminum Ore Gravel
+aluminium_gravelore.name=Aluminium Ore Gravel
 vanady_gravelore.name=Vanadium Ore Gravel
 wolfram_gravelore.name=Tungsten Ore Gravel
 cobalt_gravelore.name=Cobalt Ore Gravel
@@ -1118,7 +1118,7 @@ manganese_gravelore.name=Manganese Ore Gravel
 
 #Crushed Metal Ores
 mikhail_sandcrushed.name=Crushed Michalov Ore
-aluminium_sandcrushed.name=Crushed Aluminum Ore
+aluminium_sandcrushed.name=Crushed Aluminium Ore
 vanady_sandcrushed.name=Crushed Vanadium Ore
 wolfram_sandcrushed.name=Crushed Tungsten Ore
 cobalt_sandcrushed.name=Crushed Cobalt Ore
@@ -1134,7 +1134,7 @@ manganese_sandcrushed.name=Crushed Manganese Ore
 
 #Metal Ores Sand
 mikhail_sandore.name=Michalov Ore Sand
-aluminium_sandore.name=Aluminum Ore Sand
+aluminium_sandore.name=Aluminium Ore Sand
 vanady_sandore.name=Vanadium Ore Sand
 wolfram_sandore.name=Tungsten Ore Sand
 cobalt_sandore.name=Cobalt Ore Sand
@@ -1150,7 +1150,7 @@ manganese_sandore.name=Manganese Ore Sand
 
 #Powdered Metal Ores
 mikhail_dustcrushed.name=Powdered Michalov Ore
-aluminium_dustcrushed.name=Powdered Aluminum Ore
+aluminium_dustcrushed.name=Powdered Aluminium Ore
 vanady_dustcrushed.name=Powdered Vanadium Ore
 wolfram_dustcrushed.name=Powdered Tungsten Ore
 cobalt_dustcrushed.name=Powdered Cobalt Ore
@@ -1166,7 +1166,7 @@ manganese_dustcrushed.name=Powdered Manganese Ore
 
 #Metal Ores Dust
 mikhail_dustore.name=Michalov Ore Dust
-aluminium_dustore.name=Aluminum Ore Dust
+aluminium_dustore.name=Aluminium Ore Dust
 vanady_dustore.name=Vanadium Ore Dust
 wolfram_dustore.name=Tungsten Ore Dust
 cobalt_dustore.name=Cobalt Ore Dust
@@ -1182,7 +1182,7 @@ manganese_dustore.name=Manganese Ore Dust
 
 #Ender Ores
 endmikhail_stone.name=Ender Michalov Ore
-endalum_stone.name=Ender Aluminum Ore
+endalum_stone.name=Ender Aluminium Ore
 endvanady_stone.name=Ender Vanadium Ore
 endwolfram_stone.name=Ender Tungsten Ore
 endinvar_stone.name=Ender Invar Ore
@@ -1213,7 +1213,7 @@ enduran_stone.name=Ender Uranium Ore
 
 #Nether Ores
 nethermikhailrack.name=Nether Michalov Ore
-netheralumrack.name=Nether Aluminum Ore
+netheralumrack.name=Nether Aluminium Ore
 nethervanadyrack.name=Nether Vanadium Ore
 netherwolfram_rack.name=Nether Tungsten Ore
 netherinvarrack.name=Nether Invar Ore
@@ -1727,7 +1727,7 @@ iu.rgb=Iridescent
 
 #Singularities (Avaritia integration)
 item.singularity_mikhail.name=Michalov Singularity
-item.singularity_aluminium.name=Aluminum Singularity
+item.singularity_aluminium.name=Aluminium Singularity
 item.singularity_vanady.name=Vanadium Singularity
 item.singularity_wolfram.name=Tungsten Singularity
 item.singularity_cobalt.name=Cobalt Singularity
@@ -1760,8 +1760,8 @@ iu.create_plastic_plate=Created in a Plastic Plate Machine
 #Achievements
 achievement.mikhailore=Mr. Michalov
 achievement.mikhailore.desc=Get Michalov Ore
-achievement.aluminiumore=Aluminum
-achievement.aluminiumore.desc=Get Aluminum Ore
+achievement.aluminiumore=Aluminium
+achievement.aluminiumore.desc=Get Aluminium Ore
 achievement.vanadyore=Vanadium
 achievement.vanadyore.desc=Get Vanadium Ore
 achievement.wolframore=Heavy Stone?
