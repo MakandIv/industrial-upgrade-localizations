@@ -1622,11 +1622,11 @@ industrialupgrade.solid.nether_solidmatter=Генератор адской тв�
 industrialupgrade.solid.night_solidmatter=Генератор ночной твёрдой материи
 industrialupgrade.solid.sun_solidmatter=Генератор солнечной твёрдой материи
 
-iu.solar_energy.solar_energy=Генератор солнечной энергии
+industrialupgrade.se_gen.se_gen=Генератор солнечной энергии
 blockSolarGeneratorEnergy.name=Генератор солнечной энергии
-iu.adv_solar_energy.adv_solar_energy=Улучшенный генератор солнечной энергии
+industrialupgrade.adv_se_gen.adv_se_gen=Улучшенный генератор солнечной энергии
 blockAdvSolarGenerator.name=Улучшенный генератор солнечной энергии
-iu.imp_solar_energy.imp_solar_energy=Продвинутый генератор солнечной энергии
+industrialupgrade.imp_se_gen.imp_se_gen=Продвинутый генератор солнечной энергии
 blockImpSolarGenerator.name=Продвинутый генератор солнечной энергии
 industrialupgrade.gen_sunnarium.gen_sunnarium=Производитель саннариума
 iu.sunnarium_maker_item.sunnarium_maker_item=Производитель саннариума

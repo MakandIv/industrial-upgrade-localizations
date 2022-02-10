@@ -1622,11 +1622,11 @@ industrialupgrade.solid.nether_solidmatter=下界固体物质发生器
 industrialupgrade.solid.night_solidmatter=夜晚固体物质发生器
 industrialupgrade.solid.sun_solidmatter=太阳固体物质发生器
 
-iu.solar_energy.solar_energy=阳光化合物生成机
+industrialupgrade.se_gen.se_gen=阳光化合物生成机
 blockSolarGeneratorEnergy.name=阳光化合物生成机
-iu.adv_solar_energy.adv_solar_energy=改良的阳光化合物生成机
+industrialupgrade.adv_se_gen.adv_se_gen=改良的阳光化合物生成机
 blockAdvSolarGenerator.name=改良的阳光化合物生成机
-iu.imp_solar_energy.imp_solar_energy=高级的阳光化合物生成机
+industrialupgrade.imp_se_gen.imp_se_gen=高级的阳光化合物生成机
 blockImpSolarGenerator.name=高级的阳光化合物生成机
 industrialupgrade.gen_sunnarium.gen_sunnarium=阳光化合物制造厂
 iu.sunnarium_maker_item.sunnarium_maker_item=阳光化合物制造厂

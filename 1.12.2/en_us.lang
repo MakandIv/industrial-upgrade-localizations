@@ -1622,11 +1622,11 @@ industrialupgrade.solid.nether_solidmatter=Nether Solid Matter Generator
 industrialupgrade.solid.night_solidmatter=Night Solid Matter Generator
 industrialupgrade.solid.sun_solidmatter=Solar Solid Matter Generator
 
-iu.solar_energy.solar_energy=Solar Energy Generator
+industrialupgrade.se_gen.se_gen=Solar Energy Generator
 blockSolarGeneratorEnergy.name=Solar Energy Generator
-iu.adv_solar_energy.adv_solar_energy=Improved Solar Energy Generator
+industrialupgrade.adv_se_gen.adv_se_gen=Improved Solar Energy Generator
 blockAdvSolarGenerator.name=Improved Solar Energy Generator
-iu.imp_solar_energy.imp_solar_energy=Advanced Solar Energy Generator
+industrialupgrade.imp_se_gen.imp_se_gen=Advanced Solar Energy Generator
 blockImpSolarGenerator.name=Advanced Solar Energy Generator
 industrialupgrade.gen_sunnarium.gen_sunnarium=Sunnarium Manufacturer
 iu.sunnarium_maker_item.sunnarium_maker_item=Sunnarium Manufacturer
