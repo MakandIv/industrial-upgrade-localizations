@@ -792,7 +792,7 @@ iu.actorberkeliumsimple=Берклиевый стержень
 
 #Блоки сплавов
 iu.aluminum_bronze_block.name=Блок алюминиевой бронзы
-iu.alumel_block.name=Алюмелевый блок
+iu.alumel_block.name=Блок алюминида титана
 iu.red_brass_block.name=Блок красной латуни
 iu.muntsa_block.name=Блок мунц-металла
 iu.nichrome_block.name=Нихромовый блок
@@ -825,7 +825,7 @@ iu.germanium_block.name=Германиевый блок
 
 #Слитки сплавов
 iu.alloysingot.aluminum_bronze=Слиток алюминиевой бронзы
-iu.alloysingot.alumel=Алюмелевый слиток
+iu.alloysingot.alumel=Слиток алюминида титана
 iu.alloysingot.red_brass=Слиток красной латуни
 iu.alloysingot.muntsa=Слиток мунц-металла
 iu.alloysingot.nichrome=Нихромовый слиток
@@ -858,7 +858,7 @@ iu.ingot.germanium_ingot=Германиевый слиток
 
 #Пластины сплавов
 iu.alloysplate.aluminum_bronze=Пластина алюминиевой бронзы
-iu.alloysplate.alumel=Алюмелевая пластина
+iu.alloysplate.alumel=Пластина алюминида титана
 iu.alloysplate.red_brass=Пластина красной латуни
 iu.alloysplate.muntsa=Пластина мунц-металла
 iu.alloysplate.nichrome=Нихромовая пластина
@@ -896,7 +896,7 @@ iu.plate.germanium_plate=Германиевая пластина
 
 #Плотные пластины сплавов
 iu.alloysdoubleplate.aluminum_bronze=Плотная пластина алюминиевой бронзы
-iu.alloysdoubleplate.alumel=Плотная алюмелевая пластина
+iu.alloysdoubleplate.alumel=Плотная пластина алюминида титана
 iu.alloysdoubleplate.red_brass=Плотная пластина красной латуни
 iu.alloysdoubleplate.muntsa=Плотная пластина мунц-металла
 iu.alloysdoubleplate.nichrome=Плотная нихромовая пластина
@@ -929,7 +929,7 @@ iu.doubleplate.germanium_doubleplate=Плотная германиевая пл�
 
 #Оболочки сплавов
 iu.alloyscasing.aluminum_bronze=Оболочка алюминиевой бронзы
-iu.alloyscasing.alumel=Алюмелевая оболочка
+iu.alloyscasing.alumel=Оболочка алюминида титана
 iu.alloyscasing.red_brass=Оболочка красной латуни
 iu.alloyscasing.muntsa=Оболочка мунц-металла
 iu.alloyscasing.nichrome=Нихромовая оболочка
@@ -962,7 +962,7 @@ iu.casing.germanium=Германиевая оболочка
 
 #Палки сплавов
 iu.alloysstik.aluminum_bronze=Палка алюминиевой бронзы
-iu.alloysstik.alumel=Алюмелевая палка
+iu.alloysstik.alumel=Палка алюминида титана
 iu.alloysstik.red_brass=Палка красной латуни
 iu.alloysstik.muntsa=Палка мунц-металла
 iu.alloysstik.nichrome=Нихромовая палка
@@ -995,7 +995,7 @@ iu.stik.germanium=Германиевая палка
 
 #Самородки сплавов
 iu.alloysnugget.aluminum_bronze=Кусочек алюминиевой бронзы
-iu.alloysnugget.alumel=Кусочек алюмеля
+iu.alloysnugget.alumel=Кусочек алюминида титана
 iu.alloysnugget.red_brass=Кусочек красной латуни
 iu.alloysnugget.muntsa=Кусочек мунц-металла
 iu.alloysnugget.nichrome=Кусочек нихрома
@@ -1028,7 +1028,7 @@ iu.nugget.germanium=Кусочек германия
 
 #Пыль сплавов
 iu.alloysdust.aluminum_bronze=Пыль алюминиевой бронзы
-iu.alloysdust.alumel=Алюмелевая пыль
+iu.alloysdust.alumel=Пыль алюминида титана
 iu.alloysdust.red_brass=Пыль красной латуни
 iu.alloysdust.muntsa=Пыль мунц-металла
 iu.alloysdust.nichrome=Нихромовая пыль

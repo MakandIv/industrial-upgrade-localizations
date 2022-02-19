@@ -792,7 +792,7 @@ iu.actorberkeliumsimple=锫燃料棒
 
 #合金块
 iu.aluminum_bronze_block.name=铝青铜块
-iu.alumel_block.name=镍铝金块
+iu.alumel_block.name=Block of Titanium Aluminide
 iu.red_brass_block.name=红铜块
 iu.muntsa_block.name=蒙兹金属块
 iu.nichrome_block.name=镍铬合金块
@@ -825,7 +825,7 @@ iu.germanium_block.name=锗块
 
 #Alloy Ingots
 iu.alloysingot.aluminum_bronze=铝青铜锭
-iu.alloysingot.alumel=镍铝金锭
+iu.alloysingot.alumel=Titanium Aluminide Ingot
 iu.alloysingot.red_brass=红铜锭
 iu.alloysingot.muntsa=蒙兹金属锭
 iu.alloysingot.nichrome=镍铬合金锭
@@ -858,7 +858,7 @@ iu.ingot.germanium_ingot=锗锭
 
 #合金板
 iu.alloysplate.aluminum_bronze=铝青铜板
-iu.alloysplate.alumel=镍铝金板
+iu.alloysplate.alumel=Titanium Aluminide Plate
 iu.alloysplate.red_brass=红铜板
 iu.alloysplate.muntsa=蒙兹金属板
 iu.alloysplate.nichrome=镍铬合金板
@@ -896,7 +896,7 @@ iu.plate.germanium_plate=锗板
 
 #Dense Alloy Plates
 iu.alloysdoubleplate.aluminum_bronze=致密铝青铜板
-iu.alloysdoubleplate.alumel=致密镍铝金板
+iu.alloysdoubleplate.alumel=Dense Titanium Aluminide Plate
 iu.alloysdoubleplate.red_brass=致密红铜板
 iu.alloysdoubleplate.muntsa=致密蒙兹金属板
 iu.alloysdoubleplate.nichrome=致密镍铬合金板
@@ -929,7 +929,7 @@ iu.doubleplate.germanium_doubleplate=致密锗板
 
 #Alloy Item Casings
 iu.alloyscasing.aluminum_bronze=铝青铜质外壳
-iu.alloyscasing.alumel=镍铝金质外壳
+iu.alloyscasing.alumel=Titanium Aluminide Item Casing
 iu.alloyscasing.red_brass=红铜质外壳
 iu.alloyscasing.muntsa=蒙兹金属质外壳
 iu.alloyscasing.nichrome=镍铬合金质外壳
@@ -962,7 +962,7 @@ iu.casing.germanium=锗质外壳
 
 #Alloy Sticks
 iu.alloysstik.aluminum_bronze=铝青铜棍
-iu.alloysstik.alumel=镍铝金棍
+iu.alloysstik.alumel=Titanium Aluminide Stick
 iu.alloysstik.red_brass=红铜棍
 iu.alloysstik.muntsa=蒙兹金属棍
 iu.alloysstik.nichrome=镍铬合金棍
@@ -995,7 +995,7 @@ iu.stik.germanium=锗棍
 
 #合金粒
 iu.alloysnugget.aluminum_bronze=铝青铜粒
-iu.alloysnugget.alumel=镍铝金粒
+iu.alloysnugget.alumel=Titanium Aluminide Nugget
 iu.alloysnugget.red_brass=红铜粒
 iu.alloysnugget.muntsa=蒙兹金属粒
 iu.alloysnugget.nichrome=镍铬合金粒
@@ -1028,7 +1028,7 @@ iu.nugget.germanium=锗粒
 
 #Alloy Dusts
 iu.alloysdust.aluminum_bronze=铝青铜粉
-iu.alloysdust.alumel=镍铝金粉
+iu.alloysdust.alumel=Titanium Aluminide Dust
 iu.alloysdust.red_brass=红铜粉
 iu.alloysdust.muntsa=蒙兹金属粉
 iu.alloysdust.nichrome=镍铬合金粉

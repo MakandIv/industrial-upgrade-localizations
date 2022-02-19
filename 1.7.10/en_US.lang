@@ -711,7 +711,7 @@ iu.reactorberkeliumSimple=Berkelium Rod
 
 #Alloy Blocks
 aluminum_bronze_block.name=Block of Aluminium Bronze
-alumel_block.name=Block of Alumel
+alumel_block.name=Block of Titanium Aluminide
 red_brass_block.name=Block of Red Brass
 muntsa_block.name=Block of Muntz Metal
 nichrome_block.name=Block of Nichrome
@@ -744,7 +744,7 @@ germanium_block.name=Block of Germanium
 
 #Alloy Ingots
 aluminum_bronze_ingot.name=Aluminium Bronze Ingot
-alumel_ingot.name=Alumel Ingot
+alumel_ingot.name=Titanium Aluminide Ingot
 red_brass_ingot.name=Red Brass Ingot
 muntsa_ingot.name=Muntz Metal Ingot
 nichrome_ingot.name=Nichrome Ingot
@@ -777,7 +777,7 @@ germanium_ingot.name=Germanium Ingot
 
 #Alloy Plates
 aluminum_bronze_plate.name=Aluminium Bronze Plate 
-alumel_plate.name=Alumel Plate
+alumel_plate.name=Titanium Aluminide Plate
 red_brass_plate.name=Red Brass Plate
 muntsa_plate.name=Muntz Metal Plate
 nichrome_plate.name=Nichrome Plate
@@ -815,7 +815,7 @@ germanium_plate.name=Germanium Plate
 
 #Dense Alloy Plates
 aluminum_bronze_doubleplate.name=Dense Aluminium Bronze Plate 
-alumel_doubleplate.name=Dense Alumel Plate
+alumel_doubleplate.name=Dense Titanium Aluminide Plate
 red_brass_doubleplate.name=Dense Red Brass Plate
 muntsa_doubleplate.name=Dense Muntz Metal Plate
 nichrome_doubleplate.name=Dense Nichrome Plate
@@ -848,7 +848,7 @@ germanium_doubleplate.name=Dense Germanium Plate
 
 #Alloy Item Casings
 aluminum_bronze_casing.name=Aluminium Bronze Item Casing
-alumel_casing.name=Alumel Item Casing
+alumel_casing.name=Titanium Aluminide Item Casing
 red_brass_casing.name=Red Brass Item Casing
 muntsa_casing.name=Muntz Metal Item Casing
 nichrome_casing.name=Nichrome Item Casing
@@ -881,7 +881,7 @@ germanium_casing.name=Germanium Item Casing
 
 #Alloy Sticks
 aluminum_bronze_stick.name=Aluminium Bronze Stick
-alumel_stick.name=Alumel Stick
+alumel_stick.name=Titanium Aluminide Stick
 red_brass_stick.name=Red Brass Stick
 muntsa_stick.name=Muntz Metal Stick
 nichrome_stick.name=Nichrome Stick
@@ -914,7 +914,7 @@ germanium_stick.name=Germanium Stick
 
 #Alloy Nuggets
 aluminum_bronze_nugget.name=Aluminium Bronze Nugget
-alumel_nugget.name=Alumel Nugget
+alumel_nugget.name=Titanium Aluminide Nugget
 red_brass_nugget.name=Red Brass Nugget
 muntsa_nugget.name=Muntz Metal Nugget
 nichrome_nugget.name=Nichrome Nugget
@@ -947,7 +947,7 @@ germanium_nugget.name=Germanium Nugget
 
 #Alloy Dusts
 aluminum_bronze_dust.name=Aluminium Bronze Dust
-alumel_dust.name=Alumel Dust
+alumel_dust.name=Titanium Aluminide Dust
 red_brass_dust.name=Red Brass Dust
 muntsa_dust.name=Muntz Metal Dust
 nichrome_dust.name=Nichrome Dust

@@ -792,7 +792,7 @@ iu.actorberkeliumsimple=Berkelium Rod
 
 #Alloy Blocks
 iu.aluminum_bronze_block.name=Block of Aluminium Bronze
-iu.alumel_block.name=Block of Alumel
+iu.alumel_block.name=Block of Titanium Aluminide
 iu.red_brass_block.name=Block of Red Brass
 iu.muntsa_block.name=Block of Muntz Metal
 iu.nichrome_block.name=Block of Nichrome
@@ -825,7 +825,7 @@ iu.germanium_block.name=Block of Germanium
 
 #Alloy Ingots
 iu.alloysingot.aluminum_bronze=Aluminium Bronze Ingot
-iu.alloysingot.alumel=Alumel Ingot
+iu.alloysingot.alumel=Titanium Aluminide Ingot
 iu.alloysingot.red_brass=Red Brass Ingot
 iu.alloysingot.muntsa=Muntz Metal Ingot
 iu.alloysingot.nichrome=Nichrome Ingot
@@ -858,7 +858,7 @@ iu.ingot.germanium_ingot=Germanium Ingot
 
 #Alloy Plates
 iu.alloysplate.aluminum_bronze=Aluminium Bronze Plate 
-iu.alloysplate.alumel=Alumel Plate
+iu.alloysplate.alumel=Titanium Aluminide Plate
 iu.alloysplate.red_brass=Red Brass Plate
 iu.alloysplate.muntsa=Muntz Metal Plate
 iu.alloysplate.nichrome=Nichrome Plate
@@ -896,7 +896,7 @@ iu.plate.germanium_plate=Germanium Plate
 
 #Dense Alloy Plates
 iu.alloysdoubleplate.aluminum_bronze=Dense Aluminium Bronze Plate 
-iu.alloysdoubleplate.alumel=Dense Alumel Plate
+iu.alloysdoubleplate.alumel=Dense Titanium Aluminide Plate
 iu.alloysdoubleplate.red_brass=Dense Red Brass Plate
 iu.alloysdoubleplate.muntsa=Dense Muntz Metal Plate
 iu.alloysdoubleplate.nichrome=Dense Nichrome Plate
@@ -929,7 +929,7 @@ iu.doubleplate.germanium_doubleplate=Dense Germanium Plate
 
 #Alloy Item Casings
 iu.alloyscasing.aluminum_bronze=Aluminium Bronze Item Casing
-iu.alloyscasing.alumel=Alumel Item Casing
+iu.alloyscasing.alumel=Titanium Aluminide Item Casing
 iu.alloyscasing.red_brass=Red Brass Item Casing
 iu.alloyscasing.muntsa=Muntz Metal Item Casing
 iu.alloyscasing.nichrome=Nichrome Item Casing
@@ -962,7 +962,7 @@ iu.casing.germanium=Germanium Item Casing
 
 #Alloy Sticks
 iu.alloysstik.aluminum_bronze=Aluminium Bronze Stick
-iu.alloysstik.alumel=Alumel Stick
+iu.alloysstik.alumel=Titanium Aluminide Stick
 iu.alloysstik.red_brass=Red Brass Stick
 iu.alloysstik.muntsa=Muntz Metal Stick
 iu.alloysstik.nichrome=Nichrome Stick
@@ -995,7 +995,7 @@ iu.stik.germanium=Germanium Stick
 
 #Alloy Nuggets
 iu.alloysnugget.aluminum_bronze=Aluminium Bronze Nugget
-iu.alloysnugget.alumel=Alumel Nugget
+iu.alloysnugget.alumel=Titanium Aluminide Nugget
 iu.alloysnugget.red_brass=Red Brass Nugget
 iu.alloysnugget.muntsa=Muntz Metal Nugget
 iu.alloysnugget.nichrome=Nichrome Nugget
@@ -1028,7 +1028,7 @@ iu.nugget.germanium=Germanium Nugget
 
 #Alloy Dusts
 iu.alloysdust.aluminum_bronze=Aluminium Bronze Dust
-iu.alloysdust.alumel=Alumel Dust
+iu.alloysdust.alumel=Titanium Aluminide Dust
 iu.alloysdust.red_brass=Red Brass Dust
 iu.alloysdust.muntsa=Muntz Metal Dust
 iu.alloysdust.nichrome=Nichrome Dust
