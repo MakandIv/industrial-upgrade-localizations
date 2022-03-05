@@ -163,6 +163,22 @@ iu.elementium_core.name=§d源质钢核心
 iu.neutroncore.name=§9中子核心
 iu.infinitycore.name=§9无尽核心
 
+# Excited Cores
+iu.excitednucleus.advcore=Excited Advanced Core
+iu.excitednucleus.hybcore=Excited Hybrid Core
+iu.excitednucleus.ultcore=Excited Perfect Core
+iu.excitednucleus.quacore=Excited Quantum Core
+iu.excitednucleus.specore=Excited Spectral Core
+iu.excitednucleus.procore=Excited Protonic Core
+iu.excitednucleus.sincore=Excited Singular Core
+iu.excitednucleus.admcore=Excited Diffractive Core
+iu.excitednucleus.phocore=Excited Photonic Core
+iu.excitednucleus.neucore=Excited Neutron Core
+iu.excitednucleus.barcore=Excited Baryon Core
+iu.excitednucleus.adrcore=Excited Hadron Core
+iu.excitednucleus.gracore=Excited Graviton Core
+iu.excitednucleus.kvrcore=Excited Quark Core
+
 iu.neutronium.name=§9中子碎片
 iu.neutroniumingot.name=§9中子锭
 
@@ -189,8 +205,10 @@ iu.itemglasscablei=§7无尽电缆
 iu.circuit.nanocircuit=纳米电路板
 iu.circuit.quantumcircuit=量子电路板
 iu.circuit.spectralcircuit=§d光谱电路板
+iu.circuit.photoncircuit=§aPhotonic Circuit
 
-iu.blockCable=电缆
+iu.qcable=Quantum Energy Cable
+
 iu.chaosingot.name=§7混沌锭
 iu.coal_chunk.name=煤块
 iu.compresscarbon.name=压缩碳板
@@ -432,6 +450,23 @@ iu.toriy=钍
 iu.radiationresources.rad_toriy=光辉钍
 iu.thorium_ore.name=钍矿石
 
+#Blades
+iu.windrod.oak_rotor_model=Wood Rotor Blade
+iu.windrod.bronze_rotor_model=Bronze Rotor Blade
+iu.windrod.iron_rotor_model=Iron Rotor Blade
+iu.windrod.steel_rotor_model=Steel Rotor Blade
+iu.windrod.carbon_rotor_model=Carbon Rotor Blade
+iu.windrod.carbon_rotor_model1=Iridium Rotor Blade
+iu.windrod.carbon_rotor_model2=Compressed Iridium Rotor Blade
+iu.windrod.carbon_rotor_model3=Spectral Rotor Blade
+iu.windrod.carbon_rotor_model4=Mythical Rotor Blade
+iu.windrod.carbon_rotor_model5=Neutron Rotor Blade
+iu.windrod.carbon_rotor_model6=Photonic Rotor Blade
+iu.windrod.carbon_rotor_model7=Baryon Rotor Blade
+iu.windrod.carbon_rotor_model8=Hadron Rotor Blade
+iu.windrod.carbon_rotor_model9=Ultramarine Rotor Blade
+
+#Rotors
 iu.compressiridium=§7压缩铱转子
 iu.iridium=§f铱转子
 iu.spectral=§e光谱转子
@@ -1583,7 +1618,7 @@ iu.AspGen.name=要素发电机
 
 industrialupgrade.basemachine.generator_microchip=电路板制造厂
 blockConverterSolidMatter.name=固体物质变压器
-iu.converter_solid.converter_solid=固体物质变压器
+industrialupgrade.converter_matter.converter_matter=固体物质变压器
 industrialupgrade.basemachine.modulator=模块处理机
 industrialupgrade.basemachine1.enrichment=富集发生器
 industrialupgrade.basemachine1.synthesis=核聚变反应堆
@@ -1611,6 +1646,8 @@ industrialupgrade.basemachine3.tuner=无线调节器
 industrialupgrade.basemachine3.spawner=自动猎人
 industrialupgrade.basemachine3.elec_heat=电热器
 industrialupgrade.basemachine3.fluid_heat=液体加热器
+industrialupgrade.basemachine3.antimagnet=Anit-magnetic Machine
+industrialupgrade.basemachine3.antiupgradeblock=Module Removal Station
 
 # Solid Matter Generators
 industrialupgrade.solid.aer_solidmatter=空气固体物质发生器
@@ -1655,6 +1692,12 @@ iu.upgrades.transformerupgrade2=变压器升级 x4
 iu.blacklist=黑名单
 iu.whitelist=白名单
 
+iu.circuit.circuit_part1=Capacitor
+iu.circuit.circuit_part2=SOIC Chip
+iu.circuit.circuit_part3=QFP Chip
+iu.circuit.advanced_part1=高级电容器
+iu.circuit.advanced_part2=高级小外形集成电路芯片
+iu.circuit.advanced_part3=高级方型扁平式封装技术芯片
 iu.circuit.nanocircuit_part1=纳米电容器
 iu.circuit.nanocircuit_part2=纳米小外形集成电路芯片
 iu.circuit.nanocircuit_part3=纳米方型扁平式封装技术芯片
@@ -1664,13 +1707,13 @@ iu.circuit.quantumcircuit_part3=量子方型扁平式封装技术芯片
 iu.circuit.spectralcircuit_part1=光谱电容器
 iu.circuit.spectralcircuit_part2=光谱小外形集成电路芯片
 iu.circuit.spectralcircuit_part3=光谱方型扁平式封装技术芯片
+iu.circuit.photon_part1=Photonic Capacitor
+iu.circuit.photon_part2=Photonic SOIC Chip
+iu.circuit.photon_part3=Photonic QFP Chip
 
 iu.anode=阳极
 iu.cathode=阴极
 
-iu.circuit.advanced_part1=高级电容器
-iu.circuit.advanced_part2=高级小外形集成电路芯片
-iu.circuit.advanced_part3=高级方型扁平式封装技术芯片
 iu.paints.emptybox=空油漆罐
 iu.paints.bluepaint=浅蓝色油漆罐
 iu.paints.yellowpaint=黄色油漆罐
@@ -2112,6 +2155,7 @@ iu.needheaters=在机器附近放置一个加热器
 waring_kit=请确保给如下机器升级时：机器/储电箱/太阳能中取出所有物品！
 
 item.book_iu.name=§o工业升级: 完整版本
+
 iu.quarryveininformation=区块信息:
 iu.gettingvein=获得石油矿脉的几率: 
 iu.gettingvein1=获得矿脉的几率:
@@ -2127,3 +2171,8 @@ iu.improved_name=Advanced
 iu.perfect_name=Perfect
 iu.canupdate=You can improve this car with: 
 iu.scanning_accept=Scan
+description.basic=Fundamentals of the IU
+description.basic.info=First Message
+iu.text1=Hello player! Unforgettable adventures await you with IU! Here you will find a variety of technologies: from thermal to quantum, from simple improvements to technologies for transforming objects. IU is a unique mod with its concept of progress, which is unparalleled. The main rule of IU is to collect every resource, because every resource is necessary to advance progress in IU.
+iu.soon=Soon (3.0)
+button.need_mod=Remove

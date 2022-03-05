@@ -207,7 +207,8 @@ iu.circuit.quantumcircuit=Квантовая электросхема
 iu.circuit.spectralcircuit=§dСпектральная электросхема
 iu.circuit.photoncircuit=§aФотонная электросхема
 
-iu.blockCable=Кабель
+iu.qcable=Провод квантовой энергии
+
 iu.chaosingot.name=§7Слиток Хаоса
 iu.coal_chunk.name=Угольная глыба
 iu.compresscarbon.name=Сжатый углепластик
@@ -449,6 +450,23 @@ iu.toriy=Торий
 iu.radiationresources.rad_toriy=Излучающий торий
 iu.thorium_ore.name=Ториевая руда
 
+#Лопасти
+iu.windrod.oak_rotor_model=Деревянная лопасть ротора
+iu.windrod.bronze_rotor_model=Бронзовая лопасть ротора
+iu.windrod.iron_rotor_model=Железная лопасть ротора
+iu.windrod.steel_rotor_model=Стальная лопасть ротора
+iu.windrod.carbon_rotor_model=Углеволоконная лопасть ротора
+iu.windrod.carbon_rotor_model1=Иридиевая лопасть ротора
+iu.windrod.carbon_rotor_model2=Лопасть ротора сжатого иридия
+iu.windrod.carbon_rotor_model3=Спектральная лопасть ротора
+iu.windrod.carbon_rotor_model4=Мистическая лопасть ротора
+iu.windrod.carbon_rotor_model5=Нейтронная лопасть ротора
+iu.windrod.carbon_rotor_model6=Фотонная лопасть ротора
+iu.windrod.carbon_rotor_model7=Барионная лопасть ротора
+iu.windrod.carbon_rotor_model8=Адронная лопасть ротора
+iu.windrod.carbon_rotor_model9=Ультрамариновая лопасть ротора
+
+#Роторы
 iu.compressiridium=§7Ротор сжатого иридия
 iu.iridium=§fИридиевый ротор
 iu.spectral=§eСпектральный ротор
@@ -1628,7 +1646,7 @@ industrialupgrade.basemachine3.tuner=Настройщик беспроводно
 industrialupgrade.basemachine3.spawner=Автоматический охотник
 industrialupgrade.basemachine3.elec_heat=Электрический нагреватель
 industrialupgrade.basemachine3.fluid_heat=Жидкостный нагреватель
-industrialupgrade.basemachine3.antimagnit=Противомагнитная машина
+industrialupgrade.basemachine3.antimagnet=Противомагнитная машина
 industrialupgrade.basemachine3.antiupgradeblock=Станция снятия модулей
 
 # Генераторы твёрдой материи
@@ -1673,7 +1691,6 @@ iu.upgrades.transformerupgrade2=Улучшение «Трансформатор 
 
 iu.blacklist=Чёрный список
 iu.whitelist=Белый список
-
 
 iu.circuit.circuit_part1=Конденсатор
 iu.circuit.circuit_part2=Чип SOIC

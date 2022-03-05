@@ -207,7 +207,8 @@ iu.circuit.quantumcircuit=Quantum Circuit
 iu.circuit.spectralcircuit=§dSpectral Circuit
 iu.circuit.photoncircuit=§aPhotonic Circuit
 
-iu.blockCable=Cable
+iu.qcable=Quantum Energy Cable
+
 iu.chaosingot.name=§7Chaos Ingot
 iu.coal_chunk.name=Coal Chunk
 iu.compresscarbon.name=Compressed Carbon
@@ -449,6 +450,23 @@ iu.toriy=Thorium
 iu.radiationresources.rad_toriy=Irradiant Thorium
 iu.thorium_ore.name=Thorium Ore
 
+#Blades
+iu.windrod.oak_rotor_model=Wood Rotor Blade
+iu.windrod.bronze_rotor_model=Bronze Rotor Blade
+iu.windrod.iron_rotor_model=Iron Rotor Blade
+iu.windrod.steel_rotor_model=Steel Rotor Blade
+iu.windrod.carbon_rotor_model=Carbon Rotor Blade
+iu.windrod.carbon_rotor_model1=Iridium Rotor Blade
+iu.windrod.carbon_rotor_model2=Compressed Iridium Rotor Blade
+iu.windrod.carbon_rotor_model3=Spectral Rotor Blade
+iu.windrod.carbon_rotor_model4=Mythical Rotor Blade
+iu.windrod.carbon_rotor_model5=Neutron Rotor Blade
+iu.windrod.carbon_rotor_model6=Photonic Rotor Blade
+iu.windrod.carbon_rotor_model7=Baryon Rotor Blade
+iu.windrod.carbon_rotor_model8=Hadron Rotor Blade
+iu.windrod.carbon_rotor_model9=Ultramarine Rotor Blade
+
+#Rotors
 iu.compressiridium=§7Compressed Iridium Rotor
 iu.iridium=§fIridium Rotor
 iu.spectral=§eSpectral Rotor
@@ -1628,7 +1646,7 @@ industrialupgrade.basemachine3.tuner=Wireless Adjuster
 industrialupgrade.basemachine3.spawner=Automatic Hunter
 industrialupgrade.basemachine3.elec_heat=Electric Heater
 industrialupgrade.basemachine3.fluid_heat=Liquid Heater
-industrialupgrade.basemachine3.antimagnit=Anit-magnetic Machine
+industrialupgrade.basemachine3.antimagnet=Anit-magnetic Machine
 industrialupgrade.basemachine3.antiupgradeblock=Module Removal Station
 
 # Solid Matter Generators
