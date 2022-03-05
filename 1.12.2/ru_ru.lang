@@ -163,6 +163,22 @@ iu.elementium_core.name=§dЭлементиевое ядро
 iu.neutroncore.name=§9Нейтрониевое ядро
 iu.infinitycore.name=§fЯдро бесконечности
 
+# Возбуждённые ядра
+iu.excitednucleus.advcore=Возбуждённое улучшенное ядро
+iu.excitednucleus.hybcore=Возбуждённое гибридное ядро
+iu.excitednucleus.ultcore=Возбуждённое совершенное ядро
+iu.excitednucleus.quacore=Возбуждённое квантовое ядро
+iu.excitednucleus.specore=Возбуждённое спектральное ядро
+iu.excitednucleus.procore=Возбуждённое протонное ядро
+iu.excitednucleus.sincore=Возбуждённое сингулярное ядро
+iu.excitednucleus.admcore=Возбуждённое дифракционное ядро
+iu.excitednucleus.phocore=Возбуждённое фотонное ядро
+iu.excitednucleus.neucore=Возбуждённое нейтронное ядро
+iu.excitednucleus.barcore=Возбуждённое барионное ядро
+iu.excitednucleus.adrcore=Возбуждённое адронное ядро
+iu.excitednucleus.gracore=Возбуждённое гравитонное ядро
+iu.excitednucleus.kvrcore=Возбуждённое кварковое ядро
+
 iu.neutronium.name=§9Нейтронный осколок
 iu.neutroniumingot.name=§9Нейтронный слиток
 
@@ -189,6 +205,7 @@ iu.itemglasscablei=§7Провод бесконечности
 iu.circuit.nanocircuit=Нано-электросхема
 iu.circuit.quantumcircuit=Квантовая электросхема
 iu.circuit.spectralcircuit=§dСпектральная электросхема
+iu.circuit.photoncircuit=§aФотонная электросхема
 
 iu.blockCable=Кабель
 iu.chaosingot.name=§7Слиток Хаоса
@@ -1583,7 +1600,7 @@ iu.AspGen.name=Генератор аспектов
 
 industrialupgrade.basemachine.generator_microchip=Производитель микросхем
 blockConverterSolidMatter.name=Преобразователь твёрдой материи
-iu.converter_solid.converter_solid=Преобразователь твёрдой материи
+industrialupgrade.converter_matter.converter_matter=Преобразователь твёрдой материи
 industrialupgrade.basemachine.modulator=Модульный обработчик
 industrialupgrade.basemachine1.enrichment=Обогатитель
 industrialupgrade.basemachine1.synthesis=Реактор ядерного синтеза
@@ -1611,6 +1628,8 @@ industrialupgrade.basemachine3.tuner=Настройщик беспроводно
 industrialupgrade.basemachine3.spawner=Автоматический охотник
 industrialupgrade.basemachine3.elec_heat=Электрический нагреватель
 industrialupgrade.basemachine3.fluid_heat=Жидкостный нагреватель
+industrialupgrade.basemachine3.antimagnit=Противомагнитная машина
+industrialupgrade.basemachine3.antiupgradeblock=Станция снятия модулей
 
 # Генераторы твёрдой материи
 industrialupgrade.solid.aer_solidmatter=Генератор воздушной твёрдой материи
@@ -1655,6 +1674,10 @@ iu.upgrades.transformerupgrade2=Улучшение «Трансформатор 
 iu.blacklist=Чёрный список
 iu.whitelist=Белый список
 
+
+iu.circuit.circuit_part1=Конденсатор
+iu.circuit.circuit_part2=Чип SOIC
+iu.circuit.circuit_part3=Чип QFP
 iu.circuit.advanced_part1=Улучшенный конденсатор
 iu.circuit.advanced_part2=Улучшенный чип SOIC
 iu.circuit.advanced_part3=Улучшенный чип QFP
@@ -1667,6 +1690,9 @@ iu.circuit.quantumcircuit_part3=Квантовый чип QFP
 iu.circuit.spectralcircuit_part1=Спектральный конденсатор
 iu.circuit.spectralcircuit_part2=Спектральный чип SOIC
 iu.circuit.spectralcircuit_part3=Спектральный чип QFP
+iu.circuit.photon_part1=Фотонный конденсатор
+iu.circuit.photon_part2=Фотонный чип SOIC
+iu.circuit.photon_part3=Фотонный чип QFP
 
 iu.anode=Анод
 iu.cathode=Катод
@@ -2128,3 +2154,8 @@ iu.improved_name=Продвинутая
 iu.perfect_name=Совершенная
 iu.canupdate=Вы можете улучшить данный механизм с помощью: 
 iu.scanning_accept=Сканировать
+description.basic=Основные положения о IU
+description.basic.info=Первое сообщение
+iu.text1=Приветствую тебя, игрок! С IU тебя ждут незабываемые приключения! Здесь ты встретишь разнообразные технологии: от тепловых, до квантовых, от простых улучшений до технологий преобразования предметов. IU является уникальным модом со своей концепцией развития, не имеющий аналогов. Главное правило IU - собирать каждый ресурс, ибо каждый ресурс необходим для продвижения в развитии по IU.
+iu.soon=Скоро (3.0)
+button.need_mod=Снять

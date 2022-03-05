@@ -163,6 +163,22 @@ iu.elementium_core.name=§dElementium Core
 iu.neutroncore.name=§9Neutronium Core
 iu.infinitycore.name=§fInfinity Core
 
+# Excited Cores
+iu.excitednucleus.advcore=Excited Advanced Core
+iu.excitednucleus.hybcore=Excited Hybrid Core
+iu.excitednucleus.ultcore=Excited Perfect Core
+iu.excitednucleus.quacore=Excited Quantum Core
+iu.excitednucleus.specore=Excited Spectral Core
+iu.excitednucleus.procore=Excited Protonic Core
+iu.excitednucleus.sincore=Excited Singular Core
+iu.excitednucleus.admcore=Excited Diffractive Core
+iu.excitednucleus.phocore=Excited Photonic Core
+iu.excitednucleus.neucore=Excited Neutron Core
+iu.excitednucleus.barcore=Excited Baryon Core
+iu.excitednucleus.adrcore=Excited Hadron Core
+iu.excitednucleus.gracore=Excited Graviton Core
+iu.excitednucleus.kvrcore=Excited Quark Core
+
 iu.neutronium.name=§9Neutron Shard
 iu.neutroniumingot.name=§9Neutron Ingot
 
@@ -189,6 +205,7 @@ iu.itemglasscablei=§7Infinity Cable
 iu.circuit.nanocircuit=Nano Circuit
 iu.circuit.quantumcircuit=Quantum Circuit
 iu.circuit.spectralcircuit=§dSpectral Circuit
+iu.circuit.photoncircuit=§aPhotonic Circuit
 
 iu.blockCable=Cable
 iu.chaosingot.name=§7Chaos Ingot
@@ -1583,7 +1600,7 @@ iu.AspGen.name=Aspect Generator
 
 industrialupgrade.basemachine.generator_microchip=Circuit Manufacturer
 blockConverterSolidMatter.name=Solid Matter Transformer
-iu.converter_solid.converter_solid=Solid Matter Transformer
+industrialupgrade.converter_matter.converter_matter=Solid Matter Transformer
 industrialupgrade.basemachine.modulator=Module Handler
 industrialupgrade.basemachine1.enrichment=Enrichment
 industrialupgrade.basemachine1.synthesis=Nuclear Fusion Reactor
@@ -1611,6 +1628,8 @@ industrialupgrade.basemachine3.tuner=Wireless Adjuster
 industrialupgrade.basemachine3.spawner=Automatic Hunter
 industrialupgrade.basemachine3.elec_heat=Electric Heater
 industrialupgrade.basemachine3.fluid_heat=Liquid Heater
+industrialupgrade.basemachine3.antimagnit=Anit-magnetic Machine
+industrialupgrade.basemachine3.antiupgradeblock=Module Removal Station
 
 # Solid Matter Generators
 industrialupgrade.solid.aer_solidmatter=Air Solid Matter Generator
@@ -1655,6 +1674,9 @@ iu.upgrades.transformerupgrade2=Transformer Upgrade x4
 iu.blacklist=Blacklist
 iu.whitelist=Whitelist
 
+iu.circuit.circuit_part1=Capacitor
+iu.circuit.circuit_part2=SOIC Chip
+iu.circuit.circuit_part3=QFP Chip
 iu.circuit.advanced_part1=Advanced Capacitor
 iu.circuit.advanced_part2=Advanced SOIC Chip
 iu.circuit.advanced_part3=Advanced QFP Chip
@@ -1667,6 +1689,9 @@ iu.circuit.quantumcircuit_part3=Quantum QFP Chip
 iu.circuit.spectralcircuit_part1=Spectral Capacitor
 iu.circuit.spectralcircuit_part2=Spectral SOIC Chip
 iu.circuit.spectralcircuit_part3=Spectral QFP Chip
+iu.circuit.photon_part1=Photonic Capacitor
+iu.circuit.photon_part2=Photonic SOIC Chip
+iu.circuit.photon_part3=Photonic QFP Chip
 
 iu.anode=Anode
 iu.cathode=Cathode
@@ -2128,3 +2153,8 @@ iu.improved_name=Advanced
 iu.perfect_name=Perfect
 iu.canupdate=You can improve this car with: 
 iu.scanning_accept=Scan
+description.basic=Fundamentals of the IU
+description.basic.info=First Message
+iu.text1=Hello player! Unforgettable adventures await you with IU! Here you will find a variety of technologies: from thermal to quantum, from simple improvements to technologies for transforming objects. IU is a unique mod with its concept of progress, which is unparalleled. The main rule of IU is to collect every resource, because every resource is necessary to advance progress in IU.
+iu.soon=Soon (3.0)
+button.need_mod=Remove
