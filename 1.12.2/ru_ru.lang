@@ -185,10 +185,10 @@ iu.neutroniumingot.name=§9Нейтронный слиток
 industrialupgrade.basemachine.neutron_generator=§9Генератор нейтронных частиц
 iu.Matter.gui.name=§bГенератор нейтронных частиц
 
-iu.nanobox.name=§8Нано-ящик для инструментов
-iu.quantumitems7.name=§eУлучшенный нано-ящик для инструментов
-iu.quantumitems6.name=§bКвантовый ящик для инструментов
-iu.quantumitems3.name=Улучшенный квантовый ящик для инструментов
+iu.nanobox.name=§8Нано-ящик
+iu.quantumitems7.name=§eУлучшенный нано-ящик
+iu.quantumitems6.name=§bКвантовый ящик
+iu.quantumitems3.name=Улучшенный квантовый ящик
 
 iu.itemcable=§aСпектральный провод
 iu.itemcableo=§9Протонный провод
