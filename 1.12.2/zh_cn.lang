@@ -107,6 +107,9 @@ item.ultimate_solar_helmet.name=§9完美太阳能头盔
 item.spectral_solar_helmet.name=§e光谱太阳能头盔
 item.singular_solar_helmet.name=§8奇异太阳能头盔
 
+#Katana
+iu.katana=Katana
+
 # Sabers
 iu.itemNanoSaber1=量子原力剑
 iu.itemNanoSaber=光谱原力剑
@@ -185,11 +188,13 @@ iu.neutroniumingot.name=§9中子锭
 industrialupgrade.basemachine.neutron_generator=§9中子粒子发生器
 iu.Matter.gui.name=§b中子粒子发生器
 
+# Boxes
 iu.nanobox.name=§8纳米工具盒
 iu.quantumitems7.name=§e高级纳米工具盒
 iu.quantumitems6.name=§b量子工具盒
 iu.quantumitems3.name=改良的量子工具箱
 
+# Cables
 iu.itemcable=§a光谱电缆
 iu.itemcableo=§9质子电缆
 iu.itemgoldсable=§e奇异电缆
@@ -202,12 +207,8 @@ iu.itemironcableiiii=§6环宇电缆
 iu.itemglasscable=§c衍射电缆
 iu.itemglasscablei=§7无尽电缆
 
-iu.circuit.nanocircuit=纳米电路板
-iu.circuit.quantumcircuit=量子电路板
-iu.circuit.spectralcircuit=§d光谱电路板
-iu.circuit.photoncircuit=§aPhotonic Circuit
-
 iu.qcable=Quantum Energy Cable
+iu.scable=Solar Energy Cable
 
 iu.chaosingot.name=§7混沌锭
 iu.coal_chunk.name=煤块
@@ -381,6 +382,10 @@ iu.spawnermodules.spawner_module5=猎人模块:经验 +50%
 iu.spawnermodules.spawner_module6=猎人模块:2 生物
 iu.spawnermodules.spawner_module7=猎人模块:3 生物
 
+iu.itemcoolupgrade.azote=Nitrogen Cooling Module
+iu.itemcoolupgrade.hydrogen=Hydrogen Cooling Module
+iu.itemcoolupgrade.helium=Helium Cooling Module
+
 ic2.item.tooltip.Output=输出:
 ic2.item.tooltip.Capacity=储存:
 iu.module1=§e提高太阳能在白天的产能通过以下方式§2
@@ -519,6 +524,7 @@ itemGroup.OreTab=工业升级矿物
 itemGroup.EnergyTab=工业升级工具/装甲
 itemGroup.ResourceTab=IU Resources
 itemGroup.ReactorsTab=IU Radioactive
+itemGroup.UpgradeTab=IU: Upgrades
 
 itemCellEmpty.name=高级单元
 itemCellUuMatter.name=液化的中子
@@ -659,6 +665,8 @@ iu.fluidpolyprop=聚丙烯
 iu.fluidhyd=氢
 iu.fluidoxy=氧
 iu.fluidpolyeth=聚乙烯
+iu.fluidazot=Nitrogen
+iu.fluidco2=Carbon dioxide
 fluid.luidNeutron=中子
 fluid.luidHelium=氦
 fluid.luidbenz=汽油
@@ -668,6 +676,8 @@ fluid.luidpolyprop=聚丙烯
 fluid.luidhyd=氢
 fluid.luidoxy=氧
 fluid.luidpolyeth=聚乙烯
+fluid.luidazot=Nitrogen
+fluid.luidco2=Carbon dioxide
 
 #Bucket. The following lines are aligned with other localizations.
 #item.forge.bucketFilled.iufluidneutron
@@ -679,6 +689,8 @@ fluid.luidpolyeth=聚乙烯
 #item.forge.bucketFilled.iufluidhyd
 #item.forge.bucketFilled.iufluidoxy
 #item.forge.bucketFilled.iufluidpolyeth
+#item.forge.bucketFilled.iufluidazot
+#item.forge.bucketFilled.iufluidco2
 
 #Cells
 iu.itemcell.empty=单元
@@ -1650,6 +1662,8 @@ industrialupgrade.basemachine3.elec_heat=电热器
 industrialupgrade.basemachine3.fluid_heat=液体加热器
 industrialupgrade.basemachine3.antimagnet=Anit-magnetic Machine
 industrialupgrade.basemachine3.antiupgradeblock=Module Removal Station
+industrialupgrade.basemachine3.watergenerator=Water Generator
+industrialupgrade.basemachine3.watergenerator=Refrigerator
 
 # Solid Matter Generators
 industrialupgrade.solid.aer_solidmatter=空气固体物质发生器
@@ -1694,6 +1708,7 @@ iu.upgrades.transformerupgrade2=变压器升级 x4
 iu.blacklist=黑名单
 iu.whitelist=白名单
 
+# Circuit Parts
 iu.circuit.circuit_part1=Capacitor
 iu.circuit.circuit_part2=SOIC Chip
 iu.circuit.circuit_part3=QFP Chip
@@ -1712,6 +1727,12 @@ iu.circuit.spectralcircuit_part3=光谱方型扁平式封装技术芯片
 iu.circuit.photon_part1=Photonic Capacitor
 iu.circuit.photon_part2=Photonic SOIC Chip
 iu.circuit.photon_part3=Photonic QFP Chip
+
+# Circuits
+iu.circuit.nanocircuit=纳米电路板
+iu.circuit.quantumcircuit=量子电路板
+iu.circuit.spectralcircuit=§d光谱电路板
+iu.circuit.photoncircuit=§aPhotonic Circuit
 
 iu.anode=阳极
 iu.cathode=阴极

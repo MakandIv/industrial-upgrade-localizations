@@ -107,6 +107,9 @@ item.ultimate_solar_helmet.name=§9Perfect Solar Helmet
 item.spectral_solar_helmet.name=§eSpectral Solar Helmet
 item.singular_solar_helmet.name=§8Singular Solar Helmet
 
+#Katana
+iu.katana=Katana
+
 # Sabers
 iu.itemNanoSaber1=Quantum Saber
 iu.itemNanoSaber=Spectral Saber
@@ -185,11 +188,13 @@ iu.neutroniumingot.name=§9Neutron Ingot
 industrialupgrade.basemachine.neutron_generator=§9Neutron Particle Generator
 iu.Matter.gui.name=§bNeutron Particle Generator
 
+# Boxes
 iu.nanobox.name=§8Nano Box
 iu.quantumitems7.name=§eAdvanced Nano Box
 iu.quantumitems6.name=§bQuantum Box
 iu.quantumitems3.name=Improved Quantum Box
 
+# Cables
 iu.itemcable=§aSpectral Cable
 iu.itemcableo=§9Protonic Cable
 iu.itemgoldсable=§eSingular Cable
@@ -202,12 +207,8 @@ iu.itemironcableiiii=§6Universe Cable
 iu.itemglasscable=§cDiffractive Cable
 iu.itemglasscablei=§7Infinity Cable
 
-iu.circuit.nanocircuit=Nano Circuit
-iu.circuit.quantumcircuit=Quantum Circuit
-iu.circuit.spectralcircuit=§dSpectral Circuit
-iu.circuit.photoncircuit=§aPhotonic Circuit
-
 iu.qcable=Quantum Energy Cable
+iu.scable=Solar Energy Cable
 
 iu.chaosingot.name=§7Chaos Ingot
 iu.coal_chunk.name=Coal Chunk
@@ -380,6 +381,10 @@ iu.spawnermodules.spawner_module4=Hunter Module: Experience +25%
 iu.spawnermodules.spawner_module5=Hunter Module: Experience +50%
 iu.spawnermodules.spawner_module6=Hunter Module: 2 Mobs
 iu.spawnermodules.spawner_module7=Hunter Module: 3 Mobs
+
+iu.itemcoolupgrade.azote=Nitrogen Cooling Module
+iu.itemcoolupgrade.hydrogen=Hydrogen Cooling Module
+iu.itemcoolupgrade.helium=Helium Cooling Module
 
 ic2.item.tooltip.Output=Output:
 ic2.item.tooltip.Capacity=Store:
@@ -660,6 +665,8 @@ iu.fluidpolyprop=Polypropylene
 iu.fluidhyd=Hydrogen
 iu.fluidoxy=Oxygen
 iu.fluidpolyeth=Polyethylene
+iu.fluidazot=Nitrogen
+iu.fluidco2=Carbon dioxide
 fluid.luidNeutron=Neutron
 fluid.luidHelium=Helium
 fluid.luidbenz=Gasoline
@@ -669,6 +676,8 @@ fluid.luidpolyprop=Polypropylene
 fluid.luidhyd=Hydrogen
 fluid.luidoxy=Oxygen
 fluid.luidpolyeth=Polyethylene
+fluid.luidazot=Nitrogen
+fluid.luidco2=Carbon dioxide
 
 #Bucket. The following lines are aligned with other localizations.
 #item.forge.bucketFilled.iufluidneutron
@@ -680,6 +689,8 @@ fluid.luidpolyeth=Polyethylene
 #item.forge.bucketFilled.iufluidhyd
 #item.forge.bucketFilled.iufluidoxy
 #item.forge.bucketFilled.iufluidpolyeth
+#item.forge.bucketFilled.iufluidazot
+#item.forge.bucketFilled.iufluidco2
 
 #Cells
 iu.itemcell.empty=Cell
@@ -1651,6 +1662,8 @@ industrialupgrade.basemachine3.elec_heat=Electric Heater
 industrialupgrade.basemachine3.fluid_heat=Liquid Heater
 industrialupgrade.basemachine3.antimagnet=Anit-magnetic Machine
 industrialupgrade.basemachine3.antiupgradeblock=Module Removal Station
+industrialupgrade.basemachine3.watergenerator=Water Generator
+industrialupgrade.basemachine3.watergenerator=Refrigerator
 
 # Solid Matter Generators
 industrialupgrade.solid.aer_solidmatter=Air Solid Matter Generator
@@ -1695,6 +1708,7 @@ iu.upgrades.transformerupgrade2=Transformer Upgrade x4
 iu.blacklist=Blacklist
 iu.whitelist=Whitelist
 
+# Circuit Parts
 iu.circuit.circuit_part1=Capacitor
 iu.circuit.circuit_part2=SOIC Chip
 iu.circuit.circuit_part3=QFP Chip
@@ -1713,6 +1727,12 @@ iu.circuit.spectralcircuit_part3=Spectral QFP Chip
 iu.circuit.photon_part1=Photonic Capacitor
 iu.circuit.photon_part2=Photonic SOIC Chip
 iu.circuit.photon_part3=Photonic QFP Chip
+
+# Circuits
+iu.circuit.nanocircuit=Nano Circuit
+iu.circuit.quantumcircuit=Quantum Circuit
+iu.circuit.spectralcircuit=§dSpectral Circuit
+iu.circuit.photoncircuit=§aPhotonic Circuit
 
 iu.anode=Anode
 iu.cathode=Cathode

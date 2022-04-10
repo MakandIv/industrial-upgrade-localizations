@@ -107,6 +107,9 @@ item.ultimate_solar_helmet.name=§9Совершенный солнечный ш�
 item.spectral_solar_helmet.name=§eСпектральный солнечный шлем
 item.singular_solar_helmet.name=§8Сингулярный солнечный шлем
 
+#Катана
+iu.katana=Катана
+
 # Сабли
 iu.itemNanoSaber1=Квантовая сабля
 iu.itemNanoSaber=Спектральная сабля
@@ -185,11 +188,13 @@ iu.neutroniumingot.name=§9Нейтронный слиток
 industrialupgrade.basemachine.neutron_generator=§9Генератор нейтронных частиц
 iu.Matter.gui.name=§bГенератор нейтронных частиц
 
+# Ящики
 iu.nanobox.name=§8Нано-ящик
 iu.quantumitems7.name=§eУлучшенный нано-ящик
 iu.quantumitems6.name=§bКвантовый ящик
 iu.quantumitems3.name=Улучшенный квантовый ящик
 
+# Провода
 iu.itemcable=§aСпектральный провод
 iu.itemcableo=§9Протонный провод
 iu.itemgoldсable=§eСингулярный провод
@@ -202,12 +207,8 @@ iu.itemironcableiiii=§6Вселенский провод
 iu.itemglasscable=§cДифракционный провод
 iu.itemglasscablei=§7Провод бесконечности
 
-iu.circuit.nanocircuit=Нано-электросхема
-iu.circuit.quantumcircuit=Квантовая электросхема
-iu.circuit.spectralcircuit=§dСпектральная электросхема
-iu.circuit.photoncircuit=§aФотонная электросхема
-
 iu.qcable=Провод квантовой энергии
+iu.scable=Провод солнечной энергии
 
 iu.chaosingot.name=§7Слиток Хаоса
 iu.coal_chunk.name=Угольная глыба
@@ -380,6 +381,10 @@ iu.spawnermodules.spawner_module4=Охотничий модуль: Опыт +25%
 iu.spawnermodules.spawner_module5=Охотничий модуль: Опыт +50%
 iu.spawnermodules.spawner_module6=Охотничий модуль: 2 моба
 iu.spawnermodules.spawner_module7=Охотничий модуль: 3 моба
+
+iu.itemcoolupgrade.azote=Азотный модуль охлаждения
+iu.itemcoolupgrade.hydrogen=Водородный модуль охлаждения
+iu.itemcoolupgrade.helium=Гелиевый модуль охлаждения
 
 ic2.item.tooltip.Output=Выход:
 ic2.item.tooltip.Capacity=Хранит:
@@ -660,6 +665,8 @@ iu.fluidpolyprop=Полипропилен
 iu.fluidhyd=Водород
 iu.fluidoxy=Кислород
 iu.fluidpolyeth=Полиэтилен
+iu.fluidazot=Азот
+iu.fluidco2=Диоксид углерода
 fluid.luidNeutron=Нейтрон
 fluid.luidHelium=Гелий
 fluid.luidbenz=Бензин
@@ -669,6 +676,8 @@ fluid.luidpolyprop=Полипропилен
 fluid.luidhyd=Водород
 fluid.luidoxy=Кислород
 fluid.luidpolyeth=Полиэтилен
+fluid.luidazot=Азот
+fluid.luidco2=Диоксид углерода
 
 #Вёдра
 item.forge.bucketFilled.iufluidneutron=Ведро нейтрона
@@ -680,6 +689,8 @@ item.forge.bucketFilled.iufluidpolyprop=Ведро полипропилена
 item.forge.bucketFilled.iufluidhyd=Ведро водорода
 item.forge.bucketFilled.iufluidoxy=Ведро кислорода
 item.forge.bucketFilled.iufluidpolyeth=Ведро полиэтилена
+item.forge.bucketFilled.iufluidazot=Ведро азота
+item.forge.bucketFilled.iufluidco2=Ведро углекислого газа
 
 #Капсулы
 iu.itemcell.empty=Капсула
@@ -1619,7 +1630,7 @@ industrialupgrade.basemachine2.lava_gen=Генератор лавы
 industrialupgrade.basemachine2.helium_generator=Генератор гелия
 iu.AspGen.name=Генератор аспектов
 
-industrialupgrade.basemachine.generator_microchip=Производитель микросхем
+industrialupgrade.basemachine.generator_microchip=Производитель электросхем
 blockConverterSolidMatter.name=Преобразователь твёрдой материи
 industrialupgrade.converter_matter.converter_matter=Преобразователь твёрдой материи
 industrialupgrade.basemachine.modulator=Модульный обработчик
@@ -1651,6 +1662,8 @@ industrialupgrade.basemachine3.elec_heat=Электрический нагрев
 industrialupgrade.basemachine3.fluid_heat=Жидкостный нагреватель
 industrialupgrade.basemachine3.antimagnet=Противомагнитная машина
 industrialupgrade.basemachine3.antiupgradeblock=Станция снятия модулей
+industrialupgrade.basemachine3.watergenerator=Генератор воды
+industrialupgrade.basemachine3.cooling=Холодильник
 
 # Генераторы твёрдой материи
 industrialupgrade.solid.aer_solidmatter=Генератор воздушной твёрдой материи
@@ -1695,6 +1708,7 @@ iu.upgrades.transformerupgrade2=Улучшение «Трансформатор 
 iu.blacklist=Чёрный список
 iu.whitelist=Белый список
 
+# Части электросхемы
 iu.circuit.circuit_part1=Конденсатор
 iu.circuit.circuit_part2=Чип SOIC
 iu.circuit.circuit_part3=Чип QFP
@@ -1713,6 +1727,12 @@ iu.circuit.spectralcircuit_part3=Спектральный чип QFP
 iu.circuit.photon_part1=Фотонный конденсатор
 iu.circuit.photon_part2=Фотонный чип SOIC
 iu.circuit.photon_part3=Фотонный чип QFP
+
+# Электросхемы
+iu.circuit.nanocircuit=Нано-электросхема
+iu.circuit.quantumcircuit=Квантовая электросхема
+iu.circuit.spectralcircuit=§dСпектральная электросхема
+iu.circuit.photoncircuit=§aФотонная электросхема
 
 iu.anode=Анод
 iu.cathode=Катод
