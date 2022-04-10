@@ -512,11 +512,14 @@ iu.storage.helmet=Ёмкость энергии панели:
 successfully.charged=Успешно заряжено 
 iu.sendenergy=. Потрачено: 
 
-itemGroup.IUTab=Industrial Upgrade: Блоки
-itemGroup.ModuleTab=Industrial Upgrade: Модули
-itemGroup.EnergyTab=Industrial Upgrade: Инструменты/Броня
-itemGroup.ItemTab=Industrial Upgrade: Предметы
-itemGroup.OreTab=Industrial Upgrade: Руды
+itemGroup.IUTab=IU: Блоки
+itemGroup.ModuleTab=IU: Модули
+itemGroup.ItemTab=IU: Предметы
+itemGroup.OreTab=IU: Руды
+itemGroup.EnergyTab=IU: Инструменты/Броня
+itemGroup.ResourceTab=IU: Ресурсы
+itemGroup.ReactorsTab=IU: Радиактивность
+itemGroup.UpgradeTab=IU: Улучшения
 
 itemCellEmpty.name=Улучшенная капсула
 itemCellUuMatter.name=Сжиженный нейтрон
@@ -1722,6 +1725,10 @@ iu.paints.redpaint=Красная краска
 iu.paints.orangepaint=Оранжевая краска
 iu.paints.darkbluepaint=Синяя краска
 iu.paints.purplepaint=Фиолетовая краска
+iu.paints.turquoisepaint=Бирюзовая краска
+iu.paints.whitepaint=Белая краска
+iu.paints.lightyellowpaint=Светло-жёлтая краска
+iu.paints.limepaint=Лаймовая краска
 
 iu.time=Осталось: 
 iu.hour=ч. 

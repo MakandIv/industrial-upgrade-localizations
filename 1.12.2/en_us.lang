@@ -512,11 +512,14 @@ iu.storage.helmet=Panel Energy Capacity:
 successfully.charged=Successfully Charged 
 iu.sendenergy=. Spent: 
 
-itemGroup.IUTab=Industrial Upgrade Blocks
-itemGroup.ModuleTab=Industrial Upgrade Modules
-itemGroup.EnergyTab=Industrial Upgrade Tools/Armor
-itemGroup.ItemTab=Industrial Upgrade Items
-itemGroup.OreTab=Industrial Upgrade Ores
+itemGroup.IUTab=IU: Blocks
+itemGroup.ModuleTab=IU: Modules
+itemGroup.ItemTab=IU: Items
+itemGroup.OreTab=IU: Ores
+itemGroup.EnergyTab=IU: Tools/Armor
+itemGroup.ResourceTab=IU: Resources
+itemGroup.ReactorsTab=IU: Radioactive
+itemGroup.UpgradeTab=IU: Upgrades
 
 itemCellEmpty.name=Advanced Cell
 itemCellUuMatter.name=Liquefied Neutron
@@ -1722,6 +1725,10 @@ iu.paints.redpaint=Red Paint
 iu.paints.orangepaint=Orange Paint
 iu.paints.darkbluepaint=Blue Paint
 iu.paints.purplepaint=Purple Paint
+iu.paints.turquoisepaint=Turquoise Paint
+iu.paints.whitepaint=White Paint
+iu.paints.lightyellowpaint=Light Yellow Paint
+iu.paints.limepaint=Lime Paint
 
 iu.time=Time left: 
 iu.hour=h. 

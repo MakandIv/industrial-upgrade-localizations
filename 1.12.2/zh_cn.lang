@@ -514,9 +514,11 @@ iu.sendenergy=. 耗尽:
 
 itemGroup.IUTab=工业升级方块
 itemGroup.ModuleTab=工业升级模块
-itemGroup.EnergyTab=工业升级工具/装甲
 itemGroup.ItemTab=工业升级物品
 itemGroup.OreTab=工业升级矿物
+itemGroup.EnergyTab=工业升级工具/装甲
+itemGroup.ResourceTab=IU Resources
+itemGroup.ReactorsTab=IU Radioactive
 
 itemCellEmpty.name=高级单元
 itemCellUuMatter.name=液化的中子
@@ -1722,6 +1724,10 @@ iu.paints.redpaint=红色油漆罐
 iu.paints.orangepaint=橙色油漆罐
 iu.paints.darkbluepaint=蓝色油漆罐
 iu.paints.purplepaint=紫色油漆罐
+iu.paints.turquoisepaint=Turquoise Paint
+iu.paints.whitepaint=White Paint
+iu.paints.lightyellowpaint=Light Yellow Paint
+iu.paints.limepaint=Lime Paint
 
 iu.time=剩下的时间: 
 iu.hour=h. 
