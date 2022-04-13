@@ -455,7 +455,23 @@ iu.toriy=钍
 iu.radiationresources.rad_toriy=光辉钍
 iu.thorium_ore.name=钍矿石
 
-#Blades
+# Rotor Cores
+iu.corewind.core_wind=Wood Rotor Core
+iu.corewind.core_wind1=Bronze Rotor Core
+iu.corewind.core_wind2=Iron Rotor Core
+iu.corewind.core_wind3=Steel Rotor Core
+iu.corewind.core_wind4=Carbon Rotor Core
+iu.corewind.core_wind5=Iridium Rotor Core
+iu.corewind.core_wind6=Compressed Iridium Rotor Core
+iu.corewind.core_wind7=Spectral Rotor Core
+iu.corewind.core_wind8=Mythical Rotor Core
+iu.corewind.core_wind9=Neutron Rotor Core
+iu.corewind.core_wind10=Photonic Rotor Core
+iu.corewind.core_wind11=Baryon Rotor Core
+iu.corewind.core_wind12=Hadron Rotor Core
+iu.corewind.core_wind13=Ultramarine Rotor Core
+
+# Rotor Blades
 iu.windrod.oak_rotor_model=Wood Rotor Blade
 iu.windrod.bronze_rotor_model=Bronze Rotor Blade
 iu.windrod.iron_rotor_model=Iron Rotor Blade
@@ -1498,9 +1514,7 @@ industrialupgrade.moremachine.double_extractor=改良提取机
 industrialupgrade.moremachine.triple_extractor=高级提取机
 industrialupgrade.moremachine.quad_extractor=完美提取机
 
-iu.blockMacerator.name=改良打粉机
-iu.blockMacerator2.name=高级打粉机
-iu.blockMacerator3.name=完美打粉机
+industrialupgrade.simplemachine.macerator_iu=Macerator
 industrialupgrade.moremachine.double_macerator=改良打粉机
 industrialupgrade.moremachine.triple_macerator=高级打粉机
 industrialupgrade.moremachine.quad_macerator=完美打粉机
@@ -1663,7 +1677,7 @@ industrialupgrade.basemachine3.fluid_heat=液体加热器
 industrialupgrade.basemachine3.antimagnet=Anit-magnetic Machine
 industrialupgrade.basemachine3.antiupgradeblock=Module Removal Station
 industrialupgrade.basemachine3.watergenerator=Water Generator
-industrialupgrade.basemachine3.watergenerator=Refrigerator
+industrialupgrade.basemachine3.cooling=Refrigerator
 
 # Solid Matter Generators
 industrialupgrade.solid.aer_solidmatter=空气固体物质发生器
@@ -1814,6 +1828,11 @@ demonskin=皮肤: §4恶魔
 Darkskin=皮肤: §8暗黑
 Coldskin=皮肤: §b寒霜
 Enderskin=皮肤: §5末影
+Ukraineskin=Skin: §eUkrainian
+Emeraldskin=Skin: §aEmerald
+Taigaskin=Skin: §3Taiga
+Desertskin=Skin: §eSand
+Snowskin=Skin: §9Winter
 
 iu.plast.name=塑料
 iu.plastic_plate.name=塑料板
@@ -1838,6 +1857,8 @@ iu.electricstorageinformation7=即时无线充电只适用于 右键点击存储
 
 button.deny=Off
 button.allow=On
+
+button.sunnarium=§cOFF§r/§aON
 
 iu.quarryinformation=采石场的信息
 iu.quarryinformation1=使用模块提升你的采石场。

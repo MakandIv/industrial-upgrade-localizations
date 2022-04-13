@@ -455,7 +455,23 @@ iu.toriy=Торий
 iu.radiationresources.rad_toriy=Излучающий торий
 iu.thorium_ore.name=Ториевая руда
 
-#Лопасти
+# Ядра ротора
+iu.corewind.core_wind=Деревянное ядро ротора
+iu.corewind.core_wind1=Бронзовое ядро ротора
+iu.corewind.core_wind2=Железное ядро ротора
+iu.corewind.core_wind3=Стальное ядро ротора
+iu.corewind.core_wind4=Углеволоконное ядро ротора
+iu.corewind.core_wind5=Иридиевое ядро ротора
+iu.corewind.core_wind6=Ядро ротора сжатого иридия
+iu.corewind.core_wind7=Спектральное ядро ротора
+iu.corewind.core_wind8=Мистическое ядро ротора
+iu.corewind.core_wind9=Нейтронное ядро ротора
+iu.corewind.core_wind10=Фотонное ядро ротора
+iu.corewind.core_wind11=Барионное ядро ротора
+iu.corewind.core_wind12=Адронное ядро ротора
+iu.corewind.core_wind13=Ультрамариновое ядро ротора
+
+# Лопасти
 iu.windrod.oak_rotor_model=Деревянная лопасть ротора
 iu.windrod.bronze_rotor_model=Бронзовая лопасть ротора
 iu.windrod.iron_rotor_model=Железная лопасть ротора
@@ -1498,9 +1514,7 @@ industrialupgrade.moremachine.double_extractor=Улучшенный экстра
 industrialupgrade.moremachine.triple_extractor=Продвинутый экстрактор
 industrialupgrade.moremachine.quad_extractor=Совершенный экстрактор
 
-iu.blockMacerator.name=Улучшенный дробитель
-iu.blockMacerator2.name=Продвинутый дробитель
-iu.blockMacerator3.name=Совершенный дробитель
+industrialupgrade.simplemachine.macerator_iu=Дробитель
 industrialupgrade.moremachine.double_macerator=Улучшенный дробитель
 industrialupgrade.moremachine.triple_macerator=Продвинутый дробитель
 industrialupgrade.moremachine.quad_macerator=Совершенный дробитель
@@ -1814,6 +1828,11 @@ demonskin=Скин: §4Демонический
 Darkskin=Скин: §8Мрачный
 Coldskin=Скин: §bЛедяной 
 Enderskin=Скин: §5Ужаса
+Ukraineskin=Скин: §eУкраинский
+Emeraldskin=Скин: §aИзумрудный
+Taigaskin=Скин: §3Таёжный
+Desertskin=Скин: §eПесчаный
+Snowskin=Скин: §9Зимний
 
 iu.plast.name=Пластик
 iu.plastic_plate.name=Пластиковая пластина
@@ -1838,6 +1857,8 @@ iu.electricstorageinformation7=Мгновенная беспроводная з�
 
 button.deny=Выключить
 button.allow=Включить
+
+button.sunnarium=§cВыкл§r/§aВкл
 
 iu.quarryinformation=Информация о карьере
 iu.quarryinformation1=Используйте модули, чтобы усовершенствовать карьер.

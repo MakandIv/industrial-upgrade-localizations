@@ -455,7 +455,23 @@ iu.toriy=Thorium
 iu.radiationresources.rad_toriy=Irradiant Thorium
 iu.thorium_ore.name=Thorium Ore
 
-#Blades
+# Rotor Cores
+iu.corewind.core_wind=Wood Rotor Core
+iu.corewind.core_wind1=Bronze Rotor Core
+iu.corewind.core_wind2=Iron Rotor Core
+iu.corewind.core_wind3=Steel Rotor Core
+iu.corewind.core_wind4=Carbon Rotor Core
+iu.corewind.core_wind5=Iridium Rotor Core
+iu.corewind.core_wind6=Compressed Iridium Rotor Core
+iu.corewind.core_wind7=Spectral Rotor Core
+iu.corewind.core_wind8=Mythical Rotor Core
+iu.corewind.core_wind9=Neutron Rotor Core
+iu.corewind.core_wind10=Photonic Rotor Core
+iu.corewind.core_wind11=Baryon Rotor Core
+iu.corewind.core_wind12=Hadron Rotor Core
+iu.corewind.core_wind13=Ultramarine Rotor Core
+
+# Rotor Blades
 iu.windrod.oak_rotor_model=Wood Rotor Blade
 iu.windrod.bronze_rotor_model=Bronze Rotor Blade
 iu.windrod.iron_rotor_model=Iron Rotor Blade
@@ -471,7 +487,7 @@ iu.windrod.carbon_rotor_model7=Baryon Rotor Blade
 iu.windrod.carbon_rotor_model8=Hadron Rotor Blade
 iu.windrod.carbon_rotor_model9=Ultramarine Rotor Blade
 
-#Rotors
+# Rotors
 iu.compressiridium=§7Compressed Iridium Rotor
 iu.iridium=§fIridium Rotor
 iu.spectral=§eSpectral Rotor
@@ -1498,9 +1514,7 @@ industrialupgrade.moremachine.double_extractor=Improved Extractor
 industrialupgrade.moremachine.triple_extractor=Advanced Extractor
 industrialupgrade.moremachine.quad_extractor=Perfect Extractor
 
-iu.blockMacerator.name=Improved Macerator
-iu.blockMacerator2.name=Advanced Macerator
-iu.blockMacerator3.name=Perfect Macerator
+industrialupgrade.simplemachine.macerator_iu=Macerator
 industrialupgrade.moremachine.double_macerator=Improved Macerator
 industrialupgrade.moremachine.triple_macerator=Advanced Macerator
 industrialupgrade.moremachine.quad_macerator=Perfect Macerator
@@ -1663,7 +1677,7 @@ industrialupgrade.basemachine3.fluid_heat=Liquid Heater
 industrialupgrade.basemachine3.antimagnet=Anit-magnetic Machine
 industrialupgrade.basemachine3.antiupgradeblock=Module Removal Station
 industrialupgrade.basemachine3.watergenerator=Water Generator
-industrialupgrade.basemachine3.watergenerator=Refrigerator
+industrialupgrade.basemachine3.cooling=Refrigerator
 
 # Solid Matter Generators
 industrialupgrade.solid.aer_solidmatter=Air Solid Matter Generator
@@ -1814,6 +1828,11 @@ demonskin=Skin: §4Demonic
 Darkskin=Skin: §8Dark
 Coldskin=Skin: §bCold
 Enderskin=Skin: §5Ender
+Ukraineskin=Skin: §eUkrainian
+Emeraldskin=Skin: §aEmerald
+Taigaskin=Skin: §3Taiga
+Desertskin=Skin: §eSand
+Snowskin=Skin: §9Winter
 
 iu.plast.name=Plastic
 iu.plastic_plate.name=Plastic Plate
@@ -1838,6 +1857,8 @@ iu.electricstorageinformation7=Instant wireless charging only works with SHIFT +
 
 button.deny=Off
 button.allow=On
+
+button.sunnarium=§cOFF§r/§aON
 
 iu.quarryinformation=Quarry Information
 iu.quarryinformation1=Use modules to improve your quarry.
