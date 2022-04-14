@@ -5,9 +5,9 @@ Industrial Update Localization Updates is the Industrial Upgrade localization up
 
 | Language                     | Translator | 1.7.10            | 1.12.2 
 | :--------------------------: | :--------: | :---------------: | :---------------------:
-| Русский (Russian)            | Mak_and_Iv | Full (for 2.5.21) | Full (for 2.4 alpha 13.04.2022 16:51 (SAMT))
-| English                      | Mak_and_Iv | Full (for 2.5.21) | Full (for 2.4 alpha 13.04.2022 16:51 (SAMT))
-| 简体中文 (Simplified Chinese) | 绝绝子     | -                 | ~90% (for 2.4 alpha 13.04.2022 16:51 (SAMT))
+| Русский (Russian)            | Mak_and_Iv | Full (for 2.5.21) | Full (for 2.4 alpha 13.04.2022 21:13 (SAMT))
+| English                      | Mak_and_Iv | Full (for 2.5.21) | Full (for 2.4 alpha 13.04.2022 21:13 (SAMT))
+| 简体中文 (Simplified Chinese) | 绝绝子     | -                 | ~90% (for 2.4 alpha 13.04.2022 21:13 (SAMT))
 
 
 ### Links
