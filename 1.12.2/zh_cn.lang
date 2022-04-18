@@ -188,6 +188,8 @@ iu.neutroniumingot.name=§9中子锭
 industrialupgrade.basemachine.neutron_generator=§9中子粒子发生器
 iu.Matter.gui.name=§b中子粒子发生器
 
+item.lead_box.name=Lead Box
+
 # Boxes
 iu.nanobox.name=§8纳米工具盒
 iu.quantumitems7.name=§e高级纳米工具盒

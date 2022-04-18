@@ -188,6 +188,8 @@ iu.neutroniumingot.name=§9Neutron Ingot
 industrialupgrade.basemachine.neutron_generator=§9Neutron Particle Generator
 iu.Matter.gui.name=§bNeutron Particle Generator
 
+item.lead_box.name=Lead Box
+
 # Boxes
 iu.nanobox.name=§8Nano Box
 iu.quantumitems7.name=§eAdvanced Nano Box

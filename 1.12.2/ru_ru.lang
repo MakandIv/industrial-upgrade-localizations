@@ -188,6 +188,8 @@ iu.neutroniumingot.name=§9Нейтронный слиток
 industrialupgrade.basemachine.neutron_generator=§9Генератор нейтронных частиц
 iu.Matter.gui.name=§bГенератор нейтронных частиц
 
+item.lead_box.name=Свинцовый ящик
+
 # Ящики
 iu.nanobox.name=§8Нано-ящик
 iu.quantumitems7.name=§eУлучшенный нано-ящик
