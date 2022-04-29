@@ -11,7 +11,7 @@ itemIrradiantUranium.name=Irradiant Uranium
 itemIrradiantGlassPane.name=Irradiant Glass Surface
 
 # Chaos Armor
-item.ssp:ChaosHelm.name=§7Chaos Helmet
+item.ssp:ChaosHelm.name=§7Chaos Helm
 item.ssp:ChaosChest.name=§7Chaos Chestplate
 item.ssp:ChaosLeggs.name=§7Chaos Leggings
 item.ssp:ChaosBoots.name=§7Chaos Boots
