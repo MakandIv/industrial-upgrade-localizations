@@ -330,6 +330,7 @@ iu.analyzermodule.name=模块:分析仪
 iu.quarrymodule.name=模块:采石场
 iu.module_storage.name=模块:顺序
 iu.autoheater.name=Module: Autonomous Heater
+iu.upgrade_speed_creation.name=Module: Performance
 
 iu.moduletype=模块类型: 普通
 
@@ -1658,11 +1659,10 @@ industrialupgrade.solid.night_solidmatter=夜晚固体物质发生器
 industrialupgrade.solid.sun_solidmatter=太阳固体物质发生器
 
 industrialupgrade.se_gen.se_gen=阳光化合物生成机
-blockSolarGeneratorEnergy.name=阳光化合物生成机
 industrialupgrade.adv_se_gen.adv_se_gen=改良的阳光化合物生成机
-blockAdvSolarGenerator.name=改良的阳光化合物生成机
 industrialupgrade.imp_se_gen.imp_se_gen=高级的阳光化合物生成机
-blockImpSolarGenerator.name=高级的阳光化合物生成机
+industrialupgrade.basemachine3.combiner_se_generators=Solar Energy Generator Combiner
+
 industrialupgrade.gen_sunnarium.gen_sunnarium=阳光化合物制造厂
 iu.sunnarium_maker_item.sunnarium_maker_item=阳光化合物制造厂
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=阳光化合物板制造厂
@@ -1838,7 +1838,7 @@ iu.quarryinformation5=添加黑白列表时，请将模块嵌入底部槽位。
 iu.quarryinformation6=其余模块嵌入中间槽位。
 iu.quarryinformation7=若要将存储与无线模块关联，请将其嵌入模块槽中。
 iu.quarryinformation8=如果通信正常，请将模块嵌入太阳能。
-iu.quarryinformation9=“范围”模块允许你挖掘更多的块(3x3, 5x5)，但成本增加。
+iu.quarryinformation9=“范围”模块允许你挖掘更多的块(3x3, 5x5, 7x7)，但成本增加。
 
 iu.analyzerinformation=分析仪信息
 iu.analyzerinformation1=要扫描区块，请单击“分析”按钮。
@@ -1928,7 +1928,6 @@ iu.random=使用时有机会获得一个随机物品:
 iu.hungry=饥饿
 iu.generator=在发电机中充电
 
-scanning= 扫描的百分比
 button.xpremove=给予经验
 button.xpadd=放置经验
 iu.timetoend=剩余时间: 

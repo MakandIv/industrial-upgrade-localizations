@@ -330,6 +330,7 @@ iu.analyzermodule.name=Module: Analyzer
 iu.quarrymodule.name=Module: Quarry
 iu.module_storage.name=Module: Sorting
 iu.autoheater.name=Module: Autonomous Heater
+iu.upgrade_speed_creation.name=Module: Performance
 
 iu.moduletype=Module Type: Common
 
@@ -1658,11 +1659,10 @@ industrialupgrade.solid.night_solidmatter=Night Solid Matter Generator
 industrialupgrade.solid.sun_solidmatter=Solar Solid Matter Generator
 
 industrialupgrade.se_gen.se_gen=Solar Energy Generator
-blockSolarGeneratorEnergy.name=Solar Energy Generator
 industrialupgrade.adv_se_gen.adv_se_gen=Improved Solar Energy Generator
-blockAdvSolarGenerator.name=Improved Solar Energy Generator
 industrialupgrade.imp_se_gen.imp_se_gen=Advanced Solar Energy Generator
-blockImpSolarGenerator.name=Advanced Solar Energy Generator
+industrialupgrade.basemachine3.combiner_se_generators=Solar Energy Generator Combiner
+
 industrialupgrade.gen_sunnarium.gen_sunnarium=Sunnarium Manufacturer
 iu.sunnarium_maker_item.sunnarium_maker_item=Sunnarium Manufacturer
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=Sunnarium Plate Manufacturer
@@ -1838,7 +1838,7 @@ iu.quarryinformation5=To add a black or white list, insert the modules into the 
 iu.quarryinformation6=The rest of the modules are inserted into the middle slot.
 iu.quarryinformation7=To associate the storage with a wireless module, insert it into the module slot.
 iu.quarryinformation8=If communication is successful, insert the module in the solar panel.
-iu.quarryinformation9=The "Radius" module allows you to mine more blocks (3x3, 5x5), but the costs increase.
+iu.quarryinformation9=The "Region" module allows you to mine more blocks (3x3, 5x5, 7x7), but the costs increase.
 
 iu.analyzerinformation=Analyzer Information
 iu.analyzerinformation1=To scan a chunk, click on the "Analyze" button.
@@ -1928,7 +1928,6 @@ iu.random=Chance to get a random item on use:
 iu.hungry=Hunger
 iu.generator=Charging in the Generator
 
-scanning= percent scanned
 button.xpremove=Give experience
 button.xpadd=Put experience
 iu.timetoend=Time left: 
