@@ -2193,3 +2193,6 @@ description.basic.info=First Message
 iu.text1=Hello player! Unforgettable adventures await you with IU! Here you will find a variety of technologies: from thermal to quantum, from simple improvements to technologies for transforming objects. IU is a unique mod with its concept of progress, which is unparalleled. The main rule of IU is to collect every resource, because every resource is necessary to advance progress in IU.
 iu.soon=Soon (3.0)
 button.need_mod=Remove
+
+upgradeblock_upgrade=Item Upgrade
+upgradeblock_modification=Item Modification
