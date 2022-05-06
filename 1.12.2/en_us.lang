@@ -10,24 +10,9 @@ iu.itemiucrafring.itemuraningot=Uranium Ingot
 iu.itemiucrafring.itemirradianturanium=Irradiant Uranium
 iu.itemiucrafring.itemirradiantglasspane=Irradiant Glass Surface
 
-# Chaos Armor
-item.ssp:ChaosHelm.name=§7Chaos Helmet
-item.ssp:ChaosChest.name=§7Chaos Chestplate
-item.ssp:ChaosLeggs.name=§7Chaos Leggings
-item.ssp:ChaosBoots.name=§7Chaos Boots
-
 # Chaotic Energy Storage
 iu.ChaosEnergyCore.name=§7Chaotic Energy Core
 item.supersolarpanel:ChaosFluxCapacitor0.name=§7Chaos Flux Capacitor
-
-# Chaos Tools & Weapons
-item.supersolarpanel:ChaosDistructionStaff.name=§7Chaos Staff of Power
-item.supersolarpanel:ChaosBow.name=§7Chaos Bow
-item.supersolarpanel:ChaosHoe.name=§7Chaos Hoe
-item.supersolarpanel:ChaosAxe.name=§7Chaos Axe
-item.supersolarpanel:ChaosPickaxe.name=§7Chaos Pickaxe
-item.supersolarpanel:ChaosShovel.name=§7Chaos Shovel
-item.supersolarpanel:ChaosSword.name=§7Chaos Sword
 
 # Oil Refinery
 industrialupgrade.refiner.refiner=Oil Refinery
@@ -96,9 +81,6 @@ industrialupgrade.avaritiapanel.infinity_solar_panel=Infinity Solar Panel
 # Thaumcraft Panels
 industrialupgrade.thaumcraftpanel.thaum_solar_panel=Thaumium Solar Panel
 industrialupgrade.thaumcraftpanel.void_solar_panel=Void Solar Panel
-
-# Thaumic Tinkerer Panels
-industrialupgrade.tinkererpanel.ichor_solar_panel=Ichorium Solar Panel
 
 # Helmets with Solar Panel
 item.advanced_solar_helmet.name=§8Advanced Solar Helmet
@@ -304,6 +286,8 @@ iu.quarrymodules.kar2=Module: Region 5x5
 iu.quarrymodules.kar3=Module: Region 7x7
 iu.quarrymodules.blackmodule=Module: Blacklist
 iu.quarrymodules.whitemodule=Module: Whitelist
+iu.quarrymodules.macerator=Module: Macerator
+iu.quarrymodules.comb_macerator=Module: Ore Macerator
 
 iu.expmodule.name=Module: Experience Storage
 iu.module_stack.name=Module: Stack
@@ -1336,68 +1320,6 @@ silver_dustore.name=Silver Ore Dust
 zinc_dustore.name=Zinc Ore Dust
 manganese_dustore.name=Manganese Ore Dust
 
-#Ender Ores
-endmikhail_stone.name=Ender Michalov Ore
-endalum_stone.name=Ender Aluminium Ore
-endvanady_stone.name=Ender Vanadium Ore
-endwolfram_stone.name=Ender Tungsten Ore
-endinvar_stone.name=Ender Invar Ore
-endcaravky_stone.name=Ender Caravky Ore
-endcobalt_stone.name=Ender Cobalt Ore
-endmagnesium_stone.name=Ender Magnesium Ore
-endnickel_stone.name=Ender Nickel Ore
-endplatium_stone.name=Ender Platinum Ore
-endtitan_stone.name=Ender Titanium Ore
-endchromium_stone.name=Ender Chromium Ore
-endspinel_stone.name=Ender Spinel Ore
-endelectrium_stone.name=Ender Electrum Ore
-endsilver_stone.name=Ender Silver Ore
-endzinc_stone.name=Ender Zinc Ore
-endmanganese_stone.name=Ender Manganese Ore
-endiridium_stone.name=Ender Iridium Ore
-endcoal_stone.name=Ender Coal Ore
-endcopper_stone.name=Ender Copper Ore
-enddiamond_stone.name=Ender Diamond Ore
-endemerald_stone.name=Ender Emerald Ore
-endgold_stone.name=Ender Gold Ore
-endiron_stone.name=Ender Iron Ore
-endlapis_stone.name=Ender Lapis Lazuli Ore
-endlead_stone.name=Ender Lead Ore
-endredstone_stone.name=Ender Redstone Ore
-endtin_stone.name=Ender Tin Ore
-enduran_stone.name=Ender Uranium Ore
-
-#Nether Ores
-nethermikhailrack.name=Nether Michalov Ore
-netheralumrack.name=Nether Aluminium Ore
-nethervanadyrack.name=Nether Vanadium Ore
-netherwolfram_rack.name=Nether Tungsten Ore
-netherinvarrack.name=Nether Invar Ore
-nethercaravkyrack.name=Nether Caravky Ore
-nethercobaltrack.name=Nether Cobalt Ore
-nethermagnesiumrack.name=Nether Magnesium Ore
-nethernickelrack.name=Nether Nickel Ore
-netherplatiumrack.name=Nether Platinum Ore
-nethertitanrack.name=Nether Titanium Ore
-netherchromiumrack.name=Nether Chromium Ore
-netherspinelrack.name=Nether Spinel Ore
-netherelectriumrack.name=Nether Electrum Ore
-nethersilverrack.name=Nether Silver Ore
-netherzincrack.name=Nether Zinc Ore
-nethermanganeserack.name=Nether Manganese Ore
-netheriridiumrack.name=Nether Iridium Ore
-nethercoalrack.name=Nether Coal Ore
-nethercopperrack.name=Nether Copper Ore
-netherdiamondrack.name=Nether Diamond Ore
-netheremeraldrack.name=Nether Emerald Ore
-nethergoldrack.name=Nether Gold Ore
-netherironrack.name=Nether Iron Ore
-netherlapisrack.name=Nether Lapis Lazuli Ore
-netherleadrack.name=Nether Lead Ore
-netherredstonerack.name=Nether Redstone Ore
-nethertinrack.name=Nether Tin Ore
-netheruranrack.name=Nether Uranium Ore
-
 industrialupgrade.transformer_iu.umv=UV-Transformer 
 industrialupgrade.transformer_iu.uhv=LkV-Transformer
 industrialupgrade.transformer_iu.uev=MkV-Transformer
@@ -1486,9 +1408,6 @@ iu.upgradekitpanel.upgradepanelkit21=Infinity Solar Panel Upgrade Kit
 ##Thaumcraft
 iu.upgradekitpanel.upgradepanelkit22=Thaumium Solar Panel Upgrade Kit
 iu.upgradekitpanel.upgradepanelkit23=Void Solar Panel Upgrade Kit
-
-##Thaumic Tinkerer
-iu.upgradekitpanel.upgradepanelkit24=Ichorium Solar Panel Upgrade Kit
 
 #Machine Upgrade Kits
 iu.upgradekitmachine.upgradepanelkitmachine=Improved Machine Upgrade Kit
@@ -1610,7 +1529,6 @@ industrialupgrade.basemachine.gen_stone=Cobblestone Generator
 industrialupgrade.basemachine2.gen_obsidian=Obsidian Generator
 industrialupgrade.basemachine2.lava_gen=Lava Generator
 industrialupgrade.basemachine2.helium_generator=Helium Generator
-iu.AspGen.name=Aspect Generator
 
 industrialupgrade.basemachine.generator_microchip=Circuit Manufacturer
 blockConverterSolidMatter.name=Solid Matter Transformer
@@ -1664,9 +1582,7 @@ industrialupgrade.imp_se_gen.imp_se_gen=Advanced Solar Energy Generator
 industrialupgrade.basemachine3.combiner_se_generators=Solar Energy Generator Combiner
 
 industrialupgrade.gen_sunnarium.gen_sunnarium=Sunnarium Manufacturer
-iu.sunnarium_maker_item.sunnarium_maker_item=Sunnarium Manufacturer
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=Sunnarium Plate Manufacturer
-iu.sunnarium_maker_plate_item.sunnarium_maker_plate_item=Sunnarium Plate Manufacturer
 
 iu.doublescrapbox.name=Double Scrap Box
 
@@ -1938,25 +1854,6 @@ iu.red=Red:
 iu.blue=Blue: 
 iu.green=Green: 
 iu.rgb=Iridescent
-
-#Singularities (Avaritia integration)
-item.singularity_mikhail.name=Michalov Singularity
-item.singularity_aluminium.name=Aluminium Singularity
-item.singularity_vanady.name=Vanadium Singularity
-item.singularity_wolfram.name=Tungsten Singularity
-item.singularity_cobalt.name=Cobalt Singularity
-item.singularity_magnesium.name=Magnesium Singularity
-item.singularity_platium.name=Platinum Singularity
-item.singularity_titanium.name=Titanium Singularity
-item.singularity_chromium.name=Chrome Singularity
-item.singularity_spinel.name=Spinel Singularity
-item.singularity_zinc.name=Zinc Singularity
-item.singularity_manganese.name=Manganese Singularity
-item.singularity_invar.name=Invar Singularity
-item.singularity_caravky.name=Caravky Singularity
-item.singularity_electrium.name=Electrum Singularity
-item.singularity_iridium.name=Iridium Singularity
-item.singularity_germanium.name=Germanium Singularity
 
 #Bags
 item.iu_bags.name=Bag

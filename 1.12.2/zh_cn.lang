@@ -10,24 +10,9 @@ iu.itemiucrafring.itemuraningot=铀锭
 iu.itemiucrafring.itemirradianturanium=光辉轴锭
 iu.itemiucrafring.itemirradiantglasspane=光辉玻璃板
 
-# Chaos Armor
-item.ssp:ChaosHelm.name=§7混沌头盔
-item.ssp:ChaosChest.name=§7混沌胸甲
-item.ssp:ChaosLeggs.name=§7混沌护腿
-item.ssp:ChaosBoots.name=§7混沌护靴
-
 # Chaotic Energy Storage
 iu.ChaosEnergyCore.name=§7混沌能量核心
 item.supersolarpanel:ChaosFluxCapacitor0.name=§7混沌通量电容器
-
-# Chaos Tools & Weapons
-item.supersolarpanel:ChaosDistructionStaff.name=§7混沌力量法杖
-item.supersolarpanel:ChaosBow.name=§7混沌弓
-item.supersolarpanel:ChaosHoe.name=§7混沌锄 
-item.supersolarpanel:ChaosAxe.name=§7混沌之斧 
-item.supersolarpanel:ChaosPickaxe.name=§7混沌镐
-item.supersolarpanel:ChaosShovel.name=§7混沌之铲
-item.supersolarpanel:ChaosSword.name=§7混沌之剑
 
 # Oil Refinery
 industrialupgrade.refiner.refiner=炼油厂
@@ -96,9 +81,6 @@ industrialupgrade.avaritiapanel.infinity_solar_panel=无尽太阳能
 # Thaumcraft Panels
 industrialupgrade.thaumcraftpanel.thaum_solar_panel=神秘太阳能
 industrialupgrade.thaumcraftpanel.void_solar_panel=虚无太阳能
-
-# Thaumic Tinkerer Panels
-industrialupgrade.tinkererpanel.ichor_solar_panel=灵宝太阳能
 
 # Helmets with Solar Panel
 item.advanced_solar_helmet.name=§8高级太阳能头盔
@@ -304,6 +286,8 @@ iu.quarrymodules.kar2=模块:范围 5х5
 iu.quarrymodules.kar3=模块:范围 7х7
 iu.quarrymodules.blackmodule=模块: 黑名单
 iu.quarrymodules.whitemodule=模块: 白名单
+iu.quarrymodules.macerator=Module: Macerator
+iu.quarrymodules.comb_macerator=Module: Ore Macerator
 
 iu.expmodule.name=模块:经验储存
 iu.module_stack.name=模块:堆叠
@@ -1336,68 +1320,6 @@ silver_dustore.name=银矿石粉尘
 zinc_dustore.name=锌矿石粉尘
 manganese_dustore.name=锰矿石粉尘
 
-#Ender Ores末地矿石
-endmikhail_stone.name=末地米哈洛夫矿石
-endalum_stone.name=末地铝矿石
-endvanady_stone.name=末地钒矿石
-endwolfram_stone.name=末地钨矿石
-endinvar_stone.name=末地殷钢矿石
-endcaravky_stone.name=末地查瓦卡矿石
-endcobalt_stone.name=末地钴矿石
-endmagnesium_stone.name=末地镁矿
-endnickel_stone.name=末地镍矿石
-endplatium_stone.name=末地铂矿石
-endtitan_stone.name=末地钛矿石
-endchromium_stone.name=末地铬矿石
-endspinel_stone.name=末地尖晶石矿石
-endelectrium_stone.name=末地银金矿石
-endsilver_stone.name=末地银矿石
-endzinc_stone.name=末地锌矿石
-endmanganese_stone.name=末地锰矿石
-endiridium_stone.name=末地铱矿
-endcoal_stone.name=末地煤矿
-endcopper_stone.name=末地铜矿
-enddiamond_stone.name=末地钻石矿
-endemerald_stone.name=末地绿宝石矿
-endgold_stone.name=末地金矿
-endiron_stone.name=末地铁矿
-endlapis_stone.name=末地青金石矿
-endlead_stone.name=末地铅矿
-endredstone_stone.name=末地红石矿
-endtin_stone.name=末地锡矿
-enduran_stone.name=末地铀矿
-
-#Nether Ores地狱矿石
-nethermikhailrack.name=地狱米哈洛夫矿石
-netheralumrack.name=地狱铝矿石
-nethervanadyrack.name=地狱钒矿石
-netherwolfram_rack.name=地狱钨矿石
-netherinvarrack.name=地狱殷钢矿石
-nethercaravkyrack.name=地狱查瓦卡矿石
-nethercobaltrack.name=地狱钴矿石
-nethermagnesiumrack.name=地狱镁矿石
-nethernickelrack.name=地狱镍矿石
-netherplatiumrack.name=地狱铂矿石
-nethertitanrack.name=地狱钛矿石
-netherchromiumrack.name=地狱铬矿石
-netherspinelrack.name=地狱尖晶石矿石
-netherelectriumrack.name=地狱银金矿石
-nethersilverrack.name=地狱银矿石
-netherzincrack.name=地狱锌矿石
-nethermanganeserack.name=地狱锰矿石
-netheriridiumrack.name=地狱铱矿
-nethercoalrack.name=地狱煤矿
-nethercopperrack.name=地狱铜矿
-netherdiamondrack.name=地狱钻石矿
-netheremeraldrack.name=地狱绿宝石矿
-nethergoldrack.name=地狱金矿
-netherironrack.name=地狱铁矿
-netherlapisrack.name=地狱青金石矿
-netherleadrack.name=地狱铅矿
-netherredstonerack.name=地狱红石矿
-nethertinrack.name=地狱锡矿
-netheruranrack.name=地狱铀矿
-
 industrialupgrade.transformer_iu.umv=特级变压器 
 industrialupgrade.transformer_iu.uhv=LkV-变压器
 industrialupgrade.transformer_iu.uev=MkV-变压器
@@ -1486,9 +1408,6 @@ iu.upgradekitpanel.upgradepanelkit21=无尽太阳能升级工具
 ##Thaumcraft
 iu.upgradekitpanel.upgradepanelkit22=神秘太阳能升级工具
 iu.upgradekitpanel.upgradepanelkit23=虚无太阳能升级工具
-
-##Thaumic Tinkerer
-iu.upgradekitpanel.upgradepanelkit24=灵宝太阳能升级工具
 
 #Machine Upgrade Kits
 iu.upgradekitmachine.upgradepanelkitmachine=改良的机器升级工具
@@ -1610,7 +1529,6 @@ industrialupgrade.basemachine.gen_stone=圆石发电机
 industrialupgrade.basemachine2.gen_obsidian=黑曜石发电机
 industrialupgrade.basemachine2.lava_gen=岩浆发电机
 industrialupgrade.basemachine2.helium_generator=氦气发电机
-iu.AspGen.name=要素发电机
 
 industrialupgrade.basemachine.generator_microchip=电路板制造厂
 blockConverterSolidMatter.name=固体物质变压器
@@ -1664,9 +1582,7 @@ industrialupgrade.imp_se_gen.imp_se_gen=高级的阳光化合物生成机
 industrialupgrade.basemachine3.combiner_se_generators=Solar Energy Generator Combiner
 
 industrialupgrade.gen_sunnarium.gen_sunnarium=阳光化合物制造厂
-iu.sunnarium_maker_item.sunnarium_maker_item=阳光化合物制造厂
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=阳光化合物板制造厂
-iu.sunnarium_maker_plate_item.sunnarium_maker_plate_item=阳光化合物板制造厂
 
 iu.doublescrapbox.name=双废料盒
 
@@ -1938,25 +1854,6 @@ iu.red=红色:
 iu.blue=蓝色: 
 iu.green=绿色: 
 iu.rgb=渐变色
-
-#Singularities (Avaritia integration无尽奇点)
-item.singularity_mikhail.name=米哈洛夫奇点
-item.singularity_aluminium.name=铝奇点
-item.singularity_vanady.name=钒奇点
-item.singularity_wolfram.name=钨奇点
-item.singularity_cobalt.name=钴奇点
-item.singularity_magnesium.name=镁奇点
-item.singularity_platium.name=铂奇点
-item.singularity_titanium.name=钛奇点
-item.singularity_chromium.name=铬奇点
-item.singularity_spinel.name=尖晶石奇点
-item.singularity_zinc.name=锌奇点
-item.singularity_manganese.name=锰奇点
-item.singularity_invar.name=殷钢奇点
-item.singularity_caravky.name=查瓦卡奇点
-item.singularity_electrium.name=银金奇点
-item.singularity_iridium.name=铱奇点
-item.singularity_germanium.name=锗奇点
 
 #Bags
 item.iu_bags.name=电力储存袋

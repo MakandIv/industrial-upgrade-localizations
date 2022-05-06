@@ -10,24 +10,9 @@ iu.itemiucrafring.itemuraningot=Урановый слиток
 iu.itemiucrafring.itemirradianturanium=Излучающий уран
 iu.itemiucrafring.itemirradiantglasspane=Излучающая стеклянная поверхность
 
-# Броня Хаоса
-item.ssp:ChaosHelm.name=§7Шлем Хаоса
-item.ssp:ChaosChest.name=§7Кираса Хаоса
-item.ssp:ChaosLeggs.name=§7Поножи Хаоса
-item.ssp:ChaosBoots.name=§7Ботинки Хаоса
-
 # Хаотические хранилища энергии
 iu.ChaosEnergyCore.name=§7Хаотическое энергоядро
 item.supersolarpanel:ChaosFluxCapacitor0.name=§7Хаотический флаксовый конденсатор
-
-# Инструменты и оружия Хаоса
-item.supersolarpanel:ChaosDistructionStaff.name=§7Хаотический посох силы
-item.supersolarpanel:ChaosBow.name=§7Лук Хаоса
-item.supersolarpanel:ChaosHoe.name=§7Мотыга Хаоса
-item.supersolarpanel:ChaosAxe.name=§7Топор Хаоса
-item.supersolarpanel:ChaosPickaxe.name=§7Кирка Хаоса
-item.supersolarpanel:ChaosShovel.name=§7Лопата Хаоса
-item.supersolarpanel:ChaosSword.name=§7Меч Хаоса
 
 # Нефтеперерабатывающий завод
 industrialupgrade.refiner.refiner=Нефтеперерабатывающий завод
@@ -96,9 +81,6 @@ industrialupgrade.avaritiapanel.infinity_solar_panel=Солнечная пане
 # Панели Thaumcraft
 industrialupgrade.thaumcraftpanel.thaum_solar_panel=Таумиевая солнечная панель
 industrialupgrade.thaumcraftpanel.void_solar_panel=Пустотная солнечная панель
-
-# Панели Thaumic Tinkerer
-industrialupgrade.tinkererpanel.ichor_solar_panel=Ихориевая солнечная панель
 
 # Шлемы с солнечной панелью
 item.advanced_solar_helmet.name=§8Улучшенный солнечный шлем
@@ -304,6 +286,8 @@ iu.quarrymodules.kar2=Модуль: Область 5х5
 iu.quarrymodules.kar3=Модуль: Область 7х7
 iu.quarrymodules.blackmodule=Модуль: Чёрный список
 iu.quarrymodules.whitemodule=Модуль: Белый список
+iu.quarrymodules.macerator=Модуль: Дробитель
+iu.quarrymodules.comb_macerator=Модуль: Дробитель руд
 
 iu.expmodule.name=Модуль: Хранилище опыта
 iu.module_stack.name=Модуль: Стопка
@@ -1336,68 +1320,6 @@ silver_dustore.name=Серебряная пыльная руда
 zinc_dustore.name=Цинковая пыльная руда
 manganese_dustore.name=Марганцевая пыльная руда
 
-#Краевые руды
-endmikhail_stone.name=Михаловая краевая руда
-endalum_stone.name=Алюминиевая краевая руда
-endvanady_stone.name=Ванадиевая краевая руда
-endwolfram_stone.name=Вольфрамовая краевая руда
-endinvar_stone.name=Инварная краевая руда
-endcaravky_stone.name=Каравковая краевая руда
-endcobalt_stone.name=Кобальтовая краевая руда
-endmagnesium_stone.name=Магниевая краевая руда
-endnickel_stone.name=Никелевая краевая руда
-endplatium_stone.name=Платиновая краевая руда
-endtitan_stone.name=Титановая краевая руда
-endchromium_stone.name=Хромовая краевая руда
-endspinel_stone.name=Шпинелевая краевая руда
-endelectrium_stone.name=Электрумовая краевая руда
-endsilver_stone.name=Серебряная краевая руда
-endzinc_stone.name=Цинковая краевая руда
-endmanganese_stone.name=Марганцевая краевая руда
-endiridium_stone.name=Иридиевая краевая руда
-endcoal_stone.name=Угольная краевая руда
-endcopper_stone.name=Медная краевая руда
-enddiamond_stone.name=Алмазная краевая руда
-endemerald_stone.name=Изумрудная краевая руда
-endgold_stone.name=Золотая краевая руда
-endiron_stone.name=Железная краевая руда
-endlapis_stone.name=Лазуритовая краевая руда
-endlead_stone.name=Свинцовая краевая руда
-endredstone_stone.name=Красная краевая руда
-endtin_stone.name=Оловянная краевая руда
-enduran_stone.name=Урановая краевая руда
-
-#Адские руды
-nethermikhailrack.name=Адская михаловая руда
-netheralumrack.name=Адская алюминиевая руда
-nethervanadyrack.name=Адская ванадиевая руда
-netherwolfram_rack.name=Адская вольфрамовая руда
-netherinvarrack.name=Адская инварная руда
-nethercaravkyrack.name=Адская каравковая руда
-nethercobaltrack.name=Адская кобальтовая руда
-nethermagnesiumrack.name=Адская магниевая руда
-nethernickelrack.name=Адская никелевая руда
-netherplatiumrack.name=Адская платиновая руда
-nethertitanrack.name=Адская титановая руда
-netherchromiumrack.name=Адская хромовая руда
-netherspinelrack.name=Адская шпинелевая руда
-netherelectriumrack.name=Адская электрумовая руда
-nethersilverrack.name=Адская серебряная руда
-netherzincrack.name=Адская цинковая руда
-nethermanganeserack.name=Адская марганцевая руда
-netheriridiumrack.name=Адская иридиевая руда
-nethercoalrack.name=Адская угольная руда
-nethercopperrack.name=Адская медная руда
-netherdiamondrack.name=Адская алмазная руда
-netheremeraldrack.name=Адская изумрудная руда
-nethergoldrack.name=Адская золотая руда
-netherironrack.name=Адская железная руда
-netherlapisrack.name=Адская лазуритовая руда
-netherleadrack.name=Адская свинцовая руда
-netherredstonerack.name=Адская красная руда
-nethertinrack.name=Адская оловянная руда
-netheruranrack.name=Адская урановая руда
-
 industrialupgrade.transformer_iu.umv=Трансформатор ПН
 industrialupgrade.transformer_iu.uhv=Трансформатор НкВН
 industrialupgrade.transformer_iu.uev=Трансформатор СкВН
@@ -1484,11 +1406,8 @@ iu.upgradekitpanel.upgradepanelkit20=Набор улучшений панели 
 iu.upgradekitpanel.upgradepanelkit21=Набор улучшений панели из нейтрониевой в панель бесконечности
 
 ##Thaumcraft
-iu.upgradekitpanel.upgradepanelkit22=Набор улучшений панели из гибридной в таум-панель
-iu.upgradekitpanel.upgradepanelkit23=Набор улучшений панели из таум-панели в пустотную
-
-##Thaumic Tinkerer
-iu.upgradekitpanel.upgradepanelkit24=Набор улучшений панели из пустотной в ихориевую
+iu.upgradekitpanel.upgradepanelkit22=Набор улучшений панели из гибридной в таумиевую
+iu.upgradekitpanel.upgradepanelkit23=Набор улучшений панели из таумиевой в пустотную
 
 #Наборы улучшений машин
 iu.upgradekitmachine.upgradepanelkitmachine=Набор улучшений машины из обычной в улучшенную
@@ -1589,9 +1508,9 @@ iu.blockAdvKG.name=Улучшенный кинетический генерат�
 iu.blockImpKG.name=Продвинутый кинетический генератор
 iu.blockPerKG.name=Совершенный кинетический генератор
 
-industrialupgrade.basemachine.alloy_smelter=Производитель сплавов
-industrialupgrade.basemachine1.adv_alloy_smelter=Улучшенный производитель сплавов
-iu.AdvAlloymachine.name=Улучшенный производитель сплавов
+industrialupgrade.basemachine.alloy_smelter=Завод сплавов
+industrialupgrade.basemachine1.adv_alloy_smelter=Улучшенный завод сплавов
+iu.AdvAlloymachine.name=Улучшенный завод сплавов
 
 industrialupgrade.basemachine1.adv_geo=Улучшенный геотермальный генератор
 industrialupgrade.basemachine1.imp_geo=Продвинутый геотермальный генератор
@@ -1610,7 +1529,6 @@ industrialupgrade.basemachine.gen_stone=Генератор булыжника
 industrialupgrade.basemachine2.gen_obsidian=Генератор обсидиана
 industrialupgrade.basemachine2.lava_gen=Генератор лавы
 industrialupgrade.basemachine2.helium_generator=Генератор гелия
-iu.AspGen.name=Генератор аспектов
 
 industrialupgrade.basemachine.generator_microchip=Производитель электросхем
 blockConverterSolidMatter.name=Преобразователь твёрдой материи
@@ -1664,9 +1582,7 @@ industrialupgrade.imp_se_gen.imp_se_gen=Продвинутый генерато�
 industrialupgrade.basemachine3.combiner_se_generators=Объединитель генераторов солнечной энергии
 
 industrialupgrade.gen_sunnarium.gen_sunnarium=Производитель саннариума
-iu.sunnarium_maker_item.sunnarium_maker_item=Производитель саннариума
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=Производитель саннариумных пластин
-iu.sunnarium_maker_plate_item.sunnarium_maker_plate_item=Производитель саннариумных пластин
 
 iu.doublescrapbox.name=Двойная коробка утильсырья
 
@@ -1938,25 +1854,6 @@ iu.red=Красный:
 iu.blue=Синий: 
 iu.green=Зелёный: 
 iu.rgb=Переливающийся
-
-#Сингулярности (интеграция Avaritia)
-item.singularity_mikhail.name=Михаловая сингулярность
-item.singularity_aluminium.name=Алюминиевая сингулярность
-item.singularity_vanady.name=Ванадиевая сингулярность
-item.singularity_wolfram.name=Вольфрамовая сингулярность
-item.singularity_cobalt.name=Кобальтовая сингулярность
-item.singularity_magnesium.name=Магниевая сингулярность
-item.singularity_platium.name=Платиновая сингулярность
-item.singularity_titanium.name=Титановая сингулярность
-item.singularity_chromium.name=Хромовая сингулярность
-item.singularity_spinel.name=Шпинелевая сингулярность
-item.singularity_zinc.name=Цинковая сингулярность
-item.singularity_manganese.name=Марганцевая сингулярность
-item.singularity_invar.name=Инварная сингулярность
-item.singularity_caravky.name=Каравковая сингулярность
-item.singularity_electrium.name=Электрумовая сингулярность
-item.singularity_iridium.name=Иридиевая сингулярность
-item.singularity_germanium.name=Германиевая сингулярность
 
 #Сумки
 item.iu_bags.name=Сумка
