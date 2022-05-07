@@ -12,7 +12,6 @@ iu.itemiucrafring.itemirradiantglasspane=Випромінювальна скля
 
 # Хаотичні сховища енергії
 iu.ChaosEnergyCore.name=§7Хаотичне енергоядро
-item.supersolarpanel:ChaosFluxCapacitor0.name=§7Хаотичний флаксовий конденсатор
 
 # Нафтопереробний завод
 industrialupgrade.refiner.refiner=Нафтопереробний завод
@@ -550,7 +549,6 @@ iu.modulewirelles2=§bБездротовий зв'язок: §cне працює
 iu.fly=§3Увімкнено політ:
 iu.fly1=Натисніть Mode Switch Key + Boost Key, щоб увімкнути політ
 iu.vertical=Натисніть Mode Switch Key + Side Key, щоб увімкнути вертикальний режим
-iu.streak=Натисніть Hub Expand Key, щоб змінити колір смуги за гравцем
 iu.effect=Включена вогнестійкість:
 storagemodul=Працює лише у сховищах енергії
 storagemodul1=По сховищу натиснути SHIFT + ПКМ
@@ -581,17 +579,6 @@ iu.cold.itempipes2=Просунута охолодна труба
 iu.cold.itempipes3=Довершена охолодна труба
 iu.cold.itempipes4=Квантова охолоджувальна труба
 
-iu.blockBatBox.name=Енергосховище
-iu.blockCESU.name=МЕСН
-iu.blockMFE1.name=МФЕ
-iu.blockMFSU1.name=МФСУ
-iu.blockMFE.name=§eПокращене МФСУ
-iu.blockMFSU.name=§bПросунуте МФСУ
-iu.blockPerMFSU.name=Здійснене МФСУ
-iu.blockBarMFSU.name=Баріонне МФСУ
-iu.blockAdrMFSU.name=Адронне МФСУ
-iu.blockGraMFSU.name=Гравітонне МФСУ
-iu.blockKvrMFSU.name=Кваркове МФСУ
 industrialupgrade.wiring_storage.batbox_iu=Енергосховище
 industrialupgrade.wiring_storage.cesu_iu=МЕСН
 industrialupgrade.wiring_storage.mfe_iu=МФЕ
@@ -608,17 +595,6 @@ iu.quarry=Вставити в квантовий кар'єр
 iu.quarry1=Переплавляє руди
 iu.quarry2=Зменшує витрати енергії
 
-iu.blockChargepadBatBox.name=Зарядна плита (Енергосховище)
-iu.blockChargepadCESU.name=Зарядна плита (МЕСН)
-iu.blockChargepadMFE1.name=Зарядна плита (МФЕ)
-iu.blockChargepadMFSU.name=Зарядна плита (МФСУ)
-iu.blockChargepadMFE.name=Зарядна плита (Покращене МФСУ)
-iu.blockChargepadMFES.name=Зарядна плита (Просунуте МФСУ)
-iu.blockChargepadPerMFSU.name=Зарядна плита (Довершене МФСУ)
-iu.blockChargepadBarMFSU.name=Зарядна плита (Баріонне МФСУ)
-iu.blockChargepadAdrMFSU.name=Зарядна плита (Адронне МФСУ)
-iu.blockChargepadGraMFSU.name=Зарядна плита (Гравітонне МФСУ)
-iu.blockChargepadKvrMFSU.name=Зарядна плита (Кваркове МФСУ)
 industrialupgrade.wiring_chargepad.batbox_iu_chargepad=Зарядна плита (Енергосховище)
 industrialupgrade.wiring_chargepad.cesu_iu_chargepad=Зарядна плита (МЕСН)
 industrialupgrade.wiring_chargepad.mfe_iu_chargepad=Зарядна плита (МФЕ)
@@ -1490,9 +1466,6 @@ industrialupgrade.moremachine3.double_farmer=Покращена автономн
 industrialupgrade.moremachine3.triple_farmer=Просунута автономна ферма
 industrialupgrade.moremachine3.quad_farmer=Довершена автономна ферма
 
-iu.blockAdvgenerator.name=Покращений генератор
-iu.blockImpgenerator.name=Просунутий генератор
-iu.blockPergenerator.name=Довершений генератор
 industrialupgrade.basemachine.adv_gen=Покращений генератор
 industrialupgrade.basemachine.imp_gen=Просунутий генератор
 industrialupgrade.basemachine.per_gen=Довершений генератор
@@ -1504,13 +1477,8 @@ industrialupgrade.imp_chamber.imp_chamber=Просунута реакторна 
 industrialupgrade.basemachine1.per_reactor=Довершений ядерний реактор
 industrialupgrade.per_chamber.per_chamber=Довершена реакторна камера
 
-iu.blockAdvKG.name=Покращений кінетичний генератор
-iu.blockImpKG.name=Просунутий кінетичний генератор
-iu.blockPerKG.name=Довершений кінетичний генератор
-
 industrialupgrade.basemachine.alloy_smelter=Завод сплавів
 industrialupgrade.basemachine1.adv_alloy_smelter=Покращений завод сплавів
-iu.AdvAlloymachine.name=Покращений завод сплавів
 
 industrialupgrade.basemachine1.adv_geo=Покращений геотермальний генератор
 industrialupgrade.basemachine1.imp_geo=Просунутий геотермальний генератор
@@ -1531,7 +1499,6 @@ industrialupgrade.basemachine2.lava_gen=Генератор лави
 industrialupgrade.basemachine2.helium_generator=Генератор гелію
 
 industrialupgrade.basemachine.generator_microchip=Виробник електросхем
-blockConverterSolidMatter.name=Перетворювач твердої матерії
 industrialupgrade.converter_matter.converter_matter=Перетворювач твердої матерії
 industrialupgrade.basemachine.modulator=Модульний обробник
 industrialupgrade.basemachine1.enrichment=Збагачувач
@@ -1540,16 +1507,12 @@ industrialupgrade.basemachine1.handler_ho=Мінеральний сепарат�
 industrialupgrade.basemachine1.gen_wither=Виробник висушувачів
 industrialupgrade.basemachine1.magnet=Магнітний уловлювач
 industrialupgrade.basemachine1.magnet_generator=Магнітний генератор
-iu.blockFisher.name=Рибальська машина
 industrialupgrade.basemachine2.fisher=Рибальська машина
 industrialupgrade.basemachine2.painter=Красильна машина
 industrialupgrade.upgrade_block.upgrade_block=Модифікаційна станція
-iu.upgrade_block_item.upgrade_block=Модифікаційна станція
 iu.quarry_vein_item.quarry_vein_item=Бурова установка для пошуку жил
 industrialupgrade.petrol_quarry.petrol_quarry=Верстат-качалка
-iu.petrol_quarry_item.petrol_quarry_item=Верстат-качалка
 industrialupgrade.combiner_solid_matter.combiner_solid_matter=Об'єднувач генераторів твердої матерії
-iu.combiner_solidmatter.combiner_solidmatter=Об'єднувач генераторів твердої матерії
 industrialupgrade.basemachine2.expierence_block=Сховище досвіду
 industrialupgrade.basemachine2.plastic_creator=Хімічний завод
 industrialupgrade.basemachine2.plastic_plate_creator=Пластавтомат
@@ -1861,7 +1824,6 @@ item.adv_iu_bags.name=Покращена сумка
 item.imp_iu_bags.name=Просунута сумка
 
 iu.vertical=Щоб увімкнути вертикальний режим, натисніть
-iu.streak=Щоб змінити колір лінії за гравцем, натисніть
 iu.magnet_mode=Щоб увімкнути магніт, натисніть
 iu.notfindoil=Нафта не виявлена, поставте бурову установку, щоб вивчити чанк
 iu.create_sunnarium=Створюється у генераторах сонячної енергії

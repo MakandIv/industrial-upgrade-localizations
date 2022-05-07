@@ -12,7 +12,6 @@ iu.itemiucrafring.itemirradiantglasspane=Irradiant Glass Surface
 
 # Chaotic Energy Storage
 iu.ChaosEnergyCore.name=§7Chaotic Energy Core
-item.supersolarpanel:ChaosFluxCapacitor0.name=§7Chaos Flux Capacitor
 
 # Oil Refinery
 industrialupgrade.refiner.refiner=Oil Refinery
@@ -550,7 +549,6 @@ iu.modulewirelles2=§bWireless: §cnot working
 iu.fly=§3Flight activated:
 iu.fly1=Press Mode Switch Key + Boost Key to enable flight
 iu.vertical=Press Mode Switch Key + Side Key to enable vertical mode
-iu.streak=Press the Hub Expand Key to change the color of the strip behind the player
 iu.effect=Fire resistance enabled:
 storagemodul=Only in energy storage
 storagemodul1=Press SHIFT + Right Click on the storage
@@ -581,17 +579,6 @@ iu.cold.itempipes2=Advanced Cooling Pipe
 iu.cold.itempipes3=Perfect Cooling Pipe
 iu.cold.itempipes4=Quantum Cooling Pipe
 
-iu.blockBatBox.name=BatBox
-iu.blockCESU.name=CESU
-iu.blockMFE1.name=MFE
-iu.blockMFSU1.name=MFSU
-iu.blockMFE.name=§eImproved MFSU
-iu.blockMFSU.name=§bAdvanced MFSU
-iu.blockPerMFSU.name=Perfect MFSU
-iu.blockBarMFSU.name=Baryon MFSU
-iu.blockAdrMFSU.name=Hadron MFSU
-iu.blockGraMFSU.name=Graviton MFSU
-iu.blockKvrMFSU.name=Quark MFSU
 industrialupgrade.wiring_storage.batbox_iu=BatBox
 industrialupgrade.wiring_storage.cesu_iu=CESU
 industrialupgrade.wiring_storage.mfe_iu=MFE
@@ -608,17 +595,6 @@ iu.quarry=Insert in a Quantum Quarry
 iu.quarry1=Smelts ores
 iu.quarry2=Reduces energy costs
 
-iu.blockChargepadBatBox.name=Charge Pad (BatBox)
-iu.blockChargepadCESU.name=Charge Pad (CESU)
-iu.blockChargepadMFE1.name=Charge Pad (MFE)
-iu.blockChargepadMFSU.name=Charge Pad (MFSU)
-iu.blockChargepadMFE.name=Charge Pad (Improved MFSU)
-iu.blockChargepadMFES.name=Charge Pad (Advanced MFSU)
-iu.blockChargepadPerMFSU.name=Charge Pad (Perfect MFSU)
-iu.blockChargepadBarMFSU.name=Charge Pad (Baryon MFSU)
-iu.blockChargepadAdrMFSU.name=Charge Pad (Hadron MFSU)
-iu.blockChargepadGraMFSU.name=Charge Pad (Graviton MFSU)
-iu.blockChargepadKvrMFSU.name=Charge Pad (Quark MFSU)
 industrialupgrade.wiring_chargepad.batbox_iu_chargepad=Charge Pad (BatBox)
 industrialupgrade.wiring_chargepad.cesu_iu_chargepad=Charge Pad (CESU)
 industrialupgrade.wiring_chargepad.mfe_iu_chargepad=Charge Pad (MFE)
@@ -1490,9 +1466,6 @@ industrialupgrade.moremachine3.double_farmer=Improved Autonomous Farm
 industrialupgrade.moremachine3.triple_farmer=Advanced Autonomous Farm
 industrialupgrade.moremachine3.quad_farmer=Perfect Autonomous Farm
 
-iu.blockAdvgenerator.name=Improved Generator
-iu.blockImpgenerator.name=Advanced Generator
-iu.blockPergenerator.name=Perfect Generator
 industrialupgrade.basemachine.adv_gen=Improved Generator
 industrialupgrade.basemachine.imp_gen=Advanced Generator
 industrialupgrade.basemachine.per_gen=Perfect Generator
@@ -1504,13 +1477,8 @@ industrialupgrade.imp_chamber.imp_chamber=Advanced Reactor Chamber
 industrialupgrade.basemachine1.per_reactor=Perfect Nuclear Reactor
 industrialupgrade.per_chamber.per_chamber=Perfect Reactor Chamber
 
-iu.blockAdvKG.name=Improved Kinetic Generator
-iu.blockImpKG.name=Advanced Kinetic Generator
-iu.blockPerKG.name=Perfect Kinetic Generator
-
 industrialupgrade.basemachine.alloy_smelter=Alloy Smelter
 industrialupgrade.basemachine1.adv_alloy_smelter=Improved Alloy Smelter
-iu.AdvAlloymachine.name=Improved Alloy Smelter
 
 industrialupgrade.basemachine1.adv_geo=Improved Geothermal Generator
 industrialupgrade.basemachine1.imp_geo=Advanced Geothermal Generator
@@ -1531,7 +1499,6 @@ industrialupgrade.basemachine2.lava_gen=Lava Generator
 industrialupgrade.basemachine2.helium_generator=Helium Generator
 
 industrialupgrade.basemachine.generator_microchip=Circuit Manufacturer
-blockConverterSolidMatter.name=Solid Matter Transformer
 industrialupgrade.converter_matter.converter_matter=Solid Matter Transformer
 industrialupgrade.basemachine.modulator=Module Handler
 industrialupgrade.basemachine1.enrichment=Enrichment
@@ -1540,16 +1507,12 @@ industrialupgrade.basemachine1.handler_ho=Mineral Separator
 industrialupgrade.basemachine1.gen_wither=Wither Manufacturer
 industrialupgrade.basemachine1.magnet=Magnetic Catcher
 industrialupgrade.basemachine1.magnet_generator=Magnetic Generator
-iu.blockFisher.name=Fishing Machine
 industrialupgrade.basemachine2.fisher=Fishing Machine
 industrialupgrade.basemachine2.painter=Dyeing Machine
 industrialupgrade.upgrade_block.upgrade_block=Modification Station
-iu.upgrade_block_item.upgrade_block=Modification Station
 iu.quarry_vein_item.quarry_vein_item=Core Search Drilling Rig
 industrialupgrade.petrol_quarry.petrol_quarry=Pumpjack
-iu.petrol_quarry_item.petrol_quarry_item=Pumpjack
 industrialupgrade.combiner_solid_matter.combiner_solid_matter=Solid Matter Generator Combiner
-iu.combiner_solidmatter.combiner_solidmatter=Solid Matter Generator Combiner
 industrialupgrade.basemachine2.expierence_block=Experience Storage
 industrialupgrade.basemachine2.plastic_creator=Chemical Plant
 industrialupgrade.basemachine2.plastic_plate_creator=Plastic Plate Machine
@@ -1861,7 +1824,6 @@ item.adv_iu_bags.name=Improved Bag
 item.imp_iu_bags.name=Advanced Bag
 
 iu.vertical=To active vertical mode, press 
-iu.streak=To change the color of the line behind the player, press 
 iu.magnet_mode=To active the magnet, press 
 iu.notfindoil=No oil found, put the Core Search Drilling Rig to analyze the chunk 
 iu.create_sunnarium=Created in Solar Energy Generator

@@ -12,7 +12,6 @@ iu.itemiucrafring.itemirradiantglasspane=光辉玻璃板
 
 # Chaotic Energy Storage
 iu.ChaosEnergyCore.name=§7混沌能量核心
-item.supersolarpanel:ChaosFluxCapacitor0.name=§7混沌通量电容器
 
 # Oil Refinery
 industrialupgrade.refiner.refiner=炼油厂
@@ -550,7 +549,6 @@ iu.modulewirelles2=§b无线: §c没有运作
 iu.fly=§3飞行激活:
 iu.fly1=按模式切换键 + Boost Key 开启飞行
 iu.vertical=按模式切换键 + Side Key 可启用垂直模式
-iu.streak=按下 Hub Expand 键来改变玩家身后的条带颜色
 iu.effect=火焰保护启动:
 storagemodul=仅用于能量储存
 storagemodul1=按 右键单击存储
@@ -581,17 +579,6 @@ iu.cold.itempipes2=Advanced Cooling Pipe
 iu.cold.itempipes3=Perfect Cooling Pipe
 iu.cold.itempipes4=Quantum Cooling Pipe
 
-iu.blockBatBox.name=储电箱
-iu.blockCESU.name=CESU
-iu.blockMFE1.name=MFE
-iu.blockMFSU1.name=MFSU
-iu.blockMFE.name=§e改良 MFSU
-iu.blockMFSU.name=§b高级 MFSU
-iu.blockPerMFSU.name=完美 MFSU
-iu.blockBarMFSU.name=重子 MFSU
-iu.blockAdrMFSU.name=强子 MFSU
-iu.blockGraMFSU.name=引力子 MFSU
-iu.blockKvrMFSU.name=夸克 MFSU
 industrialupgrade.wiring_storage.batbox_iu=无线储电箱
 industrialupgrade.wiring_storage.cesu_iu=CESU
 industrialupgrade.wiring_storage.mfe_iu=MFE
@@ -608,17 +595,6 @@ iu.quarry=嵌入量子采石场
 iu.quarry1=冶炼矿石 
 iu.quarry2=降低能源成本
 
-iu.blockChargepadBatBox.name=充电型 (储电箱)
-iu.blockChargepadCESU.name=充电型 (CESU)
-iu.blockChargepadMFE1.name=充电型 (MFE)
-iu.blockChargepadMFSU.name=充电型 (MFSU)
-iu.blockChargepadMFE.name=充电型 (改良 MFSU)
-iu.blockChargepadMFES.name=充电型 (高级 MFSU)
-iu.blockChargepadPerMFSU.name=充电型 (完美 MFSU)
-iu.blockChargepadBarMFSU.name=充电型 (重子 MFSU)
-iu.blockChargepadAdrMFSU.name=充电型(强子 MFSU)
-iu.blockChargepadGraMFSU.name=充电型 (引力子 MFSU)
-iu.blockChargepadKvrMFSU.name=充电型 (夸克 MFSU)
 industrialupgrade.wiring_chargepad.batbox_iu_chargepad=无线充电型 (储电箱)
 industrialupgrade.wiring_chargepad.cesu_iu_chargepad=充电型 (CESU)
 industrialupgrade.wiring_chargepad.mfe_iu_chargepad=充电型 (MFE)
@@ -1490,9 +1466,6 @@ industrialupgrade.moremachine3.double_farmer=改良的自动农场机
 industrialupgrade.moremachine3.triple_farmer=高级的自动农场机
 industrialupgrade.moremachine3.quad_farmer=完美的自动农场机
 
-iu.blockAdvgenerator.name=改良发电机
-iu.blockImpgenerator.name=高级发电机
-iu.blockPergenerator.name=完美发电机
 industrialupgrade.basemachine.adv_gen=改良发电机
 industrialupgrade.basemachine.imp_gen=高级发电机
 industrialupgrade.basemachine.per_gen=完美发电机
@@ -1504,13 +1477,8 @@ industrialupgrade.imp_chamber.imp_chamber=高级的核反应仓
 industrialupgrade.basemachine1.per_reactor=完美的核反应堆
 industrialupgrade.per_chamber.per_chamber=完美的核反应仓
 
-iu.blockAdvKG.name=改良的动能发电机
-iu.blockImpKG.name=高级的动能发电机
-iu.blockPerKG.name=完美的动能发电机
-
 industrialupgrade.basemachine.alloy_smelter=合金炉
 industrialupgrade.basemachine1.adv_alloy_smelter=改良合金炉
-iu.AdvAlloymachine.name=改良合金炉
 
 industrialupgrade.basemachine1.adv_geo=改进的地热发电机
 industrialupgrade.basemachine1.imp_geo=高级的地热发电机
@@ -1531,7 +1499,6 @@ industrialupgrade.basemachine2.lava_gen=岩浆发电机
 industrialupgrade.basemachine2.helium_generator=氦气发电机
 
 industrialupgrade.basemachine.generator_microchip=电路板制造厂
-blockConverterSolidMatter.name=固体物质变压器
 industrialupgrade.converter_matter.converter_matter=固体物质变压器
 industrialupgrade.basemachine.modulator=模块处理机
 industrialupgrade.basemachine1.enrichment=富集发生器
@@ -1540,16 +1507,12 @@ industrialupgrade.basemachine1.handler_ho=矿物分离机
 industrialupgrade.basemachine1.gen_wither=凋零制造厂
 industrialupgrade.basemachine1.magnet=电磁捕手
 industrialupgrade.basemachine1.magnet_generator=电磁发电机
-iu.blockFisher.name=自动钓鱼机
 industrialupgrade.basemachine2.fisher=自动钓鱼机
 industrialupgrade.basemachine2.painter=印染机
 industrialupgrade.upgrade_block.upgrade_block=修改站
-iu.upgrade_block_item.upgrade_block=修改站
 iu.quarry_vein_item.quarry_vein_item=核心钻探装置
 industrialupgrade.petrol_quarry.petrol_quarry=石油钻井
-iu.petrol_quarry_item.petrol_quarry_item=石油钻井
 industrialupgrade.combiner_solid_matter.combiner_solid_matter=固体物质发生组合器
-iu.combiner_solidmatter.combiner_solidmatter=固体物质发生组合器
 industrialupgrade.basemachine2.expierence_block=经验储存器
 industrialupgrade.basemachine2.plastic_creator=化工厂
 industrialupgrade.basemachine2.plastic_plate_creator=塑料制板机
@@ -1861,7 +1824,6 @@ item.adv_iu_bags.name=改良的电力储存袋
 item.imp_iu_bags.name=高级的电力储存袋
 
 iu.vertical=激活垂直模式，请按
-iu.streak=修改玩家后面的线的颜色，请按
 iu.magnet_mode=激活磁铁，请按
 iu.notfindoil=没有发现石油，使用探心钻探装置来分析区块
 iu.create_sunnarium=在阳光化合物产生机中创造的
