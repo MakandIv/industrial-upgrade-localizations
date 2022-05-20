@@ -7,7 +7,7 @@ Industrial Update Localization Updates is the Industrial Upgrade localization up
 | :--------------------------: | :------------------:| :---------------: | :---------------------:
 | Русский (Russian)            | Mak_and_Iv          | Full (for 2.5.21) | Full (for 2.4 build #12)
 | English                      | Mak_and_Iv          | Full (for 2.5.21) | Full (for 2.4 build #12)
-| 简体中文 (Simplified Chinese) | 绝绝子              | -                 | ~90% (for 2.4 build #12)
+| 简体中文 (Simplified Chinese) | 绝绝子              | -                 | Full (for 2.4 build #12)
 | Українська (Ukrainian)       | Denfop (Mak_and_Iv) | -                 | Full (for 2.4 build #12)
 
 
