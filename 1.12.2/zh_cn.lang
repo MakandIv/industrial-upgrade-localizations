@@ -476,6 +476,11 @@ iu.windrod.carbon_rotor_model8=强子转子叶片
 iu.windrod.carbon_rotor_model9=青蓝转子叶片
 
 #Rotors
+iu.rotor_wood=Wooden Rotor
+iu.rotor_bronze=Bronze Rotor
+iu.rotor_iron=Iron Rotor
+iu.rotor_steel=Steel Rotor
+iu.rotor_carbon=Carbon Rotor
 iu.compressiridium=§7压缩铱转子
 iu.iridium=§f铱转子
 iu.spectral=§e光谱转子

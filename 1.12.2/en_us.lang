@@ -475,15 +475,20 @@ iu.windrod.carbon_rotor_model8=Hadron Rotor Blade
 iu.windrod.carbon_rotor_model9=Ultramarine Rotor Blade
 
 # Rotors
-iu.compressiridium=§7Compressed Iridium Rotor
-iu.iridium=§fIridium Rotor
-iu.spectral=§eSpectral Rotor
-iu.neutron=§9Neutron Rotor
-iu.photon=§aPhotonic Rotor
-iu.myphical=§dMythical Rotor
-iu.ultramarinerotor=§bUltramarine Rotor
-iu.barionrotor=§5Baryon Rotor
-iu.adronrotor=§3Hadron Rotor
+iu.rotor_wood=Kinetic Gearbox Rotor (Wood)
+iu.rotor_bronze=Kinetic Gearbox Rotor (Bronze)
+iu.rotor_iron=Kinetic Gearbox Rotor (Iron)
+iu.rotor_steel=Kinetic Gearbox Rotor (Steel)
+iu.rotor_carbon=Kinetic Gearbox Rotor (Carbon)
+iu.compressiridium=§7Kinetic Gearbox Rotor (Compressed Iridium)
+iu.iridium=§fKinetic Gearbox Rotor (Iridium)
+iu.spectral=§eKinetic Gearbox Rotor (Spectral)
+iu.neutron=§9Kinetic Gearbox Rotor (Neutron)
+iu.photon=§aKinetic Gearbox Rotor (Photonic)
+iu.myphical=§dKinetic Gearbox Rotor (Mythical)
+iu.ultramarinerotor=§bKinetic Gearbox Rotor (Ultramarine)
+iu.barionrotor=§5Kinetic Gearbox Rotor (Baryon)
+iu.adronrotor=§3Kinetic Gearbox Rotor (Hadron)
 
 ic3uumatter=Neutron
 death.attack.current=You died from electric shock

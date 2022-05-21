@@ -475,6 +475,11 @@ iu.windrod.carbon_rotor_model8=Адронная лопасть ротора
 iu.windrod.carbon_rotor_model9=Ультрамариновая лопасть ротора
 
 #Роторы
+iu.rotor_wood=Деревянный ротор
+iu.rotor_bronze=Бронзовый ротор
+iu.rotor_iron=Железный ротор
+iu.rotor_steel=Стальной ротор
+iu.rotor_carbon=Углеволоконный ротор
 iu.compressiridium=§7Ротор сжатого иридия
 iu.iridium=§fИридиевый ротор
 iu.spectral=§eСпектральный ротор
