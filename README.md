@@ -3,12 +3,12 @@ Industrial Update Localization Updates is the Industrial Upgrade localization up
 
 ### Localization support/Minecraft Version support
 
-| Language                     | Translator (editor) | 1.7.10            | 1.12.2 
-| :--------------------------: | :------------------:| :---------------: | :---------------------:
-| Русский (Russian)            | Mak_and_Iv          | Full (for 2.5.21) | Full (for 2.4 build #12)
-| English                      | Mak_and_Iv          | Full (for 2.5.21) | Full (for 2.4 build #12)
-| 简体中文 (Simplified Chinese) | 绝绝子              | -                 | Full (for 2.4 build #12)
-| Українська (Ukrainian)       | Denfop (Mak_and_Iv) | -                 | Full (for 2.4 build #12)
+| Language                     | Interpreter (editor)         | 1.7.10            | 1.12.2 
+| :--------------------------: | :--------------------------:| :---------------: | :---------------------:
+| Русский (Russian)            | Mak_and_Iv                  | Full (for 2.5.21) | Full (for 2.4 build #19)
+| English                      | Mak_and_Iv                  | Full (for 2.5.21) | Full (for 2.4 build #19)
+| 简体中文 (Simplified Chinese) | 绝绝子                      | -                 | 99% (for 2.4 build #19)
+| Українська (Ukrainian)       | Denfop, vanFEK (Mak_and_Iv) | -                 | Full (for 2.4 build #19)
 
 
 ### Links
