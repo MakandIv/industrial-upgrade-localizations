@@ -2077,7 +2077,7 @@ industrialupgrade.basemachine3.research_table=Стол исследований
 industrialupgrade.basemachine3.creator_schedules=Создатель шаблонов
 industrialupgrade.basemachine3.gas_combiner=Газовый смеситель
 
-# Blueprints
+# Схемы
 iu.blueprint.blueprint_0=Схема "Ядро молекулярного сборщика"
 iu.blueprint.blueprint_1=Схема "Нейтронное ядро"
 iu.blueprint.blueprint_2=Схема "Ядерный реактор"
