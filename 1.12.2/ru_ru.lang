@@ -2281,3 +2281,7 @@ iu.blueprint.blueprint_199=Схема "Совершенный дробитель
 iu.blueprint.blueprint_200=Схема "Совершенный геотермальный генератор"
 
 itemGroup.BlueprintTab=IU: Схемы
+turn_off=Выключить
+turn_on=Включить
+iu.storage_fluid=§aВместимость: 
+iu.expcable=Провод опыта

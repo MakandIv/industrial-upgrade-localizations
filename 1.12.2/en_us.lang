@@ -2281,3 +2281,7 @@ iu.blueprint.blueprint_199="Perfect Macerator" Scheme
 iu.blueprint.blueprint_200="Perfect Geothermal Generator" Scheme
 
 itemGroup.BlueprintTab=IU: Schemes
+turn_off=Switch off
+turn_on=Switch on
+iu.storage_fluid=§aCapacity: 
+iu.expcable=Experience Cable
