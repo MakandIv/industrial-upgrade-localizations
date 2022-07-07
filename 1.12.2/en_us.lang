@@ -88,7 +88,7 @@ item.ultimate_solar_helmet.name=§9Perfect Solar Helmet
 item.spectral_solar_helmet.name=§eSpectral Solar Helmet
 item.singular_solar_helmet.name=§8Singular Solar Helmet
 
-#Katana
+# Katana
 iu.katana=Katana
 
 # Sabers
@@ -533,6 +533,7 @@ itemGroup.EnergyTab=IU: Tools/Armor
 itemGroup.ResourceTab=IU: Resources
 itemGroup.ReactorsTab=IU: Radioactive
 itemGroup.UpgradeTab=IU: Upgrades
+itemGroup.BlueprintTab=IU: Schemes
 
 itemCellEmpty.name=Advanced Cell
 itemCellUuMatter.name=Liquefied Neutron
@@ -2280,7 +2281,6 @@ iu.blueprint.blueprint_198="Perfect Liquid Tank" Scheme
 iu.blueprint.blueprint_199="Perfect Macerator" Scheme
 iu.blueprint.blueprint_200="Perfect Geothermal Generator" Scheme
 
-itemGroup.BlueprintTab=IU: Schemes
 turn_off=Switch off
 turn_on=Switch on
 iu.storage_fluid=§aCapacity: 
