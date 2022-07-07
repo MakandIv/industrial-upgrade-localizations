@@ -533,6 +533,7 @@ itemGroup.EnergyTab=IU: Инструменты/Броня
 itemGroup.ResourceTab=IU: Ресурсы
 itemGroup.ReactorsTab=IU: Радиактивность
 itemGroup.UpgradeTab=IU: Улучшения
+itemGroup.BlueprintTab=IU: Схемы
 
 itemCellEmpty.name=Улучшенная капсула
 itemCellUuMatter.name=Сжиженный нейтрон
@@ -2280,7 +2281,6 @@ iu.blueprint.blueprint_198=Схема "Совершенный жидкостны
 iu.blueprint.blueprint_199=Схема "Совершенный дробитель"
 iu.blueprint.blueprint_200=Схема "Совершенный геотермальный генератор"
 
-itemGroup.BlueprintTab=IU: Схемы
 turn_off=Выключить
 turn_on=Включить
 iu.storage_fluid=§aВместимость: 
