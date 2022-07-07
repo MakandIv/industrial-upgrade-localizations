@@ -1,9 +1,9 @@
-# Саннариум
-sunnarium2.name=Саннариум
-sunnarium_plate.name=Саннариумная пластина
-sunnarium_enriched.name=Обогащённый саннариум
-sunnarium_enriched_plate.name=Обогащённая саннариумная пластина
-SunnariumPartq.name=Часть саннариума
+# Соларит
+sunnarium2.name=Соларит
+sunnarium_plate.name=Соларитовая пластина
+sunnarium_enriched.name=Обогащённый соларит
+sunnarium_enriched_plate.name=Обогащённая соларитовая пластина
+SunnariumPartq.name=Кусочек соларита
 
 # Уран
 itemUranIngot.name=Урановый слиток
@@ -1497,26 +1497,26 @@ GenSun_matter.name=Генератор солнечной твёрдой мате
 blockSolarGeneratorEnergy.name=Генератор солнечной энергии
 blockAdvSolarGenerator.name=Улучшенный генератор солнечной энергии
 blockImpSolarGenerator.name=Продвинутый генератор солнечной энергии
-blockSunnariumMaker.name=Производитель саннариума
-iu.SunnariumMaker.name=Производитель саннариума
-blockSunnariumPanelMaker.name=Производитель саннариумных пластин
-iu.SunnariumPanelMaker.name=Производитель саннариумных пластин
+blockSunnariumMaker.name=Производитель соларита
+iu.SunnariumMaker.name=Производитель соларита
+blockSunnariumPanelMaker.name=Производитель соларитовых пластин
+iu.SunnariumPanelMaker.name=Производитель соларитовых пластин
 
 item.doublescrapBox.name=Двойная коробка утильсырья
 
-hsp.name=Гибридная саннариумная пластина
-usp.name=Совершенная саннариумная пластина
-qsp.name=Квантовая саннариумная пластина
-spsp.name=Спектральная саннариумная пластина
-psp.name=Протонная саннариумная пластина
-ssp.name=Сингулярная саннариумная пластина
-admsp.name=Дифракционная саннариумная пластина
-phsp.name=Фотонная саннариумная пластина
-nsp.name=Нейтронная саннариумная пластина
-bsp.name=Барионная саннариумная пластина
-adspp.name=Адронная саннариумная пластина
-gsp.name=Гравитонная саннариумная пластина
-ksp.name=Кварковая саннариумная пластина
+hsp.name=Гибридная соларитовая пластина
+usp.name=Совершенная соларитовая пластина
+qsp.name=Квантовая соларитовая пластина
+spsp.name=Спектральная соларитовая пластина
+psp.name=Протонная соларитовая пластина
+ssp.name=Сингулярная соларитовая пластина
+admsp.name=Дифракционная соларитовая пластина
+phsp.name=Фотонная соларитовая пластина
+nsp.name=Нейтронная соларитовая пластина
+bsp.name=Барионная соларитовая пластина
+adspp.name=Адронная соларитовая пластина
+gsp.name=Гравитонная соларитовая пластина
+ksp.name=Кварковая соларитовая пластина
 
 iu.transformerUpgrade1=Улучшение «Трансформатор х2»
 iu.transformerUpgrade2=Улучшение «Трансформатор х4»
@@ -1802,21 +1802,21 @@ achievement.toriyore.desc=Получите торий
 achievement.SE_generator=Солнце в руках
 achievement.SE_generator.desc=Создайте генератор солнечной энергии
 achievement.sunnarium_part=Частица Солнца
-achievement.sunnarium_part.desc=Получите часть саннариума
+achievement.sunnarium_part.desc=Получите кусочек соларита
 achievement.Adv_SE_generator=Больше Солнца
 achievement.Adv_SE_generator.desc=Улучшите генератор солнечной энергии
 achievement.Imp_SE_generator=Солнечная зависимость
 achievement.Imp_SE_generator.desc=Ещё улучшите генератор солнечной энергии
 achievement.sunnarium_maker=Склеить частицы
-achievement.sunnarium_maker.desc=Создайте производитель саннариума
+achievement.sunnarium_maker.desc=Создайте производитель соларита
 achievement.sunnarium=Солнце своими руками...
-achievement.sunnarium.desc=Получите саннариум
+achievement.sunnarium.desc=Получите соларит
 achievement.sunnarium_plate=...а теперь сожми его
-achievement.sunnarium_plate.desc=Получите саннариумную пластину
+achievement.sunnarium_plate.desc=Получите соларитовую пластину
 achievement.enrichment=Обогатите это!
 achievement.enrichment.desc=Создайте обогатитель
 achievement.sunnarium_enrich=Радиоактивное Солнце
-achievement.sunnarium_enrich.desc=Получите излучающий саннариум
+achievement.sunnarium_enrich.desc=Получите излучающий соларит
 achievement.uranium_enrich=Радиоактивный уран
 achievement.uranium_enrich.desc=Получите излучающий уран
 achievement.glass_enrich=Царское стекло
@@ -1825,7 +1825,7 @@ achievement.toriy_enrich=Радиоактивный торий
 achievement.toriy_enrich.desc=Получите излучающий торий
 
 achievement.sunnarium_makerpanel=Необычное сжатое Солнце
-achievement.sunnarium_makerpanel.desc=Создайте производитель саннариумных пластин
+achievement.sunnarium_makerpanel.desc=Создайте производитель соларитовых пластин
 achievement.molecular_transfromer=Преобразователь всего
 achievement.molecular_transfromer.desc=Создайте молекулярный преобразователь
 achievement.double_molecular_transfromer=Преобразование с удвоенной силой
