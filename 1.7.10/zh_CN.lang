@@ -1,0 +1,1909 @@
+# 阳光合金
+sunnarium2.name=阳光化合物
+sunnarium_plate.name=阳光合金
+sunnarium_enriched.name=富集阳光化合物
+sunnarium_enriched_plate.name=富集阳光合金
+SunnariumPartq.name=阳光碎片
+
+# 铀
+itemUranIngot.name=铀锭
+itemIrradiantUranium.name=光辉铀锭
+itemIrradiantGlassPane.name=光辉玻璃板
+
+# 混沌护甲
+item.ssp:ChaosHelm.name=§7混沌头盔
+item.ssp:ChaosChest.name=§7混沌胸甲
+item.ssp:ChaosLeggs.name=§7混沌护腿
+item.ssp:ChaosBoots.name=§7混沌靴
+
+# 混沌储能
+item.ChaosEnergyCore.name=§7混沌能量核心
+item.supersolarpanel:ChaosFluxCapacitor0.name=§7混沌通量电容器
+
+# Chaos Tools & Weapons
+item.supersolarpanel:ChaosDistructionStaff.name=§7混沌之力权杖
+item.supersolarpanel:ChaosBow.name=§7混沌之弓
+item.supersolarpanel:ChaosHoe.name=§7混沌之锄
+item.supersolarpanel:ChaosAxe.name=§7混沌之斧
+item.supersolarpanel:Chaos镐.name=§7混沌镐
+item.supersolarpanel:ChaosShovel.name=§7混沌之铲
+item.supersolarpanel:ChaosSword.name=§7混沌之剑
+
+# Oil Refinery
+blockOilRefiner.name=炼油厂
+blockOilAdvRefiner.name=高级炼油厂
+
+# MTs and details
+itemMTCore.name=分子重组核心
+blockMolecularTransformer.name=分子重组仪
+blockDoubleMolecularTransformer.name=高级分子重组仪
+
+# MT GUI
+gui.MolecularTransformer.input=输入
+gui.MolecularTransformer.output=输出
+gui.MolecularTransformer.energyPerOperation=电量
+gui.MolecularTransformer.progress=进度
+gui.MolecularTransformer.energytick=Energy Tick
+iu.maxCharge=电量
+iu.spectralsaberactive=激活后伤害:
+iu.tier=等级: 
+iu.transferLimit=能量传输速率 (EU/t):
+button.rg=⇄
+button.changemode=改变模式
+inforamtionmolecular=单击以改变 GUI 颜色 
+inforamtionmolecular1=单击以改变重组仪的工作模式 
+
+# Standart Panels
+blockAdvancedSolarPanel.name=§8高级太阳能
+blockHybridSolarPanel.name=§3混合太阳能
+blockUltimateSolarPanel.name=§9终极混合太阳能
+blockQuantumSolarPanel.name=§2量子太阳能
+blockSpectralSolarPanel.name=§e光谱太阳能
+blockSingularSolarPanel.name=§8奇异太阳能
+blockAdminSolarPanel.name=§c衍射太阳能
+blockPhotonicSolarPanel.name=§a光子太阳能
+blockProtonSolarPanel.name=§5质子太阳能
+blockNeutronSolarPanel.name=§9中子太阳能
+blockBarionSolarPanel.name=§d重子太阳能
+blockAdronSolarPanel.name=§d强子太阳能
+blocGravitonSolarPanel.name=§d引力子太阳能
+blockKvarkSolarPanel.name=§d夸克太阳能
+blockAdministatorSolarPanel.name=§8创造太阳能
+
+# Draconic Evolution Panels
+blockDraconSolarPanel.name=§d双足飞龙太阳能
+blockAwakenedSolarPanel.name=§6神龙太阳能
+blockChaosSolarPanel.name=§7混沌太阳能
+
+# Botania Panels
+blockManasteelSolarPanel.name=§b魔力钢太阳能
+blockTerrasteelSolarPanel.name=§a泰拉钢太阳能
+blockElementumSolarPanel.name=§d源钢太阳能
+
+# Avaritia Panels
+blockNeutronSolarPanelAvaritia.name=§9中子太阳能
+blockinfinitySolarPanel.name=无尽太阳能
+blockInfinitySolarPanel.name=无尽太阳能
+
+# Thaumcraft Panels
+blockThaumSolarPanel.name=神秘太阳能
+blockVoidSolarPanel.name=虚空太阳能
+
+# Thaumic Tinkerer Panels
+blockIhorSolarPanel.name=灵宝太阳能
+
+# Helmets with Solar Panel
+item.advanced_solar_helmet.name=§8高级太阳能头盔
+item.hybrid_solar_helmet.name=§3混合太阳能头盔
+item.ultimate_solar_helmet.name=§9终极混合太阳能头盔
+item.spectral_solar_helmet.name=§e光谱太阳能头盔
+item.singular_solar_helmet.name=§8奇异太阳能头盔
+
+# Sabers
+iu.itemNanoSaber1=量子剑
+iu.itemNanoSaber=光谱剑
+
+item.dust.name=能量粉
+item.Ender-QuantumComponent.name=终极量子组件
+
+# Spectral Quantum Armor
+supersolarpanels.itemArmorQuantumHelmet=§d光谱量子头盔
+supersolarpanels.itemArmorQuantumChestplate=§d光谱量子胸甲
+supersolarpanels.itemArmorQuantumLegs=§d光谱量子护腿
+supersolarpanels.itemArmorQuantumBoots=§d光谱量子靴
+
+# Reinforced Armor
+itemArmorNanoHelmet=强化纳米头盔
+itemArmorNanoChestplate=强化纳米胸甲
+itemArmorNanoLegs=强化纳米护腿
+itemArmorNanoBoots=强化纳米靴
+
+# Nuclear Fusion Radiation Suit
+hazmathelmet.name=防辐射头盔
+hazmatchest.name=防辐射服
+hazmatleggins.name=防辐射裤
+hazmatboosts.name=防辐射靴
+
+iu.itemBatLamaCrystal=强化能量水晶
+item.QuantumItems4.name=§7进阶压缩强化铱板
+item.QuantumItems2.name=§7压缩强化铱板
+
+item.Helium.name=氦
+
+item.photoniy.name=§3光子
+item.photoniy_ingot.name=§3光子锭
+
+# Cores
+advcore.name=§8高级核心
+hybcore.name=§3混合核心
+ultcore.name=§9终极混合核心
+quacore.name=§2量子核心
+specore.name=§e光谱核心
+procore.name=§5质子核心
+sincore.name=§8奇异核心
+admcore.name=§c衍射核心
+phocore.name=§a光子核心
+neucore.name=§9中子核心
+barcore.name=重子核心
+adrcore.name=强子核心
+gracore.name=引力子核心
+kvrcore.name=夸克核心
+
+# Botania Cores
+item.manasteel_core.name=§b魔力钢核心
+item.terrasteel_core.name=§a泰拉钢核心
+item.elementium_core.name=§d源钢核心
+
+# Avaritia Cores
+item.neutroncore.name=§9中子核心
+item.infinitycore.name=§f无尽核心
+
+iu.itemCellUuMatter=§9液态中子单元
+item.neutronium.name=§9中子碎片
+item.neutroniumingot.name=§9中子锭
+
+iu.blockMatter.name=§9中子粒子发生器
+iu.Matter.gui.name=§b中子粒子发生器
+
+item.nanobox.name=§8纳米工具盒
+item.QuantumItems7.name=§e强化纳米工具盒
+item.QuantumItems6.name=§b量子工具盒
+item.QuantumItems3.name=强化量子工具盒
+
+iu.itemCable=§a光谱导线
+iu.itemCableO=§9质子导线
+iu.itemGoldCable=§e奇异导线
+iu.itemGoldCableI=§6传说导线
+iu.itemGoldCableII=§5量子导线
+iu.itemIronCable=§d光子导线
+iu.itemIronCableI=§3中子导线
+iu.itemIronCableII=§b终极导线
+iu.itemIronCableIIII=§6Universe导线
+iu.itemGlassCable=§c衍射导线
+iu.itemGlassCableI=§7无尽导线
+
+item.QuantumItems9.name=纳米电路板
+item.QuantumItems8.name=量子电路板
+item.QuantumItems5.name=§d光谱电路板
+
+iu.blockCable=导线
+item.chaosingot.name=§7混沌锭
+item.coal_chunk.name=压缩煤块
+item.compresscarbon.name=压缩碳板
+item.compresscarbonultra.name=压缩高级合金
+iu.itemCellEmpty=液态中子储量
+
+item.module1.name=升级模块: 日间发电 I
+item.genmodule.name=升级模块: 日间发电 II
+item.genmodule1.name=升级模块: 日间发电 III
+item.module2.name=升级模块: 夜间发电 I
+item.gennightmodule.name=升级模块: 夜间发电 II
+item.gennightmodule1.name=升级模块: 夜间发电 III
+item.module3.name=升级模块: 存储 I
+item.storagemodule.name=升级模块: 存储 II
+item.storagemodule1.name=升级模块: 存储 III
+item.module4.name=升级模块: 输出 I
+item.outputmodule.name=升级模块: 输出 II
+item.outputmodule1.name=升级模块: 输出 III
+module51.name=升级模块: 天空
+item.analyzermodule.name=升级模块: 扫描
+item.quarrymodule.name=升级模块: 采矿机
+
+photoniyglass1.name=§8高级玻璃板
+photoniyglass2.name=§3混合玻璃板
+photoniyglass3.name=§9终极玻璃板
+photoniyglass4.name=§2量子玻璃板
+photoniyglass5.name=§e光谱玻璃板
+photoniyglass6.name=§5质子玻璃板
+photoniyglass7.name=§8奇异玻璃板
+photoniyglass8.name=§c衍射玻璃板
+photoniyglass9.name=§a光子玻璃板
+photoniyglass10.name=中子玻璃板
+photoniyglass11.name=重子玻璃板
+photoniyglass12.name=强子玻璃板
+photoniyglass13.name=引力子玻璃板
+photoniyglass14.name=夸克玻璃板
+
+iu.proton=§5质子
+iu.protonshard=§5质子碎片
+iu.reactorCoolantmax=240к冷却单元
+iu.reactorCoolanttwelve=120к冷却单元
+
+iu.reactorDepletedprotonDual=枯竭双联质子燃料棒
+iu.reactorDepletedprotonQuad=枯竭四联质子燃料棒
+iu.reactorDepletedprotonSimple=枯竭质子燃料棒
+iu.reactorDepletedprotoneit=枯竭八联质子燃料棒
+
+iu.reactorDepletedterastrellDual=枯竭双联泰拉钢燃料棒
+iu.reactorDepletedterastrellQuad=枯竭四联泰拉钢燃料棒
+iu.reactorDepletedterastrellSimple=枯竭泰拉钢燃料棒
+
+iu.reactorprotonDual=双联质子燃料棒
+iu.reactorprotonQuad=四联质子燃料棒
+iu.reactorprotonSimple=质子燃料棒
+iu.reactorprotoneit=八联质子燃料棒
+
+iu.reactorterastrellDual=双联泰拉钢燃料棒
+iu.reactorterastrellQuad=四联泰拉钢燃料棒
+iu.reactorterastrellSimple=泰拉钢燃料棒
+
+item.rune_energy.name=Rune of Energy
+item.rune_night.name=Rune of Night
+item.rune_sun.name=Rune of the Sun
+
+item.teraDDrill.name=泰拉钢电钻
+item.ultDDrill.name=终极电钻
+item.spectraldrill.name=光谱电钻
+item.nanodrill.name=纳米电钻
+item.quantumdrill.name=量子电钻
+
+item.GraviTool.name=万能工具
+item.Purifier.name=清洁器
+
+iu.overclockerUpgrade1=强化超频升级
+iu.overclockerUpgrade2=高级超频升级
+
+module52.name=升级模块: Earth
+module53.name=升级模块: Nether
+module54.name=升级模块: Ender
+module55.name=升级模块: Night
+module56.name=升级模块: Solar
+module57.name=升级模块: Water
+
+module61.name=模块: 高级太阳能
+module62.name=模块: §3混合太阳能
+module63.name=模块: §9终极混合太阳能
+module64.name=模块: §2量子太阳能
+module65.name=模块: §e光谱太阳能
+module66.name=模块: §5质子太阳能
+module67.name=模块: §8奇异太阳能
+module68.name=模块: §c衍射太阳能
+module69.name=模块: §a光子太阳能
+module70.name=模块: §9中子太阳能
+module91.name=模块: 重子太阳能
+module92.name=模块: 强子太阳能
+module93.name=模块: 引力子太阳能
+module94.name=模块: 夸克太阳能
+
+module71.name=升级模块: 私人
+module72.name=升级模块: 提升
+module73.name=升级模块: 降低
+module74.name=升级模块: 物品充电
+module75.name=升级模块: RF
+module76.name=升级模块: 护甲无线充电
+module77.name=升级模块: 工具无线充电
+module78.name=升级模块: 护甲无线充电 (RF)
+module79.name=升级模块: 工具无线充电 (RF)
+
+item.module_schedule.name=空白模块
+module80.name=升级模块: 清洁
+module81.name=升级模块: 熔炼
+module82.name=升级模块: 节能 I
+module83.name=升级模块: 节能 II
+module84.name=升级模块: 节能 III
+module85.name=升级模块: 节能 IV
+module86.name=升级模块: 节能 V
+module87.name=升级模块: 时运 I
+module88.name=升级模块: 时运 II
+module89.name=升级模块: 时运 III
+kar1.name=升级模块:  3х3
+kar2.name=升级模块:  5х5
+kar3.name=升级模块:  7х7
+blackmodule.name=升级模块: 黑名单
+whitemodule.name=升级模块: 白名单
+item.expmodule.name=升级模块: 经验存储
+item.module_stack.name=升级模块: 堆叠
+item.module_quickly.name=升级模块: 立即
+
+iu.moduletype=Module Type: Common
+
+upgrademodule.name=升级模块: 日间发电
+upgrademodule1.name=升级模块: 夜间发电
+upgrademodule2.name=升级模块: 保护
+upgrademodule3.name=升级模块: 挖掘速度
+upgrademodule4.name=升级模块: 节能 (弓)
+upgrademodule5.name=升级模块: 节能 (剑)
+upgrademodule6.name=升级模块: 挖掘深度
+upgrademodule7.name=升级模块: 防火
+upgrademodule8.name=升级模块: 水下呼吸
+upgrademodule9.name=升级模块: 速度提升
+upgrademodule10.name=升级模块: 跳跃提升
+upgrademodule11.name=升级模块: 伤害提升 (弓)
+upgrademodule12.name=升级模块: 伤害提升 (剑)
+upgrademodule13.name=升级模块: 挖掘范围
+upgrademodule14.name=升级模块: 飞行速度
+upgrademodule15.name=升级模块: 储能 
+upgrademodule16.name=升级模块: 节能 (工具)
+
+module_player.name=战斗模块: 玩家
+module_mob.name=战斗模块: 怪物
+spawner_module.name=战斗模块: 抢夺 I
+spawner_module1.name=战斗模块: 抢夺 II
+spawner_module2.name=战斗模块: 抢夺 III
+spawner_module3.name=战斗模块: 攻速
+spawner_module4.name=战斗模块: Exp +25%
+spawner_module5.name=战斗模块: Exp +50%
+spawner_module6.name=战斗模块: 2 Mobs
+spawner_module7.name=战斗模块: 3 Mobs
+
+ic2.item.tooltip.Output=输出:
+ic2.item.tooltip.Capacity=电量:
+iu.module1=§e日间发电效率§2
+iu.module2=§8夜间发电效率§2
+iu.module3=§9存储上限§2
+iu.module4=§5最大输出§2
+iu.module=加成以基础数据计算
+iu.modules=§c可在所有插槽上放置,每个插槽仅一个模块有效
+iu.modules1=§c可在所有插槽放置,仅当模块级别等于或低于机器级别时有效,每个插槽只能放置一个模块
+iu.modules12=§c放置在最后一个插槽上生效的模块
+
+netherpanel=允许在地狱工作并允许更改GUI
+aerpanel=发电量提高 50%
+aerpanel1=当高度超过130格时
+earthpanel=发电量提高 50%
+earthpanel1=当高度低于30格时
+endpanel=允许在末地工作并允许更改GUI
+nightpanel=只在夜间工作, 发电量提高 50%
+sunpanel=只在日间工作, 发电量提高 50%
+rainpanel=下雨时发电量提高 50%
+rainpanel1=并允许更改GUI
+
+ic2.item.tooltip.Store=电量:
+wirelles=§e使机器可无线传输电力
+transformator=提升机器级别
+transformator1=降低机器级别
+blockSintezator.name=统一太阳能
+ssp.sintezator=能将其他太阳能放入统一发电机中发电,插槽限制: 
+supsolpans.SpecSP.Output=最大输出:
+supsolpans.SpecSP.Storage=电量:
+supsolpans.SSP.Storage-tooltip=电量:
+xpgenpublic.name=经验发生器
+tile.xpgen.energy=存储电量
+xpgen.amount.xp=XP数量
+xpjuice.wv=液态XP
+tile.expGen.name=经验发生器
+gui.SuperSolarPanel.storage=储量
+gui.SuperSolarPanel.maxOutput=输出
+gui.SuperSolarPanel.generating=当前生成
+gui.SuperSolarPanel.energyPerTick=EU/t
+iu.modules2=§c低于机器等级时,每个插槽仅一个升级有效
+gui.iu.tier=能量等级
+iu.genday=§2+
+iu.gennight=§3+
+iu.storage=§9+
+iu.output=§6+
+iu.tier1=§a+
+iu.tier2=§c-
+message.text.mode=工具模式
+message.ultDDrill.mode.normal=标准模式
+message.ultDDrill.mode.lowPower=节能模式
+message.ultDDrill.mode.bigHoles=3*3范围挖掘模式
+message.ultDDrill.mode.bigHoles1=5*5范围挖掘模式
+message.ultDDrill.mode.bigHoles2=7*7范围挖掘模式
+message.ultDDrill.mode.treemode=砍树模式
+message.ultDDrill.mode.pickaxe=挖矿模式
+message.description.normal=挖掘范围 1x1
+message.description.bigHoles=挖掘范围 3x3
+message.description.bigHoles1=挖掘范围 5x5
+message.description.bigHoles2=挖掘范围 7x7
+message.description.lowPower=破坏方块消耗更少的能量
+message.description.treemode=一次砍倒一整棵树
+message.description.pickaxe=一次挖掘一整个矿脉
+
+iu.reactorDepletedtoriyDual=枯竭双联钍燃料棒
+iu.reactorDepletedtoriyQuad=枯竭四联钍燃料棒
+iu.reactorDepletedtoriySimple=枯竭钍燃料棒
+iu.reactortoriyDual=双联钍燃料棒
+iu.reactortoriyQuad=四联钍燃料棒
+iu.reactortoriySimple=钍燃料棒
+iu.toriy=钍
+rad_toriy.name=光辉钍
+ToriyBlock.name=钍矿石
+
+iu.compressiridium=§7压缩铱转子
+iu.iridium=§f铱转子
+iu.spectral=§e光谱转子
+iu.neutron=§9中子转子
+iu.photon=§a光子转子
+iu.myphical=§d传说转子
+iu.ultramarinerotor=§b群青转子
+iu.barionrotor=§5重子转子
+iu.adronrotor=§3强子转子
+
+ic3uumatter=中子
+death.attack.current=你死于电击 
+iu.Name=名称
+iu.World=世界ID
+iu.Xcoord=X
+iu.Ycoord=Y
+iu.Zcoord=Z
+inforamtionelectricstorage=单击更改能量转换方式 
+
+matter.name=固体UU物质
+sun_matter.name=固体UU物质 Solar
+aqua_matter.name=固体UU物质 Water
+night_matter.name=固体UU物质 Night
+nether_matter.name=固体UU物质 Nether
+earth_matter.name=固体UU物质 Earth
+end_matter.name=固体UU物质 Ender
+aer_matter.name=固体UU物质 Air
+
+personality=§c防止其他玩家打开太阳能电池板界面 .
+personality1=§c未拥有该电池板的玩家不能拆掉太阳能电池板。
+iu.error=§c错误！ 升级模块：私人 已启动。 您不是太阳能电池板的所有者！
+iu.miny=最小高度:
+iu.maxy=最大高度:
+iu.storage.helmet=电量: 
+successfully.charged=充电成功！ 
+iu.sendenergy=. Spent: 
+
+itemGroup.sspblocks=工业升级方块
+itemGroup.sspmodules=工业升级模块
+itemGroup.ssptools=工业升级工具和护甲
+itemGroup.sspitems=工业升级物品
+itemGroup.sspores=工业升级矿石
+
+itemCellEmpty.name=高级单元
+itemCellUuMatter.name=液态中子
+
+iu.moduletype1=模块类型: §6Air
+iu.moduletype2=模块类型: §2Earth
+iu.moduletype3=模块类型: §cNether
+iu.moduletype4=模块类型: §3Ender
+iu.moduletype5=模块类型: §8Night
+iu.moduletype6=模块类型: §eSolar
+iu.moduletype7=模块类型: §9Water
+
+iu.rfmodule=§c产生RF
+iu.rfstorage=RF:
+iu.modulewirelles=§bWireless: §2正在工作
+iu.modulewirelles1=Coordinates:
+iu.modulewirelles2=§bWireless: §c未工作
+
+iu.fly=§3飞行已激活:
+iu.fly1=按下 Mode Switch Key + Boost Key 开启飞行
+iu.vertical=按下 Mode Switch Key + Side Key to 开启垂直模式
+iu.streak=按下 the Hub Expand Key 改变装备的颜色 
+iu.effect=防火已开启:
+storagemodul=只能在储电设备中使用
+storagemodul1=在储电设备中按下 SHIFT + 右键
+press.lshift=按住 左 Shift 查看更多细节
+iu.changemode=按下 Mode Switch Key + 右键切换模式
+iu.changemodebattery=右键切换模式
+iu.purifiermode=对太阳能电池板按下 SHIFT + 右键清洁
+iu.saberon=右键激活
+
+iu.blockBatBox.name=储电盒
+iu.blockCESU.name=CESU
+iu.blockMFE1.name=MFE
+iu.blockMFSU1.name=MFSU
+iu.blockMFE.name=§e强化MFSU
+iu.blockMFSU.name=§b高级MFSU
+iu.blockPerMFSU.name=终极MFSU
+iu.blockBarMFSU.name=重子MFSU
+iu.blockAdrMFSU.name=强子MFSU
+iu.blockGraMFSU.name=引力子MFSU
+iu.blockKvrMFSU.name=夸克MFSU
+
+iu.quarry=在量子采矿机使用
+iu.quarry1=熔炼矿石
+iu.quarry2=减少能量消耗
+
+iu.blockChargepadBatBox.name=充电座 (储电盒)
+iu.blockChargepadCESU.name=充电座 (CESU)
+iu.blockChargepadMFE1.name=充电座 (MFE)
+iu.blockChargepadMFSU.name=充电座 (MFSU)
+iu.blockChargepadMFE.name=充电座 (强化 MFSU)
+iu.blockChargepadMFES.name=充电座 (高级MFSU)
+iu.blockChargepadPerMFSU.name=充电座 (终极MFSU)
+iu.blockChargepadBarMFSU.name=充电座 (重子MFSU)
+iu.blockChargepadAdrMFSU.name=充电座 (强子MFSU)
+iu.blockChargepadGraMFSU.name=充电座 (引力子MFSU)
+iu.blockChargepadKvrMFSU.name=充电座 (夸克MFSU)
+
+item.nanopickaxe.name=纳米镐
+item.nanoaxe.name=纳米斧
+item.nanoshovel.name=纳米铲
+item.quantumpickaxe.name=量子镐
+item.quantumaxe.name=量子斧
+item.quantumshovel.name=量子铲
+item.spectralpickaxe.name=光谱镐
+item.spectralaxe.name=光谱斧
+item.spectralshovel.name=光谱铲
+
+supsolpans.iu.GenerationDay.tooltip=日间最大产能:
+supsolpans.iu.GenerationNight.tooltip=夜间最大产能:
+
+button.rf=改变模式
+iu.rfmodule1=§9产生EU
+gui.SuperSolarPanel.energyPerTick1=RF/t
+iu.maxStoragestored=最大电量:
+iu.yes=是
+iu.no=否
+ic2.uumatter=§5液体物质
+gui.movementcharge=Instant Armor Charge EU
+gui.movementchargeitem=Instant Item Charging EU
+gui.movementchargerf=Instant Armor Charge RF
+gui.movementchargeitemrf=Instant Item Charging RF
+gui.movement=对着方块上按 SHIFT + 右键
+
+modulechange=可以给物品充电
+modulerfinfo=可以产生RF
+modulerfinfo1=在太阳能或能量储存设备上使用
+
+item.WirelessModule.name=升级模块:无线
+reactor.info=基础发电: 
+reactor.info1=堆温99%时发电: 
+
+tile.OilBlock.name=油泉
+
+#Fluids and Gases
+iu.fluidNeutron=§9中子
+iu.fluidHelium=氦
+iu.fluidbenz=汽油
+iu.fluiddizel=柴油
+iu.fluidneft=原油
+iu.fluidpolyprop=聚丙烯
+iu.fluidhyd=氢气
+iu.fluidoxy=氧气
+iu.fluidpolyeth=聚乙烯
+
+#Buckets
+itemBucketHelium.name=氦桶
+itemBucketbenz.name=汽油桶
+itemBucketdizel.name=柴油桶
+itemBucketneft.name=原油桶
+itemBucketpolyeth.name=聚乙烯桶 
+itemBucketpolyprop.name=聚丙烯桶
+itemBucketoxy.name=氧气桶
+itemBuckethyd.name=氢气桶
+
+#Cells
+itemCellNeutron.name=液态中子单元
+itemCellHelium.name=液态氦单元
+itemCellbenz.name=汽油单元
+itemCelldizel.name=柴油单元
+itemCellneft.name=原油单元
+itemCellpolyeth.name=聚乙烯单元
+itemCellpolyprop.name=聚丙烯单元
+itemCelloxy.name=氧气单元
+itemCellhyd.name=氢气单元
+
+ruby_block.name=红宝石块
+sapphire_block.name=蓝宝石块
+topaz_block.name=黄玉块
+
+ruby_gem.name=红宝石
+sapphire_gem.name=蓝宝石
+topaz_gem.name=黄玉
+
+ruby_ore.name=红宝石矿石
+sapphire_ore.name=蓝宝石矿石
+topaz_ore.name=黄玉矿石
+
+item.ruby_helmet.name=红宝石黄玉
+item.ruby_chestplate.name=红宝石胸甲
+item.ruby_leggings.name=红宝石护腿
+item.ruby_boots.name=红宝石靴
+item.sapphire_helmet.name=蓝宝石黄玉
+item.sapphire_chestplate.name=蓝宝石胸甲
+item.sapphire_leggings.name=蓝宝石护腿
+item.sapphire_boots.name=蓝宝石靴
+item.topaz_helmet.name=黄玉黄玉
+item.topaz_chestplate.name=黄玉胸甲
+item.topaz_leggings.name=黄玉护腿
+item.topaz_boots.name=黄玉靴
+
+magnetit.name=磁铁矿
+calaverite.name=碲金矿
+galena.name=方铅矿
+nickelite.name=镍铁矿
+pyrite.name=黄铁矿
+quartzite.name=石英岩
+uranite.name=铀云母矿
+azurite.name=石青
+rhodonite.name=蔷薇辉石
+alfildit.name=复硒镍矿 
+euxenite.name=黑稀金矿
+smithsonite.name=菱锌矿
+
+americium_ore.name=镅矿石
+neptunium_ore.name=镎矿石
+curium_ore.name=锔矿石
+
+americium_gem.name=镅
+neptunium_gem.name=镎
+curium_gem.name=锔
+california_gem.name=锎
+mendelevium_gem.name=钔
+berkelium_gem.name=锫
+einsteinium_gem.name=锿
+uran233_gem.name=铀-233
+
+iu.reactorDepletedamericiumDual=枯竭双联镅燃料棒
+iu.reactorDepletedamericiumQuad=枯竭四联镅燃料棒
+iu.reactorDepletedamericiumSimple=枯竭镅燃料棒
+iu.reactoramericiumDual=双联镅燃料棒
+iu.reactoramericiumQuad=四联镅燃料棒
+iu.reactoramericiumSimple=镅燃料棒
+
+iu.reactorDepletedneptuniumDual=枯竭双联镎燃料棒
+iu.reactorDepletedneptuniumQuad=枯竭四联镎燃料棒
+iu.reactorDepletedneptuniumSimple=枯竭镎燃料棒
+iu.reactorneptuniumDual=双联镎燃料棒
+iu.reactorneptuniumQuad=四联镎燃料棒
+iu.reactorneptuniumSimple=镎燃料棒
+
+iu.reactorDepletedcuriumDual=枯竭双联锔燃料棒
+iu.reactorDepletedcuriumQuad=枯竭四联锔燃料棒
+iu.reactorDepletedcuriumSimple=枯竭锔燃料棒
+iu.reactorcuriumDual=双联锔燃料棒
+iu.reactorcuriumQuad=四联锔燃料棒
+iu.reactorcuriumSimple=锔燃料棒
+
+iu.reactorDepletedcaliforniaDual=枯竭双联锎燃料棒
+iu.reactorDepletedcaliforniaQuad=枯竭四联锎燃料棒
+iu.reactorDepletedcaliforniaSimple=枯竭锎燃料棒
+iu.reactorcaliforniaDual=双联锎燃料棒
+iu.reactorcaliforniaQuad=四联锎燃料棒
+iu.reactorcaliforniaSimple=锎燃料棒
+
+iu.reactorDepletedeinsteiniumDual=枯竭双联锿燃料棒
+iu.reactorDepletedeinsteiniumQuad=枯竭四联锿燃料棒
+iu.reactorDepletedeinsteiniumSimple=枯竭锿燃料棒
+iu.reactoreinsteiniumDual=双联锿燃料棒
+iu.reactoreinsteiniumQuad=四联锿燃料棒
+iu.reactoreinsteiniumSimple=锿燃料棒
+
+iu.reactorDepletedmendeleviumDual=枯竭双联钔燃料棒
+iu.reactorDepletedmendeleviumQuad=枯竭四联钔燃料棒
+iu.reactorDepletedmendeleviumSimple=枯竭钔燃料棒
+iu.reactormendeleviumDual=双联钔燃料棒
+iu.reactormendeleviumQuad=四联钔燃料棒
+iu.reactormendeleviumSimple=钔燃料棒
+
+iu.reactorDepleteduran233Dual=枯竭双联铀-233燃料棒
+iu.reactorDepleteduran233Quad=枯竭四联铀-233燃料棒
+iu.reactorDepleteduran233Simple=枯竭铀-233燃料棒
+iu.reactoruran233Dual=双联铀-233燃料棒
+iu.reactoruran233Quad=四联铀-233燃料棒
+iu.reactoruran233Simple=铀-233燃料棒
+
+iu.reactorDepletedberkeliumDual=枯竭双联锫燃料棒
+iu.reactorDepletedberkeliumQuad=枯竭四联锫燃料棒
+iu.reactorDepletedberkeliumSimple=枯竭锫燃料棒
+iu.reactorberkeliumDual=双联锫燃料棒
+iu.reactorberkeliumQuad=四联锫燃料棒
+iu.reactorberkeliumSimple=锫燃料棒
+
+#Alloy Blocks
+aluminum_bronze_block.name=铝青铜块
+alumel_block.name=钛铝合金块
+red_brass_block.name=红铜块
+muntsa_block.name=蒙兹金属块
+nichrome_block.name=镍铬合金块
+alcled_block.name=铝衣合金块
+vanadoalumite_block.name=钒铝合金块
+vitalium_block.name=Vitalium合金块
+duralumin_block.name=硬铝合金块
+ferromanganese_block.name=锰铁合金块
+
+#Metal Blocks
+mikhail_block.name=Michalov块
+aluminium_block.name=铝块
+vanady_block.name=钒块
+wolfram_block.name=钨
+invar_block.name=殷钢块
+caravky_block.name=Caravky块
+cobalt_block.name=钴块
+magnesium_block.name=镁块
+nickel_block.name=镍块
+platium_block.name=铂块
+titanium_block.name=钛块
+chromium_block.name=铬块
+spinel_block.name=尖晶石块
+electrium_block.name=琥珀金块
+silver_block.name=银块
+zinc_block.name=锌块
+manganese_block.name=锰块
+iridium_block.name=铱块
+germanium_block.name=锗块
+
+#Alloy Ingots
+aluminum_bronze_ingot.name=铝青铜锭
+alumel_ingot.name=钛铝合金锭
+red_brass_ingot.name=红铜锭
+muntsa_ingot.name=蒙兹金属锭
+nichrome_ingot.name=镍铬合金锭
+alcled_ingot.name=铝衣合金锭
+vanadoalumite_ingot.name=钒铝合金锭
+vitalium_ingot.name=Vitalium合金锭
+duralumin_ingot.name=硬铝合金锭
+ferromanganese_ingot.name=锰铁合金锭
+
+#Metal Ingots
+mikhail_ingot.name=Michalov锭
+aluminium_ingot.name=铝锭
+vanady_ingot.name=钒锭
+wolfram_ingot.name=钨锭
+invar_ingot.name=殷钢锭
+caravky_ingot.name=Caravky锭
+cobalt_ingot.name=钴锭
+magnesium_ingot.name=镁锭
+nickel_ingot.name=镍锭
+platium_ingot.name=铂锭
+titanium_ingot.name=钛锭
+chromium_ingot.name=铬锭
+spinel_ingot.name=尖晶石锭
+electrium_ingot.name=琥珀金锭
+silver_ingot.name=银锭
+zinc_ingot.name=锌锭
+manganese_ingot.name=锰锭
+iridium_ingot.name=铱锭
+germanium_ingot.name=锗锭
+
+#Alloy Plates
+aluminum_bronze_plate.name=铝青铜板 
+alumel_plate.name=钛铝合金板
+red_brass_plate.name=红铜板
+muntsa_plate.name=蒙兹金属板
+nichrome_plate.name=镍铬合金板
+alcled_plate.name=铝衣合金板
+vanadoalumite_plate.name=钒铝合金板
+vitalium_plate.name=Vitalium合金板
+duralumin_plate.name=硬铝合金板
+ferromanganese_plate.name=锰铁合金板
+
+#Botania Plates
+item.manasteel_plate.name=§b魔力钢板
+item.terrasteel_plate.name=泰拉钢板
+item.elementium_plate.name=§dElementium板
+
+#Metal Plates
+mikhail_plate.name=Michalov板
+aluminium_plate.name=铝板
+vanady_plate.name=钒板
+wolfram_plate.name=钨板
+invar_plate.name=殷钢板
+caravky_plate.name=Caravky板
+cobalt_plate.name=钴板
+magnesium_plate.name=镁板
+nickel_plate.name=镍板
+platium_plate.name=铂板
+titanium_plate.name=钛板
+chromium_plate.name=铬板
+spinel_plate.name=尖晶石板
+electrium_plate.name=琥珀金板
+silver_plate.name=银板
+zinc_plate.name=锌板
+manganese_plate.name=锰板
+iridium_plate.name=铱板
+germanium_plate.name=锗板
+
+#Dense Alloy Plates
+aluminum_bronze_doubleplate.name=致密铝青铜板 
+alumel_doubleplate.name=致密钛铝合金板
+red_brass_doubleplate.name=致密红铜板
+muntsa_doubleplate.name=致密蒙兹金属板
+nichrome_doubleplate.name=致密镍铬合金板
+alcled_doubleplate.name=致密铝衣合金板
+vanadoalumite_doubleplate.name=致密钒铝合金板
+vitalium_doubleplate.name=致密Vitalium合金板
+duralumin_doubleplate.name=致密硬铝合金板
+ferromanganese_doubleplate.name=致密锰铁合金板
+
+#Dense Metal Plates
+mikhail_doubleplate.name=致密Michalov板
+aluminium_doubleplate.name=致密铝板
+vanady_doubleplate.name=致密钒板
+wolfram_doubleplate.name=致密钨板
+invar_doubleplate.name=致密殷钢板
+caravky_doubleplate.name=致密Caravky板
+cobalt_doubleplate.name=致密钴板
+magnesium_doubleplate.name=致密镁板
+nickel_doubleplate.name=致密镍板
+platium_doubleplate.name=致密铂板
+titanium_doubleplate.name=致密钛板
+chromium_doubleplate.name=致密铬板
+spinel_doubleplate.name=致密尖晶石板
+electrium_doubleplate.name=致密琥珀金板
+silver_doubleplate.name=致密银板
+zinc_doubleplate.name=致密锌板
+manganese_doubleplate.name=致密锰板
+iridium_doubleplate.name=致密铱板
+germanium_doubleplate.name=致密锗板
+
+#Alloy Item Casings
+aluminum_bronze_casing.name=铝青铜外壳
+alumel_casing.name=钛铝合金外壳
+red_brass_casing.name=红铜外壳
+muntsa_casing.name=蒙兹金属外壳
+nichrome_casing.name=镍铬合金外壳
+alcled_casing.name=铝衣合金外壳
+vanadoalumite_casing.name=钒铝合金外壳
+vitalium_casing.name=Vitalium合金外壳
+duralumin_casing.name=硬铝合金外壳
+ferromanganese_casing.name=锰铁合金外壳
+
+#Metal Item Casings
+mikhail_casing.name=Michalov外壳
+aluminium_casing.name=铝外壳
+vanady_casing.name=钒外壳
+wolfram_casing.name=钨外壳
+invar_casing.name=殷钢外壳
+caravky_casing.name=Caravky外壳
+cobalt_casing.name=钴外壳
+magnesium_casing.name=镁外壳
+nickel_casing.name=镍外壳
+platium_casing.name=铂外壳
+titanium_casing.name=钛外壳
+chromium_casing.name=铬外壳
+spinel_casing.name=尖晶石外壳
+electrium_casing.name=琥珀金外壳
+silver_casing.name=银外壳
+zinc_casing.name=锌外壳
+manganese_casing.name=锰外壳
+iridium_casing.name=铱外壳
+germanium_casing.name=锗外壳
+
+#Alloy Sticks
+aluminum_bronze_stick.name=铝青铜杆
+alumel_stick.name=钛铝合金杆
+red_brass_stick.name=红铜杆
+muntsa_stick.name=蒙兹金属杆
+nichrome_stick.name=镍铬合金杆
+alcled_stick.name=铝衣合金杆
+vanadoalumite_stick.name=钒铝合金杆
+vitalium_stick.name=Vitalium合金杆
+duralumin_stick.name=硬铝合金杆
+ferromanganese_stick.name=锰铁合金杆
+
+#Metal Sticks
+mikhail_stick.name=Michalov杆
+aluminium_stick.name=铝杆
+vanady_stick.name=钒杆
+wolfram_stick.name=钨杆
+invar_stick.name=殷钢杆
+caravky_stick.name=Caravky杆
+cobalt_stick.name=钴杆
+magnesium_stick.name=镁杆
+nickel_stick.name=镍杆
+platium_stick.name=铂杆
+titanium_stick.name=钛杆
+chromium_stick.name=铬杆
+spinel_stick.name=尖晶石杆
+electrium_stick.name=琥珀金杆
+silver_stick.name=银杆
+zinc_stick.name=锌杆
+manganese_stick.name=锰杆
+iridium_stick.name=铱杆
+germanium_stick.name=锗杆
+
+#Alloy Nuggets
+aluminum_bronze_nugget.name=铝青铜粒
+alumel_nugget.name=钛铝合金粒
+red_brass_nugget.name=红铜粒
+muntsa_nugget.name=蒙兹金属粒
+nichrome_nugget.name=镍铬合金粒
+alcled_nugget.name=铝衣合金粒
+vanadoalumite_nugget.name=钒铝合金粒
+vitalium_nugget.name=Vitalium合金粒
+duralumin_nugget.name=硬铝合金粒
+ferromanganese_nugget.name=锰铁合金粒
+
+#Metal Nuggets
+mikhail_nugget.name=Michalov粒
+aluminium_nugget.name=铝粒
+vanady_nugget.name=钒粒
+wolfram_nugget.name=钨粒
+invar_nugget.name=殷钢粒
+caravky_nugget.name=Caravky粒
+cobalt_nugget.name=钴粒
+magnesium_nugget.name=镁粒
+nickel_nugget.name=镍粒
+platium_nugget.name=铂粒
+titanium_nugget.name=钛粒
+chromium_nugget.name=铬粒
+spinel_nugget.name=尖晶石粒
+electrium_nugget.name=琥珀金粒
+silver_nugget.name=银粒
+zinc_nugget.name=锌粒
+manganese_nugget.name=锰粒
+iridium_nugget.name=铱粒
+germanium_nugget.name=锗粒
+
+#Alloy Dusts
+aluminum_bronze_dust.name=铝青铜粉
+alumel_dust.name=钛铝合金粉
+red_brass_dust.name=红铜粉
+muntsa_dust.name=蒙兹金属粉
+nichrome_dust.name=镍铬合金粉
+alcled_dust.name=铝衣合金粉
+vanadoalumite_dust.name=钒铝合金粉
+vitalium_dust.name=Vitalium合金粉
+duralumin_dust.name=硬铝合金粉
+ferromanganese_dust.name=锰铁合金粉
+
+#Metal Dusts
+mikhail_dust.name=Michalov粉
+aluminium_dust.name=铝粉
+vanady_dust.name=钒粉
+wolfram_dust.name=钨粉
+invar_dust.name=殷钢粉
+caravky_dust.name=Caravky粉
+cobalt_dust.name=钴粉
+magnesium_dust.name=镁粉
+nickel_dust.name=镍粉
+platium_dust.name=铂粉
+titanium_dust.name=钛粉
+chromium_dust.name=铬粉
+spinel_dust.name=尖晶石粉
+electrium_dust.name=琥珀金粉
+silver_dust.name=银粉
+zinc_dust.name=锌粉
+manganese_dust.name=锰粉
+iridium_dust.name=铱粉
+germanium_dust.name=锗粉
+
+#Small Piles of Metal Dust
+mikhail_smalldust.name=小堆Michalov粉
+aluminium_smalldust.name=小堆铝粉
+vanady_smalldust.name=小堆钒粉
+wolfram_smalldust.name=小堆钨粉
+invar_smalldust.name=小堆殷钢粉
+caravky_smalldust.name=小堆Caravky粉
+cobalt_smalldust.name=小堆钴粉
+magnesium_smalldust.name=小堆镁粉
+nickel_smalldust.name=小堆镍粉
+platium_smalldust.name=小堆铂粉
+titanium_smalldust.name=小堆钛粉
+chromium_smalldust.name=小堆铬粉
+spinel_smalldust.name=小堆尖晶石粉
+electrium_smalldust.name=小堆琥珀金粉
+silver_smalldust.name=小堆银粉
+zinc_smalldust.name=小堆锌粉
+manganese_smalldust.name=小堆锰粉
+iridium_smalldust.name=小堆铱粉
+germanium_smalldust.name=小堆锗粉
+
+#Tiny Piles of Metal Dust
+mikhail_verysmalldust.name=小撮Michalov粉
+aluminium_verysmalldust.name=小撮铝粉
+vanady_verysmalldust.name=小撮钒粉
+wolfram_verysmalldust.name=小撮钨粉
+invar_verysmalldust.name=小撮殷钢粉
+caravky_verysmalldust.name=小撮Caravky粉
+cobalt_verysmalldust.name=小撮钴粉
+magnesium_verysmalldust.name=小撮镁粉
+nickel_verysmalldust.name=小撮镍粉
+platium_verysmalldust.name=小撮铂粉
+titanium_verysmalldust.name=小撮钛粉
+chromium_verysmalldust.name=小撮铬粉
+spinel_verysmalldust.name=小撮尖晶石粉
+electrium_verysmalldust.name=小撮琥珀金粉
+silver_verysmalldust.name=小撮银粉
+zinc_verysmalldust.name=小撮锌粉
+manganese_verysmalldust.name=小撮锰粉
+iridium_verysmalldust.name=小撮铱粉
+germanium_verysmalldust.name=小撮锗粉
+
+#Metal矿石s
+mikhail_ore.name=Michalov矿石
+aluminium_ore.name=铝矿石
+vanady_ore.name=钒矿石
+wolfram_ore.name=钨矿石
+invar_ore.name=殷钢矿石
+caravky_ore.name=Caravky矿石
+cobalt_ore.name=钴矿石
+magnesium_ore.name=镁矿石
+nickel_ore.name=镍矿石
+platium_ore.name=铂矿石
+titanium_ore.name=钛矿石
+chromium_ore.name=铬矿石
+spinel_ore.name=尖晶石矿石
+electrium_ore.name=琥珀金矿石
+silver_ore.name=银矿石
+zinc_ore.name=锌矿石
+manganese_ore.name=锰矿石
+iridium_ore.name=铱矿石
+germanium_ore.name=锗矿石
+
+#Crushed Metal矿石s
+mikhail_crushed.name=粉碎Michalov矿石
+aluminium_crushed.name=粉碎铝矿石
+vanady_crushed.name=粉碎钒矿石
+wolfram_crushed.name=粉碎钨矿石
+invar_crushed.name=粉碎殷钢矿石
+caravky_crushed.name=粉碎Caravky矿石
+cobalt_crushed.name=粉碎钴矿石
+magnesium_crushed.name=粉碎镁矿石
+nickel_crushed.name=粉碎镍矿石
+platium_crushed.name=粉碎铂矿石
+titanium_crushed.name=粉碎钛矿石
+chromium_crushed.name=粉碎铬矿石
+spinel_crushed.name=粉碎尖晶石矿石
+electrium_crushed.name=粉碎琥珀金矿石
+silver_crushed.name=粉碎银矿石
+zinc_crushed.name=粉碎锌矿石
+manganese_crushed.name=粉碎锰矿石
+iridium_crushed.name=粉碎铱矿石
+germanium_crushed.name=粉碎锗矿石
+
+#Purified Crushed Metal矿石s
+mikhail_purifiedcrushed.name=纯净粉碎Michalov矿石
+aluminium_purifiedcrushed.name=纯净粉碎铝矿石
+vanady_purifiedcrushed.name=纯净粉碎钒矿石
+wolfram_purifiedcrushed.name=纯净粉碎钨矿石
+invar_purifiedcrushed.name=纯净粉碎殷钢矿石
+caravky_purifiedcrushed.name=纯净粉碎Caravky矿石
+cobalt_purifiedcrushed.name=纯净粉碎钴矿石
+magnesium_purifiedcrushed.name=纯净粉碎镁矿石
+nickel_purifiedcrushed.name=纯净粉碎镍矿石
+platium_purifiedcrushed.name=纯净粉碎铂矿石
+titanium_purifiedcrushed.name=纯净粉碎钛矿石
+chromium_purifiedcrushed.name=纯净粉碎铬矿石
+spinel_purifiedcrushed.name=纯净粉碎尖晶石矿石
+electrium_purifiedcrushed.name=纯净粉碎琥珀金矿石
+silver_purifiedcrushed.name=纯净粉碎银矿石
+zinc_purifiedcrushed.name=纯净粉碎锌矿石
+manganese_purifiedcrushed.name=纯净粉碎锰矿石
+iridium_purifiedcrushed.name=纯净粉碎铱矿石
+germanium_purifiedcrushed.name=纯净粉碎锗矿石
+
+##Ex Nihilo Integration
+#Broken Metal矿石s
+mikhail_gravelcrushed.name=破碎Mikhalov矿石
+aluminium_gravelcrushed.name=破碎铝矿石
+vanady_gravelcrushed.name=破碎钒矿石
+wolfram_gravelcrushed.name=破碎钨矿石
+cobalt_gravelcrushed.name=破碎钴矿石
+magnesium_gravelcrushed.name=破碎镁矿石
+nickel_gravelcrushed.name=破碎镍矿石
+platium_gravelcrushed.name=破碎铂矿石
+titanium_gravelcrushed.name=破碎钛矿石
+chromium_gravelcrushed.name=破碎铬矿石
+spinel_gravelcrushed.name=破碎尖晶石矿石
+silver_gravelcrushed.name=破碎银矿石
+zinc_gravelcrushed.name=破碎锌矿石
+manganese_gravelcrushed.name=破碎锰矿石
+
+#Metal矿石s Gravel
+mikhail_gravelore.name=Mikhalov矿石砂砾
+aluminium_gravelore.name=铝矿石砂砾
+vanady_gravelore.name=钒矿石砂砾
+wolfram_gravelore.name=钨矿石砂砾
+cobalt_gravelore.name=钴矿石砂砾
+magnesium_gravelore.name=镁矿石砂砾
+nickel_gravelore.name=镍矿石砂砾
+platium_gravelore.name=铂矿石砂砾
+titanium_gravelore.name=钛矿石砂砾
+chromium_gravelore.name=铬矿石砂砾
+spinel_gravelore.name=尖晶石矿石砂砾
+silver_gravelore.name=银矿石砂砾
+zinc_gravelore.name=锌矿石砂砾
+manganese_gravelore.name=锰矿石砂砾
+
+#Crushed Metal矿石s
+mikhail_sandcrushed.name=粉碎Mikhalov矿石
+aluminium_sandcrushed.name=粉碎铝矿石
+vanady_sandcrushed.name=粉碎钒矿石
+wolfram_sandcrushed.name=粉碎钨矿石
+cobalt_sandcrushed.name=粉碎钴矿石
+magnesium_sandcrushed.name=粉碎镁矿石
+nickel_sandcrushed.name=粉碎镍矿石
+platium_sandcrushed.name=粉碎铂矿石
+titanium_sandcrushed.name=粉碎钛矿石
+chromium_sandcrushed.name=粉碎铬矿石
+spinel_sandcrushed.name=粉碎尖晶石矿石
+silver_sandcrushed.name=粉碎银矿石
+zinc_sandcrushed.name=粉碎锌矿石
+manganese_sandcrushed.name=粉碎锰矿石
+
+#Metal矿石s Sand
+mikhail_sandore.name=Mikhalov矿石沙
+aluminium_sandore.name=铝矿石沙
+vanady_sandore.name=钒矿石沙
+wolfram_sandore.name=钨矿石沙
+cobalt_sandore.name=钴矿石沙
+magnesium_sandore.name=镁矿石沙
+nickel_sandore.name=镍矿石沙
+platium_sandore.name=铂矿石沙
+titanium_sandore.name=钛矿石沙
+chromium_sandore.name=铬矿石沙
+spinel_sandore.name=尖晶石矿石沙
+silver_sandore.name=银矿石沙
+zinc_sandore.name=锌矿石沙
+manganese_sandore.name=锰矿石沙
+
+#Powdered Metal矿石s
+mikhail_dustcrushed.name=粉状Mikhalov矿石
+aluminium_dustcrushed.name=粉状铝矿石
+vanady_dustcrushed.name=粉状钒矿石
+wolfram_dustcrushed.name=粉状钨矿石
+cobalt_dustcrushed.name=粉状钴矿石
+magnesium_dustcrushed.name=粉状镁矿石
+nickel_dustcrushed.name=粉状镍矿石
+platium_dustcrushed.name=粉状铂矿石
+titanium_dustcrushed.name=粉状钛矿石
+chromium_dustcrushed.name=粉状铬矿石
+spinel_dustcrushed.name=粉状尖晶石矿石
+silver_dustcrushed.name=粉状银矿石
+zinc_dustcrushed.name=粉状锌矿石
+manganese_dustcrushed.name=粉状锰矿石
+
+#Metal矿石s Dust
+mikhail_dustore.name=Mikhalov矿石粉
+aluminium_dustore.name=铝矿石粉
+vanady_dustore.name=钒矿石粉
+wolfram_dustore.name=钨矿石粉
+cobalt_dustore.name=钴矿石粉
+magnesium_dustore.name=镁矿石粉
+nickel_dustore.name=镍矿石粉
+platium_dustore.name=铂矿石粉
+titanium_dustore.name=钛矿石粉
+chromium_dustore.name=铬矿石粉
+spinel_dustore.name=尖晶石矿石粉
+silver_dustore.name=银矿石粉
+zinc_dustore.name=锌矿石粉
+manganese_dustore.name=锰矿石粉
+
+#Ender矿石s
+endmikhail_stone.name=末地Michalov矿石
+endalum_stone.name=末地铝矿石
+endvanady_stone.name=末地钒矿石
+endwolfram_stone.name=末地钨矿石
+endinvar_stone.name=末地殷钢矿石
+endcaravky_stone.name=末地Caravky矿石
+endcobalt_stone.name=末地钴矿石
+endmagnesium_stone.name=末地镁矿石
+endnickel_stone.name=末地镍矿石
+endplatium_stone.name=末地铂矿石
+endtitan_stone.name=末地钛矿石
+endchromium_stone.name=末地铬矿石
+endspinel_stone.name=末地尖晶石矿石
+endelectrium_stone.name=末地琥珀金矿石
+endsilver_stone.name=末地银矿石
+endzinc_stone.name=末地锌矿石
+endmanganese_stone.name=末地锰矿石
+endiridium_stone.name=末地铱矿石
+endcoal_stone.name=末地煤矿石
+endcopper_stone.name=末地铜矿石
+enddiamond_stone.name=末地钻石矿石
+endemerald_stone.name=末地绿宝石矿石
+endgold_stone.name=末地金矿石
+endiron_stone.name=末地铁矿石
+endlapis_stone.name=末地青金石矿石
+endlead_stone.name=末地铅矿石
+endredstone_stone.name=末地红石矿石
+endtin_stone.name=末地锡矿石
+enduran_stone.name=末地铀矿石
+
+#Nether矿石s
+nethermikhailrack.name=地狱Michalov矿石
+netheralumrack.name=地狱铝矿石
+nethervanadyrack.name=地狱钒矿石
+netherwolfram_rack.name=地狱钨矿石
+netherinvarrack.name=地狱殷钢矿石
+nethercaravkyrack.name=地狱Caravky矿石
+nethercobaltrack.name=地狱钴矿石
+nethermagnesiumrack.name=地狱镁矿石
+nethernickelrack.name=地狱镍矿石
+netherplatiumrack.name=地狱铂矿石
+nethertitanrack.name=地狱钛矿石
+netherchromiumrack.name=地狱铬矿石
+netherspinelrack.name=地狱尖晶石矿石
+netherelectriumrack.name=地狱琥珀金矿石
+nethersilverrack.name=地狱银矿石
+netherzincrack.name=地狱锌矿石
+nethermanganeserack.name=地狱锰矿石
+netheriridiumrack.name=地狱铱矿石
+nethercoalrack.name=地狱煤矿石
+nethercopperrack.name=地狱铜矿石
+netherdiamondrack.name=地狱钻石矿石
+netheremeraldrack.name=地狱绿宝石矿石
+nethergoldrack.name=地狱金矿石
+netherironrack.name=地狱铁矿石
+netherlapisrack.name=地狱青金石矿石
+netherleadrack.name=地狱铅矿石
+netherredstonerack.name=地狱红石矿石
+nethertinrack.name=地狱锡矿石
+netheruranrack.name=地狱铀矿石
+
+TransformerUMV.name=UMV变压器 
+TransformerUHV.name=UHV变压器
+TransformerUEV.name=UEV变压器 
+TransformerUMH.name=UMH变压器
+TransformerUMEV.name=UMEV变压器
+TransformerUHEV.name=UHEV变压器
+TransformerHEEV.name=HEEV变压器
+
+aerlinse.name=Air透镜
+earthlinse.name=Earth透镜
+endlinse.name= Ender透镜
+netherlinse.name=Nether透镜
+nightlinse.name=Night透镜
+sunlinse.name=Solar透镜
+rainlinse.name=Water透镜
+
+item.magnet.name=磁铁
+item.impmagnet.name=强化磁铁
+message.magnet.mode.1=Inventory模式激活
+message.magnet.mode.2=Attraction模式激活
+message.magnet.mode.0=§c未激活
+
+item.nano_bow.name=纳米弓
+item.quantum_bow.name=量子弓
+item.spectral_bow.name=光谱弓
+
+#Bow modes
+info.nanobow.normal=标准模式
+info.nanobow.rapidfire=快速开火模式
+info.nanobow.spread=扩散模式
+info.nanobow.sniper=狙击模式
+info.nanobow.flame=火矢模式
+
+item.adv_lappack.name=强化储电背包
+item.imp_lappack.name=高级储电背包
+item.per_lappack.name=终极储电背包
+
+advjetpack.name=强化电力喷气背包
+impjetpack.name=高级电力喷气背包
+perjetpack.name=终极电力喷气背包
+
+iu.itemadvBatChargeCrystal=正在给高级能量水晶充电
+iu.itemBatChargeCrystal=正在给终极能量水晶充电
+
+#Energy Storage Upgrade Kits
+upgradekit.name=MFE升级组件
+upgradekit1.name=MFSU升级组件
+upgradekit2.name=强化MFSU升级组件
+upgradekit3.name=高级MFSU升级组件
+upgradekit4.name=终极MFSU升级组件
+upgradekit5.name=重子MFSU升级组件
+upgradekit6.name=强子MFSU升级组件
+upgradekit7.name=引力子MFSU升级组件
+upgradekit8.name=夸克MFSU升级组件
+
+#Panel Upgrade Kits
+upgradepanelkit.name=高级太阳能升级组件
+upgradepanelkit1.name=混合太阳能升级组件
+upgradepanelkit2.name=终极混合太阳能升级组件
+upgradepanelkit3.name=量子太阳能升级组件
+upgradepanelkit4.name=光谱太阳能升级组件
+upgradepanelkit5.name=质子太阳能升级组件
+upgradepanelkit6.name=奇异太阳能升级组件
+upgradepanelkit7.name=衍射太阳能升级组件
+upgradepanelkit8.name=光子太阳能升级组件
+upgradepanelkit9.name=中子太阳能升级组件
+upgradepanelkit10.name=重子太阳能升级组件
+upgradepanelkit11.name=强子太阳能升级组件
+upgradepanelkit12.name=引力子太阳能升级组件
+upgradepanelkit13.name=夸克太阳能升级组件
+
+##Draconic Evolution
+upgradepanelkit14.name=双足飞龙太阳能升级组件
+upgradepanelkit15.name=神龙太阳能升级组件
+upgradepanelkit16.name=混沌太阳能升级组件
+
+##Botania
+upgradepanelkit17.name=魔力钢太阳能升级组件
+upgradepanelkit18.name=Elementium太阳能升级组件
+upgradepanelkit19.name=泰拉钢太阳能升级组件
+
+##Avaritia
+upgradepanelkit20.name=中子太阳能 (无尽贪婪)升级组件
+upgradepanelkit21.name=无尽太阳能升级组件
+
+##Thaumcraft
+upgradepanelkit22.name=神秘太阳能升级组件
+upgradepanelkit23.name=虚空太阳能升级组件
+
+##Thaumic Tinkerer
+upgradepanelkit24.name=灵宝太阳能升级组件
+
+#Machine Upgrade Kits
+upgrademachinekit.name=强化机器升级组件
+upgrademachinekit1.name=高级机器升级组件
+upgrademachinekit2.name=终极机器升级组件
+
+iu.blockRecycler.name=强化回收机
+iu.blockRecycler1.name=高级回收机
+iu.blockRecycler2.name=终极回收机
+
+iu.blockCompressor.name=强化压缩机
+iu.blockCompressor2.name=高级压缩机
+iu.blockCompressor3.name=终极压缩机
+
+iu.blockElecFurnace.name=强化电炉
+iu.blockElecFurnace2.name=高级电炉
+iu.blockElecFurnace3.name=终极电炉
+
+iu.blockExtractor.name=强化提取机
+iu.blockExtractor2.name=高级提取机
+iu.blockExtractor3.name=终极提取机
+
+iu.blockMacerator.name=强化打粉机
+iu.blockMacerator2.name=高级打粉机
+iu.blockMacerator3.name=终极打粉机
+
+iu.blockMatter1.name=强化UU物质生成机
+iu.blockMatter2.name=高级UU物质生成机
+iu.blockMatter3.name=终极UU物质生成机
+iu.blockCombMatter.name=§9组合UU物质生成机
+
+iu.MetalFormer1.name=强化金属成型机
+iu.MetalFormer2.name=高级金属成型机
+iu.blockMetalFormer.name=强化金属成型机
+iu.blockMetalFormer2.name=高级金属成型机
+iu.blockMetalFormer3.name=终极金属成型机
+
+iu.blockQuantumQuarry.name=量子采矿机
+iu.blockQuantumQuarry1.name=强化量子采矿机
+iu.blockQuantumQuarry2.name=高级量子采矿机
+iu.blockQuantumQuarry3.name=终极量子采矿机
+
+iu.blockExtruding.name=挤压机
+iu.blockExtruding1.name=强化挤压机
+iu.blockExtruding2.name=高级挤压机
+iu.blockExtruding3.name=终极挤压机
+
+iu.blockRolling.name=辊压机
+iu.blockRolling1.name=强化辊压机
+iu.blockRolling2.name=高级辊压机
+iu.blockRolling3.name=终极辊压机
+
+iu.blockCutting.name=剪切机
+iu.blockCutting1.name=强化剪切机
+iu.blockCutting2.name=高级剪切机
+iu.blockCutting3.name=终极剪切机
+
+iu.blockCombRecycler.name=强化组合回收机
+iu.blockCombRecycler1.name=高级组合回收机
+iu.blockCombRecycler2.name=终极组合回收机
+
+iu.blockCombMacerator.name=组合打粉机
+iu.blockCombMacerator1.name=强化组合打粉机
+iu.blockCombMacerator2.name=高级组合打粉机
+iu.blockCombMacerator3.name=终极组合打粉机
+
+iu.blockAsmScr.name=废料盒压缩机
+iu.blockAsmScr1.name=强化废料盒压缩机
+iu.blockAsmScr2.name=高级废料盒压缩机
+iu.blockAsmScr3.name=终极废料盒压缩机
+iu.blockAssamplerScrap.name=废料盒压缩机
+iu.blockAssamplerScrap1.name=强化废料盒压缩机
+iu.blockAssamplerScrap2.name=高级废料盒压缩机
+iu.blockAssamplerScrap3.name=终极废料盒压缩机
+
+iu.blockFermer.name=种植站
+iu.blockFermer1.name=强化种植站
+iu.blockFermer2.name=高级种植站
+iu.blockFermer3.name=终极种植站
+
+iu.blockAdvgenerator.name=强化火力发电机
+iu.blockImpgenerator.name=高级火力发电机
+iu.blockPergenerator.name=终极火力发电机
+
+iu.blockAdvRea.name=强化核反应堆
+iu.blockAdvReaCha.name=强化核反应仓
+iu.blockImpRea.name=高级核反应堆
+iu.blockImpReaCha.name=高级核反应仓
+iu.blockPerRea.name=终极核反应堆
+iu.blockPerReaCha.name=终极核反应仓
+
+iu.blockAdvKG.name=强化动能发生机
+iu.blockImpKG.name=高级动能发生机
+iu.blockPerKG.name=终极动能发生机
+
+iu.Alloymachine.name=合金炉
+iu.blockAdvAlloy.name=高级合金炉
+iu.AdvAlloymachine.name=终极合金炉
+
+iu.blockAdvGeo.name=强化地热发电机
+iu.blockImpGeo.name=高级地热发电机
+iu.blockPerGeo.name=终极地热发电机
+
+iu.blockAdvPump.name=强化泵
+iu.blockImpPump.name=高级泵
+
+# Generators on the internal combustion engine
+iu.blockDiesel.name=柴油发电机
+iu.blockPetrol.name=汽油发电机
+iu.blockHydGen.name=氢气发电机
+
+#Substance generators by energy
+iu.genstone=圆石制造器
+iu.blockGenerationStone.name=圆石制造器
+iu.blockObsGen.name=黑曜石制造器
+iu.blockLavaGen.name=岩浆制造器
+iu.blockHelGen.name=氦气制造器
+
+iu.blockGenerationMicrochip.name=电路板组装机
+blockConverterSolidMatter.name=Solid Matter Transformer
+iu.blockModuleMachine.name=模块编辑器
+iu.blockEnriched.name=富集器
+iu.enrichment.name=富集器
+iu.blockSynthesis.name=核聚变反应堆 
+iu.synthesis.name=核聚变反应堆 
+iu.blockHandlerHO.name=共生矿石处理器
+iu.handler.name=共生矿石处理器
+iu.blockWitherMaker.name=下界之星制造器
+iu.blockMagnet.name=磁力捕获器
+iu.blockgenMagnet.name=磁场发电机
+iu.blockFisher.name=渔场
+iu.blockPainting.name=染色器
+iu.painting.name=染色器
+blockUpgrade.name=改装站
+BlockQuarryOil.name=岩心钻机 
+BlockOilGetter.name=油井
+BlockCombinerSolidMatter.name=固体UU物质发生组合器 
+iu.blockExpStorage.name=经验存储器 
+blockExpStorage.name=经验存储器 
+iu.blockPlasticCreator.name=化工厂
+iu.blockPlasticPlateCreator.name=塑料板制造器 
+iu.blockElectrolyzer.name=电解器
+iu.blockLathe.name=自动车床
+iu.blockRadPur.name=辐射净化器 
+iu.blockPrivatizer.name=Privatizer
+iu.blockTuner.name=无线调整器
+iu.blockSpawner.name=Automatic Hunter
+
+# Solid Matter Generators
+GenAer_matter.name=固体UU物质 Air 生成机
+GenAqua_matter.name=固体UU物质 Water 生成机
+GenEarth_matter.name=固体UU物质 Earth 生成机
+GenEnd_matter.name=固体UU物质 Ender 生成机
+GenMatter_matter.name=固体UU物质生成机
+GenNether_matter.name=固体UU物质 Nether 生成机
+GenNight_matter.name=固体UU物质 Night 生成机
+GenSun_matter.name=固体UU物质 Solar 生成机
+
+blockSolarGeneratorEnergy.name=阳光碎片收集器
+blockAdvSolarGenerator.name=强化阳光碎片收集器
+blockImpSolarGenerator.name=高级阳光碎片收集器
+blockSunnariumMaker.name=阳光化合物制造器
+iu.SunnariumMaker.name=阳光化合物制造器
+blockSunnariumPanelMaker.name=阳光合金制造器
+iu.SunnariumPanelMaker.name=阳光合金制造器
+
+item.doublescrapBox.name=压缩废料盒
+
+hsp.name=混合阳光合金板
+usp.name=终极阳光合金板
+qsp.name=量子阳光合金板
+spsp.name=光谱阳光合金板
+psp.name=质子阳光合金板
+ssp.name=奇异阳光合金板
+admsp.name=衍射阳光合金板
+phsp.name=光子阳光合金板
+nsp.name=中子阳光合金板
+bsp.name=重子阳光合金板
+adspp.name=强子阳光合金板
+
+iu.transformerUpgrade1=2x 高压升级
+iu.transformerUpgrade2=4x 高压升级
+
+iu.blacklist=黑名单
+iu.whitelist=白名单
+
+nanocircuit_part1.name=纳米电容 
+nanocircuit_part2.name=纳米 SOIC 芯片
+nanocircuit_part3.name=纳米 QFP 芯片
+quantumcircuit_part1.name=量子电容
+quantumcircuit_part2.name=量子 SOIC 芯片
+quantumcircuit_part3.name=量子 QFP 芯片
+spectralcircuit_part1.name=光谱电容
+spectralcircuit_part2.name=光谱 SOIC 芯片
+spectralcircuit_part3.name=光谱 QFP 芯片
+
+item.anode.name=阳极
+item.cathode.name=阴极
+
+emptybox.name=空染料罐
+bluepaint.name=淡蓝色染料罐
+yellowpaint.name=黄色染料罐
+greenpaint.name=绿色染料罐
+redpaint.name=红色染料罐
+orangepaint.name=橙色染料罐
+darkbluepaint.name=蓝色染料罐
+purplepaint.name=紫色染料罐
+
+iu.time=还剩: 
+iu.hour=h. 
+iu.minutes=m. 
+iu.seconds=s.
+iu.time1= 到达第一阶段污染 
+iu.time2= 到达第二阶段污染 
+iu.time3= 到达第三阶段污染 
+pollutionpnale=该太阳能电池板已污染
+pollutioninformation=移到此处查看污染情况
+iu.panelinformation=太阳能电池板相关信息
+iu.panelinformation1=太阳能电池板现在随时间推移会被污染变脏.
+iu.panelinformation2=污染每提高一阶段降低25%的发电量.
+iu.panelinformation3=你可以用清洁器清除污染.
+iu.panelinformation4=可以使用升级模块改装太阳能电池板.
+iu.panelinformation5=请阅读有关模块的详细信息.
+iu.panelinformation6=太阳能电池板需要用扳手拆除.
+iu.panelinformation7=改变模式按钮只能改变产生的能量类型(EU或RF)，且需要按住升级模块:RF.
+iu.panelinformation8=给物品充电需要升级模块:物品充电.
+iu.panelinformation9=手动面板清洁可以用安装升级模块:清洁代替.
+
+updatemod4=[IU]
+updatemod=新版本可用:
+updatemod3=验证失败
+updatemod2=你可以点击一下链接下载: 
+updatemod1=工业升级
+updatemod5=欲了解有关更新的详细信息，请点击链接 : 
+
+# Analyze
+startchunk=起始坐标: 
+endchunk=终止坐标: 
+name.ore=矿物种类: 
+chance.ore=数量: 
+chance.ore1=生成概率: 
+analyze=已扫描方块数量: 
+block= b.
+ore=矿物数量: 
+procent_ore=矿物占比: 
+middleheight=平均高度: 
+cost.name=扫描总耗能: 
+cost.name1=单个矿物耗能: 
+button.analyzer=扫描
+button.quarry=采矿
+iu.blockAnalyzer.name=矿物扫描仪
+information=每次扫描仪运行时重新加载区块 .
+
+iu.graviTool.snap.Hoe=锄
+iu.graviTool.snap.TreeTap=龙头
+iu.graviTool.snap.Wrench=扳手
+iu.graviTool.snap.Screwdriver=螺丝刀
+iu.item.graviTool.name=万能工具
+iu.graviTool.snap.Purifier=清洁器
+message.text.noenergy=能量不足!
+iu.message.text.activated=已激活
+iu.message.text.enabled=已开启
+iu.message.text.on=开
+iu.message.text.off=关
+iu.message.text.disabled=已关闭
+
+defaultskin=皮肤: Normal
+camouflageskin=皮肤: §2Camouflage
+demonskin=皮肤: §4Demonic
+Darkskin=皮肤: §8Dark
+Coldskin=皮肤: §bCold
+Enderskin=皮肤: §5Ender
+
+item.plast.name=塑料
+item.plastic_plate.name=塑料板
+
+item.itemLathingProgramm.name=车床编程电路
+
+#Reactor components
+iu.reactorcondensatordiamond=钻石冷却单元
+iu.impventspread.name=终极混合热交换器
+iu.advventspread.name=混合元件散热片
+iu.impheatswitch=终极混合热交换器
+iu.advheatswitch=混合热交换器
+iu.reactorimpVent=2G一次性冷却单元
+iu.reactoradvVent=1G一次性冷却单元
+
+iu.electricstorageinformation=储电设备相关信息
+iu.electricstorageinformation1=可以储存RF.
+iu.electricstorageinformation2=如果安装了 升级模块:RF ，就可以在 EU 和 RF 之间进行能量转换。.
+iu.electricstorageinformation3=如果安装了 升级模块:RF ，就可以使用 RF 充电.
+iu.electricstorageinformation4=升级模块安装在左侧插槽中.
+iu.electricstorageinformation5=先将 升级模块：无线 装入插槽.
+iu.electricstorageinformation6=然后将 升级模块：无线 装入太阳能电池板中可使两设备连接.
+iu.electricstorageinformation7=手持无线充电模块对储电设备按住SHIFT + 右键才能开启无线充电.
+
+button.deny=Off
+button.allow=On
+
+iu.quarryinformation=采矿机相关信息
+iu.quarryinformation1=可以使用升级模块增强采矿机.
+iu.quarryinformation2=升级模块:节能 每提高一级减少5%能量消耗.
+iu.quarryinformation3=升级模块:时运 每提高一级增加受时运效果影响的矿物的产量.
+iu.quarryinformation4=将 升级模块:扫描 装入顶部插槽自动工作.
+iu.quarryinformation5=将对应升级模块装入底部插槽加入黑白名单.
+iu.quarryinformation6=其他模块只能装入中间插槽.
+iu.quarryinformation7=将 升级模块：无线 装入插槽可以和储电设备无线连接.
+iu.quarryinformation8=然后将 升级模块：无线 装入太阳能电池板中可使采矿机与太阳能电池板连接.
+iu.quarryinformation9=范围升级模块可以扩大工作范围但会提高能量消耗.
+
+iu.analyzerinformation=矿物扫描仪相关信息
+iu.analyzerinformation1=按下"扫描"按钮扫描区块.
+iu.analyzerinformation2=紧贴矿物扫描仪放一个采矿机可以进行挖掘.
+iu.analyzerinformation3=然后将 升级模块:采矿机 装入矿物扫描仪.
+iu.analyzerinformation4=最后按下"挖掘"按钮.
+iu.analyzerinformation5=相同的模块也适用于扫描仪 .
+iu.analyzerinformation6=使用升级模块:无线可以连接采矿机和矿物扫描仪.
+iu.analyzerinformation7=先将升级模块:无线装入采矿机然后再装入矿物扫描仪.
+
+iu.fisherinformation=钓鱼机相关信息
+iu.fisherinformation1=机器正下方需要3x3x3水.
+iu.fisherinformation2=同时需要能量和钓鱼竿.
+iu.fisherinformation3=钓鱼竿的附魔影响产出.
+
+iu.combMatterinformation=组合UU物质生成器相关信息
+iu.combMatterinformation1=将UU物质生成机装入左侧插槽才能工作.
+iu.combMatterinformation2=每个槽最大数量:4.
+
+iu.paintinginformation=染色机 相关信息
+iu.paintinginformation1=用于修改护甲和工具的材质.
+iu.paintinginformation2=护甲和工具放到第一个槽.
+iu.paintinginformation3=4个染料罐放到第二个槽.
+iu.paintinginformation4=然后自动染色.
+iu.paintinginformation5=使用空染料罐去除染色.
+
+message.battery.mode.0=标准 (未启用)
+message.battery.mode.1=只给手中物品充电
+message.battery.mode.2=给物品栏充电
+message.battery.mode.3=给护甲栏充电
+message.battery.mode.4=给所有栏充电
+
+button.write=编辑
+iu.moduleinformation=模块编辑器相关信息
+iu.moduleinformation1=将黑白名单模块装入上方插槽.
+iu.moduleinformation2=将矿石、宝石、锭放在下方插槽中 .
+iu.moduleinformation3=按下"编辑"按钮.
+
+iu.message.text.powerSupply=External power
+chance=成功率: 
+clonning=To create by transformation you need:
+matternumber= units
+mattercloning=转变中
+mattererror=Error
+
+free_slot=可用改装槽: 
+free_slot1=
+not_free_slot=无空余改装槽 
+energy_less_use=能量消耗减少 
+depth=挖掘深度增加 
+aoe=挖掘范围增加 
+speed=挖掘速度增加 
+genday=日间发电增加 
+gennight=夜间发电增加 
+storage=储电量增加 
+protect=保护增加 
+waterBreathing=水下呼吸
+fireResistance=防火
+jump=跳跃提升
+moveSpeed=速度提升
+speedfly=飞行速度增加 
+bowenergy=能量消耗减少 
+bowdamage=弓箭伤害增加 
+saberenergy=能量消耗减少 
+saberdamage=伤害增加 
+
+scanning= 已扫描
+button.xpremove=取出经验
+button.xpadd=存入经验
+iu.timetoend=剩余时间: 
+iu.changemode_key=切换模式请按 
+iu.changemode_rcm= + 右键
+iu.changemode_fly=切换飞行模式请按  
+iu.red=红色: 
+iu.blue=蓝色: 
+iu.green=绿色: 
+iu.rgb=彩色
+
+#Singularities (Avaritia integration)
+item.singularity_mikhail.name=Michalov奇点
+item.singularity_aluminium.name=铝奇点
+item.singularity_vanady.name=钒奇点
+item.singularity_wolfram.name=钨奇点
+item.singularity_cobalt.name=钴奇点
+item.singularity_magnesium.name=镁奇点
+item.singularity_platium.name=铂奇点
+item.singularity_titanium.name=钛奇点
+item.singularity_chromium.name=铬奇点
+item.singularity_spinel.name=尖晶石奇点
+item.singularity_zinc.name=锌奇点
+item.singularity_manganese.name=锰奇点
+item.singularity_invar.name=殷钢奇点
+item.singularity_caravky.name=Caravky奇点
+item.singularity_electrium.name=琥珀金奇点
+item.singularity_iridium.name=铱奇点
+item.singularity_germanium.name=锗奇点
+
+#Bags
+iu_bags.name=袋子
+imp_iu_bags.name=强化袋子
+adv_iu_bags.name=高级袋子
+
+iu.vertical=开启垂直模式请按下 
+iu.streak=要更改玩家后面线条的颜色，请按 
+iu.magnet_mode=要激活磁力，请按 
+iu.notfindoil=没有发现石油，放置岩心钻机进行扫描 
+iu.create_sunnarium=生成于阳光化合物生成器
+iu.create_plastic=制造于化工厂
+iu.create_plastic_plate=制造于塑料板制造器 
+
+#Achievements
+achievement.mikhailore=Mr. Michalov
+achievement.mikhailore.desc=挖到Michalov矿石
+achievement.aluminiumore=铝
+achievement.aluminiumore.desc=挖到铝矿石
+achievement.vanadyore=钒
+achievement.vanadyore.desc=挖到钒矿石
+achievement.wolframore=这是共生矿石?
+achievement.wolframore.desc=挖到钨矿石
+achievement.cobaltore=邪恶的地精?
+achievement.cobaltore.desc=挖到钴矿石
+achievement.magnesiumore=白色矿石里有什么?
+achievement.magnesiumore.desc=挖到镁矿石
+achievement.nickelore=顽皮的金属
+achievement.nickelore.desc=挖到镍矿石
+achievement.platiumore=真银不怕火炼?
+achievement.platiumore.desc=挖到铂矿石
+achievement.titaniumore=盖亚之子
+achievement.titaniumore.desc=挖到钛矿石
+achievement.chromiumore=人见人爱
+achievement.chromiumore.desc=挖到铬矿石
+achievement.spinelore=浑身都是刺
+achievement.spinelore.desc=挖到尖晶石矿石
+achievement.silverore=古色古香
+achievement.silverore.desc=挖到银矿石
+achievement.zincore=贯穿
+achievement.zincore.desc=挖到锌矿石
+achievement.manganeseore=黑色的镁
+achievement.manganeseore.desc=挖到锰矿石
+achievement.iridiumore=Rainbow?
+achievement.iridiumore.desc=挖到铱矿石
+achievement.germaniumore=锗
+achievement.germaniumore.desc=获得锗
+achievement.americiumore=镅
+achievement.americiumore.desc=获得镅
+achievement.neptuniumore=你不需要去海王星
+achievement.neptuniumore.desc=获得镎
+achievement.curiumore=锔
+achievement.curiumore.desc=获得锔
+achievement.toriyore=雷神钦定
+achievement.toriyore=获得钍
+
+achievement.SE_generator=太阳在手?
+achievement.SE_generator.desc=制作一个阳光碎片收集器
+achievement.sunnarium_part=手握阳光?
+achievement.sunnarium_part.desc=获得阳光碎片
+achievement.Adv_SE_generator=我想要更多阳光
+achievement.Adv_SE_generator.desc=升级阳光碎片收集器
+achievement.Imp_SE_generator=阳光成瘾
+achievement.Imp_SE_generator.desc=再次升级
+achievement.sunnarium_maker=聚沙成塔
+achievement.sunnarium_maker.desc=制作阳光化合物制造器
+achievement.sunnarium=手搓阳光...
+achievement.sunnarium.desc=获得阳光化合物
+achievement.sunnarium_plate=...压成板!
+achievement.sunnarium_plate.desc=获得阳光合金
+achievement.enrichment=富集!
+achievement.enrichment.desc=获得富集阳光化合物!
+achievement.sunnarium_enrich=放射性太阳
+achievement.sunnarium_enrich.desc=获得富集阳光合金!
+achievement.uranium_enrich=放射性铀
+achievement.uranium_enrich.desc=获得光辉铀锭
+achievement.glass_enrich=夜光玻璃
+achievement.glass_enrich.desc=制作光辉玻璃板
+achievement.toriy_enrich=放射性钍
+achievement.toriy_enrich.desc=获得光辉钍
+
+achievement.sunnarium_makerpanel=太阳二向化
+achievement.sunnarium_makerpanel.desc=制作阳光合金制造器
+achievement.molecular_transfromer=重组一切
+achievement.molecular_transfromer.desc=制作分子重组仪
+achievement.double_molecular_transfromer=重组仪的复仇
+achievement.double_molecular_transfromer.desc=制作高级分子重组仪
+
+achievement.adv_core=套娃开始了
+achievement.adv_core.desc=制作高级核心
+achievement.hyb_core=混合
+achievement.hyb_core.desc=制作混合核心
+achievement.ult_core=终极混合
+achievement.ult_core.desc=制作终极混合核心
+achievement.qua_core=欢迎来到量子世界
+achievement.qua_core.desc=制作量子核心
+achievement.spe_core=光谱
+achievement.spe_core.desc=制作光谱核心
+achievement.pro_core=正电荷
+achievement.pro_core.desc=制作质子核心
+achievement.pro_core=奇点
+achievement.pro_core.desc=制作奇异核心
+achievement.dif_core=你知道什么是衍射吗?
+achievement.dif_core.desc=制作衍射核心
+achievement.pho_core=光不仅是波 
+achievement.pho_core.desc=制作光子核心
+achievement.neu_core=电中性
+achievement.neu_core.desc=制作中子核心
+achievement.bar_core=有点重但又不太重
+achievement.bar_core.desc=制作重子核心
+achievement.had_core=家住对撞机
+achievement.had_core.desc=制作强子核心
+achievement.gra_core=弯曲光线
+achievement.gra_core.desc=制作引力子核心
+achievement.kvr_core=基本粒子
+achievement.kvr_core.desc=制作夸克核心
+
+achievement.adv_panel=套娃在行动
+achievement.adv_panel.desc=制作高级太阳能
+achievement.hyb_panel=混合化
+achievement.hyb_panel.desc=制作混合太阳能
+achievement.ult_panel=终极混合
+achievement.ult_panel.desc=制作终极混合太阳能
+achievement.qua_panel=量化无污染
+achievement.qua_panel.desc=制作量子太阳能
+achievement.spe_panel=光谱图
+achievement.spe_panel.desc=制作光谱太阳能
+achievement.pro_panel=正能量
+achievement.pro_panel.desc=制作质子太阳能
+achievement.sin_panel=纠缠能能纠缠
+achievement.sin_panel.desc=制作奇异太阳能
+achievement.dif_panel=观测干涉现象
+achievement.dif_panel.desc=制作衍射太阳能
+achievement.pho_panel=光子能也是太阳能?
+achievement.pho_panel.desc=制作光子太阳能
+achievement.neu_panel=无需充电 Energy without charge
+achievement.neu_panel.desc=制作中子太阳能
+achievement.bar_panel="重"力做功
+achievement.bar_panel.desc=制作重子太阳能
+achievement.had_panel=离家出走
+achievement.had_panel.desc=制作强子太阳能
+achievement.gra_panel=时空弯曲
+achievement.gra_panel.desc=制作引力子太阳能
+achievement.kvr_panel=不连续的能量
+achievement.kvr_panel.desc=制作夸克太阳能
+
+achievement.oil_bucket=能用来做饭吗?
+achievement.oil_bucket.desc=将原油装桶
+achievement.oil_drilling_rig=第二次工业革命
+achievement.oil_drilling_rig.desc=制作油井
+achievement.oil_quarry=石油勘探
+achievement.oil_quarry.desc=制作岩心钻机
+achievement.oil_refiner=炼油其实很复杂
+achievement.oil_refiner.desc=制作炼油厂
+achievement.petrol=什么味道?
+achievement.petrol.desc=制作汽油单元
+achievement.petrol_generator=其实不适合发电
+achievement.petrol_generator.desc=制作汽油发电机
+achievement.diesel=浓烟滚滚
+achievement.diesel.desc=制作柴油单元
+achievement.diesel_generator=也不适合
+achievement.diesel_generator.desc=制作柴油发电机
+achievement.adv_oil_refiner=炼油大亨
+achievement.adv_oil_refiner.desc=制作高级炼油厂
+achievement.plastic_creator=塑料时代
+achievement.plastic_creator.desc=制作化工厂
+achievement.elecrolyzer=氧化还原反应
+achievement.elecrolyzer.desc=制作电解器
+achievement.anode=Electrode +
+achievement.anode.desc=制作阳极
+achievement.cathode=Electrode -
+achievement.cathode.desc=制作阴极
+achievement.oxygen=笑到缺氧
+achievement.oxygen.desc=制作氧气单元
+achievement.hydrogen=无氧水蒸汽
+achievement.hydrogen.desc=制作氢气单元
+achievement.hydrogen_generator=高效无污染
+achievement.hydrogen_generator.desc=制作氢气发电机
+achievement.plastic_plater_creator=塑形
+achievement.plastic_plater_creator.desc=制作塑料板制造器
+achievement.plastic_plater=不要乱扔
+achievement.plastic_plater.desc=制作塑料板
