@@ -533,6 +533,7 @@ itemGroup.EnergyTab=IU: Інструменти/Броня
 itemGroup.ResourceTab=IU: Ресурси
 itemGroup.ReactorsTab=IU: Радіактивність
 itemGroup.UpgradeTab=IU: Покращення
+itemGroup.BlueprintTab=IU: Схеми
 
 itemCellEmpty.name=Покращена капсула
 itemCellUuMatter.name=Зріджений нейтрон
@@ -2280,7 +2281,6 @@ iu.blueprint.blueprint_198=Схема "Досконалий рідинний б�
 iu.blueprint.blueprint_199=Схема "Досконалий подрібнювач"
 iu.blueprint.blueprint_200=Схема "Досконалий геотермальний генератор"
 
-itemGroup.BlueprintTab=IU: Схеми
 turn_off=Вимкнути
 turn_on=Ввімкнути
 iu.storage_fluid=§aМісткість: 
