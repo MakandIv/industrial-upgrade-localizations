@@ -2308,3 +2308,5 @@ iu.blacklist_description=Tool blacklist
 iu.blacklist_gui=To view items in the black list, click on: 
 iu.fly_need=Use double jump to start flying
 iu.instruments.info=Digs: 
+iu.fluid.info=Fluid: 
+iu.fluid.info1=Stored: 

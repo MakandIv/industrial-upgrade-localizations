@@ -2308,3 +2308,5 @@ iu.blacklist_description=Чёрный список инструмента
 iu.blacklist_gui=Чтобы посмотреть предметы в чёрном списке, нажмите на: 
 iu.fly_need=Для начала полёта используйте двойной прыжок
 iu.instruments.info=Копает: 
+iu.fluid.info=Жидкость: 
+iu.fluid.info1=Хранится: 
