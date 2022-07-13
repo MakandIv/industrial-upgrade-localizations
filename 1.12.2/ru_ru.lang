@@ -176,6 +176,8 @@ iu.nanobox.name=§8Нано-ящик
 iu.quantumitems7.name=§eУлучшенный нано-ящик
 iu.quantumitems6.name=§bКвантовый ящик
 iu.quantumitems3.name=Улучшенный квантовый ящик
+iu.spectral_box.name=Спектральный ящик
+iu.adv_spectral_box.name=Улучшенный спектральный ящик
 
 # Провода
 iu.itemcable=§aСпектральный провод
@@ -2312,3 +2314,17 @@ iu.fly_need=Для начала полёта используйте двойно
 iu.instruments.info=Копает: 
 iu.fluid.info=Жидкость: 
 iu.fluid.info1=Хранится: 
+iu.matter.info=Имеет в себе 200 единиц материи
+iu.changemode_rcm1=ПКМ
+iu.magnet.info=Работает на расстоянии: 
+iu.instruments.info2=Потребляет за один блок: 
+iu.multimachine.info=Необходимо охлаждать с помощью холодильника
+iu.heatmachine.info=Для нагрева используйте жидкостный или электрический нагреватель.
+iu.quarry_energy.info=Использует QE(Quantum Energy)
+iu.solarium_energy.info=Генерируют SE
+iu.solarium_energy_sink.info=Для работы нужен SE
+iu.vein.info=Анализируйте чанки с помощью буровой установки
+iu.vein.info1=С его помощью можно найти жилы минералов или нефти
+iu.vein.info2=Нахождение нефтяной жилы зависит от биомов
+iu.vein.info3=Процент получения жилы минерала составляет 20%
+iu.oilpump.info=Нужна нефтяная жила

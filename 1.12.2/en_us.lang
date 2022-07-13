@@ -176,6 +176,8 @@ iu.nanobox.name=§8Nano Box
 iu.quantumitems7.name=§eAdvanced Nano Box
 iu.quantumitems6.name=§bQuantum Box
 iu.quantumitems3.name=Improved Quantum Box
+iu.spectral_box.name=Spectral Box
+iu.adv_spectral_box.name=Improved Spectral Box
 
 # Cables
 iu.itemcable=§aSpectral Cable
@@ -2312,3 +2314,17 @@ iu.fly_need=Use double jump to start flying
 iu.instruments.info=Digs: 
 iu.fluid.info=Fluid: 
 iu.fluid.info1=Stored: 
+iu.matter.info=Имеет в себе 200 единиц материи
+iu.changemode_rcm1=ПКМ
+iu.magnet.info=Works at a distance: 
+iu.instruments.info2=Consumes per block: 
+iu.multimachine.info=Needs to be cooled down with a refrigerator
+iu.heatmachine.info=Use a liquid or electric heater for heating.
+iu.quarry_energy.info=Uses QE(Quantum Energy)
+iu.solarium_energy.info=Generate SE
+iu.solarium_energy_sink.info=Need SE to work
+iu.vein.info=Analyze chunks with a Core Search Drilling Rig
+iu.vein.info1=With it, you can find veins of minerals or oil
+iu.vein.info2=Finding an oil vein varies by biome
+iu.vein.info3=The percentage of obtaining a vein of a mineral is 20%
+iu.oilpump.info=Need an oil vein
