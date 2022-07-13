@@ -1559,7 +1559,7 @@ industrialupgrade.adv_se_gen.adv_se_gen=Improved Solar Energy Generator
 industrialupgrade.imp_se_gen.imp_se_gen=Advanced Solar Energy Generator
 industrialupgrade.basemachine3.combiner_se_generators=Solar Energy Generator Combiner
 
-industrialupgrade.gen_sunnarium.gen_sunnarium=Solarite Manufacturer
+industrialupgrade.gen_sunnarium.gen_sunnarium=Solarite Transformer
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=Solarite Plate Manufacturer
 
 iu.doublescrapbox.name=Double Scrap Box
@@ -1900,7 +1900,7 @@ achievement.adv_SE_generator.desc=Upgrade your Solar Energy Generator
 achievement.imp_SE_generator=Solar addiction
 achievement.imp_SE_generator.desc=Upgrade your Solar Energy Generator even further
 achievement.sunnarium_maker=Gather together the fragments
-achievement.sunnarium_maker.desc=Create a Solarite Manufacturer
+achievement.sunnarium_maker.desc=Create a Solarite Transformer
 achievement.sunnarium=Sun with your own hands...
 achievement.sunnarium.desc=Get Solarite
 achievement.sunnarium_plate=...now compress it!

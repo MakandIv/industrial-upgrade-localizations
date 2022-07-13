@@ -1550,7 +1550,7 @@ industrialupgrade.adv_se_gen.adv_se_gen=Покращений генератор 
 industrialupgrade.imp_se_gen.imp_se_gen=Просунутий генератор сонячної енергії
 industrialupgrade.basemachine3.combiner_se_generators=Об'єднувач генераторів сонячної енергії
 
-industrialupgrade.gen_sunnarium.gen_sunnarium=Виробник солоріту
+industrialupgrade.gen_sunnarium.gen_sunnarium=Перетворювач солоріту
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=Виробник солорітових пластин
 
 iu.doublescrapbox.name=Подвійна коробка утильсировини
@@ -1890,7 +1890,7 @@ achievement.adv_SE_generator.desc=Покращіть генератор соня
 achievement.imp_SE_generator=Сонячна залежність
 achievement.imp_SE_generator.desc=Ще покращіть генератор сонячної енергії
 achievement.sunnarium_maker=Склеїти частинки
-achievement.sunnarium_maker.desc=Створіть виробник солоріту
+achievement.sunnarium_maker.desc=Створіть перетворювач солоріту
 achievement.sunnarium=Сонце своїми руками...
 achievement.sunnarium.desc=Отримайте солоріт
 achievement.sunnarium_plate=...а тепер стисні його
