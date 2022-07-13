@@ -1,15 +1,17 @@
 # Industrial Update Localization Updates (IULU)
-Industrial Update Localization Updates is the Industrial Upgrade localization update project. 
+Industrial Update Localization Updates is the Industrial Upgrade localization update project. Localization updates are added to the Industrial Upgrade.
 
 ### Localization support/Minecraft Version support
-
-| Language                     | Interpreter (editor)                 | 1.7.10            | 1.12.2 
+Below is a table of supported languages, their authors, and scope of readiness.
+| Language                     | Interpreter                          | 1.7.10            | 1.12.2 
 | :--------------------------: | :----------------------------------: | :---------------: | :---------------------:
 | Русский (Russian)            | Mak_and_Iv                           | Full (for 2.5.21) | Full (for 2.4-RC3)
 | English                      | Mak_and_Iv                           | Full (for 2.5.21) | Full (for 2.4-RC3)
 | 简体中文 (Simplified Chinese) | Oldmemory1 (1.7.10)/绝绝子 (1.12.2)  | Full (for 2.5.21) | 95% (for 2.4-RC3)
 | Українська (Ukrainian)       | Denfop, vanFEK, Mak_and_Iv           | -                 | Full (for 2.4-RC3)
 
+### Bug?
+In an issue here or in an issue IU, you can report a bug in the localization of any supported language, suggest a different name for blocks, items, etc. You can also do this in Discord on the Industrial Upgrade server (link in the "Links" section). Each issue will be considered!
 
 ### Links
 [IU on GitHub](https://github.com/ZelGimi/industrialupgrade "ZelGimi/industrialupgrade")<br>
