@@ -2350,3 +2350,10 @@ industrialupgrade.blastfurnace.blast_furnace_heat=Blast Furnace Heating Pump
 industrialupgrade.blastfurnace.blast_furnace_output=Blast Furnace Output
 industrialupgrade.blastfurnace.blast_furnace_input_fluid=Blast Furnace Fluid Input
 industrialupgrade.blastfurnace.blast_furnace_part=Blast Furnace Block
+
+iu.quantumgenerator.info=Generates QE
+iu.simplyquarries.info=Has slots to upgrade: 
+iu.simplyquarries.info1=Consume by default: 
+iu.simplyquarries.info2=Digs: 
+iu.simplyquarries.info3=blocks per tick
+iu.quantumgenerator.info1=Can be upgraded with this type of panel module

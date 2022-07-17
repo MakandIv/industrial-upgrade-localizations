@@ -2350,3 +2350,10 @@ industrialupgrade.blastfurnace.blast_furnace_heat=Нагрівальний на�
 industrialupgrade.blastfurnace.blast_furnace_output=Вихід доменної печі
 industrialupgrade.blastfurnace.blast_furnace_input_fluid=Рідинний вхід доменної печі
 industrialupgrade.blastfurnace.blast_furnace_part=Блок доменної печі
+
+iu.quantumgenerator.info=Генерує QE
+iu.simplyquarries.info=Має слотів для покращення: 
+iu.simplyquarries.info1=Споживає за замовчуванням: 
+iu.simplyquarries.info2=Копає: 
+iu.simplyquarries.info3=блоків у тик
+iu.quantumgenerator.info1=Можна покращити модулем панелі даного типу
