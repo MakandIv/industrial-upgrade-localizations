@@ -542,7 +542,7 @@ itemGroup.ItemTab=IU: Предметы
 itemGroup.OreTab=IU: Руды
 itemGroup.EnergyTab=IU: Инструменты/Броня
 itemGroup.ResourceTab=IU: Ресурсы
-itemGroup.ReactorsTab=IU: Радиактивность
+itemGroup.ReactorsTab=IU: Радиоактивность
 itemGroup.UpgradeTab=IU: Улучшения
 itemGroup.BlueprintTab=IU: Схемы
 
