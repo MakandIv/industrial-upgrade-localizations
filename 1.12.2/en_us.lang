@@ -382,6 +382,19 @@ iu.itemcoolupgrade.azote=Nitrogen Cooling Module
 iu.itemcoolupgrade.hydrogen=Hydrogen Cooling Module
 iu.itemcoolupgrade.helium=Helium Cooling Module
 
+iu.rotorupgrade_schemes.name=Rotor Module Template
+iu.rotors_upgrade.rotorupgrade=Rotor Module: Durability I
+iu.rotors_upgrade.rotorupgrade1=Rotor Module: Durability II
+iu.rotors_upgrade.rotorupgrade2=Rotor Module: Durability III
+iu.rotors_upgrade.rotorupgrade3=Rotor Module: Efficiency I
+iu.rotors_upgrade.rotorupgrade4=Rotor Module: Efficiency II
+iu.rotors_upgrade.rotorupgrade5=Rotor Module: Efficiency III
+iu.rotors_upgrade.rotorupgrade6=Rotor Module: Power I
+iu.rotors_upgrade.rotorupgrade7=Rotor Module: Power II
+iu.rotors_upgrade.rotorupgrade8=Rotor Module: Power III
+iu.rotors_upgrade.rotorupgrade9=Rotor Module: Rotary Mechanism
+iu.rotors_upgrade.rotorupgrade10=Rotor Module: Height
+
 ic2.item.tooltip.Output=Output:
 ic2.item.tooltip.Capacity=Store:
 iu.module1=§eImproves the energy production of the panels during the day by§2
@@ -1508,6 +1521,11 @@ industrialupgrade.basemachine1.per_geo=Perfect Geothermal Generator
 industrialupgrade.basemachine2.adv_pump=Improved Pump
 industrialupgrade.basemachine2.imp_pump=Advanced Pump
 
+industrialupgrade.basemachine3.simple_wind_generator=Wind Turbine
+industrialupgrade.basemachine3.adv_wind_generator=Improved Wind Turbine
+industrialupgrade.basemachine3.imp_wind_generator=Advanced Wind Turbine
+industrialupgrade.basemachine3.per_wind_generator=Perfect Wind Turbine
+
 # Generators on the internal combustion engine
 industrialupgrade.basemachine2.gen_disel=Diesel Generator
 industrialupgrade.basemachine2.gen_pet=Gasoline Generator
@@ -1896,6 +1914,27 @@ achievement.curiumore=Curium
 achievement.curiumore.desc=Get Curium
 achievement.thoriumore=Thunder god among metals
 achievement.thoriumore.desc=Get Thorium
+achievement.minerals=Minerals
+achievement.minerals.desc=Get any mineral: Magnetite, Calaverite, Galena, Nickelite, Pyrite, Quartzite, Uranite, Azurite, Rhodonite, Ahlfeldite, Euxenite, Smithsonite, Ilmenite, Todorokite, Ferroaugite or Scheelite
+achievement.mineral_separator=Divide and rule
+achievement.mineral_separator.desc=Create a Mineral Separator
+
+achievement.basic_circuit=Beginnings of electronics
+achievement.basic_circuit.desc=Create your first Circuit
+achievement.circuit_manufacturer=Production of circuits
+achievement.circuit_manufacturer.desc=Create a circuit manufacturer
+achievement.advanced_circuit=Progress in electronics
+achievement.advanced_circuit.desc=Create an Advanced Circuit
+achievement.nano_circuit=Nanotechnologies in electronics
+achievement.nano_circuit.desc=Create a Nano Circuit
+achievement.quantum_circuit=The whole world in one chip
+achievement.quantum_circuit.desc=Create a Quantum Circuit
+achievement.spectral_circuit=An ordinary spectrograph will not help here
+achievement.spectral_circuit.desc=Create a Spectral Circuit
+achievement.photonic_circuit=Light is the best conductor of information
+achievement.photonic_circuit.desc=Create a Photonic Circuit
+achievement.module_rf_energy=Redstone Flux can serve as a great substitute for electricity
+achievement.module_rf_energy.desc=Create a Module: RF-energy
 
 achievement.SE_generator=Sun in hands
 achievement.SE_generator.desc=Create a Solar Energy Generator
@@ -1986,6 +2025,11 @@ achievement.gra_panel=Force of Gravity
 achievement.gra_panel.desc=Create a Graviton Solar Panel
 achievement.quar_panel=Elemental Energy
 achievement.quar_panel.desc=Create a Quark Solar Panel
+
+achievement.comb_macerator=Triple Crushing
+achievement.comb_macerator.desc=Build a Combined Macerator
+achievement.quantum_quarry=Resources of the Quantum World
+achievement.quantum_quarry.desc=Create a Quantum Quarry
 
 achievement.oil_cell=Scoop up oil
 achievement.oil_cell.desc=Pour oil into cell
@@ -2357,3 +2401,30 @@ iu.simplyquarries.info1=Consume by default:
 iu.simplyquarries.info2=Digs: 
 iu.simplyquarries.info3=blocks per tick
 iu.quantumgenerator.info1=Can be upgraded with this type of panel module
+
+iu.wind_meter.info=Wind speed: 
+iu.wind_side=Direction of the wind: 
+iu.wind.n=Northern
+iu.wind.nw=Northwestern
+iu.wind.ne=Northeastern
+iu.wind.s=Southern
+iu.wind.se=Southeastern
+iu.wind.sw=Southwestern
+iu.wind.w=Western
+iu.wind.e=Eastern
+iu.wind_mec_side=Rotor direction: 
+iu.wind_coef=Wind coefficient: 
+iu.wind_gen=Energy generation: 
+iu.wind_tier=Tier: 
+iu.wind_change_side=Click to change sides
+wind.strength_info=Increases rotor durability by: 
+wind.power_info=Increases rotor power by:
+wind.efficiency_info=Increases rotor efficiency by: 
+wind.auto_info=Allows the wind generator to turn automatically
+wind.min_info=Removes the dependence of the rotor on height
+iu.simplyquarries.info4=Mode: Ores
+iu.simplyquarries.info5=Mode: Ores and Veins
+wind.need_level=Rotor level required 
+wind.need_level1=to 
+wind.need_level2=tiers
+wind.need_level3=Right-click on the Wind Turbine to restore the durability of the corresponding rotor

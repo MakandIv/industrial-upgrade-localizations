@@ -382,6 +382,19 @@ iu.itemcoolupgrade.azote=Азотный модуль охлаждения
 iu.itemcoolupgrade.hydrogen=Водородный модуль охлаждения
 iu.itemcoolupgrade.helium=Гелиевый модуль охлаждения
 
+iu.rotorupgrade_schemes.name=Шаблон роторного модуля
+iu.rotors_upgrade.rotorupgrade=Роторный модуль: Прочность I
+iu.rotors_upgrade.rotorupgrade1=Роторный модуль: Прочность II
+iu.rotors_upgrade.rotorupgrade2=Роторный модуль: Прочность III
+iu.rotors_upgrade.rotorupgrade3=Роторный модуль: Эффективность I
+iu.rotors_upgrade.rotorupgrade4=Роторный модуль: Эффективность II
+iu.rotors_upgrade.rotorupgrade5=Роторный модуль: Эффективность III
+iu.rotors_upgrade.rotorupgrade6=Роторный модуль: Сила I
+iu.rotors_upgrade.rotorupgrade7=Роторный модуль: Сила II
+iu.rotors_upgrade.rotorupgrade8=Роторный модуль: Сила III
+iu.rotors_upgrade.rotorupgrade9=Роторный модуль: Поворотный механизм
+iu.rotors_upgrade.rotorupgrade10=Роторный модуль: Высота
+
 ic2.item.tooltip.Output=Выход:
 ic2.item.tooltip.Capacity=Хранит:
 iu.module1=§eУлучшает генерацию энергии панели днём на§2
@@ -1508,6 +1521,11 @@ industrialupgrade.basemachine1.per_geo=Совершенный геотермал
 industrialupgrade.basemachine2.adv_pump=Улучшенная помпа
 industrialupgrade.basemachine2.imp_pump=Продвинутая помпа
 
+industrialupgrade.basemachine3.simple_wind_generator=Ветрогенератор
+industrialupgrade.basemachine3.adv_wind_generator=Улучшенный ветрогенератор
+industrialupgrade.basemachine3.imp_wind_generator=Продвинутый ветрогенератор
+industrialupgrade.basemachine3.per_wind_generator=Совершенный ветрогенератор
+
 # Генераторы на ДВС
 industrialupgrade.basemachine2.gen_disel=Дизельный генератор
 industrialupgrade.basemachine2.gen_pet=Бензиновый генератор
@@ -1896,6 +1914,27 @@ achievement.curiumore=Кюрий
 achievement.curiumore.desc=Получите кюрий
 achievement.thoriumore=Бог грома среди металлов
 achievement.thoriumore.desc=Получите торий
+achievement.minerals=Минералы
+achievement.minerals.desc=Добудьте любой минерал: магнетит, калаверит, галенит, никелит, пирит, кварцит, уранит, азурит, родонит, альфильдит, эвксенит, смитсонит, ильменит, тодорокит, ферроавгит или шеелит
+achievement.mineral_separator=Разделяй и властвуй
+achievement.mineral_separator.desc=Создайте минеральный сепаратор
+
+achievement.basic_circuit=Начало электроники
+achievement.basic_circuit.desc=Создайте первую электросхему
+achievement.circuit_manufacturer=Производство электросхем
+achievement.circuit_manufacturer.desc=Создайте производитель электросхем
+achievement.advanced_circuit=Прогресс в сфере электроники
+achievement.advanced_circuit.desc=Создайте улучшенную электросхему
+achievement.nano_circuit=Нанотехнологии в электронике
+achievement.nano_circuit.desc=Создайте нано-электросхему
+achievement.quantum_circuit=Целый мир в одном чипе
+achievement.quantum_circuit.desc=Создайте квантовую электросхему
+achievement.spectral_circuit=Обычный спектрограф тут не поможет
+achievement.spectral_circuit.desc=Создайте спектральную электросхему
+achievement.photonic_circuit=Свет - лучший проводник информации
+achievement.photonic_circuit.desc=Создайте фотонную электросхему
+achievement.module_rf_energy=Поток редстоуна может послужить отличной заменой электроэнергии
+achievement.module_rf_energy.desc=Создайте Модуль: RF-энергия
 
 achievement.SE_generator=Солнце в руках
 achievement.SE_generator.desc=Создайте генератор солнечной энергии
@@ -1986,6 +2025,11 @@ achievement.gra_panel=Сила притяжения
 achievement.gra_panel.desc=Создайте гравитонную солнечную панель
 achievement.quar_panel=Элементарная энергия
 achievement.quar_panel.desc=Создайте кварковую солнечную панель
+
+achievement.comb_macerator=Тройное дробление
+achievement.comb_macerator.desc=Создайте комбинированный дробитель
+achievement.quantum_quarry=Ресурсы квантового мира
+achievement.quantum_quarry.desc=Создайте квантовый карьер
 
 achievement.oil_cell=Зачерпнуть нефть
 achievement.oil_cell.desc=Налейте нефть в капсулу
@@ -2357,3 +2401,30 @@ iu.simplyquarries.info1=Потребляет по умолчанию:
 iu.simplyquarries.info2=Копает: 
 iu.simplyquarries.info3=блоков в тик
 iu.quantumgenerator.info1=Можно улучшить модулем панели данного типа
+
+iu.wind_meter.info=Скорость ветра: 
+iu.wind_side=Направление ветра: 
+iu.wind.n=Северный
+iu.wind.nw=Северо-западный
+iu.wind.ne=Северо-восточный
+iu.wind.s=Южный
+iu.wind.se=Юго-восточный
+iu.wind.sw=Юго-западный
+iu.wind.w=Западный
+iu.wind.e=Восточный
+iu.wind_mec_side=Направление ротора: 
+iu.wind_coef=Коэффициент ветра: 
+iu.wind_gen=Генерация энергии: 
+iu.wind_tier=Уровень: 
+iu.wind_change_side=Нажмите, чтобы сменить сторону
+wind.strength_info=Повышает прочность ротора на: 
+wind.power_info=Повышает силу ротора на: 
+wind.efficiency_info=Повышает эффективность ротора на: 
+wind.auto_info=Позволяет ветрогенератору автоматически поворачиваться
+wind.min_info=Снимает зависимость ротора от высоты
+iu.simplyquarries.info4=Режим: Руды
+iu.simplyquarries.info5=Режим: Руды и Жилы
+wind.need_level=Нужен уровень ротора с 
+wind.need_level1=до 
+wind.need_level2=уровня
+wind.need_level3=ПКМ по ветрогенератору, чтобы восстановить прочность соответствующего ротора
