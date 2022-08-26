@@ -2445,5 +2445,6 @@ iu.wind_generator.info2=The smaller the angle from the direction of the rotor to
 iu.wind_generator.info3=the greater the wind coefficient
 iu.wind_generator.info4=Power generation depends on wind coefficient, wind speed and altitude
 iu.wind_generator.info5=Having spent all the strength, the rotor stops generating energy,
-iu
-iu.wind_generator.info6=Rotors can be upgraded at the Rotor Modification Station
+iu.wind_generator.info6=you can repair the rotor by using the appropriate blade on the wind generator
+iu.wind_generator.info7=Rotors can be upgraded at the Rotor Modification Station
+iu.antimagnet.info=Disables other people's magnetic сatcher at a distance of 10x10x10 blocks
