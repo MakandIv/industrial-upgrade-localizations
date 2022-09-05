@@ -395,6 +395,16 @@ iu.rotors_upgrade.rotorupgrade7=Rotor Module: Power II
 iu.rotors_upgrade.rotorupgrade8=Rotor Module: Power III
 iu.rotors_upgrade.rotorupgrade9=Rotor Module: Rotary Mechanism
 iu.rotors_upgrade.rotorupgrade10=Rotor Module: Height
+iu.rotors_upgrade.rotorupgrade10=Rotor Module: Высота
+iu.rotors_upgrade.rotorupgrade11=Rotor Module: Wind Speed I
+iu.rotors_upgrade.rotorupgrade12=Rotor Module: Wind Speed II
+iu.rotors_upgrade.rotorupgrade13=Rotor Module: Wind Speed III
+iu.rotors_upgrade.rotorupgrade14=Rotor Module: Wind Level I
+iu.rotors_upgrade.rotorupgrade15=Rotor Module: Wind Level II
+iu.rotors_upgrade.rotorupgrade16=Rotor Module: Wind Level III
+iu.rotors_upgrade.rotorupgrade17=Rotor Module: Auto-repair I
+iu.rotors_upgrade.rotorupgrade18=Rotor Module: Auto-repair II
+iu.rotors_upgrade.rotorupgrade19=Rotor Module: Auto-repair III
 
 ic2.item.tooltip.Output=Output:
 ic2.item.tooltip.Capacity=Store:
@@ -2490,3 +2500,9 @@ iu.quarryvein_info=Information about the Core Search Drilling Rig
 iu.quarryvein_info1=The speed changes depending on the tier.
 iu.quarryvein_info2=To extract oil, use a Pumpjack
 iu.quarryvein_info3=To mine a vein, use a Quarry or an Analyzer
+
+iu.solar_generator_info=You can use the following modules: 
+wind.wind_speed_info=Increases the wind speed in the wind generator by  
+wind.wind_power_info=Increases the level of wind in the wind generator by 
+wind.rotor_repair_info=Repairs a rotor every 
+wind.limit_upgrades.info=Only one type of this upgrade is available
