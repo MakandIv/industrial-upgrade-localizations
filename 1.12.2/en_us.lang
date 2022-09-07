@@ -1874,6 +1874,7 @@ item.adv_iu_bags.name=Improved Bag
 item.imp_iu_bags.name=Advanced Bag
 
 iu.vertical=To active vertical mode, press 
+iu.streak=To change the color of the line behind the player, press 
 iu.magnet_mode=To active the magnet, press 
 iu.notfindoil=No oil found, put the Core Search Drilling Rig to analyze the chunk 
 iu.create_sunnarium=Created in Solar Energy Generator
