@@ -2150,6 +2150,15 @@ industrialupgrade.basemachine3.creator_schedules=Создатель шаблон
 industrialupgrade.basemachine3.gas_combiner=Газовый смеситель
 industrialupgrade.basemachine3.analyzer_chest=Сундук анализатора
 
+industrialupgrade.basemachine3.energy_controller=Контроллер энергии
+industrialupgrade.basemachine3.substitute=Устройство управления кабелем
+industrialupgrade.basemachine3.aer_assembler=Воздушный преобразователь
+industrialupgrade.basemachine3.aqua_assembler=Водяной преобразователь
+industrialupgrade.basemachine3.earth_assembler=Земляной преобразователь
+industrialupgrade.basemachine3.nether_assembler=Адский преобразователь
+industrialupgrade.basemachine3.auto_digger=Экскаватор
+industrialupgrade.basemachine3.crystallize=Кристаллизатор
+
 # Схемы
 iu.templates.templates=Шаблон схемы
 iu.blueprint.blueprint_0=Схема "Ядро молекулярного сборщика"
@@ -2506,3 +2515,6 @@ wind.wind_speed_info=Увеличивает скорость ветра в ве�
 wind.wind_power_info=Увеличивает уровень ветра в ветрогенераторе на 
 wind.rotor_repair_info=Чинит ротор каждые 
 wind.limit_upgrades.info=Доступен только один тип данного улучшения
+button.find_energypaths=Найти энергосети
+button.set_value_energypaths=Обновить энергосети
+iu.energy_controller_info=Энергосетей: 

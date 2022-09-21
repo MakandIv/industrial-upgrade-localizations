@@ -2150,6 +2150,15 @@ industrialupgrade.basemachine3.creator_schedules=Template Maker
 industrialupgrade.basemachine3.gas_combiner=Gas Mixer
 industrialupgrade.basemachine3.analyzer_chest=Analyzer Chest
 
+industrialupgrade.basemachine3.energy_controller=Energy Controller
+industrialupgrade.basemachine3.substitute=Cable Management Device
+industrialupgrade.basemachine3.aer_assembler=Air Transformer
+industrialupgrade.basemachine3.aqua_assembler=Water Transformer
+industrialupgrade.basemachine3.earth_assembler=Earth Transformer
+industrialupgrade.basemachine3.nether_assembler=Nether Transformer
+industrialupgrade.basemachine3.auto_digger=Excavator
+industrialupgrade.basemachine3.crystallize=Crystallizer
+
 # Blueprints
 iu.templates.templates=Scheme Template
 iu.blueprint.blueprint_0="Molecular Transformer Core" Scheme
@@ -2506,3 +2515,6 @@ wind.wind_speed_info=Increases the wind speed in the wind generator by
 wind.wind_power_info=Increases the level of wind in the wind generator by 
 wind.rotor_repair_info=Repairs a rotor every 
 wind.limit_upgrades.info=Only one type of this upgrade is available
+button.find_energypaths=Find power grids
+button.set_value_energypaths=Update power grids
+iu.energy_controller_info=Power grids: 
