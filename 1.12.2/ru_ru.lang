@@ -196,7 +196,7 @@ iu.qcable=Провод квантовой энергии
 iu.scable=Провод солнечной энергии
 
 iu.chaosingot.name=§7Слиток Хаоса
-iu.coal_chunk.name=Угольная глыба
+iu.coal_chunk.name=Плотная угольная глыба
 iu.compresscarbon.name=Сжатый углепластик
 iu.compresscarbonultra.name=Сжатый композит
 
@@ -1048,25 +1048,25 @@ iu.alloysstik.duralumin=Дюралюминиевая палка
 iu.alloysstik.ferromanganese=Ферромарганцевая палка
 
 #Палки металлов
-iu.stik.mikhail=Михаловая палка
-iu.stik.aluminium=Алюминиевая палка
-iu.stik.vanady=Ванадиевая палка
-iu.stik.wolfram=Вольфрамовая палка
-iu.stik.invar=Инварная палка
-iu.stik.caravky=Каравковая палка
-iu.stik.cobalt=Кобальтовая палка
-iu.stik.magnesium=Магниевая палка
-iu.stik.nickel=Никелевая палка
-iu.stik.platium=Платиновая палка
-iu.stik.titanium=Титановая палка
-iu.stik.chromium=Хромовая палка
-iu.stik.spinel=Шпинелевая палка
-iu.stik.electrium=Электрумовая палка
-iu.stik.silver=Серебряная палка
-iu.stik.zinc=Цинковая палка
-iu.stik.manganese=Марганцевая палка
-iu.stik.iridium=Иридиевая палка
-iu.stik.germanium=Германиевая палка
+iu.stick.mikhail=Михаловая палка
+iu.stick.aluminium=Алюминиевая палка
+iu.stick.vanady=Ванадиевая палка
+iu.stick.wolfram=Вольфрамовая палка
+iu.stick.invar=Инварная палка
+iu.stick.caravky=Каравковая палка
+iu.stick.cobalt=Кобальтовая палка
+iu.stick.magnesium=Магниевая палка
+iu.stick.nickel=Никелевая палка
+iu.stick.platium=Платиновая палка
+iu.stick.titanium=Титановая палка
+iu.stick.chromium=Хромовая палка
+iu.stick.spinel=Шпинелевая палка
+iu.stick.electrium=Электрумовая палка
+iu.stick.silver=Серебряная палка
+iu.stick.zinc=Цинковая палка
+iu.stick.manganese=Марганцевая палка
+iu.stick.iridium=Иридиевая палка
+iu.stick.germanium=Германиевая палка
 
 #Самородки сплавов
 iu.alloysnugget.aluminum_bronze=Кусочек алюминиевой бронзы
@@ -2523,6 +2523,6 @@ iu.need_info_matter= материи
 iu.excavator.info=Кладите туда руду, чтобы он сам её сломал
 iu.excavator.info1=Можно использовать карьерные модули
 iu.controller.info=Контролирует сеть от взрывов
-iu.controller.info1=Сначала найдите и обновите энергосети для работы контроллера
-iu.controller_cables.info=Заменяет самостоятельно в сети на новые(лучшие) провода в энергосетях
+iu.controller.info1=Сначала необходимо найти и обновить энергосети для работы контроллера
+iu.controller_cables.info=Самостоятельно заменяет провода в энергосетях на более совершенные
 iu.controller_cables.info1=Кладите провод внутрь, найдите и обновите энергосети
