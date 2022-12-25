@@ -2969,3 +2969,4 @@ iu.heatcold.heatcoldpipes4=Quantum Universal Heat Pipe
 itemGroup.CraftingElementsTab=Crafting Items
 
 iu.watergenerator=With the strength of the current: 
+iu.watergenerator1=Generation dependent on biomes (use river or ocean biome)
