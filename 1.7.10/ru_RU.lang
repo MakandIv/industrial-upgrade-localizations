@@ -717,7 +717,7 @@ muntsa_block.name=Блок мунц-металла
 nichrome_block.name=Нихромовый блок
 alcled_block.name=Алькледный блок
 vanadoalumite_block.name=Блок ванадиево-алюминиевого сплава
-vitalium_block.name=Виталиевый блок
+vitalium_block.name=Виталлиевый блок
 duralumin_block.name=Дюралюминиевый блок
 ferromanganese_block.name=Ферромарганцевый блок
 
@@ -750,7 +750,7 @@ muntsa_ingot.name=Слиток мунц-металла
 nichrome_ingot.name=Нихромовый слиток
 alcled_ingot.name=Алькледный слиток
 vanadoalumite_ingot.name=Слиток ванадиево-алюминиевого сплава
-vitalium_ingot.name=Виталиевый слиток
+vitalium_ingot.name=Виталлиевый слиток
 duralumin_ingot.name=Дюралюминиевый слиток
 ferromanganese_ingot.name=Ферромарганцевый слиток
 
@@ -783,7 +783,7 @@ muntsa_plate.name=Пластина мунц-металла
 nichrome_plate.name=Нихромовая пластина
 alcled_plate.name=Алькледная пластина
 vanadoalumite_plate.name=Пластина ванадиево-алюминиевого сплава
-vitalium_plate.name=Виталиевая пластина
+vitalium_plate.name=Виталлиевая пластина
 duralumin_plate.name=Дюралюминиевая пластина
 ferromanganese_plate.name=Ферромарганцевая пластина
 
@@ -821,7 +821,7 @@ muntsa_doubleplate.name=Плотная пластина мунц-металла
 nichrome_doubleplate.name=Плотная нихромовая пластина
 alcled_doubleplate.name=Плотная алькледная пластина
 vanadoalumite_doubleplate.name=Плотная пластина ванадиево-алюминиевого сплава
-vitalium_doubleplate.name=Плотная виталиевая пластина
+vitalium_doubleplate.name=Плотная виталлиевая пластина
 duralumin_doubleplate.name=Плотная дюралюминиевая пластина
 ferromanganese_doubleplate.name=Плотная ферромарганцевая пластина
 
@@ -854,7 +854,7 @@ muntsa_casing.name=Оболочка мунц-металла
 nichrome_casing.name=Нихромовая оболочка
 alcled_casing.name=Алькледная оболочка
 vanadoalumite_casing.name=Оболочка ванадиево-алюминиевого сплава
-vitalium_casing.name=Виталиевая оболочка
+vitalium_casing.name=Виталлиевая оболочка
 duralumin_casing.name=Дюралюминиевая оболочка
 ferromanganese_casing.name=Ферромарганцевая оболочка
 
@@ -887,7 +887,7 @@ muntsa_stick.name=Палка мунц-металла
 nichrome_stick.name=Нихромовая палка
 alcled_stick.name=Алькледная палка
 vanadoalumite_stick.name=Палка ванадиево-алюминиевого сплава
-vitalium_stick.name=Виталиевая палка
+vitalium_stick.name=Виталлиевая палка
 duralumin_stick.name=Дюралюминиевая палка
 ferromanganese_stick.name=Ферромарганцевая палка
 
@@ -920,7 +920,7 @@ muntsa_nugget.name=Самородок мунц-металла
 nichrome_nugget.name=Нихромовый самородок
 alcled_nugget.name=Алькледный самородок
 vanadoalumite_nugget.name=Самородок ванадиево-алюминиевого сплава
-vitalium_nugget.name=Виталиевый самородок
+vitalium_nugget.name=Виталлиевый самородок
 duralumin_nugget.name=Дюралюминиевый самородок
 ferromanganese_nugget.name=Ферромарганцевый самородок
 
@@ -953,7 +953,7 @@ muntsa_dust.name=Пыль мунц-металла
 nichrome_dust.name=Нихромовая пыль
 alcled_dust.name=Алькледная пыль
 vanadoalumite_dust.name=Пыль ванадиево-алюминиевого сплава
-vitalium_dust.name=Виталиевая пыль
+vitalium_dust.name=Виталлиевая пыль
 duralumin_dust.name=Дюралюминиевая пыль
 ferromanganese_dust.name=Ферромарганцевая пыль
 

@@ -864,7 +864,7 @@ iu.muntsa_block.name=Блок мунц-металу
 iu.nichrome_block.name=Ніхромовий блок
 iu.alcled_block.name=Алькледний блок
 iu.vanadoalumite_block.name=Блок ванадієво-алюмінієвого сплаву
-iu.vitalium_block.name=Віталієвий блок
+iu.vitalium_block.name=Віталіумний блок
 iu.duralumin_block.name=Дюралюмінієвий блок
 iu.ferromanganese_block.name=Ферромарганцевий блок
 
@@ -897,7 +897,7 @@ iu.alloysingot.muntsa=Зливок мунц-металу
 iu.alloysingot.nichrome=Ніхромовий зливок
 iu.alloysingot.alcled=Алькледний зливок
 iu.alloysingot.vanadoalumite=Зливок ванадієво-алюмінієвого сплаву
-iu.alloysingot.vitalium=Віталієвий зливок
+iu.alloysingot.vitalium=Віталіумний зливок
 iu.alloysingot.duralumin=Дюралюмінієвий злиток
 iu.alloysingot.ferromanganese=Ферромарганцевий злиток
 
@@ -930,7 +930,7 @@ iu.alloysplate.muntsa=Пластина мунц-метала
 iu.alloysplate.nichrome=Ніхромова пластина
 iu.alloysplate.alcled=Алькледна пластина
 iu.alloysplate.vanadoalumite=Пластина ванадієво-алюмінієвого сплаву
-iu.alloysplate.vitalium=Віталієва пластина
+iu.alloysplate.vitalium=Віталіумна пластина
 iu.alloysplate.duralumin=Дюралюмінієва пластина
 iu.alloysplate.ferromanganese=Ферромарганцева пластина
 
@@ -968,7 +968,7 @@ iu.alloysdoubleplate.muntsa=Щільна пластина мунц-металу
 iu.alloysdoubleplate.nichrome=Щільна ніхромова пластина
 iu.alloysdoubleplate.alcled=Щільна алькледна пластина
 iu.alloysdoubleplate.vanadoalumite=Щільна пластина ванадієво-алюмінієвого сплаву
-iu.alloysdoubleplate.vitalium=Щільна віталієва пластина
+iu.alloysdoubleplate.vitalium=Щільна віталіумна пластина
 iu.alloysdoubleplate.duralumin=Щільна дюралюмінієва пластина
 iu.alloysdoubleplate.ferromanganese=Щільна феромарганцева пластина 
 
@@ -1001,7 +1001,7 @@ iu.alloyscasing.muntsa=Оболонка мунц-метала
 iu.alloyscasing.nichrome=Ніхромова оболонка
 iu.alloyscasing.alcled=Алькледна оболонка
 iu.alloyscasing.vanadoalumite=Оболонка ванадієво-алюмінієвого сплаву
-iu.alloyscasing.vitalium=Віталієва оболонка
+iu.alloyscasing.vitalium=Віталіумна оболонка
 iu.alloyscasing.duralumin=Дюралюмінієва оболонка
 iu.alloyscasing.ferromanganese=Ферромарганцева оболонка
 
@@ -1034,7 +1034,7 @@ iu.alloysstik.muntsa=Палиця мунц-метала
 iu.alloysstik.nichrome=Ніхромова палиця
 iu.alloysstik.alcled=Алькледна палиця
 iu.alloysstik.vanadoalumite=Палка ванадієво-алюмінієвого сплаву
-iu.alloysstik.vitalium=Віталієва палиця
+iu.alloysstik.vitalium=Віталіумна палиця
 iu.alloysstik.duralumin=Дюралюмінієва палиця
 iu.alloysstik.ferromanganese=Ферромарганцева палиця
 
@@ -1067,7 +1067,7 @@ iu.alloysnugget.muntsa=Шматочок мунц-металу
 iu.alloysnugget.nichrome=Шматочок ніхрому
 iu.alloysnugget.alcled=Шматочок алькледа
 iu.alloysnugget.vanadoalumite=Шматочок ванадієво-алюмінієвого сплаву
-iu.alloysnugget.vitalium=Шматочок Віталієва
+iu.alloysnugget.vitalium=Шматочок віталіуму
 iu.alloysnugget.duralumin=Шматочок дюралюмінію
 iu.alloysnugget.ferromanganese=Шматочок феромарганцю
 
@@ -1100,7 +1100,7 @@ iu.alloysdust.muntsa=Пил мунц-металу
 iu.alloysdust.nichrome=Ніхромовий пил
 iu.alloysdust.alcled=Алькледний пил
 iu.alloysdust.vanadoalumite=Пил ванадієво-алюмінієвого сплаву
-iu.alloysdust.vitalium=Віталієвий пил
+iu.alloysdust.vitalium=Віталіумний пил
 iu.alloysdust.duralumin=Дюралюмінієвий пил
 iu.alloysdust.ferromanganese=Ферромарганцевий пил
 
@@ -2911,7 +2911,7 @@ iu.alloysgear.muntsa=Шестерня з мунц-металу
 iu.alloysgear.nichrome=Ніхромова шестерня
 iu.alloysgear.alcled=Алькледна шестерня
 iu.alloysgear.vanadoalumite=Шестерня з ванадієво-алюмінієвого сплаву
-iu.alloysgear.vitalium=Віталієва шестерня
+iu.alloysgear.vitalium=Віталіумна шестерня
 iu.alloysgear.duralumin=Дюралюмінієва шестерня
 iu.alloysgear.ferromanganese=Ферромарганцева шестерня
 
