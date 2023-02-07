@@ -2397,7 +2397,7 @@ iu.solarium_energy_sink.info=Need SE to work
 iu.vein.info=Analyze chunks with a Core Search Drilling Rig
 iu.vein.info1=With it, you can find veins of minerals or oil
 iu.vein.info2=The location of the oil vein depends on the biomes
-iu.vein.info3=The percentage of obtaining a vein of a mineral is 20%
+iu.vein.info3=The percentage of obtaining a vein of a mineral is 15%
 iu.oilpump.info=Need an oil vein
 iu.blastfurnace.info=Instruction
 iu.blastfurnace.info1=Construction 3х3х3
@@ -2937,6 +2937,8 @@ iu.water_rotors_upgrade.water_rotorupgrade13=Water Rotor Module: Auto Repair I
 iu.water_rotors_upgrade.water_rotorupgrade14=Water Rotor Module: Auto Repair II
 iu.water_rotors_upgrade.water_rotorupgrade15=Water Rotor Module: Auto Repair III
 
+iu.water_rotors_upgrade.water_rotorupgrade15=Water Rotor Module: Ocean
+
 iu.itempipes_transport=Output Item Tube
 iu.itempipes1_transport=Input Item Tube
 
@@ -3027,3 +3029,15 @@ iu.limiter.info6=Simplifies transformer systems and is a more compact solution
 iu.limiter.info7=Instead of 3+ transformers, you can put this machine and a sensor to it
 iu.limiter.info8=And indicate the number that you need to transmit over the cable
 iu.limiter.info9=Maximum power transfer number: 
+
+water.ocean_info=Removes dependence on ocean and river biome
+button.update_info=Update
+button.delete_info=Delete
+industrialupgrade.basemachine3.welding=Welding Machine
+industrialupgrade.basemachine3.heat_limiter=Reactor temperature controller
+iu.heat_limiter.main_info=Reactor Temperature Controller Information
+iu.heat_limiter.info=Place close to reactor chamber or nuclear reactor
+iu.heat_limiter.info1=Click "Refresh" to get data for the reactor
+iu.heat_limiter.info2=Enter temperature up to 10000(100%)
+iu.heat_limiter.info3=Click "Write" to write data to the reactor
+iu.heat_limiter.info4=Click "Delete" to delete reactor data
