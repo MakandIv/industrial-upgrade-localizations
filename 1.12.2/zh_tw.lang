@@ -696,17 +696,17 @@ iu.fluidoxy=氧
 iu.fluidpolyeth=聚乙烯
 iu.fluidazot=氮
 iu.fluidco2=二氧化碳
-fluid.luidNeutron=中子
-fluid.luidHelium=氦
-fluid.luidbenz=汽油
-fluid.luiddizel=柴油
-fluid.luidneft=石油
-fluid.luidpolyprop=聚丙烯
-fluid.luidhyd=氫
-fluid.luidoxy=氧
-fluid.luidpolyeth=聚乙烯
-fluid.luidazot=氮
-fluid.luidco2=二氧化碳
+fluid.fluidNeutron=中子
+fluid.fluidHelium=氦
+fluid.fluidbenz=汽油
+fluid.fluiddizel=柴油
+fluid.fluidneft=石油
+fluid.fluidpolyprop=聚丙烯
+fluid.fluidhyd=氫
+fluid.fluidoxy=氧
+fluid.fluidpolyeth=聚乙烯
+fluid.fluidazot=氮
+fluid.fluidco2=二氧化碳
 
 #Bucket. The following lines are aligned with other localizations.
 #item.forge.bucketFilled.iufluidneutron
@@ -793,80 +793,80 @@ iu.reactordepletedprotondual=耗盡的二聯質子燃料棒
 iu.reactordepletedprotonquad=耗盡的四聯質子燃料棒
 iu.reactordepletedprotonsimple=耗盡的質子燃料棒
 iu.reactordepletedprotoneit=耗盡的八聯質子燃料棒
-iu.actorprotondual=二聯質子燃料棒
-iu.actorprotonquad=四聯質子燃料棒
-iu.actorprotonsimple=質子燃料棒
-iu.actorprotoneit=八聯質子燃料棒
+iu.reactorprotondual=二聯質子燃料棒
+iu.reactorprotonquad=四聯質子燃料棒
+iu.reactorprotonsimple=質子燃料棒
+iu.reactorprotoneit=八聯質子燃料棒
 
 iu.reactorDepletedterastrellDual=耗盡的二聯泰拉鋼燃料棒
 iu.reactorDepletedterastrellQuad=耗盡的四聯泰拉鋼燃料棒
 iu.reactorDepletedterastrellSimple=耗盡的泰拉鋼燃料棒
-iu.actorterastrellDual=二聯泰拉鋼燃料棒
-iu.actorterastrellQuad=四聯泰拉鋼燃料棒
-iu.actorterastrellSimple=泰拉鋼燃料棒
+iu.reactorterastrellDual=二聯泰拉鋼燃料棒
+iu.reactorterastrellQuad=四聯泰拉鋼燃料棒
+iu.reactorterastrellSimple=泰拉鋼燃料棒
 
 iu.reactordepletedtoriydual=耗盡的二聯釷燃料棒
 iu.reactordepletedtoriyquad=耗盡的四聯釷燃料棒
 iu.reactordepletedtoriysimple=耗盡的釷燃料棒
-iu.actortoriydual=二聯釷燃料棒
-iu.actortoriyquad=四聯釷燃料棒
-iu.actortoriysimple=釷燃料棒
+iu.reactortoriydual=二聯釷燃料棒
+iu.reactortoriyquad=四聯釷燃料棒
+iu.reactortoriysimple=釷燃料棒
 
 iu.reactordepletedamericiumdual=耗盡的二聯鋂燃料棒
 iu.reactordepletedamericiumquad=耗盡的四聯鋂燃料棒
 iu.reactordepletedamericiumsimple=耗盡的鋂燃料棒
-iu.actoramericiumdual=二聯鋂燃料棒
-iu.actoramericiumquad=四聯鋂燃料棒
-iu.actoramericiumsimple=鋂燃料棒
+iu.reactoramericiumdual=二聯鋂燃料棒
+iu.reactoramericiumquad=四聯鋂燃料棒
+iu.reactoramericiumsimple=鋂燃料棒
 
 iu.reactordepletedneptuniumdual=耗盡的二聯錼燃料棒
 iu.reactordepletedneptuniumquad=耗盡的四聯錼燃料棒
 iu.reactordepletedneptuniumsimple=耗盡的錼燃料棒
-iu.actorneptuniumdual=二聯錼燃料棒
-iu.actorneptuniumquad=四聯錼燃料棒
-iu.actorneptuniumsimple=錼燃料棒
+iu.reactorneptuniumdual=二聯錼燃料棒
+iu.reactorneptuniumquad=四聯錼燃料棒
+iu.reactorneptuniumsimple=錼燃料棒
 
 iu.reactordepletedcuriumdual=耗盡的二聯鋦燃料棒
 iu.reactordepletedcuriumquad=耗盡的四聯鋦燃料棒
 iu.reactordepletedcuriumsimple=耗盡的鋦燃料棒
-iu.actorcuriumdual=二聯鋦燃料棒
-iu.actorcuriumquad=四聯鋦燃料棒
-iu.actorcuriumsimple=鋦燃料棒
+iu.reactorcuriumdual=二聯鋦燃料棒
+iu.reactorcuriumquad=四聯鋦燃料棒
+iu.reactorcuriumsimple=鋦燃料棒
 
 iu.reactordepletedcaliforniadual=耗盡的二聯鉲燃料棒
 iu.reactordepletedcaliforniaquad=耗盡的四聯鉲燃料棒
 iu.reactordepletedcaliforniasimple=耗盡的鉲燃料棒
-iu.actorcaliforniadual=二聯鉲燃料棒
-iu.actorcaliforniaquad=四聯鉲燃料棒
-iu.actorcaliforniasimple=鉲燃料棒
+iu.reactorcaliforniadual=二聯鉲燃料棒
+iu.reactorcaliforniaquad=四聯鉲燃料棒
+iu.reactorcaliforniasimple=鉲燃料棒
 
 iu.reactordepletedeinsteiniumdual=耗盡的二聯鑀燃料棒
 iu.reactordepletedeinsteiniumquad=耗盡的四聯鑀燃料棒
 iu.reactordepletedeinsteiniumsimple=耗盡的鑀燃料棒
-iu.actoreinsteiniumdual=二聯鑀燃料棒
-iu.actoreinsteiniumquad=四聯鑀燃料棒
-iu.actoreinsteiniumsimple=鑀燃料棒
+iu.reactoreinsteiniumdual=二聯鑀燃料棒
+iu.reactoreinsteiniumquad=四聯鑀燃料棒
+iu.reactoreinsteiniumsimple=鑀燃料棒
 
 iu.reactordepletedmendeleviumdual=耗盡的二聯鍆燃料棒
 iu.reactordepletedmendeleviumquad=耗盡的四聯鍆燃料棒
 iu.reactordepletedmendeleviumsimple=耗盡的鍆燃料棒
-iu.actormendeleviumdual=二聯鍆燃料棒
-iu.actormendeleviumquad=四聯鍆燃料棒
-iu.actormendeleviumsimple=鍆燃料棒
+iu.reactormendeleviumdual=二聯鍆燃料棒
+iu.reactormendeleviumquad=四聯鍆燃料棒
+iu.reactormendeleviumsimple=鍆燃料棒
 
 iu.reactordepleteduran233dual=耗盡的二聯鈾-233燃料棒
 iu.reactordepleteduran233quad=耗盡的四聯鈾-233燃料棒
 iu.reactordepleteduran233simple=耗盡的鈾-233燃料棒
-iu.actoruran233dual=二聯鈾-233燃料棒
-iu.actoruran233quad=四聯鈾-233燃料棒
-iu.actoruran233simple=鈾-233燃料棒
+iu.reactoruran233dual=二聯鈾-233燃料棒
+iu.reactoruran233quad=四聯鈾-233燃料棒
+iu.reactoruran233simple=鈾-233燃料棒
 
 iu.reactordepletedberkeliumdual=耗盡的二聯鉳燃料棒
 iu.reactordepletedberkeliumquad=耗盡的四聯鉳燃料棒
 iu.reactordepletedberkeliumsimple=耗盡的鉳燃料棒
-iu.actorberkeliumdual=二聯鉳燃料棒
-iu.actorberkeliumquad=四聯鉳燃料棒
-iu.actorberkeliumsimple=鉳燃料棒
+iu.reactorberkeliumdual=二聯鉳燃料棒
+iu.reactorberkeliumquad=四聯鉳燃料棒
+iu.reactorberkeliumsimple=鉳燃料棒
 
 #合金方塊
 iu.aluminum_bronze_block.name=鋁青銅磚

@@ -693,17 +693,17 @@ iu.fluidoxy=Oxygen
 iu.fluidpolyeth=Polyethylene
 iu.fluidazot=Nitrogen
 iu.fluidco2=Carbon Dioxide
-fluid.luidNeutron=Neutron
-fluid.luidHelium=Helium
-fluid.luidbenz=Gasoline
-fluid.luiddizel=Diesel
-fluid.luidneft=Oil
-fluid.luidpolyprop=Polypropylene
-fluid.luidhyd=Hydrogen
-fluid.luidoxy=Oxygen
-fluid.luidpolyeth=Polyethylene
-fluid.luidazot=Nitrogen
-fluid.luidco2=Carbon Dioxide
+fluid.fluidNeutron=Neutron
+fluid.fluidHelium=Helium
+fluid.fluidbenz=Gasoline
+fluid.fluiddizel=Diesel
+fluid.fluidneft=Oil
+fluid.fluidpolyprop=Polypropylene
+fluid.fluidhyd=Hydrogen
+fluid.fluidoxy=Oxygen
+fluid.fluidpolyeth=Polyethylene
+fluid.fluidazot=Nitrogen
+fluid.fluidco2=Carbon Dioxide
 
 #Bucket. The following lines are aligned with other localizations.
 #item.forge.bucketFilled.iufluidneutron
@@ -790,80 +790,80 @@ iu.reactordepletedprotondual=Depleted Dual Proton Rod
 iu.reactordepletedprotonquad=Depleted Quad Proton Rod
 iu.reactordepletedprotonsimple=Depleted Proton Rod
 iu.reactordepletedprotoneit=Depleted Eight Proton Rod
-iu.actorprotondual=Dual Proton Rod
-iu.actorprotonquad=Quad Proton Rod
-iu.actorprotonsimple=Proton Rod
-iu.actorprotoneit=Eight Proton Rod
+iu.reactorprotondual=Dual Proton Rod
+iu.reactorprotonquad=Quad Proton Rod
+iu.reactorprotonsimple=Proton Rod
+iu.reactorprotoneit=Eight Proton Rod
 
 iu.reactorDepletedterastrellDual=Depleted Dual Terrasteel Rod
 iu.reactorDepletedterastrellQuad=Depleted Quad Terrasteel Rod
 iu.reactorDepletedterastrellSimple=Depleted Terrasteel Rod
-iu.actorterastrellDual=Dual Terrasteel Rod
-iu.actorterastrellQuad=Quad Terrasteel Rod
-iu.actorterastrellSimple=Terrasteel Rod
+iu.reactorterastrellDual=Dual Terrasteel Rod
+iu.reactorterastrellQuad=Quad Terrasteel Rod
+iu.reactorterastrellSimple=Terrasteel Rod
 
 iu.reactordepletedtoriydual=Depleted Dual Thorium Rod
 iu.reactordepletedtoriyquad=Depleted Quad Thorium Rod
 iu.reactordepletedtoriysimple=Depleted Thorium Rod
-iu.actortoriydual=Dual Thorium Rod
-iu.actortoriyquad=Quad Thorium Rod
-iu.actortoriysimple=Thorium Rod
+iu.reactortoriydual=Dual Thorium Rod
+iu.reactortoriyquad=Quad Thorium Rod
+iu.reactortoriysimple=Thorium Rod
 
 iu.reactordepletedamericiumdual=Depleted Dual Americium Rod
 iu.reactordepletedamericiumquad=Depleted Quad Americium Rod
 iu.reactordepletedamericiumsimple=Depleted Americium Rod
-iu.actoramericiumdual=Dual Americium Rod
-iu.actoramericiumquad=Quad Americium Rod
-iu.actoramericiumsimple=Americium Rod
+iu.reactoramericiumdual=Dual Americium Rod
+iu.reactoramericiumquad=Quad Americium Rod
+iu.reactoramericiumsimple=Americium Rod
 
 iu.reactordepletedneptuniumdual=Depleted Dual Neptunium Rod
 iu.reactordepletedneptuniumquad=Depleted Quad Neptunium Rod
 iu.reactordepletedneptuniumsimple=Depleted Neptunium Rod
-iu.actorneptuniumdual=Dual Neptunium Rod
-iu.actorneptuniumquad=Quad Neptunium Rod
-iu.actorneptuniumsimple=Neptunium Rod
+iu.reactorneptuniumdual=Dual Neptunium Rod
+iu.reactorneptuniumquad=Quad Neptunium Rod
+iu.reactorneptuniumsimple=Neptunium Rod
 
 iu.reactordepletedcuriumdual=Depleted Dual Curium Rod
 iu.reactordepletedcuriumquad=Depleted Quad Curium Rod
 iu.reactordepletedcuriumsimple=Depleted Curium Rod
-iu.actorcuriumdual=Dual Curium Rod
-iu.actorcuriumquad=Quad Curium Rod
-iu.actorcuriumsimple=Curium Rod
+iu.reactorcuriumdual=Dual Curium Rod
+iu.reactorcuriumquad=Quad Curium Rod
+iu.reactorcuriumsimple=Curium Rod
 
 iu.reactordepletedcaliforniadual=Depleted Dual Californium Rod
 iu.reactordepletedcaliforniaquad=Depleted Quad Californium Rod
 iu.reactordepletedcaliforniasimple=Depleted Californium Rod
-iu.actorcaliforniadual=Dual Californium Rod
-iu.actorcaliforniaquad=Quad Californium Rod
-iu.actorcaliforniasimple=Californium Rod
+iu.reactorcaliforniadual=Dual Californium Rod
+iu.reactorcaliforniaquad=Quad Californium Rod
+iu.reactorcaliforniasimple=Californium Rod
 
 iu.reactordepletedeinsteiniumdual=Depleted Dual Einsteinium Rod
 iu.reactordepletedeinsteiniumquad=Depleted Quad Einsteinium Rod
 iu.reactordepletedeinsteiniumsimple=Depleted Einsteinium Rod
-iu.actoreinsteiniumdual=Dual Einsteinium Rod
-iu.actoreinsteiniumquad=Quad Einsteinium Rod
-iu.actoreinsteiniumsimple=Einsteinium Rod
+iu.reactoreinsteiniumdual=Dual Einsteinium Rod
+iu.reactoreinsteiniumquad=Quad Einsteinium Rod
+iu.reactoreinsteiniumsimple=Einsteinium Rod
 
 iu.reactordepletedmendeleviumdual=Depleted Dual Mendelevium Rod
 iu.reactordepletedmendeleviumquad=Depleted Quad Mendelevium Rod
 iu.reactordepletedmendeleviumsimple=Depleted Mendelevium Rod
-iu.actormendeleviumdual=Dual Mendelevium Rod
-iu.actormendeleviumquad=Quad Mendelevium Rod
-iu.actormendeleviumsimple=Mendelevium Rod
+iu.reactormendeleviumdual=Dual Mendelevium Rod
+iu.reactormendeleviumquad=Quad Mendelevium Rod
+iu.reactormendeleviumsimple=Mendelevium Rod
 
 iu.reactordepleteduran233dual=Depleted Dual Uranium-233 Rod
 iu.reactordepleteduran233quad=Depleted Quad Uranium-233 Rod
 iu.reactordepleteduran233simple=Depleted Uranium-233 Rod
-iu.actoruran233dual=Dual Uranium-233 Rod
-iu.actoruran233quad=Quad Uranium-233 Rod
-iu.actoruran233simple=Uranium-233 Rod
+iu.reactoruran233dual=Dual Uranium-233 Rod
+iu.reactoruran233quad=Quad Uranium-233 Rod
+iu.reactoruran233simple=Uranium-233 Rod
 
 iu.reactordepletedberkeliumdual=Depleted Dual Berkelium Rod
 iu.reactordepletedberkeliumquad=Depleted Quad Berkelium Rod
 iu.reactordepletedberkeliumsimple=Depleted Berkelium Rod
-iu.actorberkeliumdual=Dual Berkelium Rod
-iu.actorberkeliumquad=Quad Berkelium Rod
-iu.actorberkeliumsimple=Berkelium Rod
+iu.reactorberkeliumdual=Dual Berkelium Rod
+iu.reactorberkeliumquad=Quad Berkelium Rod
+iu.reactorberkeliumsimple=Berkelium Rod
 
 #Alloy Blocks
 iu.aluminum_bronze_block.name=Block of Aluminium Bronze
@@ -2834,6 +2834,7 @@ iu.crafting_elements.crafting_258_element=Sensor: Redstone Generator
 iu.crafting_elements.crafting_259_element=Advanced Sensor: Redstone Generator
 iu.crafting_elements.crafting_260_element=Perfect Sensor: Redstone Generator
 iu.crafting_elements.crafting_261_element=Improved Sensor: Redstone Generator
+iu.crafting_elements.crafting_262_element=Sensor: Welder
 iu.transport.heat=Transports Heat: 
 iu.transport.cold=Transfers Cold: 
 iu.transport.energy=Transmits EU/RF/FE/TE
