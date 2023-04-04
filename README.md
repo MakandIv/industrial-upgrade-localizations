@@ -5,9 +5,9 @@ Industrial Update Localization Updates is the Industrial Upgrade localization up
 Below is a table of supported languages, their authors, and scope of readiness.
 | Language                      | Interpreter                                 | 1.7.10            | 1.12.2 
 | :---------------------------: | :-----------------------------------------: | :---------------: | :---------------------:
-| English                       | Denfop, Mak_and_Iv, vanFEK and community IU | Full (for 2.5.21) | Full (for 2.4.0.17)
-| Русский (Russian)             | Denfop, Mak_and_Iv, vanFEK and community IU | Full (for 2.5.21) | Full (for 2.4.0.17)
-| Українська (Ukrainian)        | Denfop, Mak_and_Iv, vanFEK and community IU | -                 | Full (for 2.4.0.17)
+| English                       | Denfop, Mak_and_Iv, vanFEK and community IU | Full (for 2.5.21) | Full (for 2.4.0.16)
+| Русский (Russian)             | Denfop, Mak_and_Iv, vanFEK and community IU | Full (for 2.5.21) | Full (for 2.4.0.16)
+| Українська (Ukrainian)        | Denfop, Mak_and_Iv, vanFEK and community IU | -                 | Full (for 2.4.0.16)
 | 简体中文 (Simplified Chinese) | Oldmemory1 (1.7.10)/绝绝子 (1.12.2)          | Full (for 2.5.21) | 95% (for 2.4-RC4)
 | 繁體中文 (Traditional Chinese)| dxxueer                                      | -                 | Full (for 2.4.0.4)
 
