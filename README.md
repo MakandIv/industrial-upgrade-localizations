@@ -3,16 +3,16 @@ Industrial Update Localization Updates is the Industrial Upgrade localization up
 
 ### Localization support/Minecraft Version support
 Below is a table of supported languages, their authors, and scope of readiness.
-| Language                      | Interpreter                                 | 1.7.10            | 1.12.2 
-| :---------------------------: | :-----------------------------------------: | :---------------: | :---------------------:
-| English                       | Denfop, Mak_and_Iv, vanFEK and community IU | Full (for 2.5.21) | Full (for 2.4.0.16)
-| Русский (Russian)             | Denfop, Mak_and_Iv, vanFEK and community IU | Full (for 2.5.21) | Full (for 2.4.0.16)
-| Українська (Ukrainian)        | Denfop, Mak_and_Iv, vanFEK and community IU | -                 | Full (for 2.4.0.16)
-| 简体中文 (Simplified Chinese) | Oldmemory1 (1.7.10)/绝绝子 (1.12.2)          | Full (for 2.5.21) | 95% (for 2.4-RC4)
-| 繁體中文 (Traditional Chinese)| dxxueer                                      | -                 | Full (for 2.4.0.4)
+| Language                      | Interpreter(s)                              | 1.7.10     | 1.12.2 
+| :---------------------------: | :-----------------------------------------: | :--------: | :-----------:
+| English                       | Denfop, Mak_and_Iv, vanFEK and community IU | for 2.5.21 | for 2.4.0.16
+| Русский (Russian)             | Denfop, Mak_and_Iv, vanFEK and community IU | for 2.5.21 | for 2.4.0.16
+| Українська (Ukrainian)        | Denfop, Mak_and_Iv, vanFEK and community IU | -          | for 2.4.0.16
+| 简体中文 (Simplified Chinese) | Oldmemory1 (1.7.10)/绝绝子 (1.12.2)          | for 2.5.21 | for 2.4-RC4
+| 繁體中文 (Traditional Chinese)| dxxueer                                      | -          | for 2.4.0.16
 
-### Bug?
-In an issue here or in an issue IU, you can report a bug in the localization of any supported language, suggest a different name for blocks, items, etc. You can also do this in Discord on the Industrial Upgrade server (link in the "Links" section). Each issue will be considered!
+### Mistake?
+In an issues here or in an issues IU, you can report a mistake in the localization of any supported language, suggest a different name for blocks, items, etc. You can also do this in Discord on the Industrial Upgrade server (link in the "Links" section). Each issue will be considered!
 
 ### Links
 [IU on GitHub](https://github.com/ZelGimi/industrialupgrade "ZelGimi/industrialupgrade")<br>
@@ -22,4 +22,4 @@ In an issue here or in an issue IU, you can report a bug in the localization of 
 
 #### Sources
 [zh_cn.lang for 1.7.10](https://github.com/Oldmemory1/Industrialupgrade1.7.10-chinese-translation "Oldmemory1/Industrialupgrade1.7.10-chinese-translation")<br>
-[zh_tw.lang for 1.12.2](https://github.com/ZelGimi/industrialupgrade/issues/130 "Language Files of Traditional Chinese by dxxueer")
+[zh_tw.lang for 1.12.2](https://github.com/ZelGimi/industrialupgrade/issues/149 "Language Files of Traditional Chinese by dxxueer")
