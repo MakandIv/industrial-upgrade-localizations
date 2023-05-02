@@ -2835,6 +2835,7 @@ iu.crafting_elements.crafting_259_element=Advanced Sensor: Redstone Generator
 iu.crafting_elements.crafting_260_element=Perfect Sensor: Redstone Generator
 iu.crafting_elements.crafting_261_element=Improved Sensor: Redstone Generator
 iu.crafting_elements.crafting_262_element=Sensor: Welder
+iu.crafting_elements.crafting_263_element=Sensor: Gas Generator
 iu.transport.heat=Transports Heat: 
 iu.transport.cold=Transfers Cold: 
 iu.transport.energy=Transmits EU/RF/FE/TE
@@ -3081,6 +3082,7 @@ industrialupgrade.basemachine3.solar_iu=Solar Panel
 industrialupgrade.basemachine3.crop_harvester_iu=Crop Harvester
 industrialupgrade.basemachine3.crop_matron=Crop-Matron
 iu.meter=EU-Reader
+
 iu.upgrades.storageupgrade=Lapotron Energy Storage Upgrade
 iu.upgrades.adv_storageupgrade=Improved Lapotron Energy Storage Upgrade
 iu.upgrades.imp_storageupgrade=Advanced Lapotron Energy Storage Upgrade
