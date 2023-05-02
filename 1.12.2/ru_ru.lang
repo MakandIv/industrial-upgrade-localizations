@@ -92,6 +92,7 @@ item.singular_solar_helmet.name=§8Сингулярный солнечный ш�
 iu.katana=Катана
 
 # Сабли
+iu.nano_saber=Нано-сабля
 iu.itemNanoSaber1=Квантовая сабля
 iu.itemNanoSaber=Спектральная сабля
 
@@ -224,6 +225,8 @@ iu.rune_energy.name=Руна энергии
 iu.rune_night.name=Руна ночи
 iu.rune_sun.name=Руна Солнца
 
+item.drill.name=Шахтёрский бур
+item.diamond_drill.name=Алмазный бур
 item.teraDDrill.name=Террастальной бур
 item.ultDDrill.name=Совершенный бур
 item.spectraldrill.name=Спектральный бур
@@ -232,6 +235,24 @@ item.quantumdrill.name=Квантовый бур
 
 item.GraviTool=Грави-тул
 item.purifier.name=Очиститель
+iu.electric_hoe=Электромотыга
+iu.electric_treetap=Электрокраник
+item.electric_wrench.name=Электроключ
+item.chainsaw.name=Электропила
+item.frequency_transmitter.name=Частотный связыватель
+item.re_battery.name=Аккумулятор
+item.advanced_re_battery.name=Улучшенный аккумулятор
+item.energy_crystal.name=Энергетический кристалл
+item.lapotron_crystal.name=Лазуротроновый кристалл
+
+item.charging_re_battery.name=Заряжающий аккумулятор
+item.advanced_charging_re_battery.name=Улучшенный заряжающий аккумулятор
+item.charging_energy_crystal.name=Заряжающий энергетический кристалл
+item.charging_lapotron_crystal.name=Заряжающий лазуротроновый кристалл
+
+item.batpack.name=Аккумуляторный ранец
+item.advanced_batpack.name=Улучшенный аккумуляторный ранец
+item.lappack.name=Лазуротроновый ранец
 
 iu.upgrades.overclockerupgrade1=Улучшение "Улучшенный ускоритель"
 iu.upgrades.overclockerupgrade2=Улучшение "Продвинутый ускоритель"
@@ -681,7 +702,7 @@ reactor.info1=При нагреве (99%) вырабатывает:
 
 iu.oil.name=Нефтяная жила
 
-#Жидкости и газы
+# Жидкости и газы
 iu.fluidNeutron=§9Нейтрон
 iu.fluidHelium=Гелий
 iu.fluidbenz=Бензин
@@ -693,6 +714,12 @@ iu.fluidoxy=Кислород
 iu.fluidpolyeth=Полиэтилен
 iu.fluidazot=Азот
 iu.fluidco2=Диоксид углерода
+iu.fluidgas=Природный газ
+iu.fluidchlorum=Хлор
+iu.fluidbromine=Бром
+iu.fluidiodine=Иод
+
+# Жидкости и газы (в ёмкостях)
 fluid.fluidNeutron=Нейтрон
 fluid.fluidHelium=Гелий
 fluid.fluidbenz=Бензин
@@ -704,8 +731,12 @@ fluid.fluidoxy=Кислород
 fluid.fluidpolyeth=Полиэтилен
 fluid.fluidazot=Азот
 fluid.fluidco2=Диоксид углерода
+fluid.fluidgas=Природный газ
+fluid.fluidchlorum=Хлор
+fluid.fluidbromine=Бром
+fluid.fluidiodine=Иод
 
-#Вёдра
+# Вёдра
 item.forge.bucketFilled.iufluidneutron=Ведро нейтрона
 item.forge.bucketFilled.iufluidhelium=Ведро гелия
 item.forge.bucketFilled.iufluidbenz=Ведро бензина
@@ -717,8 +748,12 @@ item.forge.bucketFilled.iufluidoxy=Ведро кислорода
 item.forge.bucketFilled.iufluidpolyeth=Ведро полиэтилена
 item.forge.bucketFilled.iufluidazot=Ведро азота
 item.forge.bucketFilled.iufluidco2=Ведро углекислого газа
+item.forge.bucketFilled.iufluidgas=Ведро природного газа
+item.forge.bucketFilled.iufluidchlorum=Ведро хлора
+item.forge.bucketFilled.iufluidbromine=Ведро брома
+item.forge.bucketFilled.iufluidiodine=Ведро иода
 
-#Капсулы
+# Капсулы
 iu.itemcell.empty=Капсула
 iu.itemcell.neutron=Капсула нейтрона
 iu.itemcell.helium=Капсула гелия
@@ -864,6 +899,20 @@ iu.reactordepletedberkeliumsimple=Истощённый берклиевый ст
 iu.reactorberkeliumdual=Сдвоенный берклиевый стержень
 iu.reactorberkeliumquad=Счетверённый берклиевый стержень
 iu.reactorberkeliumsimple=Берклиевый стержень
+
+iu.depleted_dual_uranium=Истощённый сдвоенный урановый стержень
+iu.depleted_quad_uranium=Истощённый счетверённый урановый стержень
+iu.depleted_uranium=Истощённый урановый стержень
+iu.dual_uranium_fuel_rod=Сдвоенный урановый стержень
+iu.quad_uranium_fuel_rod=Счетверённый урановый стержень
+iu.uranium_fuel_rod=Урановый стержень
+
+iu.depleted_dual_mox=Истощённый сдвоенный стержень МОКС-топлива
+iu.depleted_quad_mox=Истощённый счетверённый стержень МОКС-топлива
+iu.depleted_mox=Истощённый стержень МОКС-топлива
+iu.dual_mox_fuel_rod=Сдвоенный стержень МОКС-топлива
+iu.quad_mox_fuel_rod=Счетверённый стержень МОКС-топлива
+iu.mox_fuel_rod=Стержень МОКС-топлива
 
 #Блоки сплавов
 iu.aluminum_bronze_block.name=Блок алюминиевой бронзы

@@ -92,6 +92,7 @@ item.singular_solar_helmet.name=§8Singular Solar Helmet
 iu.katana=Katana
 
 # Sabers
+iu.nano_saber=Nano Saber
 iu.itemNanoSaber1=Quantum Saber
 iu.itemNanoSaber=Spectral Saber
 
@@ -224,6 +225,8 @@ iu.rune_energy.name=Rune of Energy
 iu.rune_night.name=Rune of Night
 iu.rune_sun.name=Rune of the Sun
 
+item.drill.name=Mining Drill
+item.diamond_drill.name=Diamond Drill
 item.teraDDrill.name=Terrasteel Drill
 item.ultDDrill.name=Perfect Drill
 item.spectraldrill.name=Spectral Drill
@@ -232,6 +235,20 @@ item.quantumdrill.name=Quantum Drill
 
 item.GraviTool=GraviTool
 item.purifier.name=Purifier
+iu.electric_hoe=Electric Hoe
+iu.electri_treetap=Electric Treetap
+item.electric_wrench.name=Electric Wrench
+item.chainsaw.name=Chainsaw
+item.frequency_transmitter.name=Frequency Transmitter
+item.re_battery.name=RE-Battery
+item.advanced_re_battery.name=Advanced RE-Battery
+item.energy_crystal.name=Energy Crystal
+item.lapotron_crystal.name=Lapotron Crystal
+
+item.charging_re_battery.name=Charging RE Battery
+item.advanced_charging_re_battery.name=Advanced Charging Battery
+item.charging_energy_crystal.name=Charging Energy Crystal
+item.charging_lapotron_crystal.name=Charging Lapotron Crystal
 
 iu.upgrades.overclockerupgrade1=Improved Overclocker Upgrade
 iu.upgrades.overclockerupgrade2=Advanced Overclocker Upgrade
@@ -693,6 +710,12 @@ iu.fluidoxy=Oxygen
 iu.fluidpolyeth=Polyethylene
 iu.fluidazot=Nitrogen
 iu.fluidco2=Carbon Dioxide
+iu.fluidgas=Natural Gas
+iu.fluidchlorum=Chlorine
+iu.fluidbromine=Bromine
+iu.fluidiodine=Iodine
+
+#Fluids and Gases (in containers)
 fluid.fluidNeutron=Neutron
 fluid.fluidHelium=Helium
 fluid.fluidbenz=Gasoline
@@ -704,6 +727,10 @@ fluid.fluidoxy=Oxygen
 fluid.fluidpolyeth=Polyethylene
 fluid.fluidazot=Nitrogen
 fluid.fluidco2=Carbon Dioxide
+fluid.fluidgas=Natural Gas
+fluid.fluidchlorum=Chlorine
+fluid.fluidbromine=Bromine
+fluid.fluidiodine=Iodine
 
 #Bucket. The following lines are aligned with other localizations.
 #item.forge.bucketFilled.iufluidneutron
@@ -717,6 +744,10 @@ fluid.fluidco2=Carbon Dioxide
 #item.forge.bucketFilled.iufluidpolyeth
 #item.forge.bucketFilled.iufluidazot
 #item.forge.bucketFilled.iufluidco2
+#item.forge.bucketFilled.iufluidgas
+#item.forge.bucketFilled.iufluidchlorum
+#item.forge.bucketFilled.iufluidbromine
+#item.forge.bucketFilled.iufluidiodine
 
 #Cells
 iu.itemcell.empty=Cell
@@ -864,6 +895,20 @@ iu.reactordepletedberkeliumsimple=Depleted Berkelium Rod
 iu.reactorberkeliumdual=Dual Berkelium Rod
 iu.reactorberkeliumquad=Quad Berkelium Rod
 iu.reactorberkeliumsimple=Berkelium Rod
+
+iu.depleted_dual_uranium=Depleted Dual Uranuium Rod
+iu.depleted_quad_uranium=Depleted Quad Uranuium Rod
+iu.depleted_uranium=Depleted Uranuium Rod
+iu.dual_uranium_fuel_rod=Dual Uranuium Rod
+iu.quad_uranium_fuel_rod=Quad Uranuium Rod
+iu.uranium_fuel_rod=Uranuium Rod
+
+iu.depleted_dual_mox=Depleted Dual MOX Fuel Rod
+iu.depleted_quad_mox=Depleted Quad MOX Fuel Rod
+iu.depleted_mox=Depleted MOX Fuel Rod
+iu.dual_mox_fuel_rod=Dual MOX Fuel Rod
+iu.quad_mox_fuel_rod=Quad MOX Fuel Rod
+iu.mox_fuel_rod=MOX Fuel Rod
 
 #Alloy Blocks
 iu.aluminum_bronze_block.name=Block of Aluminium Bronze

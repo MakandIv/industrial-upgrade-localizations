@@ -92,6 +92,7 @@ item.singular_solar_helmet.name=§8Сингулярний сонячний шо�
 iu.katana=Катана
 
 # Шаблі
+iu.nano_saber=Нано-шабля
 iu.itemNanoSaber1=Квантова шабля
 iu.itemNanoSaber=Спектральна шабля
 
@@ -224,6 +225,8 @@ iu.rune_energy.name=Руна енергії
 iu.rune_night.name=Руна ночі
 iu.rune_sun.name=Руна Сонця
 
+item.drill.name=Шахтарський бур
+item.diamond_drill.name=Діамантовий бур
 item.teraDDrill.name=Террастальний бур
 item.ultDDrill.name=Досконалий бур
 item.spectraldrill.name=Спектральний бур
@@ -232,6 +235,20 @@ item.quantumdrill.name=Квантовий бур
 
 item.GraviTool=Граві-тул
 item.purifier.name=Очищувач
+iu.electric_hoe=Електрична мотика
+iu.electric_treetap=Електричний краник
+item.electric_wrench.name=Електричний гайковий ключ
+item.chainsaw.name=Бензопилка
+item.frequency_transmitter.name=Частотний передавач
+item.re_battery.name=Акумулятор
+item.advanced_re_battery.name=Розширений акумулятор
+item.energy_crystal.name=Енергетичний кристал
+item.lapotron_crystal.name=Лазуритовий кристал
+
+item.charging_re_battery.name=Зарядний акумулятор
+item.advanced_charging_re_battery.name=Розширений зарядний акумулятор
+item.charging_energy_crystal.name=Зарядний енергетичний кристал
+item.charging_lapotron_crystal.name=Зарядний лазуритовий кристал
 
 iu.upgrades.overclockerupgrade1=Покращення «Покращене прискорення»
 iu.upgrades.overclockerupgrade2=Покращення «Просунуте прискорення»
@@ -438,7 +455,7 @@ gui.SuperSolarPanel.generating=Генерація
 gui.SuperSolarPanel.energyPerTick=EU/t
 iu.modules2=§cТільки одне покращення на слот
 gui.iu.tier=Рівень
-iu.genday=§2Підвищена генерація днем ​​на
+iu.genday=§2Підвищена генерація днем на
 iu.gennight=§3Підвищена генерація вночі на
 iu.storage=§9Підвищена місткість сховища на
 iu.output=§6Підвищено макс. вихід на
@@ -684,6 +701,12 @@ iu.fluidoxy=Кисень
 iu.fluidpolyeth=Поліетилен
 iu.fluidazot=Азот
 iu.fluidco2=Діоксид вуглецю
+iu.fluidgas=Природний газ
+iu.fluidchlorum=Хлор
+iu.fluidbromine=Бром
+iu.fluidiodine=Йод
+
+# Рідини та гази (у ємностях)
 fluid.fluidNeutron=Нейтрон
 fluid.fluidHelium=Гелій
 fluid.fluidbenz=Бензин
@@ -695,6 +718,10 @@ fluid.fluidoxy=Кисень
 fluid.fluidpolyeth=Поліетилен
 fluid.fluidazot=Азот
 fluid.fluidco2=Діоксид вуглецю
+fluid.fluidgas=Природний газ
+fluid.fluidchlorum=Хлор
+fluid.fluidbromine=Бром
+fluid.fluidiodine=Йод
 
 # Відра
 item.forge.bucketFilled.iufluidneutron=Відро нейтрона
@@ -708,6 +735,10 @@ item.forge.bucketFilled.iufluidoxy=Відро кисню
 item.forge.bucketFilled.iufluidpolyeth=Відро поліетилену
 item.forge.bucketFilled.iufluidazot=Відро азоту
 item.forge.bucketFilled.iufluidco2=Відро вуглекислого газу
+item.forge.bucketFilled.iufluidgas=Відро природного газу
+item.forge.bucketFilled.iufluidchlorum=Відро хлору
+item.forge.bucketFilled.iufluidbromine=Відро брому
+item.forge.bucketFilled.iufluidiodine=Відро йоду
 
 # Капсули
 iu.itemcell.empty=Капсула
@@ -759,84 +790,98 @@ iu.radiationresources.berkelium_gem=Шматок берклію
 iu.radiationresources.einsteinium_gem=Шматок ейнштейнія
 iu.radiationresources.uran233_gem=Уран-233
 
-iu.reactordepletedprotondual=Виснажений здвоєний протонний стрижень
-iu.reactordepletedprotonquad=Виснажений лічвереренний протонний стрижень
+iu.reactordepletedprotondual=Виснажений подвійний протонний стрижень
+iu.reactordepletedprotonquad=Виснажений четверний протонний стрижень
 iu.reactordepletedprotonsimple=Виснажений протонний стрижень
 iu.reactordepletedprotoneit=Виснажений восьмиразовий протонний стрижень
-iu.reactorprotondual=Подвоєний протонний стрижень
-iu.reactorprotonquad=Четвірний протонний стрижень
+iu.reactorprotondual=Подвійний протонний стрижень
+iu.reactorprotonquad=Четверний протонний стрижень
 iu.reactorprotonsimple=Протонний стрижень
 iu.reactorprotoneit=Восьмиразовий протонний стрижень
 
-iu.reactorDepletedterastrellDual=Виснажений здвоєний террастальний стрижень
-iu.reactorDepletedterastrellQuad=Виснажений лічверенний террастальний стрижень
+iu.reactorDepletedterastrellDual=Виснажений подвійний террастальний стрижень
+iu.reactorDepletedterastrellQuad=Виснажений четверний террастальний стрижень
 iu.reactorDepletedterastrellSimple=Виснажений террастальний стрижень
-iu.reactorterastrellDual=Подвоєний террастальний стрижень
-iu.reactorterastrellQuad=Четвірний террастальний стрижень
+iu.reactorterastrellDual=Подвійний террастальний стрижень
+iu.reactorterastrellQuad=Четверний террастальний стрижень
 iu.reactorterastrellSimple=Террастальний стрижень
 
-iu.reactordepletedtoriydual=Виснажений здвоєний торієвий стрижень
-iu.reactordepletedtoriyquad=Виснажений четиреверний торієвий стрижень
+iu.reactordepletedtoriydual=Виснажений подвійний торієвий стрижень
+iu.reactordepletedtoriyquad=Виснажений четверний торієвий стрижень
 iu.reactordepletedtoriysimple=Виснажений торієвий стрижень
-iu.reactortoriydual=Подвоєний торієвий стрижень
-iu.reactortoriyquad=Торієвий стрижень
+iu.reactortoriydual=Подвійний торієвий стрижень
+iu.reactortoriyquad=Четверний торієвий стрижень
 iu.reactortoriysimple=Торієвий стрижень
 
-iu.reactordepletedamericiumdual=Виснажений здвоєний америцієвий стрижень
-iu.reactordepletedamericiumquad=Виснажений рахівний америцієвий стрижень
+iu.reactordepletedamericiumdual=Виснажений подвійний америцієвий стрижень
+iu.reactordepletedamericiumquad=Виснажений четверний америцієвий стрижень
 iu.reactordepletedamericiumsimple=Виснажений америцієвий стрижень
-iu.reactoramericiumdual=Подвоєний америцієвий стрижень
-iu.reactoramericiumquad=Четвірний америцієвий стрижень
+iu.reactoramericiumdual=Подвійний америцієвий стрижень
+iu.reactoramericiumquad=Четверний америцієвий стрижень
 iu.reactoramericiumsimple=Америчний стрижень
 
-iu.reactordepletedneptuniumdual=Виснажений здвоєний нептунієвий стрижень
-iu.reactordepletedneptuniumquad=Виснажений лічверенний нептунієвий стрижень
+iu.reactordepletedneptuniumdual=Виснажений подвійний нептунієвий стрижень
+iu.reactordepletedneptuniumquad=Виснажений четверний нептунієвий стрижень
 iu.reactordepletedneptuniumsimple=Виснажений нептунієвий стрижень
-iu.reactorneptuniumdual=Здвоєний нептунієвий стрижень
-iu.reactorneptuniumquad=Четвірний нептунієвий стрижень
+iu.reactorneptuniumdual=Подвійний нептунієвий стрижень
+iu.reactorneptuniumquad=Четверний нептунієвий стрижень
 iu.reactorneptuniumsimple=Нептунієвий стрижень
 
-iu.reactordepletedcuriumdual=Виснажений здвоєний кюрієвий стрижень
-iu.reactordepletedcuriumquad=Виснажений четиревірний кюрієвий стрижень
+iu.reactordepletedcuriumdual=Виснажений подвійний кюрієвий стрижень
+iu.reactordepletedcuriumquad=Виснажений четверний кюрієвий стрижень
 iu.reactordepletedcuriumsimple=Виснажений кюрієвий стрижень
 iu.reactorcuriumdual=Подвоєний кюрієвий стрижень
-iu.reactorcuriumquad=Четвірний кюрієвий стрижень
+iu.reactorcuriumquad=Четверний кюрієвий стрижень
 iu.reactorcuriumsimple=Кюрієвий стрижень
 
-iu.reactordepletedcaliforniadual=Виснажений здвоєний каліфорнієвий стрижень
-iu.reactordepletedcaliforniaquad=Виснажений лічверовернений каліфорнієвий стрижень
+iu.reactordepletedcaliforniadual=Виснажений подвійний каліфорнієвий стрижень
+iu.reactordepletedcaliforniaquad=Виснажений четверний каліфорнієвий стрижень
 iu.reactordepletedcaliforniasimple=Виснажений каліфорнієвий стрижень
-iu.reactorcaliforniadual=Подвоєний каліфорнієвий стрижень
-iu.reactorcaliforniaquad=Четвірний каліфорнієвий стрижень
+iu.reactorcaliforniadual=Подвійний каліфорнієвий стрижень
+iu.reactorcaliforniaquad=Четверний каліфорнієвий стрижень
 iu.reactorcaliforniasimple=Каліфорнієвий стрижень
 
-iu.reactordepletedeinsteiniumdual=Виснажений здвоєний ейнштейнієвий стрижень
-iu.reactordepletedeinsteiniumquad=Виснажений лічвероверний ейнштейнієвий стрижень
+iu.reactordepletedeinsteiniumdual=Виснажений подвійний ейнштейнієвий стрижень
+iu.reactordepletedeinsteiniumquad=Виснажений четверний ейнштейнієвий стрижень
 iu.reactordepletedeinsteiniumsimple=Виснажений ейнштейнієвий стрижень
-iu.reactoreinsteiniumdual=Здвоєний ейнштейнієвий стрижень
-iu.reactoreinsteiniumquad=Четвірний ейнштейнієвий стрижень
+iu.reactoreinsteiniumdual=Подвійний ейнштейнієвий стрижень
+iu.reactoreinsteiniumquad=Четверний ейнштейнієвий стрижень
 iu.reactoreinsteiniumsimple=Ейнштейнієвий стрижень
 
-iu.reactordepletedmendeleviumdual=Виснажений здвоєний менделевієвий стрижень
-iu.reactordepletedmendeleviumquad=Виснажений лічверенний менделевієвий стрижень
+iu.reactordepletedmendeleviumdual=Виснажений подвійний менделевієвий стрижень
+iu.reactordepletedmendeleviumquad=Виснажений четверний менделевієвий стрижень
 iu.reactordepletedmendeleviumsimple=Виснажений менделевієвий стрижень
-iu.reactormendeleviumdual=Здвоєний менделевієвий стрижень
-iu.reactormendeleviumquad=Четвірний менделевієвий стрижень
+iu.reactormendeleviumdual=Подвійний менделевієвий стрижень
+iu.reactormendeleviumquad=Четверний менделевієвий стрижень
 iu.reactormendeleviumsimple=Менделевієвий стрижень
 
-iu.reactordepleteduran233dual=Виснажений здвоєний стрижень урану-233
-iu.reactordepleteduran233quad=Виснажений рахівний стрижень урану-233
+iu.reactordepleteduran233dual=Виснажений подвійний стрижень урану-233
+iu.reactordepleteduran233quad=Виснажений четверний стрижень урану-233
 iu.reactordepleteduran233simple=Виснажений стрижень урану-233
-iu.reactoruran233dual=Подвоєний стрижень урану-233
-iu.reactoruran233quad=Четвірний стрижень урану-233
+iu.reactoruran233dual=Подвійний стрижень урану-233
+iu.reactoruran233quad=Четверний стрижень урану-233
 iu.reactoruran233simple=Стрижень урану-233
 
-iu.reactordepletedberkeliumdual=Виснажений здвоєний берклієвий стрижень
-iu.reactordepletedberkeliumquad=Виснажений рахівний берклієвий стрижень
+iu.reactordepletedberkeliumdual=Виснажений подвійний берклієвий стрижень
+iu.reactordepletedberkeliumquad=Виснажений четверний берклієвий стрижень
 iu.reactordepletedberkeliumsimple=Виснажений берклієвий стрижень
-iu.reactorberkeliumdual=Подвоєний берклієвий стрижень
-iu.reactorberkeliumquad=Четвірний берклієвий стрижень
+iu.reactorberkeliumdual=Подвійний берклієвий стрижень
+iu.reactorberkeliumquad=Четверний берклієвий стрижень
 iu.reactorberkeliumsimple=Берклієвий стрижень
+
+iu.depleted_dual_uranium=Виснажений подвійний урановий стрижень
+iu.depleted_quad_uranium=Виснажений четверний урановий стрижень
+iu.depleted_uranium=Виснажений урановий стрижень
+iu.dual_uranium_fuel_rod=Подвійний урановий стрижень
+iu.quad_uranium_fuel_rod=Четверний урановий стрижень
+iu.uranium_fuel_rod=Урановий стрижень
+
+iu.depleted_dual_mox=Виснажений подвійний стрижень МОКС-палива
+iu.depleted_quad_mox=Виснажений четверний стрижень МОКС-палива
+iu.depleted_mox=Виснажений стрижень МОКС-палива
+iu.dual_mox_fuel_rod=Подвійний стрижень МОКС-палива
+iu.quad_mox_fuel_rod=Четверний стрижень МОКС-палива
+iu.mox_fuel_rod=Стрижень МОКС-палива
 
 # Мінерали
 iu.magnetite.name=Магнетит
