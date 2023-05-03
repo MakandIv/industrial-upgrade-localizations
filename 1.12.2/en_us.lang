@@ -1426,7 +1426,7 @@ item.adv_lappack.name=Improved Lappack
 item.imp_lappack.name=Advanced Lappack
 item.per_lappack.name=Perfect Lappack
 
-jetpack.name=Jetpack
+jetpack.name=Electric Jetpack
 advjetpack.name=Improved Electric Jetpack
 impjetpack.name=Advanced Electric Jetpack
 perjetpack.name=Perfect Electric Jetpack
