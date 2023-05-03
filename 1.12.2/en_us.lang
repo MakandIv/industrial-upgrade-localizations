@@ -250,6 +250,10 @@ item.advanced_charging_re_battery.name=Advanced Charging Battery
 item.charging_energy_crystal.name=Charging Energy Crystal
 item.charging_lapotron_crystal.name=Charging Lapotron Crystal
 
+item.batpack.name=Batpack
+item.advanced_batpack.name=Advanced Batpack
+item.lappack.name=Lappack
+
 iu.upgrades.overclockerupgrade1=Improved Overclocker Upgrade
 iu.upgrades.overclockerupgrade2=Advanced Overclocker Upgrade
 
@@ -1422,6 +1426,7 @@ item.adv_lappack.name=Improved Lappack
 item.imp_lappack.name=Advanced Lappack
 item.per_lappack.name=Perfect Lappack
 
+jetpack.name=Jetpack
 advjetpack.name=Improved Electric Jetpack
 impjetpack.name=Advanced Electric Jetpack
 perjetpack.name=Perfect Electric Jetpack
@@ -3145,3 +3150,6 @@ iu.itemiron_cable2=2x Ins. HV Cable
 iu.itemiron_cable3=3x Ins. HV Cable
 iu.itemtin_cable=Tin Cable
 iu.itemtin1_cable=Insulated Tin Cable
+
+find.gas_vein=Gas is generated in large quantities underground
+find.oil_vein=Oil is generated in huge quantities in the desert
