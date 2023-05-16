@@ -1022,7 +1022,7 @@ iu.alloysdoubleplate.duralumin=Щільна дюралюмінієва плас�
 iu.alloysdoubleplate.ferromanganese=Щільна феромарганцева пластина 
 
 # Щільні пластини металів
-iu.doubleplate.mikhail_doubleplate=Щільна міхалова пластина
+iu.doubleplate.mikhail_doubleplate=Щільна михалова пластина
 iu.doubleplate.aluminium_doubleplate=Щільна алюмінієва пластина
 iu.doubleplate.vanady_doubleplate=Щільна ванадієва пластина
 iu.doubleplate.wolfram_doubleplate=Щільна вольфрамова пластина
@@ -1121,7 +1121,7 @@ iu.alloysnugget.duralumin=Шматочок дюралюмінію
 iu.alloysnugget.ferromanganese=Шматочок феромарганцю
 
 # Шматочки металів
-iu.nugget.mikhail=Шматочок міхала
+iu.nugget.mikhail=Шматочок михала
 iu.nugget.aluminium=Шматочок алюмінію
 iu.nugget.vanady=Шматочок ванадію
 iu.nugget.wolfram=Шматочок вольфраму
@@ -1175,7 +1175,7 @@ iu.dust.iridium=Іридієвий пил
 iu.dust.germanium=Германієвий пил
 
 # Купки пилу металів
-iu.smalldust.mikhail=Купка міхалового пилу
+iu.smalldust.mikhail=Купка михалового пилу
 iu.smalldust.aluminium=Купка алюмінієвого пилу
 iu.smalldust.vanady=Купка ванадієвого пилу
 iu.smalldust.wolfram=Купка вольфрамового пилу
@@ -1196,7 +1196,7 @@ iu.smalldust.iridium=Купка іридієвого пилу
 iu.smalldust.germanium=Купка германієвого пилу
 
 # Невеликі купки пилу металів
-iu.verysmalldust.mikhail=Невелика купка міхалового пилу
+iu.verysmalldust.mikhail=Невелика купка михалового пилу
 iu.verysmalldust.aluminium=Невелика купка алюмінієвого пилу
 iu.verysmalldust.vanady=Невелика купка ванадієвого пилу
 iu.verysmalldust.wolfram=Невелика купка вольфрамового пилу
@@ -1313,7 +1313,7 @@ zinc_gravelore.name=Цинкова гравійна руда
 manganese_gravelore.name=Марганцева гравійна руда
 
 #Подрібнені руди металів
-mikhail_sandcrushed.name=Подрібнена міхалова руда
+mikhail_sandcrushed.name=Подрібнена михалова руда
 aluminium_sandcrushed.name=Подрібнена алюмінієва руда
 vanady_sandcrushed.name=Подрібнена ванадієва руда
 wolfram_sandcrushed.name=Подрібнена вольфрамова руда
@@ -1345,7 +1345,7 @@ zinc_sandore.name=Цинкова піщана руда
 manganese_sandore.name=Марганцева піщана руда
 
 #Порошкоподібні руди металів
-mikhail_dustcrushed.name=Порошкоподібна міхалова руда
+mikhail_dustcrushed.name=Порошкоподібна михалова руда
 aluminium_dustcrushed.name=Порошкоподібна алюмінієва руда
 vanady_dustcrushed.name=Порошкоподібна ванадієва руда
 wolfram_dustcrushed.name=Порошкоподібна вольфрамова руда
@@ -1926,7 +1926,7 @@ achievement.start=Industrial Upgrade
 achievement.start.desc=Початок
 
 achievement.mikhailore=Михалич
-achievement.mikhailore.desc=Отримайте міхалову руду
+achievement.mikhailore.desc=Отримайте михалову руду
 achievement.aluminiumore=Алюміній
 achievement.aluminiumore.desc=Отримайте алюмінієву руду
 achievement.vanadiumore=Ванадій
