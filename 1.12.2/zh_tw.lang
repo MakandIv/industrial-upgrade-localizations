@@ -1831,7 +1831,7 @@ waterBreathing=水中呼吸
 moveSpeed=迅捷
 jump=跳躍提升
 bowdamage=箭傷害增加
-saberdamage傷害增加
+saberdamage=傷害增加
 aoe=挖掘範圍增加
 speedfly=飛行速度增加
 storage=儲存增加
@@ -2598,7 +2598,7 @@ iu.crafting_elements.crafting_19_element=改良感測器：植物
 iu.crafting_elements.crafting_20_element=改良電動馬達
 iu.crafting_elements.crafting_21_element=感測器模板
 iu.crafting_elements.crafting_22_element=感測器：地熱
-iu.crafting_elements.crafting_23_element進階感測器模板
+iu.crafting_elements.crafting_23_element=進階感測器模板
 iu.crafting_elements.crafting_24_element=完美感測器模板
 iu.crafting_elements.crafting_25_element=改良感測器模板
 iu.crafting_elements.crafting_26_element=電子
