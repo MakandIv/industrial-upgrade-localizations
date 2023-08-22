@@ -3,13 +3,14 @@ Industrial Update Localization Updates is the Industrial Upgrade localization up
 
 ### Localization support/Minecraft Version support
 Below is a table of supported languages, their authors, and scope of readiness.
-| Language                      | Interpreter(s)                              | 1.7.10     | 1.12.2 
-| :---------------------------: | :-----------------------------------------: | :--------: | :-----------:
-| English                       | Denfop, Mak_and_Iv, vanFEK and community IU | for 2.5.21 | for 2.5
-| Русский (Russian)             | Denfop, Mak_and_Iv, vanFEK and community IU | for 2.5.21 | for 2.5
-| Українська (Ukrainian)        | Denfop, Mak_and_Iv, vanFEK and community IU | -          | for 2.5
-| 简体中文 (Simplified Chinese)  | Oldmemory1 (1.7.10)/绝绝子 (1.12.2)          | for 2.5.21 | for 2.5
-| 繁體中文 (Traditional Chinese) | dxxueer                                     | -          | for 2.4.0.16
+| Language            | Interpreter(s)                              | 1.7.10     | 1.12.2 
+| :-----------------: | :-----------------------------------------: | :--------: | :-----------:
+| English (US)        | Denfop, Mak_and_Iv, vanFEK and community IU | for 2.5.21 | for 3.0 beta 202308221528
+| English (UK)        | Denfop, Mak_and_Iv, vanFEK and community IU | for 2.5.21 | for 3.0 beta 202308221528
+| Русский (Russia)    | Denfop, Mak_and_Iv, vanFEK and community IU | for 2.5.21 | for 3.0 beta 202308221528
+| Українська (Ukraine)| Denfop, Mak_and_Iv, vanFEK and community IU | -          | for 2.5
+| 简体中文 (China)     | Oldmemory1 (1.7.10)/绝绝子 (1.12.2)          | for 2.5.21 | for 2.5
+| 繁體中文 (Taiwan)    | dxxueer                                     | -          | for 2.4.0.16
 
 ### Mistake?
 In an issues here or in an issues IU, you can report a mistake in the localization of any supported language, suggest a different name for blocks, items, etc. You can also do this in Discord on the Industrial Upgrade server (link in the "Links" section). Each issue will be considered!
