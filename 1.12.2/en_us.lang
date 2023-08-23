@@ -42,8 +42,8 @@ inforamtionmolecular=Click to change GUI color
 inforamtionmolecular1=Click to change the operating mode of the transformer
 
 # Standart Panels
-industrialupgrade.machines.advanced_solar_paneliu=§8Advanced Solar Panel
-industrialupgrade.machines.advanced_solar_panel=§8Advanced Solar Panel
+industrialupgrade.machines.advanced_solar_paneliu=§6Advanced Solar Panel
+industrialupgrade.machines.advanced_solar_panel=§6Advanced Solar Panel
 industrialupgrade.machines.hybrid_solar_paneliu=§3Hybrid Solar Panel
 industrialupgrade.machines.hybrid_solar_panel=§3Hybrid Solar Panel
 industrialupgrade.machines.ultimate_solar_paneliu=§9Perfect Hybrid Solar Panel
@@ -56,12 +56,12 @@ industrialupgrade.machines.singular_solar_panel=§8Singular Solar Panel
 industrialupgrade.machines.admin_solar_panel=§cDiffractive Solar Panel
 industrialupgrade.machines.photonic_solar_panel=§aPhotonic Solar Panel
 industrialupgrade.machines.neutronium_solar_panel=§9Neutron Solar Panel
-industrialupgrade.machines.barion_solar_panel=§dBaryon Solar Panel
-industrialupgrade.machines.hadron_solar_panel=§dHadron Solar Panel
-industrialupgrade.machines.graviton_solar_panel=§dGraviton Solar Panel
-industrialupgrade.machines.quark_solar_panel=§dQuark Solar Panel
-blockAdministatorSolarPanel.name=§8Administrative Solar Panel
-industrialupgrade.admpanel.admpanel=§8Administrative Solar Panel
+industrialupgrade.machines.barion_solar_panel=§fBaryon Solar Panel
+industrialupgrade.machines.hadron_solar_panel=§eHadron Solar Panel
+industrialupgrade.machines.graviton_solar_panel=§bGraviton Solar Panel
+industrialupgrade.machines.quark_solar_panel=§8Quark Solar Panel
+blockAdministatorSolarPanel.name=§a§lAdministrative Solar Panel
+industrialupgrade.admpanel.admpanel=§a§lAdministrative Solar Panel
 
 # Draconic Evolution Panels
 industrialupgrade.draconicpanel.draconium_solar_panel=§dDraconic Solar Panel
@@ -124,7 +124,7 @@ iu.photoniy.name=§3Photon
 iu.photoniy_ingot.name=§3Photon Ingot
 
 # Cores
-iu.itemcore.advcore=§8Advanced Core
+iu.itemcore.advcore=§6Advanced Core
 iu.itemcore.hybcore=§3Hybrid Core
 iu.itemcore.ultcore=§9Perfect Core
 iu.itemcore.quacore=§2Quantum Core
@@ -134,10 +134,10 @@ iu.itemcore.sincore=§8Singular Core
 iu.itemcore.admcore=§cDiffractive Core
 iu.itemcore.phocore=§aPhotonic Core
 iu.itemcore.neucore=§9Neutron Core
-iu.itemcore.barcore=Baryon Core
-iu.itemcore.adrcore=Hadron Core
-iu.itemcore.gracore=Graviton Core
-iu.itemcore.kvrcore=Quark Core
+iu.itemcore.barcore=§fBaryon Core
+iu.itemcore.adrcore=§eHadron Core
+iu.itemcore.gracore=§bGraviton Core
+iu.itemcore.kvrcore=§8Quark Core
 
 # Botania Cores
 iu.manasteel_core.name=§bManasteel Core
@@ -201,7 +201,7 @@ iu.coal_chunk.name=Compressed Coal Chunk
 iu.compresscarbon.name=Compressed Carbon
 iu.compresscarbonultra.name=Compressed Advanced Alloy
 
-iu.photoniumglass.photoniyglass1=§8Advanced Glass
+iu.photoniumglass.photoniyglass1=§6Advanced Glass
 iu.photoniumglass.photoniyglass2=§3Hybrid Glass
 iu.photoniumglass.photoniyglass3=§9Perfect Glass
 iu.photoniumglass.photoniyglass4=§2Quantum Glass
@@ -210,11 +210,11 @@ iu.photoniumglass.photoniyglass6=§5Protonic Glass
 iu.photoniumglass.photoniyglass7=§8Singular Glass
 iu.photoniumglass.photoniyglass8=§cDiffractive Glass
 iu.photoniumglass.photoniyglass9=§aPhotonic Glass
-iu.photoniumglass.photoniyglass10=Neutron Glass
-iu.photoniumglass.photoniyglass11=Baryon Glass
-iu.photoniumglass.photoniyglass12=Hadron Glass
-iu.photoniumglass.photoniyglass13=Graviton Glass
-iu.photoniumglass.photoniyglass14=Quark Glass
+iu.photoniumglass.photoniyglass10=§9Neutron Glass
+iu.photoniumglass.photoniyglass11=§fBaryon Glass
+iu.photoniumglass.photoniyglass12=§eHadron Glass
+iu.photoniumglass.photoniyglass13=§bGraviton Glass
+iu.photoniumglass.photoniyglass14=§8Quark Glass
 
 iu.proton=§5Proton
 iu.protonshard=§5Proton Shard
@@ -267,7 +267,7 @@ iu.modultype.module55=Module: Night Panel
 iu.modultype.module56=Module: Day Panel
 iu.modultype.module57=Module: Rain Panel
 
-iu.modulestype.module61=Module: Advanced Solar Panel
+iu.modulestype.module61=Module: §6Advanced Solar Panel
 iu.modulestype.module62=Module: §3Hybrid Solar Panel
 iu.modulestype.module63=Module: §9Perfect Solar Panel
 iu.modulestype.module64=Module: §2Quantum Solar Panel
@@ -277,10 +277,10 @@ iu.modulestype.module67=Module: §8Singular Solar Panel
 iu.modulestype.module68=Module: §cDiffractive Solar Panel
 iu.modulestype.module69=Module: §aPhotonic Solar Panel
 iu.modulestype.module70=Module: §9Neutron Solar Panel
-iu.modulestype.module91=Module: Baryon Solar Panel
-iu.modulestype.module92=Module: Hadron Solar Panel
-iu.modulestype.module93=Module: Graviton Solar Panel
-iu.modulestype.module94=Module: Quark Solar Panel
+iu.modulestype.module91=Module: §fBaryon Solar Panel
+iu.modulestype.module92=Module: §eHadron Solar Panel
+iu.modulestype.module93=Module: §bGraviton Solar Panel
+iu.modulestype.module94=Module: §8Quark Solar Panel
 
 iu.additionmodule.personality=Module: Privacy
 iu.additionmodule.tier_in=Module: Panel Tier Up
@@ -749,12 +749,12 @@ fluid.fluidgas=Natural Gas
 fluid.fluidchlorum=Chlorine
 fluid.fluidbromine=Bromine
 fluid.fluidiodine=Iodine
-fluid.fluidpahoehoe_lava=Pahoehoe Lava
 fluid.fluiduu_matter=UU-Matter
 fluid.fluidconstruction_foam=Construction Foam
 fluid.fluidcoolant=Coolant
 fluid.fluidcreosote=Creosote
 fluid.fluidhot_coolant=Hot Coolant
+fluid.fluidpahoehoe_lava=Pahoehoe Lava
 fluid.fluidbiogas=Biogas
 fluid.fluidbiomass=Biomass
 fluid.fluiddistilled_water=Distilled Water

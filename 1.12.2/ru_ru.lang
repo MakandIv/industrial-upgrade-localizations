@@ -42,8 +42,8 @@ inforamtionmolecular=Нажмите, чтобы изменить цвет инт
 inforamtionmolecular1=Нажмите, чтобы изменить режим работы преобразователя
 
 # Стандарные панели
-industrialupgrade.machines.advanced_solar_paneliu=§8Улучшенная солнечная панель
-industrialupgrade.machines.advanced_solar_panel=§8Улучшенная солнечная панель
+industrialupgrade.machines.advanced_solar_paneliu=§6Улучшенная солнечная панель
+industrialupgrade.machines.advanced_solar_panel=§6Улучшенная солнечная панель
 industrialupgrade.machines.hybrid_solar_paneliu=§3Гибридная солнечная панель
 industrialupgrade.machines.hybrid_solar_panel=§3Гибридная солнечная панель
 industrialupgrade.machines.ultimate_solar_paneliu=§9Совершенная гибридная солнечная панель
@@ -56,12 +56,12 @@ industrialupgrade.machines.singular_solar_panel=§8Сингулярная сол
 industrialupgrade.machines.admin_solar_panel=§cДифракционная солнечная панель
 industrialupgrade.machines.photonic_solar_panel=§aФотонная солнечная панель
 industrialupgrade.machines.neutronium_solar_panel=§9Нейтронная солнечная панель
-industrialupgrade.machines.barion_solar_panel=§dБарионная солнечная панель
-industrialupgrade.machines.hadron_solar_panel=§dАдронная солнечная панель
-industrialupgrade.machines.graviton_solar_panel=§dГравитонная солнечная панель
-industrialupgrade.machines.quark_solar_panel=§dКварковая солнечная панель
-blockAdministatorSolarPanel.name=§8Административная солнечная панель
-industrialupgrade.admpanel.admpanel=§8Административная солнечная панель
+industrialupgrade.machines.barion_solar_panel=§fБарионная солнечная панель
+industrialupgrade.machines.hadron_solar_panel=§eАдронная солнечная панель
+industrialupgrade.machines.graviton_solar_panel=§bГравитонная солнечная панель
+industrialupgrade.machines.quark_solar_panel=§8Кварковая солнечная панель
+blockAdministatorSolarPanel.name=§a§lАдминистративная солнечная панель
+industrialupgrade.admpanel.admpanel=§a§lАдминистративная солнечная панель
 
 # Панели Draconic Evolution
 industrialupgrade.draconicpanel.draconium_solar_panel=§dДракониевая солнечная панель
@@ -82,7 +82,7 @@ industrialupgrade.thaumcraftpanel.thaum_solar_panel=Таумиевая солн�
 industrialupgrade.thaumcraftpanel.void_solar_panel=Пустотная солнечная панель
 
 # Шлемы с солнечной панелью
-item.advanced_solar_helmet.name=§8Улучшенный солнечный шлем
+item.advanced_solar_helmet.name=§6Улучшенный солнечный шлем
 item.hybrid_solar_helmet.name=§3Гибридный солнечный шлем
 item.ultimate_solar_helmet.name=§9Совершенный солнечный шлем
 item.spectral_solar_helmet.name=§eСпектральный солнечный шлем
@@ -97,8 +97,8 @@ iu.itemNanoSaber1=Квантовая сабля
 iu.itemNanoSaber=Спектральная сабля
 
 # Спектральная квантовая броня
-supersolarpanels.itemArmorQuantumChestplate=§dСпектральная квантовая кираса
 supersolarpanels.itemArmorQuantumHelmet=§dСпектральный квантовый шлем
+supersolarpanels.itemArmorQuantumChestplate=§dСпектральная квантовая кираса
 supersolarpanels.itemArmorQuantumLegs=§dСпектральные квантовые поножи
 supersolarpanels.itemArmorQuantumBoots=§dСпектральные квантовые ботинки
 
@@ -124,7 +124,7 @@ iu.photoniy.name=§3Фотон
 iu.photoniy_ingot.name=§3Фотонный слиток
 
 # Ядра
-iu.itemcore.advcore=§8Улучшенное ядро
+iu.itemcore.advcore=§6Улучшенное ядро
 iu.itemcore.hybcore=§3Гибридное ядро
 iu.itemcore.ultcore=§9Совершенное ядро
 iu.itemcore.quacore=§2Квантовое ядро
@@ -134,10 +134,10 @@ iu.itemcore.sincore=§8Сингулярное ядро
 iu.itemcore.admcore=§cДифракционное ядро
 iu.itemcore.phocore=§aФотонное ядро
 iu.itemcore.neucore=§9Нейтронное ядро
-iu.itemcore.barcore=Барионное ядро
-iu.itemcore.adrcore=Адронное ядро
-iu.itemcore.gracore=Гравитонное ядро
-iu.itemcore.kvrcore=Кварковое ядро
+iu.itemcore.barcore=§fБарионное ядро
+iu.itemcore.adrcore=§eАдронное ядро
+iu.itemcore.gracore=§bГравитонное ядро
+iu.itemcore.kvrcore=§8Кварковое ядро
 
 # Ядра Botania
 iu.manasteel_core.name=§bМанастальное ядро
@@ -201,7 +201,7 @@ iu.coal_chunk.name=Сжатая угольная глыба
 iu.compresscarbon.name=Сжатый углепластик
 iu.compresscarbonultra.name=Сжатый композит
 
-iu.photoniumglass.photoniyglass1=§8Улучшенное стекло
+iu.photoniumglass.photoniyglass1=§6Улучшенное стекло
 iu.photoniumglass.photoniyglass2=§3Гибридное стекло
 iu.photoniumglass.photoniyglass3=§9Совершенное стекло
 iu.photoniumglass.photoniyglass4=§2Квантовое стекло
@@ -210,11 +210,11 @@ iu.photoniumglass.photoniyglass6=§5Протонное стекло
 iu.photoniumglass.photoniyglass7=§8Сингулярное стекло
 iu.photoniumglass.photoniyglass8=§cДифракционное стекло
 iu.photoniumglass.photoniyglass9=§aФотонное стекло
-iu.photoniumglass.photoniyglass10=Нейтронное стекло
-iu.photoniumglass.photoniyglass11=Барионное стекло
-iu.photoniumglass.photoniyglass12=Адронное стекло
-iu.photoniumglass.photoniyglass13=Гравитонное стекло
-iu.photoniumglass.photoniyglass14=Кварковое стекло
+iu.photoniumglass.photoniyglass10=§9Нейтронное стекло
+iu.photoniumglass.photoniyglass11=§fБарионное стекло
+iu.photoniumglass.photoniyglass12=§eАдронное стекло
+iu.photoniumglass.photoniyglass13=§bГравитонное стекло
+iu.photoniumglass.photoniyglass14=§8Кварковое стекло
 
 iu.proton=§5Протон
 iu.protonshard=§5Протонный осколок
@@ -267,7 +267,7 @@ iu.modultype.module55=Модуль: Ночная панель
 iu.modultype.module56=Модуль: Дневная панель
 iu.modultype.module57=Модуль: Дождевая панель
 
-iu.modulestype.module61=Модуль: Улучшенная солнечная панель
+iu.modulestype.module61=Модуль: §6Улучшенная солнечная панель
 iu.modulestype.module62=Модуль: §3Гибридная солнечная панель
 iu.modulestype.module63=Модуль: §9Совершенная солнечная панель
 iu.modulestype.module64=Модуль: §2Квантовая солнечная панель
@@ -277,10 +277,10 @@ iu.modulestype.module67=Модуль: §8Сингулярная солнечна
 iu.modulestype.module68=Модуль: §cДифракционная солнечная панель
 iu.modulestype.module69=Модуль: §aФотонная солнечная панель
 iu.modulestype.module70=Модуль: §9Нейтронная солнечная панель
-iu.modulestype.module91=Модуль: Барионная солнечная панель
-iu.modulestype.module92=Модуль: Адронная солнечная панель
-iu.modulestype.module93=Модуль: Гравитонная солнечная панель
-iu.modulestype.module94=Модуль: Кварковая солнечная панель
+iu.modulestype.module91=Модуль: §fБарионная солнечная панель
+iu.modulestype.module92=Модуль: §eАдронная солнечная панель
+iu.modulestype.module93=Модуль: §bГравитонная солнечная панель
+iu.modulestype.module94=Модуль: §8Кварковая солнечная панель
 
 iu.additionmodule.personality=Модуль: Приватность
 iu.additionmodule.tier_in=Модуль: Повышение уровня панели
@@ -750,7 +750,7 @@ fluid.fluidchlorum=Хлор
 fluid.fluidbromine=Бром
 fluid.fluidiodine=Иод
 fluid.fluiduu_matter=Жидкая материя
-fluid.fluidconstrution_foam=Жидкая строительная пена
+fluid.fluidconstruction_foam=Жидкая строительная пена
 fluid.fluidcoolant=Хладагент
 fluid.fluidcreosote=Креозот
 fluid.fluidhot_coolant=Горячий хладагент
@@ -1513,8 +1513,8 @@ iu.upgradekitstorage.upgradekit8=Набор улучшений из гравит
 #Наборы улучшений панелей
 iu.upgradekitpanel.upgradepanelkit=Набор улучшений панели из обычной в улучшенную
 iu.upgradekitpanel.upgradepanelkit1=Набор улучшений панели из улучшенной в гибридную
-iu.upgradekitpanel.upgradepanelkit2=Набор улучшений панели из гибридной в совершенную гибридную
-iu.upgradekitpanel.upgradepanelkit3=Набор улучшений панели из совершенной гибридной в квантовую
+iu.upgradekitpanel.upgradepanelkit2=Набор улучшений панели из гибридной в совершенную
+iu.upgradekitpanel.upgradepanelkit3=Набор улучшений панели из совершенной в квантовую
 iu.upgradekitpanel.upgradepanelkit4=Набор улучшений панели из квантовой в спектральную
 iu.upgradekitpanel.upgradepanelkit5=Набор улучшений панели из спектральной в протонную
 iu.upgradekitpanel.upgradepanelkit6=Набор улучшений панели из протонной в сингулярную
@@ -1711,6 +1711,7 @@ industrialupgrade.basemachine3.combiner_se_generators=Объединитель �
 industrialupgrade.gen_sunnarium.gen_sunnarium=Преобразователь соларита
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=Производитель соларитовых пластин
 
+iu.crafting.scrap_box=Вскрытие коробки утильсырья
 iu.doublescrapbox.name=Двойная коробка утильсырья
 
 iu.itemsunnariumpanel.hsp=Гибридная соларитовая пластина
