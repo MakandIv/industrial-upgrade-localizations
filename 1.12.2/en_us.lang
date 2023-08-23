@@ -1711,6 +1711,7 @@ industrialupgrade.basemachine3.combiner_se_generators=Solar Energy Generator Com
 industrialupgrade.gen_sunnarium.gen_sunnarium=Solarite Transformer
 industrialupgrade.gen_sunnarium_plate.gen_sunnarium_plate=Solarite Plate Manufacturer
 
+iu.crafting.scrap_box=Opening a Scrap Box
 iu.doublescrapbox.name=Double Scrap Box
 
 iu.itemsunnariumpanel.hsp=Hybrid Solarite Plate
