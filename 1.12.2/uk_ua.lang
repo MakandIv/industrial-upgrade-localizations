@@ -3370,3 +3370,17 @@ iu.generic.text.bar=%1$s бар
 iu.generic.text.tick=/такт
 iu.generic.text.sec =/сек 
 
+# directions
+iu.dir.top=верхній
+iu.dir.bottom=нижній
+iu.dir.north=північній
+iu.dir.east=східній
+iu.dir.south=південній
+iu.dir.west=західній
+iu.dir.Top=Верх
+iu.dir.Bottom=Низ
+iu.dir.North=Північ
+iu.dir.East=Схід
+iu.dir.South=Південь
+iu.dir.West=Захід
+
