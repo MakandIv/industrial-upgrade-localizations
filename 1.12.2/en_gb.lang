@@ -115,8 +115,8 @@ item.hazmatleggins.name=Nuclear Fusion Radiation Suit Leggings
 item.hazmatboosts.name=Nuclear Fusion Radiation Suit Boots
 
 item.itembatlamacrystal.name=Improved Energy Crystal
-iu.quantumitems4.name=§7Improved Compressed Iridium Plate
-iu.quantumitems2.name=§7Compressed Iridium Plate
+iu.quantumitems4.name=§7Dense Compressed Industrial Iridium Plate
+iu.quantumitems2.name=§7Compressed Industrial Iridium Plate
 
 iu.helium.name=Helium
 
@@ -3630,7 +3630,7 @@ iu.crafting_elements.crafting_288_element=Scrap Box
 iu.crafting_elements.crafting_280_element=Raw Carbon Fibre
 iu.crafting_elements.crafting_281_element=Raw Carbon Mesh
 iu.crafting_elements.crafting_282_element=Carbon Plate
-iu.crafting_elements.crafting_285_element=Iridium Reinforced Plate
+iu.crafting_elements.crafting_285_element=Industrial Iridium Plate
 iu.crafting_elements.crafting_283_element=Coal Ball
 iu.crafting_elements.crafting_297_element=Compressed Coal Ball
 iu.crafting_elements.crafting_286_element=Coal Chunk
@@ -3666,8 +3666,8 @@ iu.foam_sprayer=CF Sprayer
 item.cropanalyzer.name=Cropnalyzer
 iu.single_use_battery=Single-Use Battery
 iu.miscresource.ashes=Ashes
-iu.crafting_elements.crafting_275_element=Iridium Ore
-iu.crafting_elements.crafting_291_element=Iridium Shard
+iu.crafting_elements.crafting_275_element=Industrial Iridium
+iu.crafting_elements.crafting_291_element=Industrial Iridium Shard
 iu.miscresource.matter=UU-Matter
 iu.crafting_elements.crafting_290_element=Sticky Resin
 iu.miscresource.slag=Slag
