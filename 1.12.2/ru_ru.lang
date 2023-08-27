@@ -3203,7 +3203,7 @@ industrialupgrade.basemachine3.chamber_iu=Реакторная камера
 industrialupgrade.basemachine3.solar_iu=Солнечная панель
 industrialupgrade.basemachine3.crop_harvester_iu=Сборщик урожая
 industrialupgrade.basemachine3.crop_matron=Автосадовник
-iu.meter=EF-метр
+iu.ef.reader=EF-метр
 
 iu.upgrades.storageupgrade=Улучшение "Лазуротронное энергохранилище"
 iu.upgrades.adv_storageupgrade=Улучшение "Улучшенное лазуротронное энергохранилище"

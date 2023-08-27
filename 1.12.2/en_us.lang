@@ -3203,7 +3203,7 @@ industrialupgrade.basemachine3.chamber_iu=Reactor Chamber
 industrialupgrade.basemachine3.solar_iu=Solar Panel
 industrialupgrade.basemachine3.crop_harvester_iu=Crop Harvester
 industrialupgrade.basemachine3.crop_matron=Crop-Matron
-iu.meter=EF-Reader
+iu.ef.reader=EF-Reader
 
 iu.upgrades.storageupgrade=Lapotron Energy Storage Upgrade
 iu.upgrades.adv_storageupgrade=Improved Lapotron Energy Storage Upgrade
