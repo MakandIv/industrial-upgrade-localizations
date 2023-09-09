@@ -97,16 +97,16 @@ iu.itemNanoSaber1=Квантова шабля
 iu.itemNanoSaber=Спектральна шабля
 
 # Спектральна квантова броня
-supersolarpanels.itemArmorQuantumHelmet=§dСпектральний квантовий шолом
-supersolarpanels.itemArmorQuantumChestplate=§dСпектральний квантовий нагрудник
-supersolarpanels.itemArmorQuantumLegs=§dСпектральні квантові наголінники
-supersolarpanels.itemArmorQuantumBoots=§dСпектральні квантові чоботи
+iu.spectral_helmet=§dСпектральний квантовий шолом
+iu.spectral_chestplate=§dСпектральний квантовий нагрудник
+iu.spectral_leggings=§dСпектральні квантові наголінники
+iu.spectral_boots=§dСпектральні квантові чоботи
 
 # Армована броня
-supersolarpanels.itemArmorNanoHelmet=Армований нано-шолом
-supersolarpanels.itemArmorNanoChestplate=Армований нано-нагрудник
-supersolarpanels.itemArmorNanoLegs=Армовані нано-наголінники
-supersolarpanels.itemArmorNanoBoots=Армовані нано-чоботи
+iu.adv_nano_helmet=Армований нано-шолом
+iu.adv_nano_chestplate=Армований нано-нагрудник
+iu.adv_nano_leggings=Армовані нано-наголінники
+iu.adv_nano_boots=Армовані нано-чоботи
 
 # Костюм від термоядерного випромінювання
 item.hazmathelmet.name=Захисний шолом від термоядерного випромінювання
@@ -3411,3 +3411,17 @@ iu.tooltip.mode.3x3=3x3
 iu.tooltip.mode.single=Одиночний
 iu.tooltip.mode.silkTouch=Шовкове торкання
 iu.tooltip.mode.noShear=Без стрижки
+
+iu.food_mode_helmet=Автоматично споживає їжу
+iu.jetpack_fly_chestplate=Політ на 30 секунд з перервою 5 хвилин
+iu.jetpack_fly_chestplate_1= для активації польоту
+iu.jetpack_fly_chestplate_2= до кінця польоту
+iu.special_armor_auto_jump=Автоматичний стрибок
+iu.special_armor_active_effect=Прибирає лише ефект радіації
+iu.special_armor_all_active_effect=Прибирає всі дефолтні негативні ефекти з радіацією
+iu.special armor big jump=Увімкнути великий стрибок: 
+iu.special_armor_nightvision=Включити нічне бачення: 
+iu.special_armor_nightvision_1=Нічне бачення відключається зранку з ефектом сліпоти
+iu.special_armor_nightvision_2=Нічне бачення відключається зранку
+iu.special_armor_nightvision_3=Нічне бачення не відключається зранку
+iu.special_armor_speed=Швидкий біг

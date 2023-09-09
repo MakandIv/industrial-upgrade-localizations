@@ -97,16 +97,16 @@ iu.itemNanoSaber1=Quantum Saber
 iu.itemNanoSaber=Spectral Saber
 
 # Spectral Quantum Armor
-supersolarpanels.itemArmorQuantumHelmet=§dSpectral Quantum Helmet
-supersolarpanels.itemArmorQuantumChestplate=§dSpectral Quantum Chestplate
-supersolarpanels.itemArmorQuantumLegs=§dSpectral Quantum Leggings
-supersolarpanels.itemArmorQuantumBoots=§dSpectral Quantum Boots
+iu.spectral_helmet=§dSpectral Quantum Helmet
+iu.spectral_chestplate=§dSpectral Quantum Chestplate
+iu.spectral_leggings=§dSpectral Quantum Leggings
+iu.spectral_boots=§dSpectral Quantum Boots
 
 # Reinforced Armor
-supersolarpanels.itemArmorNanoHelmet=Reinforced Nano Helmet
-supersolarpanels.itemArmorNanoChestplate=Reinforced Nano Chestplate
-supersolarpanels.itemArmorNanoLegs=Reinforced Nano Leggings
-supersolarpanels.itemArmorNanoBoots=Reinforced Nano Boots
+iu.adv_nano_helmet=Reinforced Nano Helmet
+iu.adv_nano_chestplate=Reinforced Nano Chestplate
+iu.adv_nano_leggings=Reinforced Nano Leggings
+iu.adv_nano_boots=Reinforced Nano Boots
 
 # Nuclear Fusion Radiation Suit
 item.hazmathelmet.name=Nuclear Fusion Radiation Suit Helmet
@@ -3822,3 +3822,17 @@ iu.solar_panel_output.bar=Baryon Socket
 iu.solar_panel_output.adr=Hadron Socket
 iu.solar_panel_output.gra=Graviton Socket
 iu.solar_panel_output.kvr=Quark Socket
+
+iu.food_mode_helmet=Automatically consumes food
+iu.jetpack_fly_chestplate=Fly for 30 seconds with a break of 5 minutes
+iu.jetpack_fly_chestplate_1= to activate flight
+iu.jetpack_fly_chestplate_2= before the end of the flight
+iu.special_armor_auto_jump=Automatic jump
+iu.special_armor_active_effect=Removes only the radiation effect
+iu.special_armor_all_active_effect=Removes all default negative effects with radiation
+iu.special armor big jump=Enable big jump: 
+iu.special_armor_nightvision=Enable night vision: 
+iu.special_armor_nightvision_1=Night vision is disabled in the morning with blindness effect
+iu.special_armor_nightvision_2=Night vision is disabled in the morning
+iu.special_armor_nightvision_3=Night vision does not turn off in the morning
+iu.special_armor_speed=Speed
