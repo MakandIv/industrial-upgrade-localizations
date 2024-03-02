@@ -3593,7 +3593,7 @@ iu.item.tooltip.Output=Output:
 iu.item.tooltip.Capacity=Capacity:
 iu.item.tooltip.Store=Store:
 iu.item.tooltip.Low=Low:
-iu.item.iu.tooltip.High=High:
+iu.item.tooltip.High=High:
 iu.item.tooltip.PowerOutput=Power Output:
 item.itemTool.tooltip.UsesLeft=Uses Left: %s
 iu.item.FluidContainer.Empty=< Empty >
@@ -3901,7 +3901,6 @@ iu.bronze_axe=Bronze Axe
 iu.bronze_sword=Bronze Sword
 iu.bronze_shovel=Bronze Shovel
 iu.bronze_hoe=Bronze Hoe
-iu.item.tooltip.High=High:
 iu.itemcrafting.steam_turbine=Steam Turbine
 iu.itemcrafting.steam_turbine_blade=Steam Turbine Blade
 
