@@ -1052,6 +1052,21 @@ iu.zinc_block.name=Цинковый блок
 iu.manganese_block.name=Марганцевый блок
 iu.iridium_block.name=Иридиевый блок
 iu.germanium_block.name=Германиевый блок
+iu.arsenic_block.name=Арсеновый блок
+iu.barium_block.name=Бариевый блок
+iu.bismuth_block.name=Висмутовый блок
+iu.gadolinium_block.name=Гадолиниевый блок
+iu.gallium_block.name=Галлиевый блок
+iu.hafnium_block.name=Гафниевый блок
+iu.yttrium_block.name=Иттриевый блок
+iu.molybdenum_block.name=Молибденовый блок
+iu.neodymium_block.name=Неодимовый блок
+iu.niobium_block.name=Ниобиевый блок
+iu.palladium_block.name=Палладиевый блок
+iu.polonium_block.name=Полониевый блок
+iu.strontium_block.name=Стронциевый блок
+iu.thallium_block.name=Таллиевый блок
+iu.zirconium_block.name=Циркониевый блок
 
 #Слитки сплавов
 iu.alloysingot.aluminum_bronze=Слиток алюминиевой бронзы
