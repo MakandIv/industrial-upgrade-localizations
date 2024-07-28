@@ -976,12 +976,12 @@ iu.reactorberkeliumdual=Dual Berkelium Rod
 iu.reactorberkeliumquad=Quad Berkelium Rod
 iu.reactorberkeliumsimple=Berkelium Rod
 
-iu.depleted_dual_uranium=Depleted Dual Uranuium Rod
-iu.depleted_quad_uranium=Depleted Quad Uranuium Rod
-iu.depleted_uranium=Depleted Uranuium Rod
-iu.dual_uranium_fuel_rod=Dual Uranuium Rod
-iu.quad_uranium_fuel_rod=Quad Uranuium Rod
-iu.uranium_fuel_rod=Uranuium Rod
+iu.depleted_dual_uranium=Depleted Dual Uranium Rod
+iu.depleted_quad_uranium=Depleted Quad Uranium Rod
+iu.depleted_uranium=Depleted Uranium Rod
+iu.dual_uranium_fuel_rod=Dual Uranium Rod
+iu.quad_uranium_fuel_rod=Quad Uranium Rod
+iu.uranium_fuel_rod=Uranium Rod
 
 iu.depleted_dual_mox=Depleted Dual MOX Fuel Rod
 iu.depleted_quad_mox=Depleted Quad MOX Fuel Rod
