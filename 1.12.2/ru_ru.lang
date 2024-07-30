@@ -5096,6 +5096,11 @@ industrialupgrade.basemachine3.per_alloy_smelter=Совершенный заво
 industrialupgrade.basemachine3.fluid_mixer=Жидкостный смеситель
 industrialupgrade.basemachine3.solid_fluid_mixer=Твердотельно-жидкостный смеситель
 industrialupgrade.basemachine3.fluid_heater=Нагреватель жидкости
+industrialupgrade.basemachine3.silicon_crystal_handler=Выращиватель кристаллов
+industrialupgrade.basemachine3.neutronseparator=Нейтронный разделитель
+industrialupgrade.basemachine3.positronconverter=Преобразователь позитронов
+industrialupgrade.basemachine3.itemmanipulator=Манипулятор предметов
+
 
 industrialupgrade.primal_fluid_heater.primal_fluid_heater=Примитивный нагреватель жидкости
 industrialupgrade.primal_fluid_integrator.primal_fluid_integrator=Примитивный жидкостный интегратор
@@ -5178,6 +5183,23 @@ iu.crafting_elements.crafting_481_element=Пыль кальция
 iu.crafting_elements.crafting_482_element=Карбид кальция
 iu.crafting_elements.crafting_483_element=Полиэтилен
 iu.crafting_elements.crafting_484_element=Полипропилен
+iu.crafting_elements.crafting_485_element=Программированная квантовая плата
+iu.crafting_elements.crafting_486_element=Программированная нано-плата
+iu.crafting_elements.crafting_487_element=Печатная плата
+iu.crafting_elements.crafting_488_element=Программированная печатная плата
+iu.crafting_elements.crafting_489_element=Прототип печатной платы
+iu.crafting_elements.crafting_490_element=Программированная спектральная плата
+iu.crafting_elements.crafting_491_element=Программированная улучшенная плата
+iu.crafting_elements.crafting_492_element=Выращенный кристалл кремния
+iu.crafting_elements.crafting_493_element=Кристалл кремния
+iu.crafting_elements.crafting_494_element=Отполированный диск кремния
+iu.crafting_elements.crafting_495_element=Отполированный кристалл кремния
+
+
+iu.cryogen.name=Криогенный блок
+iu.gas_sensor.name=Газовый сенсор
+iu.reactor_data_item.name=Реакторный сенсор
+iu.canister=Канистра
 
 iu.antiairpollution1.name=Модуль: 100% антизагрязнение воздуха
 iu.antiairpollution.name=Модуль: 50% антизагрязнение воздуха
@@ -5185,3 +5207,4 @@ iu.antisoilpollution1.name=Модуль: 100% антизагрязнение п�
 iu.antisoilpollution.name=Модуль: 50% антизагрязнение почвы
 
 iu.dust.aluminumsulfide=Сульфид алюминия
+iu.dust.silicon=Кремниевая пыль
