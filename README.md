@@ -22,5 +22,4 @@ In an issues here or in an issues IU, you can report a mistake in the localizati
 [IU on Minecraft Wiki (RU)](https://minecraft.fandom.com/ru/wiki/Industrial_Upgrade "Industrial Upgrade")
 
 #### Sources
-[zh_cn.lang for 1.7.10](https://github.com/Oldmemory1/Industrialupgrade1.7.10-chinese-translation "Oldmemory1/Industrialupgrade1.7.10-chinese-translation")<br>
-[zh_tw.lang for 1.12.2](https://github.com/ZelGimi/industrialupgrade/issues/149 "Language Files of Traditional Chinese by dxxueer")
+[zh_cn.lang for 1.7.10](https://github.com/Oldmemory1/Industrialupgrade1.7.10-chinese-translation "Oldmemory1/Industrialupgrade1.7.10-chinese-translation")
