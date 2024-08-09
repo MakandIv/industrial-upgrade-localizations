@@ -5038,6 +5038,10 @@ industrialupgrade.compressor.compressor=Примитивный сжимател�
 industrialupgrade.block_squeezer.squeezer=Примитивный экстрактор латекса
 industrialupgrade.dryer.dryer=Примитивная сушилка латекса
 industrialupgrade.macerator.macerator=Примитивный дробитель
+industrialupgrade.primal_silicon_crystal_handler.primal_silicon_crystal_handler=Примитивный выращиватель кристаллов
+industrialupgrade.primal_soldering_mechanism.primal_soldering_mechanism=Стол для пайки электроники
+industrialupgrade.primal_laser_polisher.primal_laser_polisher=Примитивный лазерный полировщик
+industrialupgrade.electronics_assembler.electronics_assembler=Стол для сборки электроники
 
 iu.radioprotector=Радиопротектор
 iu.raw_latex.name=Сырой латекс
@@ -5099,7 +5103,7 @@ industrialupgrade.basemachine3.fluid_heater=Нагреватель жидкос�
 industrialupgrade.basemachine3.silicon_crystal_handler=Выращиватель кристаллов
 industrialupgrade.basemachine3.neutronseparator=Преобразователь нейтрония
 industrialupgrade.basemachine3.positronconverter=Электрическая камера Вильсона
-industrialupgrade.basemachine3.itemmanipulator=Манипулятор предметов
+industrialupgrade.basemachine3.itemmanipulator=Разгрузчик сумок
 
 
 industrialupgrade.primal_fluid_heater.primal_fluid_heater=Примитивный нагреватель жидкости
@@ -5196,6 +5200,9 @@ iu.crafting_elements.crafting_494_element=Отполированный диск 
 iu.crafting_elements.crafting_495_element=Отполированный кристалл кремния
 
 
+
+iu.laser=Лазер
+iu.solderingIron=Паяльник
 iu.cryogen.name=Криогенный блок
 iu.gas_sensor.name=Газовый сенсор
 iu.reactor_data_item.name=Реакторный сенсор
@@ -5208,3 +5215,29 @@ iu.antisoilpollution.name=Модуль: 50% антизагрязнение по�
 
 iu.dust.aluminumsulfide=Сульфид алюминия
 iu.dust.silicon=Кремниевая пыль
+
+industrialupgrade.cyclotron.cyclotron_controller=Контроллер циклотрона
+industrialupgrade.cyclotron.cyclotron_positrons=Контейнер для позитронов циклотрона
+industrialupgrade.cyclotron.cyclotron_cryogen=Хранилище криогена циклотрона
+industrialupgrade.cyclotron.cyclotron_coolant=Хранилище хладагента циклотрона
+industrialupgrade.cyclotron.cyclotron_bombardment_chamber=Камера бомбардировки позитронами циклотрона
+industrialupgrade.cyclotron.cyclotron_quantum=Хранилище квантовой энергии циклотрона
+industrialupgrade.cyclotron.cyclotron_casing=Корпус циклотрона
+industrialupgrade.cyclotron.cyclotron_particle_accelerator=Ускоритель частиц циклотрона
+industrialupgrade.cyclotron.cyclotron_electrostatic_deflector=Электростатический дефлектор циклотрона
+
+iu.reactorlawrenciumsimple=Лоуренсиевый стержень
+iu.reactorlawrenciumdual=Сдвоенный лоуренсиевый стержень
+iu.reactorlawrenciumquad=Счетверённый лоуренсиевый стержень
+
+iu.reactorfermiumsimple=Фермиевый стержень
+iu.reactorfermiumdual=Сдвоенный фермиевый стержень
+iu.reactorfermiumquad=Счетверённый фермиевый стержень
+
+iu.reactornobeliumsimple=Нобелиевый стержень
+iu.reactornobeliumdual=Сдвоенный нобелиевый стержень
+iu.reactornobeliumquad=Счетверённый нобелиевый стержень
+
+iu.pellets.fermium_pellet=Фермиевая пеллета
+iu.pellets.nobelium_pellet=Нобелиевая пеллета
+iu.pellets.lawrencium_pellet=Лоуренсиевая пеллета
