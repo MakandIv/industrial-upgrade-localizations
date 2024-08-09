@@ -4995,6 +4995,10 @@ industrialupgrade.compressor.compressor=Primitive Compressor
 industrialupgrade.block_squeezer.squeezer=Primitive Latex Extractor
 industrialupgrade.dryer.dryer=Primitive Latex Dryer
 industrialupgrade.macerator.macerator=Primitive Macerator
+industrialupgrade.primal_silicon_crystal_handler.primal_silicon_crystal_handler=Primitive Crystal Grower
+industrialupgrade.primal_soldering_mechanism.primal_soldering_mechanism=Soldering Table
+industrialupgrade.primal_laser_polisher.primal_laser_polisher=Primitive Laser Polisher
+industrialupgrade.electronics_assembler.electronics_assembler=Electronics Assembly Table
 
 iu.radioprotector=Radioprotector
 iu.raw_latex.name=Raw Latex
@@ -5055,7 +5059,7 @@ industrialupgrade.gas_chamber.primal_gas_chamber=Gas Chamber
 industrialupgrade.basemachine3.silicon_crystal_handler=Crystal Grower
 industrialupgrade.basemachine3.neutronseparator=Neutronium transformer
 industrialupgrade.basemachine3.positronconverter=Electric Wilson Chamber
-industrialupgrade.basemachine3.itemmanipulator=Item Manipulator
+industrialupgrade.basemachine3.itemmanipulator=Bag Unloader
 
 iu.calcium.name=Block of Calcium
 iu.saltpeter.name=Block of Saltpeter
@@ -5146,6 +5150,8 @@ iu.crafting_elements.crafting_493_element=Silicon Crystal
 iu.crafting_elements.crafting_494_element=Polished Silicon Disk
 iu.crafting_elements.crafting_495_element=Polished Silicon Crystal
 
+iu.laser=Laser
+iu.solderingIron=Soldering Iron
 iu.cryogen.name=Block of Cryogen
 iu.gas_sensor.name=Gas Sensor
 iu.reactor_data_item.name=Reactor Sensor
@@ -5158,3 +5164,29 @@ iu.antisoilpollution.name=Module: 50% Soil Pollution Reduction
 
 iu.dust.aluminumsulfide=Aluminum Sulfide
 iu.dust.silicon=Silicon Dust
+
+industrialupgrade.cyclotron.cyclotron_controller=Cyclotron Controller
+industrialupgrade.cyclotron.cyclotron_positrons=Cyclotron Positron Container
+industrialupgrade.cyclotron.cyclotron_cryogen=Cyclotron Cryogen Storage
+industrialupgrade.cyclotron.cyclotron_coolant=Cyclotron Coolant Storage
+industrialupgrade.cyclotron.cyclotron_bombardment_chamber=Cyclotron Positron Bombardment Chamber
+industrialupgrade.cyclotron.cyclotron_quantum=Cyclotron Quantum Energy Storage
+industrialupgrade.cyclotron.cyclotron_casing=Cyclotron Casing
+industrialupgrade.cyclotron.cyclotron_particle_accelerator=Cyclotron Particle Accelerator
+industrialupgrade.cyclotron.cyclotron_electrostatic_deflector=Cyclotron Electrostatic Deflector
+
+iu.reactorlawrenciumsimple=Lawrencium Rod
+iu.reactorlawrenciumdual=Dual Lawrencium Rod
+iu.reactorlawrenciumquad=Quad Lawrencium Rod
+
+iu.reactorfermiumsimple=Fermium Rod
+iu.reactorfermiumdual=Dual Fermium Rod
+iu.reactorfermiumquad=Quad Fermium Rod
+
+iu.reactornobeliumsimple=Nobelium Rod
+iu.reactornobeliumdual=Dual Nobelium Rod
+iu.reactornobeliumquad=Quad Nobelium Rod
+
+iu.pellets.fermium_pellet=Fermium Pellet
+iu.pellets.nobelium_pellet=Nobelium Pellet
+iu.pellets.lawrencium_pellet=Lawrencium Pellet
