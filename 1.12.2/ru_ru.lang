@@ -240,8 +240,8 @@ iu.electric_treetap=Электрокраник
 item.electric_wrench.name=Электроключ
 item.chainsaw.name=Электропила
 item.frequency_transmitter.name=Частотный связыватель
-item.re_battery.name=Аккумулятор
-item.advanced_re_battery.name=Улучшенный аккумулятор
+item.re_battery.name=Литиевый аккумулятор
+item.advanced_re_battery.name=Свинцовый аккумулятор
 item.energy_crystal.name=Энергетический кристалл
 item.lapotron_crystal.name=Лазуротроновый кристалл
 
@@ -310,6 +310,7 @@ iu.quarrymodules.blackmodule=Модуль: Чёрный список
 iu.quarrymodules.whitemodule=Модуль: Белый список
 iu.quarrymodules.macerator=Модуль: Дробитель
 iu.quarrymodules.comb_macerator=Модуль: Дробитель руд
+iu.quarrymodules.polisher=Модуль: Полировщик
 
 iu.expmodule.name=Модуль: Хранилище опыта
 iu.module_stack.name=Модуль: Стопка
@@ -588,6 +589,9 @@ itemGroup.ResourceTab=IU: Ресурсы
 itemGroup.ReactorsTab=IU: Радиоактивность
 itemGroup.UpgradeTab=IU: Улучшения
 itemGroup.BlueprintTab=IU: Схемы
+itemGroup.FluidBlockTab=IU: Жидкости
+itemGroup.CraftingElementsTab=IU: Элементы создания
+itemGroup.ReactorsBlockTab=IU: Блоки реакторов
 
 itemCellEmpty.name=Улучшенная капсула
 itemCellUuMatter.name=Сжиженный нейтрон
@@ -742,7 +746,7 @@ iu.fluidrawlatex=Жидкий латекс
 iu.fluidglowstone=Жидкий светокамень
 iu.fluidsweet_medium_oil=Сладкая средняя нефть
 iu.fluidsweet_heavy_oil=Сладкая тяжелая нефть
-iu.fluidsour_light_oil=Кислая легкая нефть
+iu.fluidsour_light_oil=Кислая лёгкая нефть
 iu.fluidsour_medium_oil=Кислая средняя нефть
 iu.fluidsour_heavy_oil=Кислая тяжелая нефть
 iu.fluidacetylene=Ацетилен
@@ -805,7 +809,7 @@ fluid.fluidwater=Вода
 fluid.fluidlava=Лава
 fluid.fluidsweet_medium_oil=Сладкая средняя нефть
 fluid.fluidsweet_heavy_oil=Сладкая тяжелая нефть
-fluid.fluidsour_light_oil=Кислая легкая нефть
+fluid.fluidsour_light_oil=Кислая лёгкая нефть
 fluid.fluidsour_medium_oil=Кислая средняя нефть
 fluid.fluidsour_heavy_oil=Кислая тяжелая нефть
 fluid.fluidacetylene=Ацетилен
@@ -863,7 +867,7 @@ item.forge.bucketFilled.iufluidrawlatex=Ведро жидкого латекса
 item.forge.bucketFilled.iufluidglowstone=Ведро жидкого светокамня
 item.forge.bucketFilled.iufluidsweet_medium_oil=Ведро сладкой средней нефти
 item.forge.bucketFilled.iufluidsweet_heavy_oil=Ведро сладкой тяжелой нефти
-item.forge.bucketFilled.iufluidsour_light_oil=Ведро кислой легкой нефти
+item.forge.bucketFilled.iufluidsour_light_oil=Ведро кислой лёгкой нефти
 item.forge.bucketFilled.iufluidsour_medium_oil=Ведро кислой средней нефти
 item.forge.bucketFilled.iufluidsour_heavy_oil=Ведро кислой тяжелой нефти
 item.forge.bucketFilled.iufluidacetylene=Ведро ацетилена
@@ -1103,6 +1107,7 @@ iu.osmiridium_block.name=Осмиридиевый блок
 iu.superalloy_haynes_block.name=Блок суперсплава Хэйнс
 iu.superalloy_rene_block.name=Блок суперсплава Рене
 iu.yttrium_aluminium_garnet_block.name=Блок иттрий-алюминиевого граната
+iu.gallium_arcenic_block.name=Галлиево-арсеновый блок
 
 #Блоки металлов
 iu.mikhail_block.name=Михаловый блок
@@ -1172,6 +1177,7 @@ iu.alloysingot.osmiridium=Осмиридиевый слиток
 iu.alloysingot.superalloy_haynes=Слиток суперсплава Хэйнс
 iu.alloysingot.superalloy_rene=Слиток суперсплава Рене
 iu.alloysingot.yttrium_aluminium_garnet=Слиток иттрий-алюминиевого граната
+iu.alloysingot.gallium_arsenic=Галлиево-арсеновый слиток
 
 #Слитки металлов
 iu.ingot.mikhail_ingot=Михаловый слиток
@@ -1242,6 +1248,7 @@ iu.alloysplate.osmiridium=Осмиридиевая пластина
 iu.alloysplate.superalloy_haynes=Пластина суперсплава Хэйнс
 iu.alloysplate.superalloy_rene=Пластина суперсплава Рене
 iu.alloysplate.yttrium_aluminium_garnet=Пластина иттрий-алюминиевого граната
+iu.alloysplate.gallium_arsenic=Галлиево-арсеновая пластина
 
 #Пластины Botania
 iu.manasteel_plate.name=§bМанастальная пластина
@@ -1317,6 +1324,7 @@ iu.alloysdoubleplate.osmiridium=Плотная осмиридиевая плас
 iu.alloysdoubleplate.superalloy_haynes=Плотная пластина суперсплава Хэйнс
 iu.alloysdoubleplate.superalloy_rene=Плотная пластина суперсплава Рене
 iu.alloysdoubleplate.yttrium_aluminium_garnet=Плотная пластина иттрий-алюминиевого граната
+iu.alloysdoubleplate.gallium_arsenic=Плотная галлиево-арсеновая пластина
 
 #Плотные пластины металлов
 iu.doubleplate.mikhail_doubleplate=Плотная михаловая пластина
@@ -1387,6 +1395,7 @@ iu.alloyscasing.osmiridium=Осмиридиевая оболочка
 iu.alloyscasing.superalloy_haynes=Оболочка суперсплава Хэйнс
 iu.alloyscasing.superalloy_rene=Оболочка суперсплава Рене
 iu.alloyscasing.yttrium_aluminium_garnet=Оболочка иттрий-алюминиевого граната
+iu.alloyscasing.gallium_arsenic=Галлиево-арсеновая оболочка
 
 #Оболочки металлов
 iu.casing.mikhail=Михаловая оболочка
@@ -1505,6 +1514,7 @@ iu.alloysnugget.osmiridium=Кусочек осмиридия
 iu.alloysnugget.superalloy_haynes=Кусочек суперсплава Хэйнс
 iu.alloysnugget.superalloy_rene=Кусочек суперсплава Рене
 iu.alloysnugget.yttrium_aluminium_garnet=Кусочек иттрий-алюминиевого граната
+iu.alloysnugget.gallium_arsenic=Галлиево-арсеновый кусочек
 
 #Кусочки металлов
 iu.nugget.mikhail=Кусочек михала
@@ -1575,6 +1585,7 @@ iu.alloysdust.osmiridium=Осмиридиевая пыль
 iu.alloysdust.superalloy_haynes=Пыль суперсплава Хэйнс
 iu.alloysdust.superalloy_rene=Пыль суперсплава Рене
 iu.alloysdust.yttrium_aluminium_garnet=Пыль иттрий-алюминиевого граната
+iu.alloysdust.gallium_arsenic=Галлиево-арсеновая пыль
 
 #Пыль металлов
 iu.dust.mikhail=Михаловая пыль
@@ -3653,6 +3664,7 @@ iu.alloysgear.osmiridium=Осмиридиевая шестерня
 iu.alloysgear.superalloy_haynes=Шестерня из суперсплава Хэйнс
 iu.alloysgear.superalloy_rene=Шестерня из суперсплава Рене
 iu.alloysgear.yttrium_aluminium_garnet=Шестерня из иттрий-алюминиевого граната
+iu.alloysgear.gallium_arsenic=Шестерня из галлиево-арсения
 
 iu.water_rotors_upgrade.water_rotorupgrade=Модуль водяного ротора: Прочность I
 iu.water_rotors_upgrade.water_rotorupgrade1=Модуль водяного ротора: Прочность II
@@ -3746,8 +3758,6 @@ iu.heatcold.heatcoldpipes1=Улучшенная универсальная те�
 iu.heatcold.heatcoldpipes2=Продвинутая универсальная тепловая труба
 iu.heatcold.heatcoldpipes3=Совершенная универсальная тепловая труба
 iu.heatcold.heatcoldpipes4=Квантовая универсальная тепловая труба
-
-itemGroup.CraftingElementsTab=Элементы создания
 
 iu.watergenerator=При силе течения: 
 iu.watergenerator1=Генерация зависит от биомов (используйте биомы «Река» или «Океан»)
@@ -4667,8 +4677,6 @@ iu.reactormodules.capacitor1=Улучшенный реакторный моду�
 iu.reactormodules.capacitor2=Продвинутый реакторный модуль: Конденсатор
 iu.reactormodules.capacitor3=Совершенный реакторный модуль: Конденсатор
 
-itemGroup.ReactorsBlockTab=Блоки реакторов
-
 industrialupgrade.water_reactors.water_casing=Кожух жидкостного реактора
 industrialupgrade.water_reactors.water_adv_casing=Улучшенный кожух жидкостного реактора
 industrialupgrade.water_reactors.water_imp_casing=Продвинутый кожух жидкостного реактора
@@ -5198,6 +5206,108 @@ iu.crafting_elements.crafting_492_element=Выращенный кристалл 
 iu.crafting_elements.crafting_493_element=Кристалл кремния
 iu.crafting_elements.crafting_494_element=Отполированный диск кремния
 iu.crafting_elements.crafting_495_element=Отполированный кристалл кремния
+iu.crafting_elements.crafting_496_element=Отливочная форма слитка
+iu.crafting_elements.crafting_497_element=Отливочная форма шестерни
+
+iu.crafting_elements.crafting_501_element=Пластина обработанной титановой стали
+iu.crafting_elements.crafting_502_element=Слиток необработанной стали
+iu.crafting_elements.crafting_503_element=Слиток необработанной титановой стали
+iu.crafting_elements.crafting_504_element=Слиток обработанной титановой стали
+
+iu.crafting_elements.crafting_508_element=Буровое долото
+iu.crafting_elements.crafting_509_element=Буровое квантовое долото
+iu.crafting_elements.crafting_510_element=Левая часть квантовой лопаты
+iu.crafting_elements.crafting_511_element=Левая часть квантового топора
+iu.crafting_elements.crafting_512_element=Левая часть квантовой кирки
+iu.crafting_elements.crafting_513_element=Правая часть квантовой лопаты
+iu.crafting_elements.crafting_514_element=Правая часть квантового топора
+iu.crafting_elements.crafting_515_element=Правая часть квантовой кирки
+iu.crafting_elements.crafting_516_element=Квантовый энергокристалл
+iu.crafting_elements.crafting_517_element=Буровое нано-долото
+iu.crafting_elements.crafting_518_element=Левая часть нано-лопаты
+iu.crafting_elements.crafting_519_element=Левая часть нано-топора
+iu.crafting_elements.crafting_520_element=Левая часть нано-кирки
+iu.crafting_elements.crafting_521_element=Правая часть нано-лопаты
+iu.crafting_elements.crafting_522_element=Правая часть нано-топора
+iu.crafting_elements.crafting_523_element=Правая часть нано-кирки
+iu.crafting_elements.crafting_524_element=Нано-энергокристалл
+iu.crafting_elements.crafting_525_element=Буровое спектральное долото
+iu.crafting_elements.crafting_526_element=Левая часть спектральной лопаты
+iu.crafting_elements.crafting_527_element=Левая часть спектрального топора
+iu.crafting_elements.crafting_528_element=Левая часть спектральной кирки
+iu.crafting_elements.crafting_529_element=Правая часть спектральной лопаты
+iu.crafting_elements.crafting_530_element=Правая часть спектрального топора
+iu.crafting_elements.crafting_531_element=Правая часть спектральной кирки
+iu.crafting_elements.crafting_532_element=Спектральный энергокристалл
+iu.crafting_elements.crafting_533_element=Процессор 1-го поколения
+iu.crafting_elements.crafting_534_element=Процессор 10-го поколения
+iu.crafting_elements.crafting_535_element=Внутреняя память 16 МБ
+iu.crafting_elements.crafting_536_element=Оперативная память 16 МБ
+iu.crafting_elements.crafting_537_element=Внутреняя память 1 ГБ
+iu.crafting_elements.crafting_538_element=Оперативная память 1 КБ
+iu.crafting_elements.crafting_539_element=Внутреняя память 1 МБ
+iu.crafting_elements.crafting_540_element=Оперативная память 1 МБ
+iu.crafting_elements.crafting_541_element=Процессор 2-го поколения
+iu.crafting_elements.crafting_542_element=Оперативная память 256 КБ
+iu.crafting_elements.crafting_543_element=Процессор 3-го поколения
+iu.crafting_elements.crafting_544_element=Внутреняя память 32 МБ
+iu.crafting_elements.crafting_545_element=Процессор 4-го поколения
+iu.crafting_elements.crafting_546_element=Внутреняя память 4 ГБ
+iu.crafting_elements.crafting_547_element=Внутреняя память 4 МБ
+iu.crafting_elements.crafting_548_element=Оперативная память 4 МБ
+iu.crafting_elements.crafting_549_element=Процессор 5-го поколения
+iu.crafting_elements.crafting_550_element=Внутреняя память 512 МБ
+iu.crafting_elements.crafting_551_element=Процессор 6-го поколения
+iu.crafting_elements.crafting_552_element=Оперативная память 64 КБ
+iu.crafting_elements.crafting_553_element=Внутреняя память 64 МБ
+iu.crafting_elements.crafting_554_element=Оперативная память 64 МБ
+iu.crafting_elements.crafting_555_element=Процессор 7-го поколения
+iu.crafting_elements.crafting_556_element=Процессор 8-го поколения
+iu.crafting_elements.crafting_557_element=Внутреняя память 8 КБ
+iu.crafting_elements.crafting_558_element=Процессор 9-го поколения
+iu.crafting_elements.crafting_559_element=Алмазо-нихромовая головка
+iu.crafting_elements.crafting_560_element=Алюминиево-бронзовая шина данных
+iu.crafting_elements.crafting_561_element=Боридо-гафниевая адресная шина
+iu.crafting_elements.crafting_562_element=Бронзовый шпиндель
+iu.crafting_elements.crafting_563_element=Вольфрамовый резистор
+iu.crafting_elements.crafting_564_element=Модуль памяти из вудового сплава
+iu.crafting_elements.crafting_565_element=Галлиево-арсениевый диод
+iu.crafting_elements.crafting_566_element=Гафниево-карбидный модуль памяти
+iu.crafting_elements.crafting_567_element=Германиевый диод
+iu.crafting_elements.crafting_568_element=Диод
+iu.crafting_elements.crafting_569_element=Железная адресная шина
+iu.crafting_elements.crafting_570_element=Железо-кремниевая головка
+iu.crafting_elements.crafting_571_element=Железный шпиндель
+iu.crafting_elements.crafting_572_element=Железный диск
+iu.crafting_elements.crafting_573_element=Золото-кремниевая головка
+iu.crafting_elements.crafting_574_element=Интерфейс данных
+iu.crafting_elements.crafting_575_element=Иттриево-алюминиевый диск
+iu.crafting_elements.crafting_576_element=Керамический модуль памяти
+iu.crafting_elements.crafting_577_element=Кобальто-хромовый диск
+iu.crafting_elements.crafting_578_element=Корпус
+iu.crafting_elements.crafting_579_element=Лазуритовый резистор
+iu.crafting_elements.crafting_580_element=Медная шина данных
+iu.crafting_elements.crafting_581_element=Медный резистор
+iu.crafting_elements.crafting_582_element=Медный скрученный катушечный индуктор
+iu.crafting_elements.crafting_583_element=Металлический соленоид
+iu.crafting_elements.crafting_584_element=Модуль памяти из молибденовой стали
+iu.crafting_elements.crafting_585_element=Резистор
+iu.crafting_elements.crafting_586_element=Шпиндель из нержавеющей стали
+iu.crafting_elements.crafting_587_element=Никелевый диск
+iu.crafting_elements.crafting_588_element=Система охлождения
+iu.crafting_elements.crafting_589_element=Пермаллоевая шина данных
+iu.crafting_elements.crafting_590_element=Платино-неодимовая головка
+iu.crafting_elements.crafting_591_element=Платиновая адресная шина
+iu.crafting_elements.crafting_592_element=Продвинутая система охлождения
+iu.crafting_elements.crafting_593_element=Разъём питания
+iu.crafting_elements.crafting_594_element=Совершенная система охлождения
+iu.crafting_elements.crafting_595_element=Стальной шпиндель
+iu.crafting_elements.crafting_596_element=Стеллитовая шина данных
+iu.crafting_elements.crafting_597_element=Тороидальный индуктор из пермаллоя
+iu.crafting_elements.crafting_598_element=Улучшенная система охлождения
+iu.crafting_elements.crafting_599_element=Ферритовый кольцевой индуктор
+iu.crafting_elements.crafting_600_element=Электрумовая адресная шина
+iu.crafting_elements.crafting_601_element=Электрумовый котёл
 
 
 
@@ -5215,6 +5325,7 @@ iu.antisoilpollution.name=Модуль: 50% антизагрязнение по�
 
 iu.dust.aluminumsulfide=Сульфид алюминия
 iu.dust.silicon=Кремниевая пыль
+iu.dust.lead_sodium=Cвинцово-натриевая пыль
 
 industrialupgrade.cyclotron.cyclotron_controller=Контроллер циклотрона
 industrialupgrade.cyclotron.cyclotron_positrons=Контейнер для позитронов циклотрона
@@ -5241,3 +5352,334 @@ iu.reactornobeliumquad=Счетверённый нобелиевый стерж�
 iu.pellets.fermium_pellet=Фермиевая пеллета
 iu.pellets.nobelium_pellet=Нобелиевая пеллета
 iu.pellets.lawrencium_pellet=Лоуренсиевая пеллета
+
+iu.peat.name=Блок торфа
+iu.untreated_peat.name=Блок необработанного торфа
+iu.fertilizer.name=Удобрение
+iu.white_phosphorus.name=Белый фосфор
+iu.red_phosphorus.name=Красный фосфор
+iu.phosphorus_oxide.name=Оксид фосфора
+iu.adv_anode=Улучшенный анод
+iu.adv_cathode=Улучшенный катод
+iu.compressed_redstone.name=Сжатый красный камень
+iu.electronic_stabilizers.name=Электронные стабилизаторы
+iu.graphene_plate.name=Графеновая пластина
+iu.graphene.name=Графен
+iu.vanadiumaluminummesh=Ванадиево-алюминиевая сетка
+iu.voltage_sensor_for_mechanism.name=Датчик напряжения механизма
+iu.imp_motors_with_improved_bearings_.name=Продвинутый мотор с улучшенными подшипниками
+iu.polonium_palladium_composite.name=Полониево-палладиевый композит
+iu.cooling_mixture.name=Охлаждающая смесь
+iu.ironmesh=Железная сетка
+iu.boridehafniummesh=Боридо-гафниевая сетка
+iu.upgrade_casing.name=Корпус улучшения
+iu.steelmesh=Стальная сетка
+iu.extreme_current_converter_to_low.name=Преобразователь огромного тока в низкий
+iu.steleticmesh=Стеллитовая сетка
+iu.cryogenic_cooling_mixture.name=Криогенная охлаждающая смесь
+iu.graphene_wire.name=Графеновый провод
+iu.helium_cooling_mixture.name=Гелиевая охлаждающая смесь
+iu.high_current_converter_to_low.name=Преобразователь высокого тока в низкий
+iu.motors_with_improved_bearings_.name=Мотор с улучшенными подшипниками
+iu.spipe=Паровая труба
+iu.adv_motors_with_improved_bearings_.name=Улучшенный мотор с улучшенными подшипниками
+iu.medium_current_converter_to_low.name=Преобразователь среднего тока в низкий
+iu.peat_balls.name=торфяной шарик
+iu.cultivated_peat.name=Обработанный торфяной слиток
+iu.synthetic_rubber.name=Синтетическая резина
+
+iu.fluorapatite.name=Фторапатитовая руда
+iu.nepheline.name=Нефелиновая руда
+iu.calcium_phosphate.name=Руда фосфата кальция
+iu.sodium_phosphate.name=Руда фосфата натрия
+iu.potassium_phosphate.name=Руда фосфата калия
+iu.crystal.name=Кристальная руда
+iu.sulfur.name=Серная руда
+iu.raw_apatite.name=Необработанный апатит
+iu.apatite_cube.name=Отполированный апатит
+
+iu.humus_block.name=Блок гумуса
+iu.dust.ammonium_chloride=Пыль хлорида аммония
+iu.dust.silver_nitrate=Пыль нитрата серебра
+iu.dust.silver_chloride=Пыль хлорида серебра
+iu.dust.sodium=Пыль натрия
+iu.dust.calcium_fluoride=Пыль фторида кальция
+iu.dust.calcium_phosphate=Пыль фосфата кальция
+iu.dust.calcium_sulfate=Пыль сульфата кальция
+iu.dust.alkaline_mixture=Щелочная пыль
+iu.dust.sodium_phosphate=Пыль фосфата натрия
+iu.dust.potassium_phosphate=Пыль фосфата калия
+iu.dust.calcium_silicate=Пыль силиката кальция
+iu.dust.trinitrotoluene=Тринитротолуоловая пыль
+
+
+iu.nuclearresource.americium_dust=Пыль америция
+iu.nuclearresource.neptunium_dust=Пыль нептуния
+iu.nuclearresource.curium_dust=Пыль кюрия
+iu.nuclearresource.americium_smalldust=Кучка америция
+iu.nuclearresource.neptunium_smalldust=Кучка нептуния
+iu.nuclearresource.curium_smalldust=Кучка кюрия
+iu.nuclearresource.thorium_shard=Осколок тория
+iu.nuclearresource.unprocessed_radioactive_americium=Необработанный радиоактивный америций
+iu.nuclearresource.unprocessed_radioactive_neptunium=Необработанный радиоактивный нептуний
+iu.nuclearresource.unprocessed_radioactive_thorium=Необработанный радиоактивный торий
+iu.nuclearresource.unprocessed_radioactive_curium=Необработанный радиоактивный кюрий
+iu.nuclearresource.unprocessed_radioactive_uranium=Необработанный радиоактивный уран
+
+
+##Плавильня
+
+industrialupgrade.smeltery.smeltery_controller=Контроллер плавильни
+industrialupgrade.smeltery.smeltery_casing=Корпус плавильни
+industrialupgrade.smeltery.smeltery_fuel_tank=Топливный бак плавильни
+industrialupgrade.smeltery.smeltery_tank=Бак плавильни
+industrialupgrade.smeltery.smeltery_furnace=Печь плавильни
+industrialupgrade.smeltery.smeltery_casting=Отливочный блок плавильни
+
+
+##Паровые механизмы
+
+industrialupgrade.basemachine3.steamboiler=Паровой котёл
+industrialupgrade.basemachine3.steampressureconverter=Паровой преобразователь давления
+industrialupgrade.basemachine3.steamdryer=Паровая сушилка
+industrialupgrade.basemachine3.steam_macerator=Паровой дробитель
+industrialupgrade.basemachine3.steam_compressor=Паровой сжиматель
+industrialupgrade.basemachine3.steam_extractor=Паровой экстрактор
+industrialupgrade.basemachine3.steam_extruder=Паровой экструдер
+industrialupgrade.basemachine3.steam_cutting=Паровой режущий автомат
+industrialupgrade.basemachine3.steam_converter=Паровой преобразователь пара 
+industrialupgrade.basemachine3.steam_squeezer=Паровая соковыжималка
+industrialupgrade.basemachine3.peat_generator=Торфяной генератор
+industrialupgrade.basemachine3.steam_peat_generator=Паровой генератор на торфе
+industrialupgrade.basemachine3.steam_handler_ore=Паровой сепаратор
+industrialupgrade.basemachine3.steam_electrolyzer=Паровой электролизёр
+industrialupgrade.basemachine3.steam_ampere_generator=Паровой преобразователь тока
+industrialupgrade.basemachine3.steam_solid_fluid_mixer=Паровой твердотельно-жидкостный смешиватель
+industrialupgrade.basemachine3.steam_pump=Паровая помпа
+industrialupgrade.basemachine3.steam_sharpener=Паровая точилка
+
+industrialupgrade.basemachine3.solid_fluid_integrator=Твердотельно-жидкостный интегратор 
+industrialupgrade.basemachine3.solid_mixer=Твердотельный смеситель
+industrialupgrade.basemachine3.triple_solid_mixer=Тройной твердотельный смеситель
+industrialupgrade.basemachine3.single_fluid_adapter=Одиночный жидкостный адаптер
+industrialupgrade.basemachine3.programming_table=Электрический программированный стол
+industrialupgrade.basemachine3.electronic_assembler=Электрический сборщик электроники
+industrialupgrade.basemachine3.oak_tank=Дубовый бак
+industrialupgrade.basemachine3.steel_tank=Стальной бак
+industrialupgrade.basemachine3.alkalineearthquarry=Щёлочноземельный рудник
+industrialupgrade.basemachine3.radioactive_handler_ore=Обработчик радиоактивных руд
+industrialupgrade.basemachine3.industrial_ore_purifier=Промышленный очиститель радиоактивных элементов
+
+industrialupgrade.primal_programming_table.primal_programming_table=Примитивный программированный стол
+industrialupgrade.primal_pump.primal_pump=Примитивная помпа
+
+
+##Жидкие металлы
+
+iu.fluidiron=Расплавленное железо
+iu.fluidnickel=Расплавленный никель
+iu.fluidcarbon=Расплавленный углерод
+iu.fluidsteel=Расплавленная сталь
+iu.fluidtitaniumsteel=Расплавленная титановая сталь
+iu.fluidgold=Расплавленное золото
+iu.fluidsilver=Расплавленное серебро
+iu.fluidelectrum=Расплавленный электрум
+iu.fluidinvar=Расплавленный инвар
+iu.fluidcopper=Расплавленная медь
+iu.fluidtin=Расплавленное олово
+iu.fluidbronze=Расплавленная бронза
+iu.fluidgallium=Расплавленный галлий
+iu.fluidarsenicum=Расплавленный арсен
+iu.fluidaluminium=Расплавленный алюминий
+iu.fluidaluminiumbronze=Расплавленная алюминиевая бронза
+iu.fluidirontitanium=Расплавленный железо-титан
+iu.fluidtitanium=Расплавленный титан
+iu.fluidarsenicum_gallium=Расплавленный галлиево-арсен
+
+fluid.fluidiron=Расплавленное железо
+fluid.fluidnickel=Расплавленный никель
+fluid.fluidcarbon=Расплавленный углерод
+fluid.fluidsteel=Расплавленная сталь
+fluid.fluidtitaniumsteel=Расплавленная титановая сталь
+fluid.fluidgold=Расплавленное золото
+fluid.fluidsilver=Расплавленное серебро
+fluid.fluidelectrum=Расплавленный электрум
+fluid.fluidinvar=Расплавленный инвар
+fluid.fluidcopper=Расплавленная медь
+fluid.fluidtin=Расплавленное олово
+fluid.fluidbronze=Расплавленная бронза
+fluid.fluidgallium=Расплавленный галлий
+fluid.fluidarsenicum=Расплавленный арсен
+fluid.fluidaluminium=Расплавленный алюминий
+fluid.fluidaluminiumbronze=Расплавленная алюминиевая бронза
+fluid.fluidirontitanium=Расплавленный железо-титан
+fluid.fluidtitanium=Расплавленный титан
+fluid.fluidarsenicum_gallium=Расплавленный галлиево-арсен
+
+# Вёдра
+item.forge.bucketFilled.iufluidiron=Ведро расплавленного железа
+item.forge.bucketFilled.iufluidnickel=Ведро расплавленного никеля
+item.forge.bucketFilled.iufluidcarbon=Ведро расплавленного углерода
+item.forge.bucketFilled.iufluidsteel=Ведро расплавленной стали
+item.forge.bucketFilled.iufluidtitaniumsteel=Ведро расплавленной титановой стали
+item.forge.bucketFilled.iufluidgold=Ведро расплавленного золота
+item.forge.bucketFilled.iufluidsilver=Ведро расплавленного серебра
+item.forge.bucketFilled.iufluidelectrum=Ведро расплавленного электрума
+item.forge.bucketFilled.iufluidinvar=Ведро расплавленного инвара
+item.forge.bucketFilled.iufluidcopper=Ведро расплавленной меди
+item.forge.bucketFilled.iufluidtin=Ведро расплавленного олова
+item.forge.bucketFilled.iufluidbronze=Ведро расплавленной бронзы
+item.forge.bucketFilled.iufluidgallium=Ведро расплавленного галлия
+item.forge.bucketFilled.iufluidarsenicum=Ведро расплавленного арсена
+item.forge.bucketFilled.iufluidaluminium=Ведро расплавленного алюминия
+item.forge.bucketFilled.iufluidaluminiumbronze=Ведро расплавленной алюминиевой бронзы
+item.forge.bucketFilled.iufluidirontitanium=Ведро расплавленного железо-титана
+item.forge.bucketFilled.iufluidtitanium=Ведро расплавленного титана
+item.forge.bucketFilled.iufluidarsenicum_gallium=Ведро расплавленного галлиево-арсена
+
+##Другие жидкости
+
+iu.fluidnitrogenhydride=Нитрид водорода
+iu.fluidnitrogendioxide=Диоксид азота
+iu.fluidnitricacid=Азотная кислота
+iu.fluidorthophosphoricacid=Ортофосфорная кислота
+iu.fluidbenzene=Бензол
+iu.fluidtoluene=Толуол
+iu.fluidmethylbromide=Метилбромид
+iu.fluidhydrogenbromide=Бромоводород
+iu.fluidtrinitrotoluene=Тринитротолуол
+iu.fluidethanol=Этанол
+iu.fluidpolyacrylonitrile=Полиакрилонитрил
+iu.fluidpolybutadiene=Полибутадиен
+iu.fluidbutadiene_nitrile=Бутадиен-нитрил
+iu.fluidacrylonitrile=Акрилонитрил
+iu.fluidbutadiene=Бутадиен
+iu.fluidethene=Этен
+iu.fluidaaa_diesel=AAA-дизель
+iu.fluidmethylcyclohexane=Метилциклогексан
+iu.fluidaa_diesel=AA-дизель
+iu.fluidpetrol95=Бензин 95
+iu.fluidcyclohexane=Циклогексан
+iu.fluidhydrogenchloride=Хлороводород
+iu.fluidmethylcyclohexylnitrate=Метилциклогексилнитрат
+iu.fluidisobutylene=Изобутилен
+iu.fluidaaaa_diesel=AAAA-дизель
+iu.fluidpetrol90=Бензин 90
+iu.fluidchloroethane=Хлороэтан
+iu.fluidcarbonmonoxide=Угарный газ
+iu.fluidmethanol=Метанол
+iu.fluidtertbutylsulfuricacid=Трет-бутилсульфоновая кислота
+iu.fluidethylhexanol=Этилгексанол
+iu.fluidtertbutylalcohol=Трет-бутиловый спирт
+iu.fluidethylhexylnitrate=Этилгексилнитрат
+iu.fluidtertbutylmethylether=Трет-бутилметиловый эфир
+iu.fluidtetraethyllead=Тетраэтилсвинец
+iu.fluida_diesel=A-дизель
+iu.fluidpetrol105=Бензин 105
+iu.fluidmethylpentane=Метилпентан
+iu.fluidbutene=Бутен
+iu.fluidpetrol100=Бензин 100
+iu.fluidmethylpentanal=Метилпентаналь
+
+fluid.fluidnitrogenhydride=Нитрид водорода
+fluid.fluidnitrogendioxide=Диоксид азота
+fluid.fluidnitricacid=Азотная кислота
+fluid.fluidorthophosphoricacid=Ортофосфорная кислота
+fluid.fluidbenzene=Бензол
+fluid.fluidtoluene=Толуол
+fluid.fluidmethylbromide=Метилбромид
+fluid.fluidhydrogenbromide=Бромоводород
+fluid.fluidtrinitrotoluene=Тринитротолуол
+fluid.fluidethanol=Этанол
+fluid.fluidpolyacrylonitrile=Полиакрилонитрил
+fluid.fluidpolybutadiene=Полибутадиен
+fluid.fluidbutadiene_nitrile=Бутадиен-нитрил
+fluid.fluidacrylonitrile=Акрилонитрил
+fluid.fluidbutadiene=Бутадиен
+fluid.fluidethene=Этен
+fluid.fluidaaa_diesel=AAA-дизель
+fluid.fluidmethylcyclohexane=Метилциклогексан
+fluid.fluidaa_diesel=AA-дизель
+fluid.fluidpetrol95=Бензин 95
+fluid.fluidcyclohexane=Циклогексан
+fluid.fluidhydrogenchloride=Хлороводород
+fluid.fluidmethylcyclohexylnitrate=Метилциклогексилнитрат
+fluid.fluidisobutylene=Изобутилен
+fluid.fluidaaaa_diesel=AAAA-дизель
+fluid.fluidpetrol90=Бензин 90
+fluid.fluidchloroethane=Хлороэтан
+fluid.fluidcarbonmonoxide=Угарный газ
+fluid.fluidmethanol=Метанол
+fluid.fluidtertbutylsulfuricacid=Трет-бутилсульфоновая кислота
+fluid.fluidethylhexanol=Этилгексанол
+fluid.fluidtertbutylalcohol=Трет-бутиловый спирт
+fluid.fluidethylhexylnitrate=Этилгексилнитрат
+fluid.fluidtertbutylmethylether=Трет-бутилметиловый эфир
+fluid.fluidtetraethyllead=Тетраэтилсвинец
+fluid.fluida_diesel=A-дизель
+fluid.fluidpetrol105=Бензин 105
+fluid.fluidmethylpentane=Метилпентан
+fluid.fluidbutene=Бутен
+fluid.fluidpetrol100=Бензин 100
+fluid.fluidmethylpentanal=Метилпентаналь
+
+
+# Вёдра
+
+item.forge.bucketFilled.iufluidnitrogenhydride=Ведро нитрида водорода
+item.forge.bucketFilled.iufluidnitrogendioxide=Ведро диоксида азота
+item.forge.bucketFilled.iufluidnitricacid=Ведро азотной кислоты
+item.forge.bucketFilled.iufluidorthophosphoricacid=Ведро ортофосфорной кислоты
+item.forge.bucketFilled.iufluidbenzene=Ведро бензола
+item.forge.bucketFilled.iufluidtoluene=Ведро толуола
+item.forge.bucketFilled.iufluidmethylbromide=Ведро метилбромида
+item.forge.bucketFilled.iufluidhydrogenbromide=Ведро бромоводорода
+item.forge.bucketFilled.iufluidtrinitrotoluene=Ведро тринитротолуола
+item.forge.bucketFilled.iufluidethanol=Ведро этанола
+item.forge.bucketFilled.iufluidpolyacrylonitrile=Ведро полиакрилонитрила
+item.forge.bucketFilled.iufluidpolybutadiene=Ведро полибутадиена
+item.forge.bucketFilled.iufluidbutadiene_nitrile=Ведро бутадиен-нитрила
+item.forge.bucketFilled.iufluidacrylonitrile=Ведро акрилонитрила
+item.forge.bucketFilled.iufluidbutadiene=Ведро бутадиена
+item.forge.bucketFilled.iufluidethene=Ведро этена
+item.forge.bucketFilled.iufluidaaa_diesel=Ведро AAA-дизеля
+item.forge.bucketFilled.iufluidmethylcyclohexane=Ведро метилциклогексана
+item.forge.bucketFilled.iufluidaa_diesel=Ведро AA-дизеля
+item.forge.bucketFilled.iufluidpetrol95=Ведро бензина 95
+item.forge.bucketFilled.iufluidcyclohexane=Ведро циклогексана
+item.forge.bucketFilled.iufluidhydrogenchloride=Ведро хлороводорода
+item.forge.bucketFilled.iufluidmethylcyclohexylnitrate=Ведро метилциклогексилнитрата
+item.forge.bucketFilled.iufluidisobutylene=Ведро изобутилена
+item.forge.bucketFilled.iufluidaaaa_diesel=Ведро AAAA-дизеля
+item.forge.bucketFilled.iufluidpetrol90=Ведро бензина 90
+item.forge.bucketFilled.iufluidchloroethane=Ведро хлороэтана
+item.forge.bucketFilled.iufluidcarbonmonoxide=Ведро угарного газа
+item.forge.bucketFilled.iufluidmethanol=Ведро метанола
+item.forge.bucketFilled.iufluidtertbutylsulfuricacid=Ведро трет-бутилсульфоновой кислоты
+item.forge.bucketFilled.iufluidethylhexanol=Ведро этилгексанола
+item.forge.bucketFilled.iufluidtertbutylalcohol=Ведро трет-бутилового спирта
+item.forge.bucketFilled.iufluidethylhexylnitrate=Ведро этилгексилнитрата
+item.forge.bucketFilled.iufluidtertbutylmethylether=Ведро трет-бутилметилового эфира
+item.forge.bucketFilled.iufluidtetraethyllead=Ведро тетраэтилсвинца
+item.forge.bucketFilled.iufluida_diesel=Ведро A-дизеля
+item.forge.bucketFilled.iufluidpetrol105=Ведро бензина 105
+item.forge.bucketFilled.iufluidmethylpentane=Ведро метилпентана
+item.forge.bucketFilled.iufluidbutene=Ведро бутена
+item.forge.bucketFilled.iufluidpetrol100=Ведро бензина 100
+item.forge.bucketFilled.iufluidmethylpentanal=Ведро метилпентаналя
+
+##Фотонные механизмы
+
+industrialupgrade.photonic_machine.photonic_macerator=Фотонный дробитель
+industrialupgrade.photonic_machine.photonic_compressor=Фотонный сжиматель
+industrialupgrade.photonic_machine.photonic_extractor=Фотонный экстрактор
+industrialupgrade.photonic_machine.photonic_furnace=Фотонная электрическая печь
+industrialupgrade.photonic_machine.photonic_rolling=Фотонный прокатный станок
+industrialupgrade.photonic_machine.photonic_extruding=Фотонный экструдер
+industrialupgrade.photonic_machine.photonic_cutting=Фотонный режущий автомат
+industrialupgrade.photonic_machine.photonic_fermer=Фотонная автономная ферма
+industrialupgrade.photonic_machine.photonic_assembler=Фотонный сборщик утильсырья
+industrialupgrade.photonic_machine.photonic_centrifuge=§eФотонная центрифуга
+industrialupgrade.photonic_machine.photonic_orewashing=§eФотонный рудопромывочный механизм
+industrialupgrade.photonic_machine.photonic_gearing=§eФотонный механический штамп
+
