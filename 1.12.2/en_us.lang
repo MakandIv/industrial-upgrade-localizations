@@ -5222,7 +5222,7 @@ iu.crafting_elements.crafting_561_element=Boride-Hafnium Address Bus
 iu.crafting_elements.crafting_562_element=Bronze Spindle
 iu.crafting_elements.crafting_563_element=Tungsten Resistor
 iu.crafting_elements.crafting_564_element=Wood Alloy Memory Module
-iu.crafting_elements.crafting_565_element=Gallium Arsenide Diode
+iu.crafting_elements.crafting_565_element=Gallium Arsenic Diode
 iu.crafting_elements.crafting_566_element=Hafnium Carbide Memory Module
 iu.crafting_elements.crafting_567_element=Germanium Diode
 iu.crafting_elements.crafting_568_element=Diode
@@ -5441,7 +5441,7 @@ iu.fluidaluminium=Molten Aluminum
 iu.fluidaluminiumbronze=Molten Aluminum Bronze
 iu.fluidirontitanium=Molten Iron-Titanium
 iu.fluidtitanium=Molten Titanium
-iu.fluidarsenicum_gallium=Molten Gallium Arsenide
+iu.fluidarsenicum_gallium=Molten Gallium Arsenic
 
 fluid.fluidiron=Molten Iron
 fluid.fluidnickel=Molten Nickel
@@ -5461,7 +5461,7 @@ fluid.fluidaluminium=Molten Aluminum
 fluid.fluidaluminiumbronze=Molten Aluminum Bronze
 fluid.fluidirontitanium=Molten Iron-Titanium
 fluid.fluidtitanium=Molten Titanium
-fluid.fluidarsenicum_gallium=Molten Gallium Arsenide
+fluid.fluidarsenicum_gallium=Molten Gallium Arsenic
 
 # Buckets
 item.forge.bucketFilled.iufluidiron=Bucket of Molten Iron
@@ -5482,7 +5482,7 @@ item.forge.bucketFilled.iufluidaluminium=Bucket of Molten Aluminum
 item.forge.bucketFilled.iufluidaluminiumbronze=Bucket of Molten Aluminum Bronze
 item.forge.bucketFilled.iufluidirontitanium=Bucket of Molten Iron-Titanium
 item.forge.bucketFilled.iufluidtitanium=Bucket of Molten Titanium
-item.forge.bucketFilled.iufluidarsenicum_gallium=Bucket of Molten Gallium Arsenide
+item.forge.bucketFilled.iufluidarsenicum_gallium=Bucket of Molten Gallium Arsenic
 
 ##Other Fluids
 
