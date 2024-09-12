@@ -176,9 +176,9 @@ item.lead_box.name=Свинцовый ящик
 iu.nanobox.name=§8Нано-ящик
 iu.quantumitems7.name=§eУлучшенный нано-ящик
 iu.quantumitems6.name=§bКвантовый ящик
-iu.quantumitems3.name=Улучшенный квантовый ящик
-iu.spectral_box.name=Спектральный ящик
-iu.adv_spectral_box.name=Улучшенный спектральный ящик
+iu.quantumitems3.name=§bУлучшенный квантовый ящик
+iu.spectral_box.name=§dСпектральный ящик
+iu.adv_spectral_box.name=§dУлучшенный спектральный ящик
 
 # Провода
 iu.itemcable=§aСпектральный провод
@@ -5332,8 +5332,8 @@ iu.crafting_elements.crafting_620_element=Шаблон фотонного дат
 iu.crafting_elements.crafting_621_element=Фотонный контроллер
 iu.crafting_elements.crafting_622_element=Фотонный мотор
 iu.crafting_elements.crafting_623_element=Фотонная обшивка корпуса
-iu.crafting_elements.crafting_624_element=Улучшенный фотонный ящик
-iu.crafting_elements.crafting_625_element=Фотонный ящик
+iu.crafting_elements.crafting_624_element=§aУлучшенный фотонный ящик
+iu.crafting_elements.crafting_625_element=§aФотонный ящик
 
 
 iu.laser=Лазер

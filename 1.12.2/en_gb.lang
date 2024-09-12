@@ -174,11 +174,11 @@ item.lead_box.name=Lead Box
 
 # Boxes
 iu.nanobox.name=§8Nano Box
-iu.quantumitems7.name=§eAdvanced Nano Box
+iu.quantumitems7.name=§eImproved Nano Box
 iu.quantumitems6.name=§bQuantum Box
-iu.quantumitems3.name=Improved Quantum Box
-iu.spectral_box.name=Spectral Box
-iu.adv_spectral_box.name=Improved Spectral Box
+iu.quantumitems3.name=§bImproved Quantum Box
+iu.spectral_box.name=§dSpectral Box
+iu.adv_spectral_box.name=§dImproved Spectral Box
 
 # Cables
 iu.itemcable=§aSpectral Cable
@@ -4612,9 +4612,9 @@ iu.smalldust.osmium=Small Pile of Osmium Dust
 iu.stik.osmium=Osmium Stick
 iu.stik.tantalum=Tantalum Stick
 iu.stik.cadmium=Cadmium Stick
-iu.osmium_block=Osmium Block
-iu.tantalum_block=Tantalum Block
-iu.cadmium_block=Cadmium Block
+iu.osmium_block.name=Block of Osmium
+iu.tantalum_block.name=Block of Tantalum
+iu.cadmium_block.name=Block of Cadmium
 
 iu.reactormodules.generation0=Reactor module: Generation
 iu.reactormodules.generation1=Improved Reactor Module: Generation
@@ -5159,6 +5159,8 @@ iu.crafting_elements.crafting_494_element=Polished Silicon Disk
 iu.crafting_elements.crafting_495_element=Polished Silicon Crystal
 iu.crafting_elements.crafting_496_element=Ingot Casting Mold
 iu.crafting_elements.crafting_497_element=Gear Casting Mold
+iu.crafting_elements.crafting_498_element=Coal Dust with Impurity
+iu.crafting_elements.crafting_499_element=Coal Dust for Alloys
 
 iu.crafting_elements.crafting_501_element=Processed Titanium Steel Plate
 iu.crafting_elements.crafting_502_element=Raw Steel Ingot
@@ -5259,6 +5261,30 @@ iu.crafting_elements.crafting_598_element=Improved Cooling System
 iu.crafting_elements.crafting_599_element=Ferrite Ring Inductor
 iu.crafting_elements.crafting_600_element=Electrum Address Bus
 iu.crafting_elements.crafting_601_element=Electrum Boiler
+iu.crafting_elements.crafting_602_element=Photon Sensor: Macerator
+iu.crafting_elements.crafting_603_element=Photon Sensor: Liquid
+iu.crafting_elements.crafting_604_element=Photon Sensor: Earth
+iu.crafting_elements.crafting_605_element=Photon Sensor: Craft
+iu.crafting_elements.crafting_606_element=Photon Sensor: Mechanical Stamp
+iu.crafting_elements.crafting_607_element=Photon Sensor: Refining
+iu.crafting_elements.crafting_608_element=Photon Sensor: Press
+iu.crafting_elements.crafting_609_element=Photon Sensor: Rolling Machine
+iu.crafting_elements.crafting_610_element=Photon Sensor: Ore Flushing
+iu.crafting_elements.crafting_611_element=Photon Sensor: Plants
+iu.crafting_elements.crafting_612_element=Photon Sensor: Auto Cutter
+iu.crafting_elements.crafting_613_element=Photon Sensor: Thermal
+iu.crafting_elements.crafting_614_element=Sensor: Improved Energy
+iu.crafting_elements.crafting_615_element=Photon Sensor: Extractor
+iu.crafting_elements.crafting_616_element=Photon Sensor: Extruder
+iu.crafting_elements.crafting_617_element=Photon Sensor: Electric Furnace
+iu.crafting_elements.crafting_618_element=Advanced Sensor: Alloy
+iu.crafting_elements.crafting_619_element=Perfect Sensor: Alloy
+iu.crafting_elements.crafting_620_element=Photon Sensor Template
+iu.crafting_elements.crafting_621_element=Photon Controller
+iu.crafting_elements.crafting_622_element=Photon Motor
+iu.crafting_elements.crafting_623_element=Photon Hull Plating
+iu.crafting_elements.crafting_624_element=§aImproved Photon Box
+iu.crafting_elements.crafting_625_element=§aPhoton Box
 
 
 iu.laser=Laser
@@ -5337,6 +5363,8 @@ iu.medium_current_converter_to_low.name=Medium Current to Low Converter
 iu.peat_balls.name=Peat Ball
 iu.cultivated_peat.name=Cultivated Peat Ingot
 iu.synthetic_rubber.name=Synthetic Rubber
+iu.synthetic_plate.name=Synthetic Rubber Plate
+iu.steam_machine.name=Steam Machine Casing
 
 iu.fluorapatite.name=Fluorapatite Ore
 iu.nepheline.name=Nepheline Ore
@@ -5442,6 +5470,8 @@ iu.fluidaluminiumbronze=Molten Aluminum Bronze
 iu.fluidirontitanium=Molten Iron-Titanium
 iu.fluidtitanium=Molten Titanium
 iu.fluidarsenicum_gallium=Molten Gallium Arsenic
+iu.fluidmanganese=Molten Manganese
+iu.fluidferromanganese=Molten Ferromanganese
 
 fluid.fluidiron=Molten Iron
 fluid.fluidnickel=Molten Nickel
@@ -5462,6 +5492,8 @@ fluid.fluidaluminiumbronze=Molten Aluminum Bronze
 fluid.fluidirontitanium=Molten Iron-Titanium
 fluid.fluidtitanium=Molten Titanium
 fluid.fluidarsenicum_gallium=Molten Gallium Arsenic
+fluid.fluidmanganese=Molten Manganese
+fluid.fluidferromanganese=Molten Ferromanganese
 
 # Buckets
 item.forge.bucketFilled.iufluidiron=Bucket of Molten Iron
@@ -5483,6 +5515,8 @@ item.forge.bucketFilled.iufluidaluminiumbronze=Bucket of Molten Aluminum Bronze
 item.forge.bucketFilled.iufluidirontitanium=Bucket of Molten Iron-Titanium
 item.forge.bucketFilled.iufluidtitanium=Bucket of Molten Titanium
 item.forge.bucketFilled.iufluidarsenicum_gallium=Bucket of Molten Gallium Arsenic
+item.forge.bucketFilled.iufluidmanganese=Bucket of Molten Manganese
+item.forge.bucketFilled.iufluidferromanganese=Bucket of Molten Ferromanganese
 
 ##Other Fluids
 
