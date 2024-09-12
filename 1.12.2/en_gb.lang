@@ -174,11 +174,11 @@ item.lead_box.name=Lead Box
 
 # Boxes
 iu.nanobox.name=§8Nano Box
-iu.quantumitems7.name=§eAdvanced Nano Box
+iu.quantumitems7.name=§eImproved Nano Box
 iu.quantumitems6.name=§bQuantum Box
-iu.quantumitems3.name=Improved Quantum Box
-iu.spectral_box.name=Spectral Box
-iu.adv_spectral_box.name=Improved Spectral Box
+iu.quantumitems3.name=§bImproved Quantum Box
+iu.spectral_box.name=§dSpectral Box
+iu.adv_spectral_box.name=§dImproved Spectral Box
 
 # Cables
 iu.itemcable=§aSpectral Cable
@@ -240,8 +240,8 @@ iu.electric_treetap=Electric Treetap
 item.electric_wrench.name=Electric Wrench
 item.chainsaw.name=Chainsaw
 item.frequency_transmitter.name=Frequency Transmitter
-item.re_battery.name=RE-Battery
-item.advanced_re_battery.name=Advanced RE-Battery
+item.re_battery.name=Lithium Battery
+item.advanced_re_battery.name=Lead Battery
 item.energy_crystal.name=Energy Crystal
 item.lapotron_crystal.name=Lapotron Crystal
 
@@ -310,6 +310,7 @@ iu.quarrymodules.blackmodule=Module: Blacklist
 iu.quarrymodules.whitemodule=Module: Whitelist
 iu.quarrymodules.macerator=Module: Macerator
 iu.quarrymodules.comb_macerator=Module: Ore Macerator
+iu.quarrymodules.polisher=Module: Polisher
 
 iu.expmodule.name=Module: Experience Storage
 iu.module_stack.name=Module: Stack
@@ -588,6 +589,9 @@ itemGroup.ResourceTab=IU: Resources
 itemGroup.ReactorsTab=IU: Radioactive
 itemGroup.UpgradeTab=IU: Upgrades
 itemGroup.BlueprintTab=IU: Schemes
+itemGroup.FluidBlockTab=IU: Liquids
+itemGroup.CraftingElementsTab=IU: Crafting Elements
+itemGroup.ReactorsBlockTab=IU: Reactor blocks
 
 itemCellEmpty.name=Advanced Cell
 itemCellUuMatter.name=Liquefied Neutron
@@ -1073,6 +1077,7 @@ iu.osmiridium_block.name=Block of Osmiridium
 iu.superalloy_haynes_block.name=Block of Superalloy Haynes
 iu.superalloy_rene_block.name=Block of Superalloy Rene
 iu.yttrium_aluminium_garnet_block.name=Block of Yttrium-Aluminium Garnet
+iu.gallium_arcenic_block.name=Block of Gallium-Arsenic
 
 
 #Metal Blocks
@@ -1143,6 +1148,7 @@ iu.alloysingot.osmiridium=Osmiridium Ingot
 iu.alloysingot.superalloy_haynes=Superalloy Haynes Ingot
 iu.alloysingot.superalloy_rene=Superalloy Rene Ingot
 iu.alloysingot.yttrium_aluminium_garnet=Yttrium-Aluminium Garnet Ingot
+iu.alloysingot.gallium_arsenic=Gallium-Arsenic Ingot
 
 #Metal Ingots
 iu.ingot.mikhail_ingot=Michalov Ingot
@@ -1212,6 +1218,7 @@ iu.alloysplate.osmiridium=Osmiridium Plate
 iu.alloysplate.superalloy_haynes=Superalloy Haynes Plate
 iu.alloysplate.superalloy_rene=Superalloy Rene Plate
 iu.alloysplate.yttrium_aluminium_garnet=Yttrium-Aluminium Garnet Plate
+iu.alloysplate.gallium_arsenic=Gallium-Arsenic Plate
 
 #Botania Plates
 iu.manasteel_plate.name=§bManasteel Plate
@@ -1286,6 +1293,7 @@ iu.alloysdoubleplate.osmiridium=Dense Osmiridium Plate
 iu.alloysdoubleplate.superalloy_haynes=Dense Superalloy Haynes Plate
 iu.alloysdoubleplate.superalloy_rene=Dense Superalloy Rene Plate
 iu.alloysdoubleplate.yttrium_aluminium_garnet=Dense Yttrium-Aluminium Garnet Plate
+iu.alloysdoubleplate.gallium_arsenic=Dense Gallium-Arsenic Plate
 
 #Dense Metal Plates
 iu.doubleplate.mikhail_doubleplate=Dense Michalov Plate
@@ -1355,6 +1363,7 @@ iu.alloyscasing.osmiridium=Osmiridium Item Casing
 iu.alloyscasing.superalloy_haynes=Superalloy Haynes Item Casing
 iu.alloyscasing.superalloy_rene=Superalloy Rene Item Casing
 iu.alloyscasing.yttrium_aluminium_garnet=Yttrium-Aluminium Garnet Item Casing
+iu.alloyscasing.gallium_arsenic=Gallium-Arsenic Item Casing
 
 #Metal Item Casings
 iu.casing.mikhail=Michalov Item Casing
@@ -1472,6 +1481,7 @@ iu.alloysnugget.osmiridium=Osmiridium Nugget
 iu.alloysnugget.superalloy_haynes=Superalloy Haynes Nugget
 iu.alloysnugget.superalloy_rene=Superalloy Rene Nugget
 iu.alloysnugget.yttrium_aluminium_garnet=Yttrium-Aluminium Garnet Nugget
+iu.alloysnugget.gallium_arsenic=Gallium-Arsenic Nugget
 
 #Metal Nuggets
 iu.nugget.mikhail=Michalov Nugget
@@ -1541,6 +1551,7 @@ iu.alloysdust.osmiridium=Osmiridium Dust
 iu.alloysdust.superalloy_haynes=Superalloy Haynes Dust
 iu.alloysdust.superalloy_rene=Superalloy Rene Dust
 iu.alloysdust.yttrium_aluminium_garnet=Yttrium-Aluminium Garnet Dust
+iu.alloysdust.gallium_arsenic=Gallium-Arsenic Dust
 
 #Metal Dusts
 iu.dust.mikhail=Michalov Dust
@@ -3622,6 +3633,7 @@ iu.alloysgear.osmiridium=Osmiridium Gear
 iu.alloysgear.superalloy_haynes=Haynes Superalloy Gear
 iu.alloysgear.superalloy_rene=Rene Superalloy Gear
 iu.alloysgear.yttrium_aluminium_garnet=Yttrium-Aluminium Garnet Gear
+iu.alloysgear.gallium_arsenic=Gallium-Arsenic Gear
 
 iu.water_rotors_upgrade.water_rotorupgrade=Water Rotor Module: Durability I
 iu.water_rotors_upgrade.water_rotorupgrade1=Water Rotor Module: Durability II
@@ -3715,8 +3727,6 @@ iu.heatcold.heatcoldpipes1=Improved Universal Heat Pipe
 iu.heatcold.heatcoldpipes2=Advanced Universal Heat Pipe
 iu.heatcold.heatcoldpipes3=Perfect Universal Heat Pipe
 iu.heatcold.heatcoldpipes4=Quantum Universal Heat Pipe
-
-itemGroup.CraftingElementsTab=Crafting Items
 
 iu.watergenerator=With the strength of the current: 
 iu.watergenerator1=Generation dependent on biomes (use "River" or "Ocean" biomes)
@@ -4602,9 +4612,9 @@ iu.smalldust.osmium=Small Pile of Osmium Dust
 iu.stik.osmium=Osmium Stick
 iu.stik.tantalum=Tantalum Stick
 iu.stik.cadmium=Cadmium Stick
-iu.osmium_block=Osmium Block
-iu.tantalum_block=Tantalum Block
-iu.cadmium_block=Cadmium Block
+iu.osmium_block.name=Block of Osmium
+iu.tantalum_block.name=Block of Tantalum
+iu.cadmium_block.name=Block of Cadmium
 
 iu.reactormodules.generation0=Reactor module: Generation
 iu.reactormodules.generation1=Improved Reactor Module: Generation
@@ -4634,8 +4644,6 @@ iu.reactormodules.capacitor0=Reactor module: Capacitor
 iu.reactormodules.capacitor1=Improved Reactor Module: Capacitor
 iu.reactormodules.capacitor2=Advanced Reactor Module: Capacitor
 iu.reactormodules.capacitor3=Perfect Reactor Module: Capacitor
-
-itemGroup.ReactorsBlockTab=Reactor Blocks
 
 industrialupgrade.water_reactors.water_casing=Liquid Reactor Casing
 industrialupgrade.water_reactors.water_adv_casing=Improved Liquid Reactor Casing
@@ -5149,6 +5157,135 @@ iu.crafting_elements.crafting_492_element=Grown Silicon Crystal
 iu.crafting_elements.crafting_493_element=Silicon Crystal
 iu.crafting_elements.crafting_494_element=Polished Silicon Disk
 iu.crafting_elements.crafting_495_element=Polished Silicon Crystal
+iu.crafting_elements.crafting_496_element=Ingot Casting Mold
+iu.crafting_elements.crafting_497_element=Gear Casting Mold
+iu.crafting_elements.crafting_498_element=Coal Dust with Impurity
+iu.crafting_elements.crafting_499_element=Coal Dust for Alloys
+
+iu.crafting_elements.crafting_501_element=Processed Titanium Steel Plate
+iu.crafting_elements.crafting_502_element=Raw Steel Ingot
+iu.crafting_elements.crafting_503_element=Raw Titanium Steel Ingot
+iu.crafting_elements.crafting_504_element=Processed Titanium Steel Ingot
+
+iu.crafting_elements.crafting_508_element=Drill Bit
+iu.crafting_elements.crafting_509_element=Quantum Drill Bit
+iu.crafting_elements.crafting_510_element=Left Part of Quantum Shovel
+iu.crafting_elements.crafting_511_element=Left Part of Quantum Axe
+iu.crafting_elements.crafting_512_element=Left Part of Quantum Pickaxe
+iu.crafting_elements.crafting_513_element=Right Part of Quantum Shovel
+iu.crafting_elements.crafting_514_element=Right Part of Quantum Axe
+iu.crafting_elements.crafting_515_element=Right Part of Quantum Pickaxe
+iu.crafting_elements.crafting_516_element=Quantum Energy Crystal
+iu.crafting_elements.crafting_517_element=Nano Drill Bit
+iu.crafting_elements.crafting_518_element=Left Part of Nano Shovel
+iu.crafting_elements.crafting_519_element=Left Part of Nano Axe
+iu.crafting_elements.crafting_520_element=Left Part of Nano Pickaxe
+iu.crafting_elements.crafting_521_element=Right Part of Nano Shovel
+iu.crafting_elements.crafting_522_element=Right Part of Nano Axe
+iu.crafting_elements.crafting_523_element=Right Part of Nano Pickaxe
+iu.crafting_elements.crafting_524_element=Nano Energy Crystal
+iu.crafting_elements.crafting_525_element=Spectral Drill Bit
+iu.crafting_elements.crafting_526_element=Left Part of Spectral Shovel
+iu.crafting_elements.crafting_527_element=Left Part of Spectral Axe
+iu.crafting_elements.crafting_528_element=Left Part of Spectral Pickaxe
+iu.crafting_elements.crafting_529_element=Right Part of Spectral Shovel
+iu.crafting_elements.crafting_530_element=Right Part of Spectral Axe
+iu.crafting_elements.crafting_531_element=Right Part of Spectral Pickaxe
+iu.crafting_elements.crafting_532_element=Spectral Energy Crystal
+iu.crafting_elements.crafting_533_element=1st Generation Processor
+iu.crafting_elements.crafting_534_element=10th Generation Processor
+iu.crafting_elements.crafting_535_element=16 MB Internal Memory
+iu.crafting_elements.crafting_536_element=16 MB RAM
+iu.crafting_elements.crafting_537_element=1 GB Internal Memory
+iu.crafting_elements.crafting_538_element=1 KB RAM
+iu.crafting_elements.crafting_539_element=1 MB Internal Memory
+iu.crafting_elements.crafting_540_element=1 MB RAM
+iu.crafting_elements.crafting_541_element=2nd Generation Processor
+iu.crafting_elements.crafting_542_element=256 KB RAM
+iu.crafting_elements.crafting_543_element=3rd Generation Processor
+iu.crafting_elements.crafting_544_element=32 MB Internal Memory
+iu.crafting_elements.crafting_545_element=4th Generation Processor
+iu.crafting_elements.crafting_546_element=4 GB Internal Memory
+iu.crafting_elements.crafting_547_element=4 MB Internal Memory
+iu.crafting_elements.crafting_548_element=4 MB RAM
+iu.crafting_elements.crafting_549_element=5th Generation Processor
+iu.crafting_elements.crafting_550_element=512 MB Internal Memory
+iu.crafting_elements.crafting_551_element=6th Generation Processor
+iu.crafting_elements.crafting_552_element=64 KB RAM
+iu.crafting_elements.crafting_553_element=64 MB Internal Memory
+iu.crafting_elements.crafting_554_element=64 MB RAM
+iu.crafting_elements.crafting_555_element=7th Generation Processor
+iu.crafting_elements.crafting_556_element=8th Generation Processor
+iu.crafting_elements.crafting_557_element=8 KB RAM
+iu.crafting_elements.crafting_558_element=9th Generation Processor
+iu.crafting_elements.crafting_559_element=Diamond-Nichrome Head
+iu.crafting_elements.crafting_560_element=Aluminium Bronze Data Bus
+iu.crafting_elements.crafting_561_element=Boride-Hafnium Address Bus
+iu.crafting_elements.crafting_562_element=Bronze Spindle
+iu.crafting_elements.crafting_563_element=Tungsten Resistor
+iu.crafting_elements.crafting_564_element=Wood Alloy Memory Module
+iu.crafting_elements.crafting_565_element=Gallium Arsenic Diode
+iu.crafting_elements.crafting_566_element=Hafnium Carbide Memory Module
+iu.crafting_elements.crafting_567_element=Germanium Diode
+iu.crafting_elements.crafting_568_element=Diode
+iu.crafting_elements.crafting_569_element=Iron Address Bus
+iu.crafting_elements.crafting_570_element=Iron-Silicon Head
+iu.crafting_elements.crafting_571_element=Iron Spindle
+iu.crafting_elements.crafting_572_element=Iron Disk
+iu.crafting_elements.crafting_573_element=Gold-Silicon Head
+iu.crafting_elements.crafting_574_element=Data Interface
+iu.crafting_elements.crafting_575_element=Yttrium Aluminium Disk
+iu.crafting_elements.crafting_576_element=Ceramic Memory Module
+iu.crafting_elements.crafting_577_element=Cobalt-Chrome Disk
+iu.crafting_elements.crafting_578_element=Casing
+iu.crafting_elements.crafting_579_element=Lazurite Resistor
+iu.crafting_elements.crafting_580_element=Copper Data Bus
+iu.crafting_elements.crafting_581_element=Copper Resistor
+iu.crafting_elements.crafting_582_element=Copper Twisted Coil Inductor
+iu.crafting_elements.crafting_583_element=Metal Solenoid Inductor
+iu.crafting_elements.crafting_584_element=Molybdenum Steel Memory Module
+iu.crafting_elements.crafting_585_element=Molybdenum Resistor
+iu.crafting_elements.crafting_586_element=Stainless Steel Spindle
+iu.crafting_elements.crafting_587_element=Nickel Disk
+iu.crafting_elements.crafting_588_element=Cooling System
+iu.crafting_elements.crafting_589_element=Permalloy Data Bus
+iu.crafting_elements.crafting_590_element=Platinum-Neodymium Head
+iu.crafting_elements.crafting_591_element=Platinum Address Bus
+iu.crafting_elements.crafting_592_element=Advanced Cooling System
+iu.crafting_elements.crafting_593_element=Power Connector
+iu.crafting_elements.crafting_594_element=Perfect Cooling System
+iu.crafting_elements.crafting_595_element=Steel Spindle
+iu.crafting_elements.crafting_596_element=Stellite Data Bus
+iu.crafting_elements.crafting_597_element=Permalloy Toroidal Inductor
+iu.crafting_elements.crafting_598_element=Improved Cooling System
+iu.crafting_elements.crafting_599_element=Ferrite Ring Inductor
+iu.crafting_elements.crafting_600_element=Electrum Address Bus
+iu.crafting_elements.crafting_601_element=Electrum Boiler
+iu.crafting_elements.crafting_602_element=Photon Sensor: Macerator
+iu.crafting_elements.crafting_603_element=Photon Sensor: Liquid
+iu.crafting_elements.crafting_604_element=Photon Sensor: Earth
+iu.crafting_elements.crafting_605_element=Photon Sensor: Craft
+iu.crafting_elements.crafting_606_element=Photon Sensor: Mechanical Stamp
+iu.crafting_elements.crafting_607_element=Photon Sensor: Refining
+iu.crafting_elements.crafting_608_element=Photon Sensor: Press
+iu.crafting_elements.crafting_609_element=Photon Sensor: Rolling Machine
+iu.crafting_elements.crafting_610_element=Photon Sensor: Ore Flushing
+iu.crafting_elements.crafting_611_element=Photon Sensor: Plants
+iu.crafting_elements.crafting_612_element=Photon Sensor: Auto Cutter
+iu.crafting_elements.crafting_613_element=Photon Sensor: Thermal
+iu.crafting_elements.crafting_614_element=Sensor: Improved Energy
+iu.crafting_elements.crafting_615_element=Photon Sensor: Extractor
+iu.crafting_elements.crafting_616_element=Photon Sensor: Extruder
+iu.crafting_elements.crafting_617_element=Photon Sensor: Electric Furnace
+iu.crafting_elements.crafting_618_element=Advanced Sensor: Alloy
+iu.crafting_elements.crafting_619_element=Perfect Sensor: Alloy
+iu.crafting_elements.crafting_620_element=Photon Sensor Template
+iu.crafting_elements.crafting_621_element=Photon Controller
+iu.crafting_elements.crafting_622_element=Photon Motor
+iu.crafting_elements.crafting_623_element=Photon Hull Plating
+iu.crafting_elements.crafting_624_element=§aImproved Photon Box
+iu.crafting_elements.crafting_625_element=§aPhoton Box
+
 
 iu.laser=Laser
 iu.solderingIron=Soldering Iron
@@ -5164,6 +5301,7 @@ iu.antisoilpollution.name=Module: 50% Soil Pollution Reduction
 
 iu.dust.aluminumsulfide=Aluminum Sulfide
 iu.dust.silicon=Silicon Dust
+iu.dust.lead_sodium=Lead-Sodium Dust
 
 industrialupgrade.cyclotron.cyclotron_controller=Cyclotron Controller
 industrialupgrade.cyclotron.cyclotron_positrons=Cyclotron Positron Container
@@ -5190,3 +5328,338 @@ iu.reactornobeliumquad=Quad Nobelium Rod
 iu.pellets.fermium_pellet=Fermium Pellet
 iu.pellets.nobelium_pellet=Nobelium Pellet
 iu.pellets.lawrencium_pellet=Lawrencium Pellet
+
+iu.peat.name=Peat Block
+iu.untreated_peat.name=Untreated Peat Block
+iu.fertilizer.name=Fertilizer
+iu.white_phosphorus.name=White Phosphorus
+iu.red_phosphorus.name=Red Phosphorus
+iu.phosphorus_oxide.name=Phosphorus Oxide
+iu.adv_anode=Improve Anode
+iu.adv_cathode=Improve Cathode
+iu.compressed_redstone.name=Compressed Redstone
+iu.electronic_stabilizers.name=Electronic Stabilizers
+iu.graphene_plate.name=Graphene Plate
+iu.graphene.name=Graphene
+iu.vanadiumaluminummesh=Vanadium-Aluminium Mesh
+iu.voltage_sensor_for_mechanism.name=Mechanism Voltage Sensor
+iu.imp_motors_with_improved_bearings_.name=Advanced Motor with Improved Bearings
+iu.polonium_palladium_composite.name=Polonium-Palladium Composite
+iu.cooling_mixture.name=Cooling Mixture
+iu.ironmesh=Iron Mesh
+iu.boridehafniummesh=Boride-Hafnium Mesh
+iu.upgrade_casing.name=Upgrade Casing
+iu.steelmesh=Steel Mesh
+iu.extreme_current_converter_to_low.name=Extreme Current to Low Converter
+iu.steleticmesh=Stellite Mesh
+iu.cryogenic_cooling_mixture.name=Cryogenic Cooling Mixture
+iu.graphene_wire.name=Graphene Wire
+iu.helium_cooling_mixture.name=Helium Cooling Mixture
+iu.high_current_converter_to_low.name=High Current to Low Converter
+iu.motors_with_improved_bearings_.name=Motor with Improved Bearings
+iu.spipe=Steam Pipe
+iu.adv_motors_with_improved_bearings_.name=Improved Motor with Improved Bearings
+iu.medium_current_converter_to_low.name=Medium Current to Low Converter
+iu.peat_balls.name=Peat Ball
+iu.cultivated_peat.name=Cultivated Peat Ingot
+iu.synthetic_rubber.name=Synthetic Rubber
+iu.synthetic_plate.name=Synthetic Rubber Plate
+iu.steam_machine.name=Steam Machine Casing
+
+iu.fluorapatite.name=Fluorapatite Ore
+iu.nepheline.name=Nepheline Ore
+iu.calcium_phosphate.name=Calcium Phosphate Ore
+iu.sodium_phosphate.name=Sodium Phosphate Ore
+iu.potassium_phosphate.name=Potassium Phosphate Ore
+iu.crystal.name=Crystal Ore
+iu.sulfur.name=Sulfur Ore
+iu.raw_apatite.name=Raw Apatite
+iu.apatite_cube.name=Polished Apatite
+
+iu.humus_block.name=Humus Block
+iu.dust.ammonium_chloride=Ammonium Chloride Dust
+iu.dust.silver_nitrate=Silver Nitrate Dust
+iu.dust.silver_chloride=Silver Chloride Dust
+iu.dust.sodium=Sodium Dust
+iu.dust.calcium_fluoride=Calcium Fluoride Dust
+iu.dust.calcium_phosphate=Calcium Phosphate Dust
+iu.dust.calcium_sulfate=Calcium Sulfate Dust
+iu.dust.alkaline_mixture=Alkaline Dust
+iu.dust.sodium_phosphate=Sodium Phosphate Dust
+iu.dust.potassium_phosphate=Potassium Phosphate Dust
+iu.dust.calcium_silicate=Calcium Silicate Dust
+iu.dust.trinitrotoluene=Trinitrotoluene Dust
+
+iu.nuclearresource.americium_dust=Americium Dust
+iu.nuclearresource.neptunium_dust=Neptunium Dust
+iu.nuclearresource.curium_dust=Curium Dust
+iu.nuclearresource.americium_smalldust=Pile of Americium
+iu.nuclearresource.neptunium_smalldust=Pile of Neptunium
+iu.nuclearresource.curium_smalldust=Pile of Curium
+iu.nuclearresource.thorium_shard=Thorium Shard
+iu.nuclearresource.unprocessed_radioactive_americium=Unprocessed Radioactive Americium
+iu.nuclearresource.unprocessed_radioactive_neptunium=Unprocessed Radioactive Neptunium
+iu.nuclearresource.unprocessed_radioactive_thorium=Unprocessed Radioactive Thorium
+iu.nuclearresource.unprocessed_radioactive_curium=Unprocessed Radioactive Curium
+iu.nuclearresource.unprocessed_radioactive_uranium=Unprocessed Radioactive Uranium
+
+
+##Smeltery
+
+industrialupgrade.smeltery.smeltery_controller=Smeltery Controller
+industrialupgrade.smeltery.smeltery_casing=Smeltery Casing
+industrialupgrade.smeltery.smeltery_fuel_tank=Smeltery Fuel Tank
+industrialupgrade.smeltery.smeltery_tank=Smeltery Tank
+industrialupgrade.smeltery.smeltery_furnace=Smeltery Furnace
+industrialupgrade.smeltery.smeltery_casting=Smeltery Casting Block
+
+##Steam Mechanisms
+
+industrialupgrade.basemachine3.steamboiler=Steam Boiler
+industrialupgrade.basemachine3.steampressureconverter=Steam Pressure Converter
+industrialupgrade.basemachine3.steamdryer=Steam Dryer
+industrialupgrade.basemachine3.steam_macerator=Steam Macerator
+industrialupgrade.basemachine3.steam_compressor=Steam Compressor
+industrialupgrade.basemachine3.steam_extractor=Steam Extractor
+industrialupgrade.basemachine3.steam_extruder=Steam Extruder
+industrialupgrade.basemachine3.steam_cutting=Steam Cutting Machine
+industrialupgrade.basemachine3.steam_converter=Steam Converter
+industrialupgrade.basemachine3.steam_squeezer=Steam Squeezer
+industrialupgrade.basemachine3.peat_generator=Peat Generator
+industrialupgrade.basemachine3.steam_peat_generator=Steam Peat Generator
+industrialupgrade.basemachine3.steam_handler_ore=Steam Ore Separator
+industrialupgrade.basemachine3.steam_electrolyzer=Steam Electrolyzer
+industrialupgrade.basemachine3.steam_ampere_generator=Steam Current Converter
+industrialupgrade.basemachine3.steam_solid_fluid_mixer=Steam Solid-Fluid Mixer
+industrialupgrade.basemachine3.steam_pump=Steam Pump
+industrialupgrade.basemachine3.steam_sharpener=Steam Sharpener
+
+industrialupgrade.basemachine3.solid_fluid_integrator=Solid-Fluid Integrator
+industrialupgrade.basemachine3.solid_mixer=Solid Mixer
+industrialupgrade.basemachine3.triple_solid_mixer=Triple Solid Mixer
+industrialupgrade.basemachine3.single_fluid_adapter=Single Fluid Adapter
+industrialupgrade.basemachine3.programming_table=Electric Programming Table
+industrialupgrade.basemachine3.electronic_assembler=Electric Electronic Assembler
+industrialupgrade.basemachine3.oak_tank=Oak Tank
+industrialupgrade.basemachine3.steel_tank=Steel Tank
+industrialupgrade.basemachine3.alkalineearthquarry=Alkaline Earth Quarry
+industrialupgrade.basemachine3.radioactive_handler_ore=Radioactive Ore Handler
+industrialupgrade.basemachine3.industrial_ore_purifier=Industrial Radioactive Element Purifier
+
+industrialupgrade.primal_programming_table.primal_programming_table=Primal Programming Table
+industrialupgrade.primal_pump.primal_pump=Primal Pump
+
+##Liquid Metals
+
+iu.fluidiron=Molten Iron
+iu.fluidnickel=Molten Nickel
+iu.fluidcarbon=Molten Carbon
+iu.fluidsteel=Molten Steel
+iu.fluidtitaniumsteel=Molten Titanium Steel
+iu.fluidgold=Molten Gold
+iu.fluidsilver=Molten Silver
+iu.fluidelectrum=Molten Electrum
+iu.fluidinvar=Molten Invar
+iu.fluidcopper=Molten Copper
+iu.fluidtin=Molten Tin
+iu.fluidbronze=Molten Bronze
+iu.fluidgallium=Molten Gallium
+iu.fluidarsenicum=Molten Arsenic
+iu.fluidaluminium=Molten Aluminum
+iu.fluidaluminiumbronze=Molten Aluminum Bronze
+iu.fluidirontitanium=Molten Iron-Titanium
+iu.fluidtitanium=Molten Titanium
+iu.fluidarsenicum_gallium=Molten Gallium Arsenic
+iu.fluidmanganese=Molten Manganese
+iu.fluidferromanganese=Molten Ferromanganese
+
+fluid.fluidiron=Molten Iron
+fluid.fluidnickel=Molten Nickel
+fluid.fluidcarbon=Molten Carbon
+fluid.fluidsteel=Molten Steel
+fluid.fluidtitaniumsteel=Molten Titanium Steel
+fluid.fluidgold=Molten Gold
+fluid.fluidsilver=Molten Silver
+fluid.fluidelectrum=Molten Electrum
+fluid.fluidinvar=Molten Invar
+fluid.fluidcopper=Molten Copper
+fluid.fluidtin=Molten Tin
+fluid.fluidbronze=Molten Bronze
+fluid.fluidgallium=Molten Gallium
+fluid.fluidarsenicum=Molten Arsenic
+fluid.fluidaluminium=Molten Aluminum
+fluid.fluidaluminiumbronze=Molten Aluminum Bronze
+fluid.fluidirontitanium=Molten Iron-Titanium
+fluid.fluidtitanium=Molten Titanium
+fluid.fluidarsenicum_gallium=Molten Gallium Arsenic
+fluid.fluidmanganese=Molten Manganese
+fluid.fluidferromanganese=Molten Ferromanganese
+
+# Buckets
+item.forge.bucketFilled.iufluidiron=Bucket of Molten Iron
+item.forge.bucketFilled.iufluidnickel=Bucket of Molten Nickel
+item.forge.bucketFilled.iufluidcarbon=Bucket of Molten Carbon
+item.forge.bucketFilled.iufluidsteel=Bucket of Molten Steel
+item.forge.bucketFilled.iufluidtitaniumsteel=Bucket of Molten Titanium Steel
+item.forge.bucketFilled.iufluidgold=Bucket of Molten Gold
+item.forge.bucketFilled.iufluidsilver=Bucket of Molten Silver
+item.forge.bucketFilled.iufluidelectrum=Bucket of Molten Electrum
+item.forge.bucketFilled.iufluidinvar=Bucket of Molten Invar
+item.forge.bucketFilled.iufluidcopper=Bucket of Molten Copper
+item.forge.bucketFilled.iufluidtin=Bucket of Molten Tin
+item.forge.bucketFilled.iufluidbronze=Bucket of Molten Bronze
+item.forge.bucketFilled.iufluidgallium=Bucket of Molten Gallium
+item.forge.bucketFilled.iufluidarsenicum=Bucket of Molten Arsenic
+item.forge.bucketFilled.iufluidaluminium=Bucket of Molten Aluminum
+item.forge.bucketFilled.iufluidaluminiumbronze=Bucket of Molten Aluminum Bronze
+item.forge.bucketFilled.iufluidirontitanium=Bucket of Molten Iron-Titanium
+item.forge.bucketFilled.iufluidtitanium=Bucket of Molten Titanium
+item.forge.bucketFilled.iufluidarsenicum_gallium=Bucket of Molten Gallium Arsenic
+item.forge.bucketFilled.iufluidmanganese=Bucket of Molten Manganese
+item.forge.bucketFilled.iufluidferromanganese=Bucket of Molten Ferromanganese
+
+##Other Fluids
+
+iu.fluidnitrogenhydride=Nitrogen Hydride
+iu.fluidnitrogendioxide=Nitrogen Dioxide
+iu.fluidnitricacid=Nitric Acid
+iu.fluidorthophosphoricacid=Orthophosphoric Acid
+iu.fluidbenzene=Benzene
+iu.fluidtoluene=Toluene
+iu.fluidmethylbromide=Methyl Bromide
+iu.fluidhydrogenbromide=Hydrogen Bromide
+iu.fluidtrinitrotoluene=Trinitrotoluene
+iu.fluidethanol=Ethanol
+iu.fluidpolyacrylonitrile=Polyacrylonitrile
+iu.fluidpolybutadiene=Polybutadiene
+iu.fluidbutadiene_nitrile=Butadiene-Nitrile
+iu.fluidacrylonitrile=Acrylonitrile
+iu.fluidbutadiene=Butadiene
+iu.fluidethene=Ethene
+iu.fluidaaa_diesel=AAA Diesel
+iu.fluidmethylcyclohexane=Methylcyclohexane
+iu.fluidaa_diesel=AA Diesel
+iu.fluidpetrol95=Petrol 95
+iu.fluidcyclohexane=Cyclohexane
+iu.fluidhydrogenchloride=Hydrogen Chloride
+iu.fluidmethylcyclohexylnitrate=Methylcyclohexyl Nitrate
+iu.fluidisobutylene=Isobutylene
+iu.fluidaaaa_diesel=AAAA Diesel
+iu.fluidpetrol90=Petrol 90
+iu.fluidchloroethane=Chloroethane
+iu.fluidcarbonmonoxide=Carbon Monoxide
+iu.fluidmethanol=Methanol
+iu.fluidtertbutylsulfuricacid=Tert-Butylsulfonic Acid
+iu.fluidethylhexanol=Ethylhexanol
+iu.fluidtertbutylalcohol=Tert-Butyl Alcohol
+iu.fluidethylhexylnitrate=Ethylhexyl Nitrate
+iu.fluidtertbutylmethylether=Tert-Butyl Methyl Ether
+iu.fluidtetraethyllead=Tetraethyl Lead
+iu.fluida_diesel=A Diesel
+iu.fluidpetrol105=Petrol 105
+iu.fluidmethylpentane=Methylpentane
+iu.fluidbutene=Butene
+iu.fluidpetrol100=Petrol 100
+iu.fluidmethylpentanal=Methylpentanal
+
+fluid.fluidnitrogenhydride=Nitrogen Hydride
+fluid.fluidnitrogendioxide=Nitrogen Dioxide
+fluid.fluidnitricacid=Nitric Acid
+fluid.fluidorthophosphoricacid=Orthophosphoric Acid
+fluid.fluidbenzene=Benzene
+fluid.fluidtoluene=Toluene
+fluid.fluidmethylbromide=Methyl Bromide
+fluid.fluidhydrogenbromide=Hydrogen Bromide
+fluid.fluidtrinitrotoluene=Trinitrotoluene
+fluid.fluidethanol=Ethanol
+fluid.fluidpolyacrylonitrile=Polyacrylonitrile
+fluid.fluidpolybutadiene=Polybutadiene
+fluid.fluidbutadiene_nitrile=Butadiene-Nitrile
+fluid.fluidacrylonitrile=Acrylonitrile
+fluid.fluidbutadiene=Butadiene
+fluid.fluidethene=Ethene
+fluid.fluidaaa_diesel=AAA Diesel
+fluid.fluidmethylcyclohexane=Methylcyclohexane
+fluid.fluidaa_diesel=AA Diesel
+fluid.fluidpetrol95=Petrol 95
+fluid.fluidcyclohexane=Cyclohexane
+fluid.fluidhydrogenchloride=Hydrogen Chloride
+fluid.fluidmethylcyclohexylnitrate=Methylcyclohexyl Nitrate
+fluid.fluidisobutylene=Isobutylene
+fluid.fluidaaaa_diesel=AAAA Diesel
+fluid.fluidpetrol90=Petrol 90
+fluid.fluidchloroethane=Chloroethane
+fluid.fluidcarbonmonoxide=Carbon Monoxide
+fluid.fluidmethanol=Methanol
+fluid.fluidtertbutylsulfuricacid=Tert-Butylsulfonic Acid
+fluid.fluidethylhexanol=Ethylhexanol
+fluid.fluidtertbutylalcohol=Tert-Butyl Alcohol
+fluid.fluidethylhexylnitrate=Ethylhexyl Nitrate
+fluid.fluidtertbutylmethylether=Tert-Butyl Methyl Ether
+fluid.fluidtetraethyllead=Tetraethyl Lead
+fluid.fluida_diesel=A Diesel
+fluid.fluidpetrol105=Petrol 105
+fluid.fluidmethylpentane=Methylpentane
+fluid.fluidbutene=Butene
+fluid.fluidpetrol100=Petrol 100
+fluid.fluidmethylpentanal=Methylpentanal
+
+## Buckets
+
+item.forge.bucketFilled.iufluidnitrogenhydride=Bucket of Nitrogen Hydride
+item.forge.bucketFilled.iufluidnitrogendioxide=Bucket of Nitrogen Dioxide
+item.forge.bucketFilled.iufluidnitricacid=Bucket of Nitric Acid
+item.forge.bucketFilled.iufluidorthophosphoricacid=Bucket of Orthophosphoric Acid
+item.forge.bucketFilled.iufluidbenzene=Bucket of Benzene
+item.forge.bucketFilled.iufluidtoluene=Bucket of Toluene
+item.forge.bucketFilled.iufluidmethylbromide=Bucket of Methyl Bromide
+item.forge.bucketFilled.iufluidhydrogenbromide=Bucket of Hydrogen Bromide
+item.forge.bucketFilled.iufluidtrinitrotoluene=Bucket of Trinitrotoluene
+item.forge.bucketFilled.iufluidethanol=Bucket of Ethanol
+item.forge.bucketFilled.iufluidpolyacrylonitrile=Bucket of Polyacrylonitrile
+item.forge.bucketFilled.iufluidpolybutadiene=Bucket of Polybutadiene
+item.forge.bucketFilled.iufluidbutadiene_nitrile=Bucket of Butadiene-Nitrile
+item.forge.bucketFilled.iufluidacrylonitrile=Bucket of Acrylonitrile
+item.forge.bucketFilled.iufluidbutadiene=Bucket of Butadiene
+item.forge.bucketFilled.iufluidethene=Bucket of Ethene
+item.forge.bucketFilled.iufluidaaa_diesel=Bucket of AAA Diesel
+item.forge.bucketFilled.iufluidmethylcyclohexane=Bucket of Methylcyclohexane
+item.forge.bucketFilled.iufluidaa_diesel=Bucket of AA Diesel
+item.forge.bucketFilled.iufluidpetrol95=Bucket of Petrol 95
+item.forge.bucketFilled.iufluidcyclohexane=Bucket of Cyclohexane
+item.forge.bucketFilled.iufluidhydrogenchloride=Bucket of Hydrogen Chloride
+item.forge.bucketFilled.iufluidmethylcyclohexylnitrate=Bucket of Methylcyclohexylnitrate
+item.forge.bucketFilled.iufluidisobutylene=Bucket of Isobutylene
+item.forge.bucketFilled.iufluidaaaa_diesel=Bucket of AAAA Diesel
+item.forge.bucketFilled.iufluidpetrol90=Bucket of Petrol 90
+item.forge.bucketFilled.iufluidchloroethane=Bucket of Chloroethane
+item.forge.bucketFilled.iufluidcarbonmonoxide=Bucket of Carbon Monoxide
+item.forge.bucketFilled.iufluidmethanol=Bucket of Methanol
+item.forge.bucketFilled.iufluidtertbutylsulfuricacid=Bucket of Tert-Butyl Sulfuric Acid
+item.forge.bucketFilled.iufluidethylhexanol=Bucket of Ethylhexanol
+item.forge.bucketFilled.iufluidtertbutylalcohol=Bucket of Tert-Butyl Alcohol
+item.forge.bucketFilled.iufluidethylhexylnitrate=Bucket of Ethylhexylnitrate
+item.forge.bucketFilled.iufluidtertbutylmethylether=Bucket of Tert-Butyl Methyl Ether
+item.forge.bucketFilled.iufluidtetraethyllead=Bucket of Tetraethyllead
+item.forge.bucketFilled.iufluida_diesel=Bucket of A Diesel
+item.forge.bucketFilled.iufluidpetrol105=Bucket of Petrol 105
+item.forge.bucketFilled.iufluidmethylpentane=Bucket of Methylpentane
+item.forge.bucketFilled.iufluidbutene=Bucket of Butene
+item.forge.bucketFilled.iufluidpetrol100=Bucket of Petrol 100
+item.forge.bucketFilled.iufluidmethylpentanal=Bucket of Methylpentanal
+
+## Photonic Machines
+
+industrialupgrade.photonic_machine.photonic_macerator=Photonic Macerator
+industrialupgrade.photonic_machine.photonic_compressor=Photonic Compressor
+industrialupgrade.photonic_machine.photonic_extractor=Photonic Extractor
+industrialupgrade.photonic_machine.photonic_furnace=Photonic Electric Furnace
+industrialupgrade.photonic_machine.photonic_rolling=Photonic Rolling Machine
+industrialupgrade.photonic_machine.photonic_extruding=Photonic Extruder
+industrialupgrade.photonic_machine.photonic_cutting=Photonic Cutting Machine
+industrialupgrade.photonic_machine.photonic_fermer=Photonic Autonomous Farm
+industrialupgrade.photonic_machine.photonic_assembler=Photonic Scrap Assembler
+industrialupgrade.photonic_machine.photonic_centrifuge=§ePhotonic Centrifuge
+industrialupgrade.photonic_machine.photonic_orewashing=§ePhotonic Ore Washing Machine
+industrialupgrade.photonic_machine.photonic_gearing=§ePhotonic Mechanical Stamping
+
