@@ -1882,7 +1882,7 @@ advjetpack.name=Improved Electric Jetpack
 impjetpack.name=Advanced Electric Jetpack
 perjetpack.name=Perfect Electric Jetpack
 
-item.itemadvbatchargecrystal.name=§aCharging Advenced Energy Crystal
+item.itemadvbatchargecrystal.name=§aCharging Advanced Energy Crystal
 item.itembatchargecrystal.name=§dCharging Perfect Energy Crystal
 
 #Energy Storage Upgrade Kits
