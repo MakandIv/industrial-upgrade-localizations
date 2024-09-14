@@ -3469,7 +3469,7 @@ iu.crafting_elements.crafting_407_element=Spectral Gasket
 iu.crafting_elements.crafting_408_element=Spectral Socket Part
 iu.crafting_elements.crafting_409_element=Spectral Active Mass
 iu.crafting_elements.crafting_410_element=Medium Graphite Rod
-iu.crafting_elements.crafting_411_element=Steel Staple 
+iu.crafting_elements.crafting_411_element=Steel Staple
 iu.crafting_elements.crafting_412_element=Exchanger stamp
 iu.crafting_elements.crafting_413_element=Heatsink Stamp
 iu.crafting_elements.crafting_414_element=Transistor
@@ -5663,3 +5663,9 @@ industrialupgrade.photonic_machine.photonic_centrifuge=§ePhotonic Centrifuge
 industrialupgrade.photonic_machine.photonic_orewashing=§ePhotonic Ore Washing Machine
 industrialupgrade.photonic_machine.photonic_gearing=§ePhotonic Mechanical Stamping
 
+
+recipe_tuner.change_mode=Change mode
+recipe_tuner.write=Write
+circuit.level=Level:
+iu.renderstreak=Render streak
+iu.renderstreakplayers=Render streak players

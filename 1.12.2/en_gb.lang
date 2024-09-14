@@ -5663,3 +5663,9 @@ industrialupgrade.photonic_machine.photonic_centrifuge=§ePhotonic Centrifuge
 industrialupgrade.photonic_machine.photonic_orewashing=§ePhotonic Ore Washing Machine
 industrialupgrade.photonic_machine.photonic_gearing=§ePhotonic Mechanical Stamping
 
+
+recipe_tuner.change_mode=Change mode
+recipe_tuner.write=Write
+circuit.level=Level:
+iu.renderstreak=Render streak
+iu.renderstreakplayers=Render streak players
