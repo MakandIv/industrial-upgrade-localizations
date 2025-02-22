@@ -6486,7 +6486,7 @@ iu.research2.info7=Each spacecraft must be fueled.
 iu.research2.info8=There are four types of fuel: hydrazine, methylhydrazine, decane, and xenon.
 iu.research2.info9=Spacecraft also need to be charged.
 iu.research2.info10=If fuel or energy runs out, the spacecraft will be lost.
-iu.research2.info11=Items are loaded into the rocket launch pad, and liquids go into the side tanks in the 3×3 area.
+iu.research2.info11=Items and fluids are loaded into the rocket launch pad
 iu.research2.info12=To do this, place tanks from this mod around it.
 iu.research2.info13=More tips will be provided in future parts.
 
@@ -6505,7 +6505,8 @@ iu.research3.info11=To automate an expedition, click "Automation: Enable".
 iu.research3.info12=Monitor fuel and energy levels. The enabled automation mode will automatically refuel and recharge the spacecraft.
 iu.research3.info13=Once research reaches 100%, the "Establish Colony" button will appear.
 iu.research3.info14=A similar interface is available for satellites with the same functionality.
-
+iu.research3.info15=To create a colony you need: three "Residential Module I", two "Factory I", one "Oxygen Module I"
+iu.research3.info16=One "Protection I", one "Solar Panel I", everything should be in the inventory
 
 recipe_tuner.change_mode=Change mode
 recipe_tuner.write=Write
@@ -7554,5 +7555,17 @@ iu.crop.oneprobe.frames=Frames:
 iu.crop.oneprobe.no_frames=No frames
 iu.crop.oneprobe.genes_count=Genes:
 
+iu.separate=Separate 
+iu.shield.visible=Shield: active 
+iu.shield.invisible=Shield: inactive 
+iu.laser.visible=Laser: active 
+iu.laser.invisible=Laser: inactive
 
-iu.separate=Separate
+quarry.guide.gasturbine=Gas Turbine Guide
+quarry.guide.gasturbine1=Generates energy from gases 
+quarry.guide.gasturbine2=Use radiators in the recuperator (top and bottom of the structure) 
+quarry.guide.gasturbine3=All radiators must be installed for the turbine to operate
+
+
+iu.windturbine.info=Removes dependence on height and wind direction
+iu.hydroturbine.info=Removes dependence on biome and flow direction
