@@ -6003,7 +6003,7 @@ iu.net=Net
 
 ## Raw Ores
 
-iu.raw_metals.michalov=Raw Michalov
+iu.raw_metals.mikhail=Raw Mikhail
 iu.raw_metals.aluminium=Raw Aluminum
 iu.raw_metals.vanadium=Raw Vanadium
 iu.raw_metals.tungsten=Raw Tungsten
@@ -6043,7 +6043,7 @@ iu.raw_metals.strontium=Raw Strontium
 iu.raw_metals.thallium=Raw Thallium
 iu.raw_metals.zirconium=Raw Zirconium
 
-iu.raw_ingot.michalov=Raw Michalov Ingot
+iu.raw_ingot.mikhail=Raw Mikhail Ingot
 iu.raw_ingot.aluminium=Raw Aluminum Ingot
 iu.raw_ingot.vanadium=Raw Vanadium Ingot
 iu.raw_ingot.tungsten=Raw Tungsten Ingot
