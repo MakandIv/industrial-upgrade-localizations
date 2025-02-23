@@ -7632,3 +7632,8 @@ iu.addons.installed=Установленные аддоны:
 iu.addons.required=Обязательные моды для облегчения выживания:
 iu.discord.question=Задать вопрос в Discord:
 iu.discord.click=Нажмите сюда
+
+iu.crop.breeding=Для скрешивания нужны:
+iu.primitive_master=Навык:
+iu.primitive_anvil_durability=Прочность:
+iu.bee_negative=Пчёлы, враждебные к этой пчеле:
