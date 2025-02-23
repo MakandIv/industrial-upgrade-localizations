@@ -7626,3 +7626,9 @@ iu.hydroturbine.info=Убирает зависимость от биома и н
 fluid.tile.lava=Лава
 fluid.tile.water=Вода
 iu.can_upgrade_item=Можно улучшить с помощью следующих модулей: 
+
+iu.mod.name=IndustrialUpgrade
+iu.addons.installed=Установленные аддоны:
+iu.addons.required=Обязательные моды для облегчения выживания:
+iu.discord.question=Задать вопрос в Discord:
+iu.discord.click=Нажмите сюда

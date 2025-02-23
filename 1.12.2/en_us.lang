@@ -7573,3 +7573,9 @@ iu.hydroturbine.info=Removes dependence on biome and flow direction
 fluid.tile.lava=Lava
 fluid.tile.water=Water
 iu.can_upgrade_item=Can be improved with the following modules: 
+
+iu.mod.name=IndustrialUpgrade
+iu.addons.installed=Installed addons:
+iu.addons.required=Required mods for easier survival:
+iu.discord.question=Ask a question in Discord:
+iu.discord.click=Click here
