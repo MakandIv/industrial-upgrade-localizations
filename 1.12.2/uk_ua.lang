@@ -4333,6 +4333,7 @@ death.attack.current=%1$s помер від удару струмом
 death.attack.radiation=%1$s помер від радіації
 death.attack.frostbite=%1$s помер від обмороження
 death.attack.cropEating=%1$s з'їдений м'ясоїдною рослиною
+death.attack.bee=%1$s розворушив не той вулик
 
 iu.painter=Валик
 iu.painter.black=Чорний валик

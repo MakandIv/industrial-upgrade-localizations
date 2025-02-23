@@ -4307,6 +4307,7 @@ death.attack.current=%1$s died from electric shock
 death.attack.radiation=%1$s died from radiation
 death.attack.frostbite=%1$s died of frostbite
 death.attack.cropEating=%1$s got eaten by an EatingPlant
+death.attack.bee=%1$s stirred up the wrong hive
 
 iu.painter=Painter
 iu.painter.black=Black Painter

@@ -4336,6 +4336,7 @@ death.attack.current=%1$s умер от удара током
 death.attack.radiation=%1$s умер от радиации
 death.attack.frostbite=%1$s умер от обморожения
 death.attack.cropEating=%1$s съеден плотоядным растением
+death.attack.bee=%1$s разворошил не тот улей
 
 iu.painter=Валик
 iu.painter.black=Чёрный валик
