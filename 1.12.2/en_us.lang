@@ -6964,7 +6964,7 @@ iu.steam_fluid_heater=Uses incoming steam from the steam mechanism and converts 
 
 iu.fluidchromium=Chromium
 iu.fluidnichrome=Nichrome
-iu.fluidduralumin=Duralumin
+iu.fluidduralumin=Molten Duralumin
 iu.fluidsodiumhydroxide=Sodium Hydroxide
 iu.fluidsodium_hypochlorite=Sodium Hypochlorite
 iu.fluidtungsten=Tungsten
@@ -7045,7 +7045,7 @@ iu.fluidxenon=Xenon
 
 fluid.fluidchromium=Chromium
 fluid.fluidnichrome=Nichrome
-fluid.fluidduralumin=Duralumin
+fluid.fluidduralumin=Molten Duralumin
 fluid.fluidsodiumhydroxide=Sodium Hydroxide
 fluid.fluidsodium_hypochlorite=Sodium Hypochlorite
 fluid.fluidtungsten=Tungsten
