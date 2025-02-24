@@ -4447,7 +4447,7 @@ iu.special_armor_nightvision_3=Night vision does not turn off in the morning
 iu.special_armor_speed=Speed
 
 industrialupgrade.basemachine3.facademechanism=Facade Machine
-iu.connect_item.name=Cable Connection Customizer
+iu.connect_item.name=Connection Configurator
 iu.facadeItem=Facade Tool
 
 facademechanism_text=Facade Machine
@@ -6324,7 +6324,7 @@ iu.crafting_elements.crafting_704_element=Small Lead Solar Battery
 iu.crafting_elements.crafting_705_element=Orientation Stabilizer
 iu.crafting_elements.crafting_706_element=Steel Shield
 iu.crafting_elements.crafting_707_element=Alumide-Titanium Casing
-iu.crafting_elements.crafting_708_element=Beryllium Steel Thermal Coating
+iu.crafting_elements.crafting_708_element=Beryllium Bronze Thermal Coating
 iu.crafting_elements.crafting_709_element=Tungsten Track
 iu.crafting_elements.crafting_710_element=Hydrostabilizer
 iu.crafting_elements.crafting_711_element=Draconium Casing
@@ -6632,7 +6632,7 @@ programming_table.info8=If the arrow hits the gray color, nothing happens.
 
 wire_insulator.info1=§6Right-click§r on the mechanism while holding an §ewire§r.
 wire_insulator.info2=Then right-click on the mechanism while holding §ainsulation§r.
-wire_insulator.info3=§cUse wire cutters§r to complete the process.
+wire_insulator.info3=§cUse cutter§r to complete the process.
 
 refractory_furnace.info1=To operate the mechanism, place §6lava§r underneath.
 refractory_furnace.info2=Hold §ecrushed ore§r in your hand and right-click on the mechanism.
@@ -6731,7 +6731,7 @@ iu.crop.info13=To collect the crop bag, hold Shift and right-click it.
 iu.crop.info14=Some crops need light to grow.
 iu.crop.info15=Air pollution, soil contamination, or radiation negatively affect crop growth.
 
-iu.wrench.info=The block must be twisted with a wrench
+iu.wrench.info=Can be removed with a wrench
 
 iu.gas_find.info=Can be detected with a 22.5% probability in any biome using a gas sensor.
 iu.iodine_find.info=Can be detected with an 11.25% probability in the "River" and "Ocean" biomes using a gas sensor.

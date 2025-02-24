@@ -1182,7 +1182,7 @@ iu.alloysingot.osmiridium=Осмиридиевый слиток
 iu.alloysingot.superalloy_haynes=Слиток суперсплава Хэйнс
 iu.alloysingot.superalloy_rene=Слиток суперсплава Рене
 iu.alloysingot.yttrium_aluminium_garnet=Слиток иттрий-алюминиевого граната
-iu.alloysingot.gallium_arsenic=Арсенид-галлиевая слиток
+iu.alloysingot.gallium_arsenic=Арсенид-галлиевый слиток
 
 #Слитки металлов
 iu.ingot.mikhail_ingot=Михаловый слиток
@@ -4476,7 +4476,7 @@ iu.special_armor_nightvision_3=Ночное видение не отключае
 iu.special_armor_speed=Быстрый бег
 
 industrialupgrade.basemachine3.facademechanism=Фасадный механизм
-iu.connect_item.name=Настройщик соединений проводов
+iu.connect_item.name=Конфигуратор соединений
 iu.facadeItem=Фасадный инструмент
 
 facademechanism_text=Фасадный механизм
@@ -6038,7 +6038,7 @@ iu.smalldust.ender_pearl=Кучка Эндер-жемчуга
 iu.smalldust.ghast=Кучка Гаста
 
 iu.charged_redstone.name=Заряженный редстоун
-iu.charged_quartz.name=Заряжанный кварц
+iu.charged_quartz.name=Заряженный кварц
 
 iu.relocator.name=Релокатор
 
@@ -6048,7 +6048,7 @@ iu.net=Сачок
 
 ## Сырые руды
 
-iu.raw_metals.mikhail=Рудный михайлий
+iu.raw_metals.mikhail=Рудный михал
 iu.raw_metals.aluminium=Рудный алюминий
 iu.raw_metals.vanadium=Рудный ванадий
 iu.raw_metals.tungsten=Рудный вольфрам
@@ -6088,7 +6088,7 @@ iu.raw_metals.strontium=Рудный стронций
 iu.raw_metals.thallium=Рудный таллий
 iu.raw_metals.zirconium=Рудный цирконий
 
-iu.raw_ingot.mikhail=Необработанный михайловый слиток
+iu.raw_ingot.mikhail=Необработанный михаловый слиток
 iu.raw_ingot.aluminium=Необработанный алюминиевый слиток
 iu.raw_ingot.vanadium=Необработанный ванадиевый слиток
 iu.raw_ingot.tungsten=Необработанный вольфрамовый слиток
@@ -6369,7 +6369,7 @@ iu.crafting_elements.crafting_704_element=Свинцовая малая солн
 iu.crafting_elements.crafting_705_element=Стабилизатор ориентации
 iu.crafting_elements.crafting_706_element=Стальной щит
 iu.crafting_elements.crafting_707_element=Алюмидо-титановый корпус
-iu.crafting_elements.crafting_708_element=Термопокрытие из бериллиевой стали
+iu.crafting_elements.crafting_708_element=Термопокрытие из бериллиевой бронзы
 iu.crafting_elements.crafting_709_element=Вольфрамовая гусеница
 iu.crafting_elements.crafting_710_element=Гидростабилизатор
 iu.crafting_elements.crafting_711_element=Дракониевый корпус
@@ -6775,7 +6775,7 @@ iu.crop.info13=Чтобы забрать мешочек с культурой, �
 iu.crop.info14=Некоторым культурам требуется освещение для роста.
 iu.crop.info15=Загрязнение воздуха, почвы или радиация негативно влияют на развитие культур.
 
-iu.wrench.info=Блок нужно скручить ключём
+iu.wrench.info=Можно демонтировать гаечным ключом
 
 iu.gas_find.info=Можно обнаружить с вероятностью 22.5% в любом биоме с помощью газового сенсора.
 iu.iodine_find.info=Можно обнаружить с вероятностью 11.25% в биомах «Река» и «Океан» с помощью газового сенсора.
@@ -7015,7 +7015,7 @@ iu.steam_fluid_heater=Использует входящий пар парово�
 
 iu.fluidchromium=Хром
 iu.fluidnichrome=Нихром
-iu.fluidduralumin=Дюралюмин
+iu.fluidduralumin=Дюралюминий
 iu.fluidsodiumhydroxide=Гидроксид натрия
 iu.fluidsodium_hypochlorite=Гипохлорит натрия
 iu.fluidtungsten=Вольфрам
@@ -7096,7 +7096,7 @@ iu.fluidxenon=Ксенон
 
 fluid.fluidchromium=Хром
 fluid.fluidnichrome=Нихром
-fluid.fluidduralumin=Дюралюмин
+fluid.fluidduralumin=Дюралюминий
 fluid.fluidsodiumhydroxide=Гидроксид натрия
 fluid.fluidsodium_hypochlorite=Гипохлорит натрия
 fluid.fluidtungsten=Вольфрам
@@ -7189,7 +7189,7 @@ iu.iuspace.europe_boulder=Глыба с Европы
 iu.iuspace.ganymede_boulder=Глыба с Ганимеда
 iu.iuspace.haumea_boulder=Глыба с Хаумеа
 iu.iuspace.io_boulder=Глыба с Ио
-iu.iuspace.makemake_boulder=Глыба с Макимаки
+iu.iuspace.makemake_boulder=Глыба с Макемаке
 iu.iuspace.mars_boulder=Глыба с Марса
 iu.iuspace.mercury_boulder=Глыба с Меркурия
 iu.iuspace.mimas_boulder=Глыба с Мимаса
@@ -7220,7 +7220,7 @@ iu.iuspace.europe_pebble=Камешек с Европы
 iu.iuspace.ganymede_pebble=Камешек с Ганимеда
 iu.iuspace.haumea_pebble=Камешек с Хаумеа
 iu.iuspace.io_pebble=Камешек с Ио
-iu.iuspace.makemake_pebble=Камешек с Макимаки
+iu.iuspace.makemake_pebble=Камешек с Макемаке
 iu.iuspace.mars_pebble=Камешек с Марса
 iu.iuspace.mercury_pebble=Камешек с Меркурия
 iu.iuspace.mimas_pebble=Камешек с Мимаса
@@ -7287,7 +7287,7 @@ iu.europe_stone.name=Камень Европы
 iu.ganymede_stone.name=Камень Ганимеда
 iu.haumea_stone.name=Камень Хаумеа
 iu.io_stone.name=Камень Ио
-iu.makemake_stone.name=Камень Макамека
+iu.makemake_stone.name=Камень Макемаке
 iu.mars_stone.name=Камень Марса
 iu.mercury_stone.name=Камень Меркурия
 iu.mimas_stone.name=Камень Мимаса
@@ -7317,7 +7317,7 @@ iu.europe_cobblestone.name=Булыжник Европы
 iu.ganymede_cobblestone.name=Булыжник Ганимеда
 iu.haumea_cobblestone.name=Булыжник Хаумеа
 iu.io_cobblestone.name=Булыжник Ио
-iu.makemake_cobblestone.name=Булыжник Макамека
+iu.makemake_cobblestone.name=Булыжник Макемаке
 iu.mars_cobblestone.name=Булыжник Марса
 iu.mercury_cobblestone.name=Булыжник Меркурия
 iu.mimas_cobblestone.name=Булыжник Мимаса
@@ -7356,8 +7356,8 @@ iu.rhea_vanadium_ore.name=Ванадиевая руда
 iu.tethys_gallium.name=Галлиевая руда
 iu.tethys_molybdenum_ore.name=Молибденовая руда
 iu.titan_nickel_ore.name=Никелевая руда
-iu.titan_titanium_ore.name=Титанова руда 
-iu.titania_polonium_ore.name=Полониевая руда 
+iu.titan_titanium_ore.name=Титановая руда
+iu.titania_polonium_ore.name=Полониевая руда
 iu.titania_yttrium.name=Иттриевая руда
 iu.triton_neodymium.name=Неодимовая руда
 iu.triton_strontium.name=Стронциевая руда
