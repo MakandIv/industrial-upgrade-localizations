@@ -7492,3 +7492,20 @@ iu.bee_negative=Bees hostile to this bee:
 
 iu.remove_genome=Remove genome
 iu.terra_wart.name=Terra Wart
+
+industrialupgrade.basemachine3.bio_generator=Electric Bio-Generator
+iu.tome_research=Space Research Tome
+iu.tome_research1=Use SHIFT + RMB to write data
+iu.tome_research2=Use RMB to examine data
+iu.pollution_device=Pollution Scanner
+message.pollution.air.very_low=Air pollution is very low.
+message.pollution.air.low=Air pollution is low.
+message.pollution.air.medium=Air pollution is medium.
+message.pollution.air.high=Air pollution is high.
+message.pollution.air.very_high=Air pollution is very high.
+
+message.pollution.soil.very_low=Soil pollution is very low.
+message.pollution.soil.low=Soil pollution is low.
+message.pollution.soil.medium=Soil pollution level is medium.
+message.pollution.soil.high=Soil pollution is high.
+message.pollution.soil.very_high=Soil pollution is very high.

@@ -7622,3 +7622,20 @@ iu.bee_negative=Пчёлы, враждебные к этой пчеле:
 
 iu.remove_genome=Удалить геном
 iu.terra_wart.name=Земляной нарост
+
+industrialupgrade.basemachine3.bio_generator=Электрически Био-генератор
+iu.tome_research=Том исследования космоса
+iu.tome_research1=Используйте ШИФТ + ПКМ, чтобы записать данные
+iu.tome_research2=Используйте ПКМ, чтобы изучить данные
+iu.pollution_device=Сканер загрязнения
+message.pollution.air.very_low=Загрязнение воздуха очень низкое.
+message.pollution.air.low=Загрязнение воздуха низкое.
+message.pollution.air.medium=Уровень загрязнения воздуха средний.
+message.pollution.air.high=Загрязнение воздуха высокое.
+message.pollution.air.very_high=Загрязнение воздуха очень высокое.
+
+message.pollution.soil.very_low=Загрязнение почвы очень низкое.
+message.pollution.soil.low=Загрязнение почвы низкое.
+message.pollution.soil.medium=Уровень загрязнения почвы средний.
+message.pollution.soil.high=Загрязнение почвы высокое.
+message.pollution.soil.very_high=Загрязнение почвы очень высокое.
