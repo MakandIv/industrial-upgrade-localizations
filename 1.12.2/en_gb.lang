@@ -618,11 +618,11 @@ iu.fly=§3Flight activated:
 iu.fly1=Press Mode Switch Key + Boost Key to enable flight
 iu.effect=Fire resistance enabled:
 storagemodul=Only in energy storage
-storagemodul1=Press SHIFT + Right Click on the storage
+storagemodul1=Press Shift + Right Click on the storage
 press.lshift=Hold Left Shift for details
 iu.changemode=To switch the mode, press Mode Switch Key + Right Click
 iu.changemodebattery=Right Click to switch the mode
-iu.purifiermode=Press SHIFT + Right Click on the panel to clear the panel
+iu.purifiermode=Press Shift + Right Click on the panel to clear the panel
 iu.saberon=Right Click to activate the saber
 
 industrialupgrade.tank_iu.tank_iu=Liquid Tank
@@ -697,7 +697,7 @@ gui.movementcharge=Instant Armor Charge EF
 gui.movementchargeitem=Instant Item Charging EF
 gui.movementchargerf=Instant Armor Charge RF
 gui.movementchargeitemrf=Instant Item Charging RF
-gui.movement=Hold <SHIFT> and Right Click on the block
+gui.movement=Use Shift + Right Click on the block
 
 modulechange=Allows the panel to charge items
 modulerfinfo=Allows the generation of RF energy
@@ -2176,7 +2176,7 @@ iu.electricstorageinformation3=If the "RF" module is installed, you can charge i
 iu.electricstorageinformation4=You can use the modules in the slots on the left.
 iu.electricstorageinformation5=To associate the storage with a wireless module, insert it into the module slot.
 iu.electricstorageinformation6=If communication is successful, insert the module in the solar panel.
-iu.electricstorageinformation7=Instant wireless charging only works with SHIFT + Right Click on storage.
+iu.electricstorageinformation7=Instant wireless charging only works with Shift + Right Click on storage.
 
 button.deny=Off
 button.allow=On
@@ -6631,7 +6631,7 @@ iu.crop.info9=Some crops only grow during the day or night.
 iu.crop.info10=To plant a crop, place a post on the soil.
 iu.crop.info11=Then right-click the post with a crop bag.
 iu.crop.info12=Weeds can be removed with a hoe.
-iu.crop.info13=To collect the crop bag, hold Shift and right-click it.
+iu.crop.info13=To collect the crop bag, hold Shift and Right Click it.
 iu.crop.info14=Some crops need light to grow.
 iu.crop.info15=Air pollution, soil contamination, or radiation negatively affect crop growth.
 
@@ -7492,3 +7492,20 @@ iu.bee_negative=Bees hostile to this bee:
 
 iu.remove_genome=Remove genome
 iu.terra_wart.name=Terra Wart
+
+industrialupgrade.basemachine3.bio_generator=Electric Bio-Generator
+iu.tome_research=Space Research Tome
+iu.tome_research1=Use Shift + Right Click to write data
+iu.tome_research2=Use Right Click to examine data
+iu.pollution_device=Pollution Scanner
+message.pollution.air.very_low=Air pollution is very low.
+message.pollution.air.low=Air pollution is low.
+message.pollution.air.medium=Air pollution is medium.
+message.pollution.air.high=Air pollution is high.
+message.pollution.air.very_high=Air pollution is very high.
+
+message.pollution.soil.very_low=Soil pollution is very low.
+message.pollution.soil.low=Soil pollution is low.
+message.pollution.soil.medium=Soil pollution level is medium.
+message.pollution.soil.high=Soil pollution is high.
+message.pollution.soil.very_high=Soil pollution is very high.

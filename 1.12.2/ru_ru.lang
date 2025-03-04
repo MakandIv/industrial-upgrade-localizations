@@ -618,11 +618,11 @@ iu.fly=§3Включён полёт:
 iu.fly1=Нажмите Mode Switch Key + Boost Key, чтобы включить полёт
 iu.effect=Включена огнестойкость:
 storagemodul=Работает только в хранилищах энергии
-storagemodul1=По хранилищу нажать SHIFT + ПКМ
+storagemodul1=По хранилищу нажать Shift + ПКМ
 press.lshift=Зажмите левый Shift для подробной информации
 iu.changemode=Для переключения режима, нажмите Mode Switch Key + ПКМ
 iu.changemodebattery=Для переключения режима нажмите ПКМ
-iu.purifiermode=Нажмите SHIFT + ПКМ по панели, чтобы очистить панель
+iu.purifiermode=Нажмите Shift + ПКМ по панели, чтобы очистить панель
 iu.saberon=Нажмите ПКМ, чтобы активировать саблю
 
 industrialupgrade.tank_iu.tank_iu=Жидкостный бак
@@ -697,7 +697,7 @@ gui.movementcharge=Мгновенная зарядка брони EF
 gui.movementchargeitem=Мгновенная зарядка предметов EF
 gui.movementchargerf=Мгновенная зарядка брони RF
 gui.movementchargeitemrf=Мгновенная зарядка предметов RF
-gui.movement=Зажмите <SHIFT> и ПКМ по блоку
+gui.movement=Используйте Shift + ПКМ по блоку
 
 modulechange=Позволяет панели заряжать предметы
 modulerfinfo=Позволяет вырабатывать RF-энергию
@@ -2211,7 +2211,7 @@ iu.electricstorageinformation3=Если установлен модуль "RF", 
 iu.electricstorageinformation4=Использовать модули можно в слотах в левой части.
 iu.electricstorageinformation5=Чтобы связать хранилище с беспроводным модулем, вставьте его в слот для модулей.
 iu.electricstorageinformation6=При успешной связи, поместите модуль в солнечную панель.
-iu.electricstorageinformation7=Мгновенная беспроводная зарядка работает только при SHIFT + ПКМ по хранилищу.
+iu.electricstorageinformation7=Мгновенная беспроводная зарядка работает только при Shift + ПКМ по хранилищу.
 
 button.deny=Выключить
 button.allow=Включить
@@ -7623,9 +7623,9 @@ iu.bee_negative=Пчёлы, враждебные к этой пчеле:
 iu.remove_genome=Удалить геном
 iu.terra_wart.name=Земляной нарост
 
-industrialupgrade.basemachine3.bio_generator=Электрически Био-генератор
+industrialupgrade.basemachine3.bio_generator=Электрический био-генератор
 iu.tome_research=Том исследования космоса
-iu.tome_research1=Используйте ШИФТ + ПКМ, чтобы записать данные
+iu.tome_research1=Используйте Shift + ПКМ, чтобы записать данные
 iu.tome_research2=Используйте ПКМ, чтобы изучить данные
 iu.pollution_device=Сканер загрязнения
 message.pollution.air.very_low=Загрязнение воздуха очень низкое.
