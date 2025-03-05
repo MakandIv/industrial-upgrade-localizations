@@ -7509,3 +7509,5 @@ message.pollution.soil.low=Soil pollution is low.
 message.pollution.soil.medium=Soil pollution level is medium.
 message.pollution.soil.high=Soil pollution is high.
 message.pollution.soil.very_high=Soil pollution is very high.
+
+industrialupgrade.basemachine3.gen_bio=Biogenerator

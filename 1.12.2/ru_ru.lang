@@ -7639,3 +7639,5 @@ message.pollution.soil.low=Загрязнение почвы низкое.
 message.pollution.soil.medium=Уровень загрязнения почвы средний.
 message.pollution.soil.high=Загрязнение почвы высокое.
 message.pollution.soil.very_high=Загрязнение почвы очень высокое.
+
+industrialupgrade.basemachine3.gen_bio=Биогенератор
