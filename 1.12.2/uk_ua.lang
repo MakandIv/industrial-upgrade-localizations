@@ -6257,8 +6257,8 @@ iu.research_lens.lens_7=Дослідна лінза VII
 iu.adv_probe=Покращений зонд
 iu.imp_probe=Просунений зонд
 iu.per_probe=Довершений зонд
-iu.imp_rocket=Покращена ракета
-iu.adv_rocket=Просунута ракета
+iu.imp_rocket=Просунута ракета
+iu.adv_rocket=Покращена ракета
 iu.per_satellite=Довершений супутник
 iu.adv_satellite=Покращений супутник
 iu.imp_satellite=Просунутий супутник
@@ -7505,3 +7505,6 @@ iu.bee_negative=Бджоли, ворожі до цієї бджоли:
 
 iu.remove_genome=Видалити геном
 iu.terra_wart.name=Земляний наріст
+
+
+iu.acable=Амперний кабель

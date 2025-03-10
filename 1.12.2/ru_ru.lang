@@ -6353,8 +6353,8 @@ iu.research_lens.lens_7=Исследовательская линза VII
 iu.adv_probe=Улучшенный зонд
 iu.imp_probe=Продвинутый зонд
 iu.per_probe=Совершенный зонд
-iu.imp_rocket=Улучшенная ракета
-iu.adv_rocket=Продвинутая ракета
+iu.imp_rocket=Продвинутая ракета
+iu.adv_rocket=Улучшенная ракета
 iu.per_satellite=Совершенный спутник
 iu.adv_satellite=Улучшенный спутник
 iu.imp_satellite=Продвинутый спутник
@@ -7641,3 +7641,5 @@ message.pollution.soil.high=Загрязнение почвы высокое.
 message.pollution.soil.very_high=Загрязнение почвы очень высокое.
 
 industrialupgrade.basemachine3.gen_bio=Биогенератор
+
+iu.acable=Амперный провод
