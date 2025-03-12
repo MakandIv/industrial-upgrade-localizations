@@ -7643,3 +7643,19 @@ message.pollution.soil.very_high=Загрязнение почвы очень в
 industrialupgrade.basemachine3.gen_bio=Биогенератор
 
 iu.acable=Амперный провод
+
+iu.fluidsteam_oil=Паровая смазка
+fluid.fluidsteam_oil=Паровая смазка
+item.ruby_pickaxe.name=Рубиновая кирка
+item.sapphire_pickaxe.name=Сапфировая кирка
+item.topaz_pickaxe.name=Топазовая кирка
+item.ruby_axe.name=Рубиновый топор
+item.sapphire_axe.name=Сапфировый топор
+item.topaz_axe.name=Топазовый топор
+item.ruby_shovel.name=Рубиновая лопата
+item.sapphire_shovel.name=Сапфировая лопата
+item.topaz_shovel.name=Топазовая лопата
+iu.iron_hammer=Железный молот
+industrialupgrade.basemachine3.ampere_storage=Хранилище тока
+iu.coal_concentration=Концентрация угольной пыли:
+

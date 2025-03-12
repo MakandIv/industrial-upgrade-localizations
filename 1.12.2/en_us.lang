@@ -7513,3 +7513,15 @@ message.pollution.soil.very_high=Soil pollution is very high.
 industrialupgrade.basemachine3.gen_bio=Biogenerator
 
 iu.acable=Ampere cable
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.topaz_pickaxe.name=Topaz Pickaxe
+item.ruby_axe.name=Ruby Axe
+item.sapphire_axe.name=Sapphire Axe
+item.topaz_axe.name=Topaz Axe
+item.ruby_shovel.name=Ruby Shovel
+item.sapphire_shovel.name=Sapphire Shovel
+item.topaz_shovel.name=Topaz Shovel
+iu.iron_hammer=Iron Hammer
+industrialupgrade.basemachine3.ampere_storage=Ampere Storage
+iu.coal_concentration=Coal dust concentration:
