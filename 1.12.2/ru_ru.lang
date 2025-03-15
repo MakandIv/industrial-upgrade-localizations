@@ -7561,7 +7561,7 @@ iu.collector_product_bee.info=Охватывает область радиусо
 
 iu.start_space.info=Используется для исследования космоса — стол космических исследований.
 
-iu.speed_canister.info=Используйте канистру с моторным маслом, чтобы уменьшить нагрев и ускорить механизм на 15 секунд
+iu.speed_canister.info=Используйте канистру с моторным маслом, чтобы уменьшить нагрев и ускорить механизм на 35 секунд
 iu.radioprotector.info=Используйте радиопротектор, чтобы устранить накопившуюся радиацию.
 
 
@@ -7658,4 +7658,12 @@ item.topaz_shovel.name=Топазовая лопата
 iu.iron_hammer=Железный молот
 industrialupgrade.basemachine3.ampere_storage=Хранилище тока
 iu.coal_concentration=Концентрация угольной пыли:
+iu.space_colony_problem=Проблемы:
 
+iu.speed_canister.info1=Используйте канистру с паровой смазкой, чтобы уменьшить нагрев и ускорить механизм на 40 секунд
+
+iu.sweet_oil=Сладкая
+iu.sour_oil=Кислая
+iu.light_oil=Лёгкая
+iu.medium_oil=Средняя
+iu.heavy_oil=Тяжёлая

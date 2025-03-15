@@ -7431,7 +7431,7 @@ iu.collector_product_bee.info=Covers an area with a radius of 8 blocks, collects
 
 
 iu.start_space.info=Used for space exploration — space research table.
-iu.speed_canister.info=Use the canister with motor oil to reduce heat and speed up the machine for 15 seconds
+iu.speed_canister.info=Use the canister with motor oil to reduce heat and speed up the machine for 35 seconds
 iu.radioprotector.info=Use the radioprotector to remove accumulated radiation
 
 
@@ -7525,3 +7525,12 @@ item.topaz_shovel.name=Topaz Shovel
 iu.iron_hammer=Iron Hammer
 industrialupgrade.basemachine3.ampere_storage=Ampere Storage
 iu.coal_concentration=Coal dust concentration:
+iu.space_colony_problem=Problems:
+
+iu.speed_canister.info1=Use the canister with steam oil to reduce heating and speed up the mechanism for 40 seconds.
+
+iu.sweet_oil=Sweet
+iu.sour_oil=Sour
+iu.light_oil=Light
+iu.medium_oil=Medium
+iu.heavy_oil=Heavy
