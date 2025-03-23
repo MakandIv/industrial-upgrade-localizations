@@ -6295,7 +6295,7 @@ iu.crafting_elements.crafting_768_element=Photon Camera
 iu.rocket=Rocket
 iu.rover=Rover
 iu.satellite=Satellite
-iu.probe=Rover
+iu.probe=Probe
 
 iu.research_lens.lens_1=Research Lens I
 iu.research_lens.lens_2=Research Lens II
