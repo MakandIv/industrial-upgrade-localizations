@@ -3646,7 +3646,7 @@ iu.vein_info=Vein:
 iu.oil_vein=Oil
 iu.quarry_energy=Increases the consumption of the quarry by 
 iu.quarry_energy1=Decreases the consumption of the quarry by 
-iu.sensor.sensor=Sensor
+iu.sensor.sensor=Ore scanner
 iu.sensor.info=Saves information about the vein, Right-click on the drilling rig
 iu.limiter.info=Information about the Energy Limiter
 iu.limiter.info1=Sensor: Transformer (any) must be installed in the slot 
@@ -7534,3 +7534,7 @@ iu.sour_oil=Sour
 iu.light_oil=Light
 iu.medium_oil=Medium
 iu.heavy_oil=Heavy
+
+deposists_molot.jei=Mining ores with a hammer
+deposists.jei2=Use a hammer with ferromanganese to mine this ore. You only need to break the stones above the vein. The chance of getting ore is the same as in a mineral separator. can be mined in a vein:
+industrialupgrade.basemachine3.steam_generator=Electric Steam Generator
